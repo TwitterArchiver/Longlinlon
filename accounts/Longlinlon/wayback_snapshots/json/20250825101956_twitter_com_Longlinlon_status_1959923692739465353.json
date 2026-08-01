@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1959891063147208704"
+      ],
+      "media_source_tweet_id": [
+        "1959891122441933241"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1959923692739465353",
+    "created_at": "2025-08-25T10:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T11:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959923692739465353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731113472157532160",
+          "start": 3,
+          "username": "wnnw486486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1knmwavrN",
+          "end": 52,
+          "expanded_url": "https://x.com/wnnw486486/status/1959891122441933241/video/1",
+          "media_key": "7_1959891063147208704",
+          "start": 29,
+          "url": "https://t.co/u1knmwavrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959923692739465353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959891122441933241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wnnw486486: 艾特不了所有人是我的遗憾 https://t.co/u1knmwavrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28333,
+        "height": 1280,
+        "media_key": "7_1959891063147208704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1959891063147208704/pu/img/BfXOcs4x69wDhtR5.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959891063147208704/pu/vid/avc1/320x568/z-r7PeASn1FFm8Tx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959891063147208704/pu/vid/avc1/480x852/khyTDsFfnCHP2YyB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1959891063147208704/pu/vid/avc1/720x1280/UWrGtJa3-q54r9YK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1959891063147208704/pu/pl/v5JclKHJKdAxI56t.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959891063147208704"
+          ],
+          "media_source_tweet_id": [
+            "1959891122441933241"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959923692739465353",
+        "created_at": "2025-08-25T10:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959923692739465353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731113472157532160",
+              "start": 3,
+              "username": "wnnw486486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1knmwavrN",
+              "end": 52,
+              "expanded_url": "https://x.com/wnnw486486/status/1959891122441933241/video/1",
+              "media_key": "7_1959891063147208704",
+              "start": 29,
+              "url": "https://t.co/u1knmwavrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959923692739465353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959891122441933241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wnnw486486: 艾特不了所有人是我的遗憾 https://t.co/u1knmwavrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1959891063147208704"
+          ]
+        },
+        "author_id": "1731113472157532160",
+        "conversation_id": "1959891122441933241",
+        "created_at": "2025-08-25T08:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959891122441933241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1knmwavrN",
+              "end": 36,
+              "expanded_url": "https://x.com/wnnw486486/status/1959891122441933241/video/1",
+              "media_key": "7_1959891063147208704",
+              "start": 13,
+              "url": "https://t.co/u1knmwavrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959891122441933241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "艾特不了所有人是我的遗憾 https://t.co/u1knmwavrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2506,
+          "like_count": 215064,
+          "listed_count": 8,
+          "media_count": 1287,
+          "tweet_count": 14230
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T00:50:07.000Z",
+        "description": "🚪52，120，178，288 增加线下可能，霜🐔，求别再有智障找我，也有爸爸活的，请爰我\n求过🚪💰💰💰，\n，，《求私》，， ，《胜哥系列完事》欢迎投搞各种事情，梦想520，1314，5.2Q，8888  鉴牛20，想谈恋爱\n，，，，可以帮妹子们看看手相什么的\n，，，，等 2222fo",
+        "id": "1731113472157532160",
+        "location": "吉林省长春市",
+        "name": "不懂发抽象的小春",
+        "pinned_tweet_id": "1948593227025842656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958031050581671936/ITAKHO0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 126,
+          "like_count": 3083,
+          "listed_count": 2,
+          "media_count": 1967,
+          "tweet_count": 5130
+        },
+        "username": "wnnw486486",
+        "verified": false
+      }
+    ]
+  }
+}

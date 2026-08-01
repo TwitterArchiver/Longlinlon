@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2040583604699615310",
+    "created_at": "2026-04-05T00:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040583604699615310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831127108791529473",
+          "start": 3,
+          "username": "Meuuuu_kk"
+        },
+        {
+          "end": 27,
+          "id": "1978032792383709184",
+          "start": 15,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040583604699615310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040469289702924445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meuuuu_kk: @Sabrina8964 是支持那艺娜的姐妹吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2040583604699615310",
+        "created_at": "2026-04-05T00:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040583604699615310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831127108791529473",
+              "start": 3,
+              "username": "Meuuuu_kk"
+            },
+            {
+              "end": 27,
+              "id": "1978032792383709184",
+              "start": 15,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040583604699615310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040469289702924445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meuuuu_kk: @Sabrina8964 是支持那艺娜的姐妹吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "2040457934262661546",
+        "created_at": "2026-04-04T16:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040469289702924445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040469289702924445",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040457934262661546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 是支持那艺娜的姐妹吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2552,
+          "like_count": 207477,
+          "listed_count": 8,
+          "media_count": 1385,
+          "tweet_count": 14785
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "Gay,上网对直男直女没有兴趣",
+        "id": "1831127108791529473",
+        "name": "💫",
+        "pinned_tweet_id": "2020922857547784315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035466489759952896/dWdg4yDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 200,
+          "like_count": 10905,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 5336
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "欧美迪哥百家黑，纯良舒肤佳雷妈妈梦男｜東雲繪名转世灵童｜全推特土逼女大男大认证亲爹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neworder55249",
+                "end": 23,
+                "expanded_url": "https://ngl.link/neworder55249",
+                "start": 0,
+                "url": "https://t.co/lr5yq0C3Yf"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "California, USA",
+        "name": "霉娇娇推特反黑站",
+        "pinned_tweet_id": "2040397447449760065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040455934234050560/JBkW0an5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 221,
+          "like_count": 9473,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/lr5yq0C3Yf",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2020034192248303810",
+    "created_at": "2026-02-07T07:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020037578184073725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1863087380615569408",
+          "start": 0,
+          "username": "kiri_nokara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020037578184073725",
+    "in_reply_to_user_id": "1863087380615569408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020036697308704873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiri_nokara 两个人格打架中。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2020034192248303810",
+        "created_at": "2026-02-07T07:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020037578184073725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1863087380615569408",
+              "start": 0,
+              "username": "kiri_nokara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020037578184073725",
+        "in_reply_to_user_id": "1863087380615569408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020036697308704873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiri_nokara 两个人格打架中。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863087380615569408",
+        "conversation_id": "2020034192248303810",
+        "created_at": "2026-02-07T07:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020036697308704873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020036697308704873",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020034192248303810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 这人前段时间不还劝人退坑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 2545,
+          "like_count": 209722,
+          "listed_count": 9,
+          "media_count": 1378,
+          "tweet_count": 14713
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T05:08:07.000Z",
+        "description": "从来就没有过太阳，所以不怕失去",
+        "id": "1863087380615569408",
+        "location": "距离你6.4km",
+        "name": "ヒッチコック",
+        "pinned_tweet_id": "2012006741349900608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003572620298682368/GllmncV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 522,
+          "like_count": 18384,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1450
+        },
+        "username": "kiri_nokara",
+        "verified": false
+      }
+    ]
+  }
+}

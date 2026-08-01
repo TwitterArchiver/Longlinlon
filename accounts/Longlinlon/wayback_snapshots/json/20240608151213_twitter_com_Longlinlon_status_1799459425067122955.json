@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799459425067122955",
+    "created_at": "2024-06-08T15:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T16:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799459425067122955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738854438926733312",
+          "start": 3,
+          "username": "Chinaxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799459425067122955",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799379162597404840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chinaxiduo: 白菜哥和删掉哥\n两个截然不同的命运\n虽然是同一个学校\n但不是同一个层次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799459425067122955",
+        "created_at": "2024-06-08T15:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T16:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799459425067122955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738854438926733312",
+              "start": 3,
+              "username": "Chinaxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799459425067122955",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799379162597404840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chinaxiduo: 白菜哥和删掉哥\n两个截然不同的命运\n虽然是同一个学校\n但不是同一个层次"
+      },
+      {
+        "attachments": {},
+        "author_id": "1738854438926733312",
+        "conversation_id": "1799379162597404840",
+        "created_at": "2024-06-08T09:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799379162597404840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1799019618272707016",
+              "start": 36,
+              "url": "https://t.co/UOV2e2uZHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799379162597404840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799019618272707016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白菜哥和删掉哥\n两个截然不同的命运\n虽然是同一个学校\n但不是同一个层次 https://t.co/UOV2e2uZHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1991,
+          "like_count": 138478,
+          "listed_count": 9,
+          "tweet_count": 9951
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T09:29:56.000Z",
+        "description": "光",
+        "id": "1738854438926733312",
+        "location": "Hong Kong",
+        "name": "蓝泽光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780108050747342848/C2LtI720_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 801,
+          "like_count": 45920,
+          "listed_count": 4,
+          "tweet_count": 6805
+        },
+        "username": "Chinaxiduo",
+        "verified": false
+      }
+    ]
+  }
+}

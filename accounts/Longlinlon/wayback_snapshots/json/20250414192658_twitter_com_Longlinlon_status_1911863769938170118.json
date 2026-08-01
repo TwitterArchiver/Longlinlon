@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1911863769938170118",
+    "created_at": "2025-04-14T19:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T20:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911863769938170118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560671619218960384",
+          "start": 3,
+          "username": "silsrc"
+        },
+        {
+          "end": 24,
+          "id": "1058759275122692096",
+          "start": 12,
+          "username": "solider1394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911863769938170118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911695375964184757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @silsrc: @solider1394 说到醉酒，我印象中一次就是八年前大学毕业聚会，我不想喝但是被同学灌了不少，开始醉了。\n然后我就开始疯狂地… 拿出随身带的键盘开始写代码😳，然后觉得键盘太小写着不爽冲回家接着写，写着写着睡着了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1911863769938170118",
+        "created_at": "2025-04-14T19:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T20:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911863769938170118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560671619218960384",
+              "start": 3,
+              "username": "silsrc"
+            },
+            {
+              "end": 24,
+              "id": "1058759275122692096",
+              "start": 12,
+              "username": "solider1394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911863769938170118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911695375964184757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @silsrc: @solider1394 说到醉酒，我印象中一次就是八年前大学毕业聚会，我不想喝但是被同学灌了不少，开始醉了。\n然后我就开始疯狂地… 拿出随身带的键盘开始写代码😳，然后觉得键盘太小写着不爽冲回家接着写，写着写着睡着了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560671619218960384",
+        "conversation_id": "1911652340844970365",
+        "created_at": "2025-04-14T08:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T09:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911695375964184757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1058759275122692096",
+              "start": 0,
+              "username": "solider1394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911695375964184757",
+        "in_reply_to_user_id": "1058759275122692096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6689,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911689587635962274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@solider1394 说到醉酒，我印象中一次就是八年前大学毕业聚会，我不想喝但是被同学灌了不少，开始醉了。\n然后我就开始疯狂地… 拿出随身带的键盘开始写代码😳，然后觉得键盘太小写着不爽冲回家接着写，写着写着睡着了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 2370,
+          "like_count": 201889,
+          "listed_count": 8,
+          "media_count": 1176,
+          "tweet_count": 13457
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源趣味，Fullstack（？），现代魔法老登，Linux Kernel & Sys。\n\n一切如烟花般转瞬即逝，必须要更努力才行。\n\n时间啊，走得再慢一些吧。\n我呀，走得再快一些吧。",
+        "id": "1560671619218960384",
+        "location": "Beijing",
+        "name": "sc.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7286,
+          "following_count": 481,
+          "like_count": 18059,
+          "listed_count": 37,
+          "media_count": 150,
+          "tweet_count": 2544
+        },
+        "username": "silsrc",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T16:34:16.000Z",
+        "description": "",
+        "id": "1058759275122692096",
+        "name": "solider1394",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 272,
+          "like_count": 206,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 788
+        },
+        "username": "solider1394",
+        "verified": false
+      }
+    ]
+  }
+}

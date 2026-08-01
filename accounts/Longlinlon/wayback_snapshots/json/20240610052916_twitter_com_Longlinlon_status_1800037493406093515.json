@@ -1,0 +1,236 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1800037493406093515",
+    "created_at": "2024-06-10T05:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T06:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800037493406093515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "943439286287851520",
+          "start": 3,
+          "username": "KagurazakaSenba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/WKWKCJP/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/WKWKCJP/status/1799847551899984241",
+          "start": 20,
+          "url": "https://t.co/SkzTX2hWoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800037493406093515",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799847551899984241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羽羽 @KagurazakaSenba https://t.co/SkzTX2hWoG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1800037493406093515",
+        "created_at": "2024-06-10T05:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T06:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800037493406093515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "943439286287851520",
+              "start": 3,
+              "username": "KagurazakaSenba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/WKWKCJP/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/WKWKCJP/status/1799847551899984241",
+              "start": 20,
+              "url": "https://t.co/SkzTX2hWoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800037493406093515",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799847551899984241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羽羽 @KagurazakaSenba https://t.co/SkzTX2hWoG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799847549597282304"
+          ]
+        },
+        "author_id": "1556272599680057345",
+        "conversation_id": "1799847551899984241",
+        "created_at": "2024-06-09T16:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T17:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799847551899984241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/EeK4mbDsi6",
+              "end": 26,
+              "expanded_url": "https://twitter.com/WKWKCJP/status/1799847551899984241/photo/1",
+              "media_key": "3_1799847549597282304",
+              "start": 3,
+              "url": "https://t.co/EeK4mbDsi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799847551899984241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3970,
+          "like_count": 86,
+          "quote_count": 13,
+          "reply_count": 140,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "音游 https://t.co/EeK4mbDsi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1988,
+          "like_count": 139116,
+          "listed_count": 9,
+          "tweet_count": 9975
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "♥️@Longlinlon♥️•将爱传达给各位•男的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Longlinlon"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "name": "💮Senba🌸🍀",
+        "pinned_tweet_id": "1785411859220431099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785425479622967296/BwmA3PV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 4422,
+          "like_count": 58205,
+          "listed_count": 10,
+          "tweet_count": 18912
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T13:34:44.000Z",
+        "description": "高二生兼美术生兼日语生\n必会回fo\n音游玩家  舞萌DX14600（退坑） Arcaea(退坑) Phigros16.00(半退坑）丨galgame(主要玩玩恋爱向，偶尔玩r18(g？丨音乐喜欢凯尔特类型，术力口(主要听匹和mimi)丨无职转生死忠粉 有时会转推涩图喵",
+        "id": "1556272599680057345",
+        "location": "理塘",
+        "name": "WK_O",
+        "pinned_tweet_id": "1700510530245632241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793913180089167872/QtsX33_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 404,
+          "like_count": 2016,
+          "listed_count": 0,
+          "tweet_count": 1178
+        },
+        "username": "WKWKCJP",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792896558977187868",
+    "created_at": "2024-05-21T12:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T13:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792896558977187868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/irohahakokoday…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/irohahakokodayo/status/1792893162744131650",
+          "start": 4,
+          "url": "https://t.co/dKjcpMuH1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792896558977187868",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792893162744131650",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "螺蛳粉 https://t.co/dKjcpMuH1q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792896558977187868",
+        "created_at": "2024-05-21T12:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T13:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792896558977187868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/irohahakokoday…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/irohahakokodayo/status/1792893162744131650",
+              "start": 4,
+              "url": "https://t.co/dKjcpMuH1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792896558977187868",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792893162744131650",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "螺蛳粉 https://t.co/dKjcpMuH1q"
+      },
+      {
+        "attachments": {},
+        "author_id": "1780547007087542272",
+        "conversation_id": "1792893162744131650",
+        "created_at": "2024-05-21T12:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T13:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792893162744131650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792893162744131650",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么比较独特的中国料理？\n\n比如臭豆腐？之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 1964,
+          "like_count": 130729,
+          "listed_count": 10,
+          "tweet_count": 9480
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T10:41:19.000Z",
+        "description": "沪皇 @irohakawaiinee @domaumarudesu\nhttps://t.co/vTo3adHOwh\n密友@remilia_servant\n总理大臣@kita_ikuyo7\n外务大臣@bocchi8964\n大藏大臣@hoshikawa8964\n防卫大臣@bydmianshao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "irohakawaiinee"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "domaumarudesu"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "remilia_servant"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "kita_ikuyo7"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "bocchi8964"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "hoshikawa8964"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "bydmianshao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.com/invite/Qk4GVdr…",
+                "end": 57,
+                "expanded_url": "https://discord.com/invite/Qk4GVdrZ2P",
+                "start": 34,
+                "url": "https://t.co/vTo3adHOwh"
+              }
+            ]
+          }
+        },
+        "id": "1780547007087542272",
+        "name": "星川いろは⛩️五代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791825911765221376/nWLAZc_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 125,
+          "like_count": 138,
+          "listed_count": 2,
+          "tweet_count": 237
+        },
+        "username": "irohahakokodayo",
+        "verified": false
+      }
+    ]
+  }
+}

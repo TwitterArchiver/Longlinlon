@@ -1,0 +1,169 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1809038322112868451",
+    "created_at": "2024-07-05T04:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T05:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809084742157136029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644453758183538689",
+          "start": 0,
+          "username": "KoNya14056"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809084742157136029",
+    "in_reply_to_user_id": "1644453758183538689",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809038322112868451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoNya14056 天哪..."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1809038322112868451].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1809038322112868451",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1809038322112868451"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1809038322112868451",
+        "created_at": "2024-07-05T04:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T05:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809084742157136029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644453758183538689",
+              "start": 0,
+              "username": "KoNya14056"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809084742157136029",
+        "in_reply_to_user_id": "1644453758183538689",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809038322112868451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoNya14056 天哪..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 2056,
+          "like_count": 152145,
+          "listed_count": 10,
+          "tweet_count": 10419
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T21:35:18.000Z",
+        "description": "一般通过同人女｜喜欢画逆天东西不代表立场｜不定期键政｜典中典左逼但欢迎一切卢关主义践行者｜#将卢关大革命进行到底 ｜ 养了猪咪欢迎大家来辱骂他😋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "将卢关大革命进行到底"
+              }
+            ]
+          }
+        },
+        "id": "1644453758183538689",
+        "name": "辛法的大橘瓣",
+        "pinned_tweet_id": "1772563774106693635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791760484506697728/mtFK09ek_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 683,
+          "like_count": 32997,
+          "listed_count": 3,
+          "tweet_count": 7390
+        },
+        "username": "KoNya14056",
+        "verified": false
+      }
+    ]
+  }
+}

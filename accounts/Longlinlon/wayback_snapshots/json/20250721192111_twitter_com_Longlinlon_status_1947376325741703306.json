@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1947249419465760841",
+    "created_at": "2025-07-21T19:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T20:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947376325741703306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817118173755510784",
+          "start": 0,
+          "username": "moekurt999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947376325741703306",
+    "in_reply_to_user_id": "1817118173755510784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947328795582562598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moekurt999 妈呀最讨厌不粘锅了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1947249419465760841",
+        "created_at": "2025-07-21T19:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T20:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947376325741703306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817118173755510784",
+              "start": 0,
+              "username": "moekurt999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947376325741703306",
+        "in_reply_to_user_id": "1817118173755510784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947328795582562598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moekurt999 妈呀最讨厌不粘锅了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817118173755510784",
+        "conversation_id": "1947249419465760841",
+        "created_at": "2025-07-21T16:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947328795582562598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947328795582562598",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947305359351136539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 真的是究极不粘锅...咒术一局交不出来一只猴，先知一局不给一只鸟然后套鸟当门皇，小说家满书出门，都想死命刷那修机分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2480,
+          "like_count": 212988,
+          "listed_count": 0,
+          "media_count": 1252,
+          "tweet_count": 14034
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:42:00.000Z",
+        "description": "♥️📕，除了冒险家是萌妹别的都随便。非常杂食。愿天堂没有毛豆",
+        "id": "1817118173755510784",
+        "name": "我们大胡子少女怎么你了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839803237777715204/b4IYpCdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 205,
+          "like_count": 13698,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 6626
+        },
+        "username": "moekurt999",
+        "verified": false
+      }
+    ]
+  }
+}

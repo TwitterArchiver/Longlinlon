@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799846661306621997",
+    "created_at": "2024-06-10T04:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T05:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800026405352386867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1207132508040523776",
+          "start": 0,
+          "username": "yuashwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800026405352386867",
+    "in_reply_to_user_id": "1207132508040523776",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799846661306621997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuashwe 支"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799846661306621997",
+        "created_at": "2024-06-10T04:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T05:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800026405352386867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1207132508040523776",
+              "start": 0,
+              "username": "yuashwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800026405352386867",
+        "in_reply_to_user_id": "1207132508040523776",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799846661306621997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuashwe 支"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1799846617774010368"
+          ]
+        },
+        "author_id": "1207132508040523776",
+        "conversation_id": "1799846661306621997",
+        "created_at": "2024-06-09T16:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T17:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799846661306621997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZKjLEPINfy",
+              "end": 95,
+              "expanded_url": "https://twitter.com/yuashwe/status/1799846661306621997/video/1",
+              "media_key": "7_1799846617774010368",
+              "start": 72,
+              "url": "https://t.co/ZKjLEPINfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799846661306621997",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 339119,
+          "like_count": 755,
+          "quote_count": 22,
+          "reply_count": 289,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "孩子玩儿的挺高兴，家长真没必要这么大动干戈。\n事后，商场出面解释，人偶有视觉盲区，不是故意的。而且商场也事先提醒了：不要靠的太近，不要踢打人偶 https://t.co/ZKjLEPINfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1988,
+          "like_count": 139062,
+          "listed_count": 9,
+          "tweet_count": 9973
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-18T02:56:40.000Z",
+        "description": "嘻嘻哈哈过一天😹😹",
+        "id": "1207132508040523776",
+        "location": "Macau",
+        "name": "老多",
+        "pinned_tweet_id": "1794718027176611987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548061646043590658/9ErxBsRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67395,
+          "following_count": 341,
+          "like_count": 406905,
+          "listed_count": 218,
+          "tweet_count": 41578
+        },
+        "username": "yuashwe",
+        "verified": true
+      }
+    ]
+  }
+}

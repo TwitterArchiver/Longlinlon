@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2017139805721940428",
+    "created_at": "2026-01-30T21:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T22:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017348007168200852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824078289020895232",
+          "start": 0,
+          "username": "tamako345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017348007168200852",
+    "in_reply_to_user_id": "1824078289020895232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017140884903788943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako345 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2017139805721940428",
+        "created_at": "2026-01-30T21:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T22:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017348007168200852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824078289020895232",
+              "start": 0,
+              "username": "tamako345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017348007168200852",
+        "in_reply_to_user_id": "1824078289020895232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017140884903788943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako345 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824078289020895232",
+        "conversation_id": "2017139805721940428",
+        "created_at": "2026-01-30T07:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017140884903788943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017140884903788943",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017139805721940428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 老师你也在看zzz嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤丨精神病丨第五人格人孝子丨表演型人格丨小蛋糕丨单身丨hrt10.11丨捞妹丨IVL，KPL丨特摄丨1999丨龙族丨musedash丨十日终焉丨国拟丨安那其🚩🏴丨王者荣耀丨od丨说记丨杰园丨机囚丨患园丨舞裘丨气弓丨信离丨龙影丨",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 2529,
+          "like_count": 210749,
+          "listed_count": 9,
+          "media_count": 1377,
+          "tweet_count": 14701
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:39:01.000Z",
+        "description": "",
+        "id": "1824078289020895232",
+        "name": "玉子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078493245747200/-6PLB54F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 492
+        },
+        "username": "tamako345",
+        "verified": false
+      }
+    ]
+  }
+}

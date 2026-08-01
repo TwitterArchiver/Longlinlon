@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1813482025938268217",
+    "created_at": "2024-07-17T07:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T08:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813482025938268217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1627413864756424704",
+          "start": 3,
+          "username": "Aphrodite_mis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813482025938268217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813299992137986165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aphrodite_mis: 人生中最早见到的地雷男竟然是生物爹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1813482025938268217",
+        "created_at": "2024-07-17T07:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T08:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813482025938268217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1627413864756424704",
+              "start": 3,
+              "username": "Aphrodite_mis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813482025938268217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813299992137986165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aphrodite_mis: 人生中最早见到的地雷男竟然是生物爹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "conversation_id": "1813299992137986165",
+        "created_at": "2024-07-16T19:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T20:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813299992137986165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813299992137986165",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2676,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "人生中最早见到的地雷男竟然是生物爹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 2104,
+          "like_count": 158734,
+          "listed_count": 10,
+          "tweet_count": 10566
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "大号@Artemis_moon_12 oo @eclipse_1900 🚪520别被爱了 我值得被操",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Artemis_moon_12"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "eclipse_1900"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯（已切子宫）",
+        "pinned_tweet_id": "1806988330825113803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799377874354614273/F7n4KDZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15528,
+          "following_count": 856,
+          "like_count": 142931,
+          "listed_count": 34,
+          "tweet_count": 38622
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

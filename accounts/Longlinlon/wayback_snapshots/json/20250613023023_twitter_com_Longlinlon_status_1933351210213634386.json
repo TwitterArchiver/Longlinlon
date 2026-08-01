@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1933351210213634386",
+    "created_at": "2025-06-13T02:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T03:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933351210213634386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IdentityVJP/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/IdentityVJP/status/1933344212210364849",
+          "start": 4,
+          "url": "https://t.co/ifFGgLmbCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933351210213634386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933344212210364849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骚老头 https://t.co/ifFGgLmbCN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1933344182699241472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtSeSnZbMAA6JeM.jpg",
+        "width": 2208
+      },
+      {
+        "height": 1242,
+        "media_key": "3_1933344202311843840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtSeTwdbwAA1Jd6.jpg",
+        "width": 2208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1933351210213634386",
+        "created_at": "2025-06-13T02:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T03:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933351210213634386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IdentityVJP/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/IdentityVJP/status/1933344212210364849",
+              "start": 4,
+              "url": "https://t.co/ifFGgLmbCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933351210213634386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933344212210364849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骚老头 https://t.co/ifFGgLmbCN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933344182699241472",
+            "3_1933344202311843840"
+          ]
+        },
+        "author_id": "993690881818427392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1933344212210364849",
+        "created_at": "2025-06-13T02:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T03:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933344212210364849"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ジョゼフさん",
+              "probability": 0.6597,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 123,
+              "normalized_text": "ジョゼフさん",
+              "probability": 0.5888,
+              "start": 118,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 138,
+              "tag": "IdentityV"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "第五人格"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hg7CeGobzI",
+              "end": 178,
+              "expanded_url": "https://x.com/IdentityVJP/status/1933344212210364849/photo/1",
+              "media_key": "3_1933344182699241472",
+              "start": 155,
+              "url": "https://t.co/hg7CeGobzI"
+            },
+            {
+              "display_url": "pic.x.com/hg7CeGobzI",
+              "end": 178,
+              "expanded_url": "https://x.com/IdentityVJP/status/1933344212210364849/photo/1",
+              "media_key": "3_1933344202311843840",
+              "start": 155,
+              "url": "https://t.co/hg7CeGobzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933344212210364849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 27024,
+          "like_count": 1369,
+          "quote_count": 158,
+          "reply_count": 22,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "砂浜に佇み余裕の笑みを見せる\nジョゼフさんの夏テーマ衣装が登場！\n\nこちらのUR衣装とSSR携帯品は\nUR衣装パックとして\n6月26日よりショップに登場するの！\n\n波打ち際みたいに揺れる上着に\n綺麗な貝に青く透き通る水飛沫！\n今年の夏はジョゼフさんと\n一緒にバカンスなの！\n\n#IdentityV\n#第五人格 https://t.co/hg7CeGobzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2436,
+          "like_count": 208508,
+          "listed_count": 7,
+          "media_count": 1211,
+          "tweet_count": 13737
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T03:15:42.000Z",
+        "description": "「IdentityⅤ第五人格」公式広報のエマなの！ お問い合わせ：identityv-jp@global.netease.com 法人様向け窓口：id5.bd@global.netease.com 公式Discord：https://t.co/qN2zEdGNQD チャージセンター：https://t.co/dxAuTZBg1b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ldentityvjp",
+                "end": 132,
+                "expanded_url": "http://discord.gg/ldentityvjp",
+                "start": 109,
+                "url": "https://t.co/qN2zEdGNQD"
+              },
+              {
+                "display_url": "bit.ly/3EODNic",
+                "end": 165,
+                "expanded_url": "http://bit.ly/3EODNic",
+                "start": 142,
+                "url": "https://t.co/dxAuTZBg1b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "identityvgame.com/jp/index.html",
+                "end": 23,
+                "expanded_url": "https://www.identityvgame.com/jp/index.html",
+                "start": 0,
+                "url": "https://t.co/ldtnPOnGhf"
+              }
+            ]
+          }
+        },
+        "id": "993690881818427392",
+        "name": "【公式】IdentityV 第五人格",
+        "pinned_tweet_id": "1930942523327025388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930957268197269505/9e7r7E5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224920,
+          "following_count": 6,
+          "like_count": 504,
+          "listed_count": 4241,
+          "media_count": 6261,
+          "tweet_count": 16056
+        },
+        "url": "https://t.co/ldtnPOnGhf",
+        "username": "IdentityVJP",
+        "verified": true
+      }
+    ]
+  }
+}

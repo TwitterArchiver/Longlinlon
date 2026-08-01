@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1843652586794299604",
+    "created_at": "2024-10-08T14:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T15:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843652586794299604"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843652586794299604",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得有必要退出蓝鸟社区然后学着刷点快抖大脑退化一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1843652586794299604",
+        "created_at": "2024-10-08T14:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T15:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843652586794299604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843652586794299604",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得有必要退出蓝鸟社区然后学着刷点快抖大脑退化一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 2218,
+          "like_count": 177506,
+          "listed_count": 9,
+          "tweet_count": 11638
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

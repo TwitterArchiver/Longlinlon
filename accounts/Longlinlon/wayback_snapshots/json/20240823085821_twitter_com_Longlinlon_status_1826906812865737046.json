@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1826884374962602380",
+    "created_at": "2024-08-23T08:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T09:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826906812865737046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1277261255523303424",
+          "start": 0,
+          "username": "MMPIvMW3bF5Iqng"
+        },
+        {
+          "end": 28,
+          "id": "854250925480845312",
+          "start": 17,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826906812865737046",
+    "in_reply_to_user_id": "1277261255523303424",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826906346308112742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMPIvMW3bF5Iqng @liulingyue 还真是，能各5000真的就是小城市幸福一辈子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1826884374962602380",
+        "created_at": "2024-08-23T08:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826906812865737046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1277261255523303424",
+              "start": 0,
+              "username": "MMPIvMW3bF5Iqng"
+            },
+            {
+              "end": 28,
+              "id": "854250925480845312",
+              "start": 17,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826906812865737046",
+        "in_reply_to_user_id": "1277261255523303424",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826906346308112742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMPIvMW3bF5Iqng @liulingyue 还真是，能各5000真的就是小城市幸福一辈子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277261255523303424",
+        "conversation_id": "1826884374962602380",
+        "created_at": "2024-08-23T08:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826906346308112742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            },
+            {
+              "end": 23,
+              "id": "854250925480845312",
+              "start": 12,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826906346308112742",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826904948103421982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon @liulingyue 三四线城市，体制内月收入不见得有5000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 2222,
+          "like_count": 172595,
+          "listed_count": 10,
+          "tweet_count": 11113
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T15:23:23.000Z",
+        "description": "no kiss ,no kiss,no kiss",
+        "id": "1277261255523303424",
+        "name": "鹌鹑蛋小米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793602689252904960/Jq3_SKlc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 348,
+          "like_count": 4261,
+          "listed_count": 5,
+          "tweet_count": 18290
+        },
+        "username": "MMPIvMW3bF5Iqng",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794931835518263296/h39GLadf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 1304,
+          "like_count": 15136,
+          "listed_count": 9,
+          "tweet_count": 6626
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

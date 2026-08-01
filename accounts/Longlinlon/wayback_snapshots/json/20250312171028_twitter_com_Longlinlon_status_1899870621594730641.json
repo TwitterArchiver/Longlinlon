@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "1899787505148576100",
+    "created_at": "2025-03-12T17:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T18:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899870621594730641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "993690881818427392",
+          "start": 0,
+          "username": "IdentityVJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899870621594730641",
+    "in_reply_to_user_id": "993690881818427392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899787505148576100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IdentityVJP 你好我是萌新可以把隐身和勿扰删了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_1899787441751658497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1mnN5bEAExv5c.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1899787505148576100",
+        "created_at": "2025-03-12T17:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T18:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899870621594730641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "993690881818427392",
+              "start": 0,
+              "username": "IdentityVJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899870621594730641",
+        "in_reply_to_user_id": "993690881818427392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899787505148576100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IdentityVJP 你好我是萌新可以把隐身和勿扰删了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899787441751658497"
+          ]
+        },
+        "author_id": "993690881818427392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1899787505148576100",
+        "created_at": "2025-03-12T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899787505148576100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 160,
+              "start": 150,
+              "tag": "IdentityV"
+            },
+            {
+              "end": 166,
+              "start": 161,
+              "tag": "第五人格"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Identity V （アイデンティティⅤ）は中国NeteaseGamesが開発した非対称対戦型マルチプレイゲームです。ゴシックなグラフィック、グロテスクな表現、そしてミステリアスなストーリーが、プレイヤーにかつてない刺激をもたらしてくれるでしょう。",
+              "display_url": "identityvgame.com/jp/news/update…",
+              "end": 84,
+              "expanded_url": "https://www.identityvgame.com/jp/news/update/20250312/35356_1218428.html",
+              "images": [
+                {
+                  "height": 246,
+                  "url": "https://pbs.twimg.com/news_img/1899787508466225152/-zYVulQY?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1899787508466225152/-zYVulQY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "Identity V第五人格 公式サイト",
+              "unwound_url": "https://www.identityvgame.com/jp/news/update/20250312/35356_1218428.html",
+              "url": "https://t.co/V2fm8Y3DQY"
+            },
+            {
+              "display_url": "pic.x.com/u7D4RGFrd5",
+              "end": 190,
+              "expanded_url": "https://x.com/IdentityVJP/status/1899787505148576100/photo/1",
+              "media_key": "3_1899787441751658497",
+              "start": 167,
+              "url": "https://t.co/u7D4RGFrd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899787505148576100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 99694,
+          "like_count": 2046,
+          "quote_count": 47,
+          "reply_count": 12,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "【メンテナンス告知】\n\n3月13日9時より約4時間の\nメンテナンスを行う予定です。\n\n詳細は以下URLをご確認ください。\nhttps://t.co/V2fm8Y3DQY\n\n※事前情報と違いが生じた場合、ゲーム内に実装されている更新内容に準じます。ご了承ください。\n\n明日の更新をお楽しみに、なの！\n\n#IdentityV\n#第五人格 https://t.co/u7D4RGFrd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 2335,
+          "like_count": 198109,
+          "listed_count": 8,
+          "media_count": 1136,
+          "tweet_count": 13091
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T03:15:42.000Z",
+        "description": "「IdentityⅤ第五人格」公式広報のエマなの！ \nお問い合わせ：identityv-jp@global.netease.com\n法人様向け窓口：id5.bd@global.netease.com\n公式Discord：https://t.co/qN2zEdGNQD\nチャージセンター：https://t.co/dxAuTZBg1b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ldentityvjp",
+                "end": 133,
+                "expanded_url": "http://discord.gg/ldentityvjp",
+                "start": 110,
+                "url": "https://t.co/qN2zEdGNQD"
+              },
+              {
+                "display_url": "bit.ly/3EODNic",
+                "end": 166,
+                "expanded_url": "http://bit.ly/3EODNic",
+                "start": 143,
+                "url": "https://t.co/dxAuTZBg1b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "identityvgame.com/jp/index.html",
+                "end": 23,
+                "expanded_url": "https://www.identityvgame.com/jp/index.html",
+                "start": 0,
+                "url": "https://t.co/ldtnPOnGhf"
+              }
+            ]
+          }
+        },
+        "id": "993690881818427392",
+        "name": "【公式】IdentityV 第五人格",
+        "pinned_tweet_id": "1895353490307789251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801565396501467138/pA8LvHxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211517,
+          "following_count": 6,
+          "like_count": 489,
+          "listed_count": 4250,
+          "media_count": 5928,
+          "tweet_count": 15673
+        },
+        "url": "https://t.co/ldtnPOnGhf",
+        "username": "IdentityVJP",
+        "verified": true
+      }
+    ]
+  }
+}

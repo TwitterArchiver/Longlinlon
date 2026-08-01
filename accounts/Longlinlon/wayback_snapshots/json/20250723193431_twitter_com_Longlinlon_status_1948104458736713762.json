@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1948102959310475356",
+    "created_at": "2025-07-23T19:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T20:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948104458736713762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "8964Ximo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948104458736713762",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948102959310475356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Ximo 幸好我不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1948102959310475356",
+        "created_at": "2025-07-23T19:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948104458736713762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "8964Ximo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948104458736713762",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948102959310475356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Ximo 幸好我不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1948102959310475356",
+        "created_at": "2025-07-23T19:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948102959310475356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948102959310475356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉女生上推特十有八九会成为门槛地雷女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2480,
+          "like_count": 213121,
+          "listed_count": 7,
+          "media_count": 1254,
+          "tweet_count": 14046
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "时行扛200斤麦子十里路不换肩",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947775697033871360/xNLCHvsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6281,
+          "following_count": 249,
+          "like_count": 29103,
+          "listed_count": 14,
+          "media_count": 159,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "8964Ximo",
+        "verified": false
+      }
+    ]
+  }
+}

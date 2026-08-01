@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1839642445862293751",
+    "created_at": "2024-09-27T12:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T13:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839650440075456993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824078289020895232",
+          "start": 0,
+          "username": "tamako345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839650440075456993",
+    "in_reply_to_user_id": "1824078289020895232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839649740851699731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako345 不要说的我的心理状态有多好一样好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1839642445862293751",
+        "created_at": "2024-09-27T12:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T13:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839650440075456993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824078289020895232",
+              "start": 0,
+              "username": "tamako345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839650440075456993",
+        "in_reply_to_user_id": "1824078289020895232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839649740851699731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako345 不要说的我的心理状态有多好一样好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824078289020895232",
+        "conversation_id": "1839642445862293751",
+        "created_at": "2024-09-27T12:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T13:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839649740851699731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839649740851699731",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839642445862293751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 唔，有的人心理不太乐观，容易生病，所以他们会做一些比较伤人的事情。如果没有太过分的话，消消气啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2213,
+          "like_count": 176230,
+          "listed_count": 9,
+          "tweet_count": 11488
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:39:01.000Z",
+        "description": "",
+        "id": "1824078289020895232",
+        "name": "楠楠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078493245747200/-6PLB54F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 109,
+          "listed_count": 0,
+          "tweet_count": 44
+        },
+        "username": "tamako345",
+        "verified": false
+      }
+    ]
+  }
+}

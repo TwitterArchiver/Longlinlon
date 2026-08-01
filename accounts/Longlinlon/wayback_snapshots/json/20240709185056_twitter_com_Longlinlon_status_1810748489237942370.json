@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1810728757155745977",
+    "created_at": "2024-07-09T18:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T19:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810748489237942370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "JR_Utsunomiya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810748489237942370",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810728757155745977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JR_Utsunomiya_ 别o"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1810728757155745977].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1810728757155745977",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1810728757155745977"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1810728757155745977",
+        "created_at": "2024-07-09T18:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T19:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810748489237942370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "JR_Utsunomiya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810748489237942370",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810728757155745977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JR_Utsunomiya_ 别o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 2073,
+          "like_count": 155684,
+          "listed_count": 10,
+          "tweet_count": 10488
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "",
+        "id": "1688233455363219456",
+        "location": "上野駅",
+        "name": "JR 宇都宮線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810453699493527553/lOyvMVli_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 2406,
+          "like_count": 92996,
+          "listed_count": 14,
+          "tweet_count": 17628
+        },
+        "username": "JR_Utsunomiya_",
+        "verified": false
+      }
+    ]
+  }
+}

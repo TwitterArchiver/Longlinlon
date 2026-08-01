@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1790331467823984927",
+    "created_at": "2024-05-14T10:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T11:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790334102367060294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576097208788692993",
+          "start": 0,
+          "username": "Shirana70166932"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790334102367060294",
+    "in_reply_to_user_id": "1576097208788692993",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790331467823984927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirana70166932 我是🤖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1790331467823984927",
+        "created_at": "2024-05-14T10:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T11:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790334102367060294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576097208788692993",
+              "start": 0,
+              "username": "Shirana70166932"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790334102367060294",
+        "in_reply_to_user_id": "1576097208788692993",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790331467823984927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirana70166932 我是🤖"
+      },
+      {
+        "attachments": {},
+        "author_id": "1576097208788692993",
+        "conversation_id": "1790331467823984927",
+        "created_at": "2024-05-14T10:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T11:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790331467823984927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790331467823984927",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这2k4的fo都是机器人吧😇主打一个无人区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 1901,
+          "like_count": 126519,
+          "listed_count": 10,
+          "tweet_count": 9223
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T06:30:47.000Z",
+        "description": "你们都死了\n🥰",
+        "id": "1576097208788692993",
+        "name": "Shirana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765666952952123392/vIQ8mlQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 180,
+          "like_count": 4115,
+          "listed_count": 6,
+          "tweet_count": 2826
+        },
+        "username": "Shirana70166932",
+        "verified": false
+      }
+    ]
+  }
+}

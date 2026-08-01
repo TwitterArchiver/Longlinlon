@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1923930380144607656",
+    "created_at": "2025-05-18T02:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T03:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923930380144607656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787066428384071680",
+          "start": 3,
+          "username": "chlorinemask"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923930380144607656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923772484995907666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chlorinemask: 做坏事的唯一动机是感觉被辜负后寻求心理平衡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1923930380144607656",
+        "created_at": "2025-05-18T02:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T03:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923930380144607656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787066428384071680",
+              "start": 3,
+              "username": "chlorinemask"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923930380144607656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923772484995907666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chlorinemask: 做坏事的唯一动机是感觉被辜负后寻求心理平衡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787066428384071680",
+        "conversation_id": "1923772484995907666",
+        "created_at": "2025-05-17T16:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T17:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923772484995907666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923772484995907666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做坏事的唯一动机是感觉被辜负后寻求心理平衡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2411,
+          "like_count": 205607,
+          "listed_count": 9,
+          "media_count": 1191,
+          "tweet_count": 13592
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T10:26:58.000Z",
+        "description": "欢乐自由 每刻每时",
+        "id": "1787066428384071680",
+        "location": "Kienshui Special City,Arcticia",
+        "name": "19猫🐻‍❄️",
+        "pinned_tweet_id": "1799692652058902767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787069522257838080/pkBswtiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 50,
+          "like_count": 3525,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 458
+        },
+        "username": "chlorinemask",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2040587332445999337",
+    "created_at": "2026-04-05T00:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040587332445999337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Evenin_eko/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/Evenin_eko/status/2039963421467344928",
+          "start": 84,
+          "url": "https://t.co/0HEjVvVx1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040587332445999337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039963421467344928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直觉得这种批判很傻逼，我不把怨气发泄在互联网抽象标签上难道发泄在现实具体的人身上吗？反正标签是抽象的，其实完全没有人受到伤害吧！实在不理解喜欢对号入座的是什么傻子 https://t.co/0HEjVvVx1Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2040587332445999337",
+        "created_at": "2026-04-05T00:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040587332445999337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Evenin_eko/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Evenin_eko/status/2039963421467344928",
+              "start": 84,
+              "url": "https://t.co/0HEjVvVx1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040587332445999337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039963421467344928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直觉得这种批判很傻逼，我不把怨气发泄在互联网抽象标签上难道发泄在现实具体的人身上吗？反正标签是抽象的，其实完全没有人受到伤害吧！实在不理解喜欢对号入座的是什么傻子 https://t.co/0HEjVvVx1Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1017604796042211330",
+        "conversation_id": "2039963421467344928",
+        "created_at": "2026-04-03T07:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039963421467344928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039963421467344928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 66487,
+          "like_count": 698,
+          "quote_count": 13,
+          "reply_count": 67,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "国内矛盾激化成这样了吗，连用主机和用笔记本都要互相嘲讽，成为戾气的宣泄口吗...\n大学生没有收入来源，他们想玩游戏还要兼顾上学和宿舍环境，笔记本就是最好的选择，\n嘲讽经济能力比自己弱的人，省钱这种天然正确的价值观是被资本重点攻击的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2552,
+          "like_count": 207503,
+          "listed_count": 8,
+          "media_count": 1385,
+          "tweet_count": 14791
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-13T03:01:04.000Z",
+        "description": "DTMer&Coder｜东大情理备考中｜Member of PASAU SOUND｜个人交流群：929518731",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiori-net.work",
+                "end": 23,
+                "expanded_url": "https://shiori-net.work/",
+                "start": 0,
+                "url": "https://t.co/wKiADpYai2"
+              }
+            ]
+          }
+        },
+        "id": "1017604796042211330",
+        "location": "Hokkaidō, Japan",
+        "name": "淺川 曦✨ 詩織網路 Shiori Networks",
+        "pinned_tweet_id": "1987553000253219012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950168958138740736/cICoLDtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 1202,
+          "like_count": 173450,
+          "listed_count": 13,
+          "media_count": 2906,
+          "tweet_count": 30813
+        },
+        "url": "https://t.co/wKiADpYai2",
+        "username": "Evenin_eko",
+        "verified": false
+      }
+    ]
+  }
+}

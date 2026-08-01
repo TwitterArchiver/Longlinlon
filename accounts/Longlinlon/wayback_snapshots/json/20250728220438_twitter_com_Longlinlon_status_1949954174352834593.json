@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1949862160122929280",
+    "created_at": "2025-07-28T22:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T23:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949954174352834593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1553716160243281921",
+          "start": 0,
+          "username": "ysyxssssh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949954174352834593",
+    "in_reply_to_user_id": "1553716160243281921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949910168197882188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysyxssssh 单纯的在骂自己蠢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1949862160122929280",
+        "created_at": "2025-07-28T22:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T23:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949954174352834593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1553716160243281921",
+              "start": 0,
+              "username": "ysyxssssh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949954174352834593",
+        "in_reply_to_user_id": "1553716160243281921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949910168197882188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysyxssssh 单纯的在骂自己蠢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553716160243281921",
+        "conversation_id": "1949862160122929280",
+        "created_at": "2025-07-28T19:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T20:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949910168197882188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949910168197882188",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949862160122929280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 宝宝别这样说 最近你貌似很身材焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2485,
+          "like_count": 213548,
+          "listed_count": 6,
+          "media_count": 1258,
+          "tweet_count": 14090
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T12:16:23.000Z",
+        "description": "自由 健康 快乐 幸福",
+        "id": "1553716160243281921",
+        "location": "0.1km",
+        "name": "Ms.bean",
+        "pinned_tweet_id": "1949514636661047516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729198137934532608/_uyHDla9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 456,
+          "like_count": 35166,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 5301
+        },
+        "username": "ysyxssssh",
+        "verified": false
+      }
+    ]
+  }
+}

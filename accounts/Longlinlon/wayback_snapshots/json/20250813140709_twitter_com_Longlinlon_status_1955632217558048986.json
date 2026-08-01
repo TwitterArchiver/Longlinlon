@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1955632217558048986",
+    "created_at": "2025-08-13T14:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955632217558048986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1955543036693451231",
+          "start": 15,
+          "url": "https://t.co/PCFWbsWfVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955632217558048986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955543036693451231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇塞还有肩甲，比美团好看多了 https://t.co/PCFWbsWfVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_1955542884238737409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyN75G4XwAE9hta.jpg",
+        "width": 960
+      },
+      {
+        "height": 1234,
+        "media_key": "3_1955542882502250496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyN75AaXEAAc_iy.jpg",
+        "width": 959
+      },
+      {
+        "height": 808,
+        "media_key": "3_1955542882464514048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyN75ARXQAAL1eT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1955632217558048986",
+        "created_at": "2025-08-13T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955632217558048986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1955543036693451231",
+              "start": 15,
+              "url": "https://t.co/PCFWbsWfVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955632217558048986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955543036693451231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇塞还有肩甲，比美团好看多了 https://t.co/PCFWbsWfVs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955542884238737409",
+            "3_1955542882502250496",
+            "3_1955542882464514048"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1955543036693451231",
+        "created_at": "2025-08-13T08:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955543036693451231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urdwL24Exf",
+              "end": 58,
+              "expanded_url": "https://x.com/FurinaDF/status/1955543036693451231/photo/1",
+              "media_key": "3_1955542884238737409",
+              "start": 35,
+              "url": "https://t.co/urdwL24Exf"
+            },
+            {
+              "display_url": "pic.x.com/urdwL24Exf",
+              "end": 58,
+              "expanded_url": "https://x.com/FurinaDF/status/1955543036693451231/photo/1",
+              "media_key": "3_1955542882502250496",
+              "start": 35,
+              "url": "https://t.co/urdwL24Exf"
+            },
+            {
+              "display_url": "pic.x.com/urdwL24Exf",
+              "end": 58,
+              "expanded_url": "https://x.com/FurinaDF/status/1955543036693451231/photo/1",
+              "media_key": "3_1955542882464514048",
+              "start": 35,
+              "url": "https://t.co/urdwL24Exf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955543036693451231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8140,
+          "like_count": 88,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "黄色：美团\n蓝色：饿了么\n橙色：淘宝闪购\n\n推友们想去送外卖了吗？😁 https://t.co/urdwL24Exf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "病友轮回-Wiggin",
+        "pinned_tweet_id": "1955629240017436683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2494,
+          "like_count": 213895,
+          "listed_count": 6,
+          "media_count": 1273,
+          "tweet_count": 14153
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你知道“古德莉莉安”是谁吗？你知道“神奈川冲浪里”怎么读吗？@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1953675964153471332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41473,
+          "following_count": 2294,
+          "like_count": 28042,
+          "listed_count": 105,
+          "media_count": 6137,
+          "tweet_count": 10501
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

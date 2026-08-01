@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1795717592755359915",
+    "created_at": "2024-05-29T09:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T10:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795746955521663038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jng347990446972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795746955521663038",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795717592755359915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jng347990446972 挂厕或者开小号阴阳她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1795717592755359915",
+        "created_at": "2024-05-29T09:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T10:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795746955521663038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jng347990446972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795746955521663038",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795717592755359915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jng347990446972 挂厕或者开小号阴阳她"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "1795717592755359915",
+        "created_at": "2024-05-29T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795717592755359915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795717592755359915",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近很恨闺蜜 抽筋扒皮的恨 怎么调解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 1986,
+          "like_count": 133706,
+          "listed_count": 9,
+          "tweet_count": 9676
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了🚪20块钱",
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1794419065123184824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 67,
+          "like_count": 4225,
+          "listed_count": 0,
+          "tweet_count": 1161
+        },
+        "username": "jng347990446972",
+        "verified": false
+      }
+    ]
+  }
+}

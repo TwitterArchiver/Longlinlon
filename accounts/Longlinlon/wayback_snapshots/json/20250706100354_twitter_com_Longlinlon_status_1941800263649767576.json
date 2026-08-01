@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1941779458765066591",
+    "created_at": "2025-07-06T10:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T11:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941800263649767576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "8964Ximo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941800263649767576",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941779458765066591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Ximo 我老公"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941779442113683456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKWHVdXoAAqXba.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1941779458765066591",
+        "created_at": "2025-07-06T10:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941800263649767576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "8964Ximo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941800263649767576",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941779458765066591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Ximo 我老公"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941779442113683456"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1941779458765066591",
+        "created_at": "2025-07-06T08:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941779458765066591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACFQxFNUdx",
+              "end": 31,
+              "expanded_url": "https://x.com/8964Ximo/status/1941779458765066591/photo/1",
+              "media_key": "3_1941779442113683456",
+              "start": 8,
+              "url": "https://t.co/ACFQxFNUdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941779458765066591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我 是 誰 ？ https://t.co/ACFQxFNUdx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2469,
+          "like_count": 210883,
+          "listed_count": 7,
+          "media_count": 1233,
+          "tweet_count": 13913
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/JqTLpvonfC"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "清者自清万人识",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941541398668341248/o3G_S2h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 252,
+          "like_count": 28689,
+          "listed_count": 14,
+          "media_count": 156,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/JqTLpvonfC",
+        "username": "8964Ximo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1813272294703440277",
+    "created_at": "2024-07-17T01:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T02:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813393000091062338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599311632370323456",
+          "start": 0,
+          "username": "linjiaqi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813393000091062338",
+    "in_reply_to_user_id": "1599311632370323456",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813272294703440277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linjiaqi443 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1813272294703440277",
+        "created_at": "2024-07-17T01:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T02:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813393000091062338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599311632370323456",
+              "start": 0,
+              "username": "linjiaqi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813393000091062338",
+        "in_reply_to_user_id": "1599311632370323456",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813272294703440277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiaqi443 😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1599311632370323456",
+        "conversation_id": "1813272294703440277",
+        "created_at": "2024-07-16T17:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T18:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813272294703440277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813272294703440277",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在寒暑假，没有经济收入的大学生家庭地位就像完全依靠丈夫的家庭妇女一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 2107,
+          "like_count": 158586,
+          "listed_count": 10,
+          "tweet_count": 10562
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T07:57:22.000Z",
+        "description": "04/ENTP/妖尾/三坑/爱吃果冻/双面不粘锅",
+        "id": "1599311632370323456",
+        "name": "Ling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802386615463227392/lMUI3EZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 38,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "linjiaqi443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1817943682756341843",
+    "created_at": "2024-07-29T15:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T16:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817949551690744238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "CamanoDiana444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817949551690744238",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817943682756341843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamanoDiana444 有我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1817943682756341843",
+        "created_at": "2024-07-29T15:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T16:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817949551690744238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817949551690744238",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817943682756341843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana444 有我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "1817943682756341843",
+        "created_at": "2024-07-29T15:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T16:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817943682756341843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817943682756341843",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩推一年半，发现很多以前经常活跃的推友现在都不怎么活跃了，或者直接退推了，然后现在经常跟我互动的是后来才认识的推友\n可能过两年之后又换了一批推友了吧😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 2150,
+          "like_count": 163886,
+          "listed_count": 10,
+          "tweet_count": 10773
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "Queer🏳️‍⚧️ 生态主义 独身/不婚主义 社会化抚养 自发毛主义",
+        "id": "1470943033365438470",
+        "location": "社会主义城邦联盟",
+        "name": "🏳️‍⚧️❄️然书记🚩🌲",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816396175509184513/RuYLNs0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 892,
+          "like_count": 20391,
+          "listed_count": 15,
+          "tweet_count": 12056
+        },
+        "username": "CamanoDiana444",
+        "verified": false
+      }
+    ]
+  }
+}

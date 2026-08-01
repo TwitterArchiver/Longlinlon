@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1796951942276776379",
+    "created_at": "2024-06-01T17:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T18:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796951942276776379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796951942276776379",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喜欢崩铁的登录界面bgm，去年刚高考完试着玩的时候就喜欢可惜没有继续玩然后现在买自抽号抽出当期up和专武才玩下去的其实我只是喜欢三月七每天登录看看她就足够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1796951942276776379",
+        "created_at": "2024-06-01T17:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T18:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796951942276776379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796951942276776379",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢崩铁的登录界面bgm，去年刚高考完试着玩的时候就喜欢可惜没有继续玩然后现在买自抽号抽出当期up和专武才玩下去的其实我只是喜欢三月七每天登录看看她就足够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1982,
+          "like_count": 134491,
+          "listed_count": 9,
+          "tweet_count": 9774
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

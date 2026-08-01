@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1824780396917338509",
+    "created_at": "2024-08-18T15:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T16:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825194644457881781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2878946227",
+          "start": 0,
+          "username": "jessebay1"
+        },
+        {
+          "end": 27,
+          "id": "715431624301621248",
+          "start": 11,
+          "username": "_____HAZUKI____"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825194644457881781",
+    "in_reply_to_user_id": "2878946227",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825191122815402328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jessebay1 @_____HAZUKI____ 股份关辅助功能什么事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1824780396917338509",
+        "created_at": "2024-08-18T15:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T16:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825194644457881781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2878946227",
+              "start": 0,
+              "username": "jessebay1"
+            },
+            {
+              "end": 27,
+              "id": "715431624301621248",
+              "start": 11,
+              "username": "_____HAZUKI____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825194644457881781",
+        "in_reply_to_user_id": "2878946227",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825191122815402328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jessebay1 @_____HAZUKI____ 股份关辅助功能什么事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2878946227",
+        "conversation_id": "1824780396917338509",
+        "created_at": "2024-08-18T15:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T16:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825191122815402328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            },
+            {
+              "end": 28,
+              "id": "715431624301621248",
+              "start": 12,
+              "username": "_____HAZUKI____"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825191122815402328",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824989623468371995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon @_____HAZUKI____ 有没有可能🐧有游科的股份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 2221,
+          "like_count": 171264,
+          "listed_count": 10,
+          "tweet_count": 11048
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-27T01:39:39.000Z",
+        "description": "是个无趣的人",
+        "id": "2878946227",
+        "name": "Jesse Bay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752901589453672448/r10rgs9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 492,
+          "like_count": 38,
+          "listed_count": 0,
+          "tweet_count": 2711
+        },
+        "username": "jessebay1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-31T06:52:46.000Z",
+        "description": "体重500キロ",
+        "id": "715431624301621248",
+        "location": "所在地：河南省駐馬店市",
+        "name": "葉月ゆい",
+        "pinned_tweet_id": "1602176394477572096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753725753852928000/o9fHHdL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 323,
+          "like_count": 44855,
+          "listed_count": 6,
+          "tweet_count": 20161
+        },
+        "username": "_____HAZUKI____",
+        "verified": false
+      }
+    ]
+  }
+}

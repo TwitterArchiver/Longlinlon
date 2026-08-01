@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2073400006506406119",
+    "created_at": "2026-07-04T13:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073400006506406119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoguai041003…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/xiaoguai041003/status/2073107767418908986",
+          "start": 81,
+          "url": "https://t.co/vv8khqmnyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073400006506406119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073107767418908986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "活的没有自己特色的同时用所谓“普通”的标签自己给自己贴上，完全没有任何科学知识维护着自以为是的身体健康，然后预制语言系统预制三观，再给资本家上供，那的确很小众了 https://t.co/vv8khqmnyg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073400006506406119",
+        "created_at": "2026-07-04T13:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073400006506406119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoguai041003…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/xiaoguai041003/status/2073107767418908986",
+              "start": 81,
+              "url": "https://t.co/vv8khqmnyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073400006506406119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073107767418908986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活的没有自己特色的同时用所谓“普通”的标签自己给自己贴上，完全没有任何科学知识维护着自以为是的身体健康，然后预制语言系统预制三观，再给资本家上供，那的确很小众了 https://t.co/vv8khqmnyg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803642368949886976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2073107767418908986",
+        "created_at": "2026-07-03T18:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073107767418908986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073107767418908986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 36914,
+          "like_count": 641,
+          "quote_count": 5,
+          "reply_count": 95,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "现在真正的小众逼是那些不抽烟不喝酒不打耳钉不染头发，正常作息一日三餐有健康的身体规律生活正常三观，有交社保五险一金工作的那些人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2523,
+          "like_count": 206829,
+          "listed_count": 7,
+          "media_count": 1399,
+          "tweet_count": 14890
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|纯绿 |日常and碎碎念|不线下不约 | 推广自辨",
+        "id": "1803642368949886976",
+        "location": " Tokyo ",
+        "name": "小毛米",
+        "pinned_tweet_id": "2068611431579459836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13068,
+          "following_count": 342,
+          "like_count": 51926,
+          "listed_count": 18,
+          "media_count": 541,
+          "tweet_count": 13324
+        },
+        "url": "",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2006341163687830010",
+    "created_at": "2025-12-31T12:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T13:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006341163687830010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lin_dialog/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/lin_dialog/status/2006029721310503231",
+          "start": 8,
+          "url": "https://t.co/U13Gfz7k37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006341163687830010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006029721310503231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "❄️：od是啥 https://t.co/U13Gfz7k37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2006029701719236608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bZYqPboAA-MkY.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2006341163687830010",
+        "created_at": "2025-12-31T12:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006341163687830010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lin_dialog/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/lin_dialog/status/2006029721310503231",
+              "start": 8,
+              "url": "https://t.co/U13Gfz7k37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006341163687830010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006029721310503231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❄️：od是啥 https://t.co/U13Gfz7k37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006029701719236608"
+          ]
+        },
+        "author_id": "1974688655513096192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006029721310503231",
+        "created_at": "2025-12-30T15:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006029721310503231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgaEajoOc8",
+              "end": 32,
+              "expanded_url": "https://x.com/lin_dialog/status/2006029721310503231/photo/1",
+              "media_key": "3_2006029701719236608",
+              "start": 9,
+              "url": "https://t.co/sgaEajoOc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006029721310503231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10956,
+          "like_count": 132,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "抖人到底要干啥？ https://t.co/sgaEajoOc8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2482,
+          "like_count": 210908,
+          "listed_count": 9,
+          "media_count": 1364,
+          "tweet_count": 14571
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T04:10:53.000Z",
+        "description": "霖霖 ♡ 18 they/them｜shedtwt odtwt｜more moots!｜烟酒割药 四毒俱全｜无政府个人主义🏴｜非二元性别｜LGBTQ+🏳️‍🌈全友好^^｜互fo私信",
+        "id": "1974688655513096192",
+        "name": "竹霖",
+        "pinned_tweet_id": "2006041221995847931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004224773761781761/oqlHflEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 186,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1071
+        },
+        "username": "lin_dialog",
+        "verified": false
+      }
+    ]
+  }
+}

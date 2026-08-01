@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799557400220799399",
+    "created_at": "2024-06-09T04:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T05:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799654320390185153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705164295976214528",
+          "start": 0,
+          "username": "ziname1113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799654320390185153",
+    "in_reply_to_user_id": "1705164295976214528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799557400220799399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziname1113 抄手和云吞不是一个东西，抄手是拿肉来做皮的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799557400220799399",
+        "created_at": "2024-06-09T04:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T05:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799654320390185153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705164295976214528",
+              "start": 0,
+              "username": "ziname1113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799654320390185153",
+        "in_reply_to_user_id": "1705164295976214528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799557400220799399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziname1113 抄手和云吞不是一个东西，抄手是拿肉来做皮的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799557393845460992"
+          ]
+        },
+        "author_id": "1705164295976214528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1799557400220799399",
+        "created_at": "2024-06-08T21:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T22:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799557400220799399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OSDjkED0SS",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ziname1113/status/1799557400220799399/photo/1",
+              "media_key": "3_1799557393845460992",
+              "start": 19,
+              "url": "https://t.co/OSDjkED0SS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799557400220799399",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1689,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以这个玩意在你们那叫云吞\n还是炒手 https://t.co/OSDjkED0SS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1992,
+          "like_count": 138667,
+          "listed_count": 9,
+          "tweet_count": 9959
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T10:17:24.000Z",
+        "description": "当我面对现实，我张开双臂拥抱大地/🏳️‍⚧️🏳️‍🌈/门槛50元/激素替换1.4年/一名流浪在外的落魄少妇/不建政⚠️建政浓度高的别fo我",
+        "id": "1705164295976214528",
+        "name": "冷泽安-Zina(毛毛妞）🍥",
+        "pinned_tweet_id": "1793614116138979639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799123728028028929/XEvmVtEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 443,
+          "like_count": 8323,
+          "listed_count": 4,
+          "tweet_count": 11740
+        },
+        "username": "ziname1113",
+        "verified": false
+      }
+    ]
+  }
+}

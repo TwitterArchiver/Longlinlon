@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1916067678089039928",
+    "created_at": "2026-01-04T11:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007779259948134459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421301972007849986",
+          "start": 0,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007779259948134459",
+    "in_reply_to_user_id": "1421301972007849986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916067678089039928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbpp10521715 网红阴暗死宅男娘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1916067611848413184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpc9V1nbEAApCbQ.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1916067678089039928",
+        "created_at": "2026-01-04T11:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007779259948134459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421301972007849986",
+              "start": 0,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007779259948134459",
+        "in_reply_to_user_id": "1421301972007849986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916067678089039928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbpp10521715 网红阴暗死宅男娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916067611848413184"
+          ]
+        },
+        "author_id": "1421301972007849986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916067678089039928",
+        "created_at": "2025-04-26T09:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916067678089039928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuTuOfq0Zf",
+              "end": 32,
+              "expanded_url": "https://x.com/pbpp10521715/status/1916067678089039928/photo/1",
+              "media_key": "3_1916067611848413184",
+              "start": 9,
+              "url": "https://t.co/wuTuOfq0Zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916067678089039928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6123,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天不当阿姨一天 https://t.co/wuTuOfq0Zf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2474,
+          "like_count": 210678,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14575
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005189372724027392/wrCnH6l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12725,
+          "following_count": 477,
+          "like_count": 23962,
+          "listed_count": 26,
+          "media_count": 842,
+          "tweet_count": 9095
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

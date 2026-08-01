@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1794580095602155761",
+    "created_at": "2024-05-26T04:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T05:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794580095602155761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1583858559544332290",
+          "start": 3,
+          "username": "_sharkee1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794580095602155761",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794465993772892360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_sharkee1024: 讨厌这个圈子\n条件好的当爱好 条件中等当目标 条件差的当幻想\n难道不和天杀的社会很像吗 再加上无休无止的抽象 od 优越感等等无数让人恶心的东西\n人性的丑恶和光辉同时在这个坑里出现\n我只希望毒虫和老鼠自己一窝里斗 不要出来污染世界 https…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1794580095602155761",
+        "created_at": "2024-05-26T04:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T05:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794580095602155761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1583858559544332290",
+              "start": 3,
+              "username": "_sharkee1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794580095602155761",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794465993772892360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_sharkee1024: 讨厌这个圈子\n条件好的当爱好 条件中等当目标 条件差的当幻想\n难道不和天杀的社会很像吗 再加上无休无止的抽象 od 优越感等等无数让人恶心的东西\n人性的丑恶和光辉同时在这个坑里出现\n我只希望毒虫和老鼠自己一窝里斗 不要出来污染世界 https…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794465986650963968"
+          ]
+        },
+        "author_id": "1583858559544332290",
+        "conversation_id": "1794465993772892360",
+        "created_at": "2024-05-25T20:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T21:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794465993772892360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BkodRyGCa4",
+              "end": 139,
+              "expanded_url": "https://twitter.com/_sharkee1024/status/1794465993772892360/photo/1",
+              "media_key": "3_1794465986650963968",
+              "start": 116,
+              "url": "https://t.co/BkodRyGCa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794465993772892360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 271,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌这个圈子\n条件好的当爱好 条件中等当目标 条件差的当幻想\n难道不和天杀的社会很像吗 再加上无休无止的抽象 od 优越感等等无数让人恶心的东西\n人性的丑恶和光辉同时在这个坑里出现\n我只希望毒虫和老鼠自己一窝里斗 不要出来污染世界 https://t.co/BkodRyGCa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1977,
+          "like_count": 132500,
+          "listed_count": 9,
+          "tweet_count": 9592
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "喜欢聊天！/接受烦恼咨询/欢迎找咱倾诉哦o(≧v≦)o/想成为大家的小太阳/妹妹@himeko070/超可爱主人@Hibari233愿坚强的人都能被温柔相待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "himeko070"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Hibari233"
+              }
+            ]
+          }
+        },
+        "id": "1583858559544332290",
+        "location": "匹诺康尼小酒店",
+        "name": "村雨",
+        "pinned_tweet_id": "1786862629199528378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775085338651922432/HeeMNqrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 358,
+          "like_count": 1728,
+          "listed_count": 1,
+          "tweet_count": 524
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      }
+    ]
+  }
+}

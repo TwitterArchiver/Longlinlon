@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1816095058288058672",
+    "created_at": "2024-07-24T13:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T14:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816108051465916839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681242891598069761",
+          "start": 0,
+          "username": "KawaiiNeon_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816108051465916839",
+    "in_reply_to_user_id": "1681242891598069761",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816095058288058672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiNeon_ 是你！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1816095058288058672",
+        "created_at": "2024-07-24T13:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T14:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816108051465916839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681242891598069761",
+              "start": 0,
+              "username": "KawaiiNeon_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816108051465916839",
+        "in_reply_to_user_id": "1681242891598069761",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816095058288058672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiNeon_ 是你！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1681242891598069761",
+        "conversation_id": "1816095058288058672",
+        "created_at": "2024-07-24T12:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T13:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816095058288058672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longlinlon/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/longlinlon/status/1816091652420952412",
+              "start": 3,
+              "url": "https://t.co/2pSo8HQH1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816095058288058672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816091652420952412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這我 https://t.co/2pSo8HQH1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 2138,
+          "like_count": 162045,
+          "listed_count": 10,
+          "tweet_count": 10701
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T10:02:06.000Z",
+        "description": "「愛是亙古長明的塔燈，祂定睛望著風暴卻兀不為動。」小帳：@MissWsaikou /🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "MissWsaikou"
+              }
+            ]
+          }
+        },
+        "id": "1681242891598069761",
+        "location": "墨爾本的魔女小屋",
+        "name": "x77uratez_",
+        "pinned_tweet_id": "1776489063144673646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812137009684561920/Gf9e0HhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1337,
+          "like_count": 13948,
+          "listed_count": 1,
+          "tweet_count": 6969
+        },
+        "username": "KawaiiNeon_",
+        "verified": false
+      }
+    ]
+  }
+}

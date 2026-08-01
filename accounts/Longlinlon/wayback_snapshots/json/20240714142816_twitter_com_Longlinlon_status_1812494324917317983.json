@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1812494324917317983",
+    "created_at": "2024-07-14T14:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T15:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812494324917317983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1731941034983350273",
+          "start": 3,
+          "username": "rinchawiths422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812494324917317983",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812153462064619540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinchawiths422: 底层、神经多样性使我具有极强的自尊心，平等比什么都重要，尊严是最珍贵的东西，不要给我施舍，一定要挺立脊梁活着，不然就去死，容不得半点妥协屈辱\n最终的命运一定是死掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1812494324917317983",
+        "created_at": "2024-07-14T14:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T15:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812494324917317983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1731941034983350273",
+              "start": 3,
+              "username": "rinchawiths422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812494324917317983",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812153462064619540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinchawiths422: 底层、神经多样性使我具有极强的自尊心，平等比什么都重要，尊严是最珍贵的东西，不要给我施舍，一定要挺立脊梁活着，不然就去死，容不得半点妥协屈辱\n最终的命运一定是死掉"
+      },
+      {
+        "attachments": {},
+        "author_id": "1731941034983350273",
+        "conversation_id": "1812153462064619540",
+        "created_at": "2024-07-13T15:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T16:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812153462064619540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812153462064619540",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "底层、神经多样性使我具有极强的自尊心，平等比什么都重要，尊严是最珍贵的东西，不要给我施舍，一定要挺立脊梁活着，不然就去死，容不得半点妥协屈辱\n最终的命运一定是死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 2092,
+          "like_count": 157684,
+          "listed_count": 10,
+          "tweet_count": 10548
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T07:39:29.000Z",
+        "description": "将死未死之人，，",
+        "id": "1731941034983350273",
+        "location": "渤海湾",
+        "name": "unknown tranquilfrost🍥",
+        "pinned_tweet_id": "1750506352651432233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798765838578880517/0hR6Rmjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 136,
+          "like_count": 6194,
+          "listed_count": 1,
+          "tweet_count": 2311
+        },
+        "username": "rinchawiths422",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1913694014014128276",
+    "created_at": "2025-04-20T04:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T05:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913813751096385864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913813751096385864",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913694014014128276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w 我服了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913694011145289728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go7OkF8bgAAMkV2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1913694014014128276",
+        "created_at": "2025-04-20T04:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T05:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913813751096385864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913813751096385864",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913694014014128276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913694011145289728"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "conversation_id": "1913694014014128276",
+        "created_at": "2025-04-19T20:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T21:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913694014014128276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRARDpqVAI",
+              "end": 30,
+              "expanded_url": "https://x.com/love1027w/status/1913694014014128276/photo/1",
+              "media_key": "3_1913694011145289728",
+              "start": 7,
+              "url": "https://t.co/TRARDpqVAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913694014014128276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一条白色大便 https://t.co/TRARDpqVAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2387,
+          "like_count": 202716,
+          "listed_count": 8,
+          "media_count": 1182,
+          "tweet_count": 13497
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899193156350160897/J6kfcg11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11851,
+          "following_count": 453,
+          "like_count": 42051,
+          "listed_count": 13,
+          "media_count": 1663,
+          "tweet_count": 24064
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

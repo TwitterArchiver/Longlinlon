@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1936530008245502448",
+    "created_at": "2025-06-21T21:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T22:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936530008245502448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/41944445I8131/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/41944445I8131/status/1935855243788448005",
+          "start": 8,
+          "url": "https://t.co/ix5tfi7NGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936530008245502448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935855243788448005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我玩园丁就这样 https://t.co/ix5tfi7NGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13020,
+        "height": 476,
+        "media_key": "13_1935855188612423680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935855188612423680/img/8E-JxSTymCYXBkQm.jpg",
+        "public_metrics": {
+          "view_count": 19371
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935855188612423680/vid/avc1/502x270/liD7yigGwxwYmjfV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935855188612423680/vid/avc1/888x476/gqWHPPq-28Hlpzbb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935855188612423680/pl/jKJGHrn3OHsQb4Lo.m3u8?v=cfc"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1936530008245502448",
+        "created_at": "2025-06-21T21:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T22:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936530008245502448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/41944445I8131/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/41944445I8131/status/1935855243788448005",
+              "start": 8,
+              "url": "https://t.co/ix5tfi7NGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936530008245502448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935855243788448005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我玩园丁就这样 https://t.co/ix5tfi7NGc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935855188612423680"
+          ]
+        },
+        "author_id": "1816903521234788352",
+        "conversation_id": "1935855243788448005",
+        "created_at": "2025-06-20T00:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T01:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935855243788448005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/loBl1YrK45",
+              "end": 40,
+              "expanded_url": "https://x.com/41944445I8131/status/1935855243788448005/video/1",
+              "media_key": "13_1935855188612423680",
+              "start": 17,
+              "url": "https://t.co/loBl1YrK45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935855243788448005",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 43828,
+          "like_count": 1794,
+          "quote_count": 49,
+          "reply_count": 5,
+          "retweet_count": 314
+        },
+        "reply_settings": "everyone",
+        "text": "BLUBLUBLULULUL 😝 https://t.co/loBl1YrK45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 2447,
+          "like_count": 210328,
+          "listed_count": 7,
+          "media_count": 1225,
+          "tweet_count": 13843
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T18:29:03.000Z",
+        "description": "he/she 🧭 ⋆ @hisulover ;^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "hisulover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikosu.straw.page",
+                "end": 23,
+                "expanded_url": "https://ikosu.straw.page/",
+                "start": 0,
+                "url": "https://t.co/5aKJrxZZwr"
+              }
+            ]
+          }
+        },
+        "id": "1816903521234788352",
+        "location": "21 🎣 ",
+        "name": "iko",
+        "pinned_tweet_id": "1921855038533603715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931794738543284224/AtG2l_SP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 180,
+          "like_count": 11621,
+          "listed_count": 1,
+          "media_count": 634,
+          "tweet_count": 4542
+        },
+        "url": "https://t.co/5aKJrxZZwr",
+        "username": "41944445I8131",
+        "verified": false
+      }
+    ]
+  }
+}

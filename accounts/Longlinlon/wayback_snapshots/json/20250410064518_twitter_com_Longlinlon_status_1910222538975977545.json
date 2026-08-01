@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1909852776265662914",
+    "created_at": "2025-04-10T06:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T07:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910222538975977545"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910222538975977545",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909852776265662914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直再哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1909852776265662914",
+        "created_at": "2025-04-10T06:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T07:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910222538975977545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910222538975977545",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909852776265662914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直再哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1909852776265662914",
+        "created_at": "2025-04-09T06:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909852776265662914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909852776265662914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以闺蜜你的意思是说你要为了一个处了40多天热恋期的17岁未成年而抛弃我这个认识快一年的朋友是这个意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 2366,
+          "like_count": 201797,
+          "listed_count": 8,
+          "media_count": 1171,
+          "tweet_count": 13409
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

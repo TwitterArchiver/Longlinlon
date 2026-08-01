@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1801883387193659518",
+    "created_at": "2024-06-15T07:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T08:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801883387193659518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801883387193659518",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801862958328516749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 有人说跨性别低龄化，笑死我，你知道什么叫低龄吗？跨圈如果低龄，那你会看到：\n「收药徒，要天赋好的。」\n「龙魂药家军，永不为奴。」\n「cqy，懂的来，雷 CD 雷 TS 雷男娘。」\n「你毁我药娘翅膀，我必掀翻你整个天堂！」\n「冷面 ftm 酷少，爱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1801883387193659518",
+        "created_at": "2024-06-15T07:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T08:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801883387193659518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801883387193659518",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801862958328516749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 有人说跨性别低龄化，笑死我，你知道什么叫低龄吗？跨圈如果低龄，那你会看到：\n「收药徒，要天赋好的。」\n「龙魂药家军，永不为奴。」\n「cqy，懂的来，雷 CD 雷 TS 雷男娘。」\n「你毁我药娘翅膀，我必掀翻你整个天堂！」\n「冷面 ftm 酷少，爱…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1801862958328516749",
+        "created_at": "2024-06-15T06:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T07:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801862958328516749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801862958328516749",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 870,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有人说跨性别低龄化，笑死我，你知道什么叫低龄吗？跨圈如果低龄，那你会看到：\n「收药徒，要天赋好的。」\n「龙魂药家军，永不为奴。」\n「cqy，懂的来，雷 CD 雷 TS 雷男娘。」\n「你毁我药娘翅膀，我必掀翻你整个天堂！」\n「冷面 ftm 酷少，爱会受伤。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1987,
+          "like_count": 139420,
+          "listed_count": 9,
+          "tweet_count": 10071
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 95,
+          "like_count": 65,
+          "listed_count": 10,
+          "tweet_count": 2769
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

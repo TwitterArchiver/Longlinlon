@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2014392127011364960",
+    "created_at": "2026-01-22T17:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014392127011364960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2014307055352614969",
+          "start": 21,
+          "url": "https://t.co/gE5nIcONTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014392127011364960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014307055352614969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去，居然是小红书评论区，这下不得不信了 https://t.co/gE5nIcONTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2014115727532306432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OTlTwXMAAAbGk.jpg",
+        "width": 1038
+      },
+      {
+        "height": 1093,
+        "media_key": "3_2014115744380801024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OTmShW0AAUEig.jpg",
+        "width": 834
+      },
+      {
+        "height": 1027,
+        "media_key": "3_2014115760512057344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OTnOnWQAAGrcg.jpg",
+        "width": 593
+      },
+      {
+        "height": 1018,
+        "media_key": "3_2014115781202579456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OTobsWkAAuFBa.jpg",
+        "width": 593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2014392127011364960",
+        "created_at": "2026-01-22T17:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014392127011364960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2014307055352614969",
+              "start": 21,
+              "url": "https://t.co/gE5nIcONTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014392127011364960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014307055352614969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，居然是小红书评论区，这下不得不信了 https://t.co/gE5nIcONTL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014115727532306432",
+            "3_2014115744380801024",
+            "3_2014115760512057344",
+            "3_2014115781202579456"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2014307055352614969",
+        "created_at": "2026-01-22T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014307055352614969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R79g7hXEKN",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014307055352614969/photo/1",
+              "media_key": "3_2014115727532306432",
+              "start": 97,
+              "url": "https://t.co/R79g7hXEKN"
+            },
+            {
+              "display_url": "pic.x.com/R79g7hXEKN",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014307055352614969/photo/1",
+              "media_key": "3_2014115744380801024",
+              "start": 97,
+              "url": "https://t.co/R79g7hXEKN"
+            },
+            {
+              "display_url": "pic.x.com/R79g7hXEKN",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014307055352614969/photo/1",
+              "media_key": "3_2014115760512057344",
+              "start": 97,
+              "url": "https://t.co/R79g7hXEKN"
+            },
+            {
+              "display_url": "pic.x.com/R79g7hXEKN",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2014307055352614969/photo/1",
+              "media_key": "3_2014115781202579456",
+              "start": 97,
+              "url": "https://t.co/R79g7hXEKN"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1696174109778903194",
+              "start": 121,
+              "url": "https://t.co/uQ4n5EEhdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014307055352614969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 273729,
+          "like_count": 903,
+          "quote_count": 18,
+          "reply_count": 126,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1696174109778903194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1月 21日，有大批高校教师在社交媒体透露\n中国高校思政课将极大增加《习近平思想》的比重，继续弱化《毛泽东概论》。\n目前教育部直属高校已经接到通知，保密一年。\n该政策将于2027年9月全面推行 https://t.co/R79g7hXEKN https://t.co/uQ4n5EEhdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤丨精神病丨第五人格人孝子丨表演型人格丨小蛋糕丨单身丨hrt10.11丨捞妹丨IVL，KPL丨特摄丨1999丨龙族丨musedash丨十日终焉丨国拟丨安那其🚩🏴丨王者荣耀丨od丨说记丨杰园丨机囚丨患园丨舞裘丨气弓丨信离丨龙影丨",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 2517,
+          "like_count": 210946,
+          "listed_count": 9,
+          "media_count": 1374,
+          "tweet_count": 14687
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2010336214470005138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184657,
+          "following_count": 1004,
+          "like_count": 8835,
+          "listed_count": 8515,
+          "media_count": 40525,
+          "tweet_count": 47484
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

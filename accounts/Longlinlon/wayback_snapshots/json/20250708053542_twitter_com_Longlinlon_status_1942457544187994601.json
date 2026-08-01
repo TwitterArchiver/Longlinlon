@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1942186416685068546",
+    "created_at": "2025-07-08T05:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T06:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942457544187994601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1358235017340620800",
+          "start": 0,
+          "username": "BTC446"
+        },
+        {
+          "end": 17,
+          "id": "1790370144755351552",
+          "start": 8,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942457544187994601",
+    "in_reply_to_user_id": "1358235017340620800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942296602707910789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC446 @FurinaDF 爱吃屎拦不住的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1942186416685068546",
+        "created_at": "2025-07-08T05:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T06:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942457544187994601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1358235017340620800",
+              "start": 0,
+              "username": "BTC446"
+            },
+            {
+              "end": 17,
+              "id": "1790370144755351552",
+              "start": 8,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942457544187994601",
+        "in_reply_to_user_id": "1358235017340620800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942296602707910789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC446 @FurinaDF 爱吃屎拦不住的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358235017340620800",
+        "conversation_id": "1942186416685068546",
+        "created_at": "2025-07-07T18:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T19:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942296602707910789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942296602707910789",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5661,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942186416685068546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 在东北装个屁空调。热就维持十几天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2469,
+          "like_count": 211325,
+          "listed_count": 7,
+          "media_count": 1236,
+          "tweet_count": 13939
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T02:04:06.000Z",
+        "description": "",
+        "id": "1358235017340620800",
+        "name": "巴克人",
+        "pinned_tweet_id": "1723372836570415612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928672594385117184/kev19u3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 4879,
+          "like_count": 524,
+          "listed_count": 14,
+          "media_count": 26,
+          "tweet_count": 1831
+        },
+        "username": "BTC446",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "心怀良善与智慧，行事正直有担当",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/realRoninNews",
+                "end": 23,
+                "expanded_url": "http://t.me/realRoninNews",
+                "start": 0,
+                "url": "https://t.co/nHbDzdtdX8"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34799,
+          "following_count": 2244,
+          "like_count": 26982,
+          "listed_count": 79,
+          "media_count": 5547,
+          "tweet_count": 9804
+        },
+        "url": "https://t.co/nHbDzdtdX8",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1932630227714527259",
+    "created_at": "2025-06-11T10:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T11:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932751971590787395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418942200457662477",
+          "start": 0,
+          "username": "Rikka_Ela"
+        },
+        {
+          "end": 26,
+          "id": "1548157400632270848",
+          "start": 11,
+          "username": "annayanamisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932751971590787395",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932673819812176360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka_Ela @annayanamisuki 生气了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1932630227714527259",
+        "created_at": "2025-06-11T10:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932751971590787395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 26,
+              "id": "1548157400632270848",
+              "start": 11,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932751971590787395",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932673819812176360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela @annayanamisuki 生气了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1932630227714527259",
+        "created_at": "2025-06-11T05:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932673819812176360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548157400632270848",
+              "start": 0,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932673819812176360",
+        "in_reply_to_user_id": "1548157400632270848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1196,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932630227714527259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annayanamisuki 一想到这条评论能让互关看到这个视频我就想笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2434,
+          "like_count": 208424,
+          "listed_count": 7,
+          "media_count": 1211,
+          "tweet_count": 13730
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330,
+          "following_count": 3500,
+          "like_count": 68741,
+          "listed_count": 7,
+          "media_count": 231,
+          "tweet_count": 6166
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "Boston, MA",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864175949681401857/nU4COn35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4129,
+          "following_count": 994,
+          "like_count": 41692,
+          "listed_count": 16,
+          "media_count": 1374,
+          "tweet_count": 6641
+        },
+        "username": "annayanamisuki",
+        "verified": false
+      }
+    ]
+  }
+}

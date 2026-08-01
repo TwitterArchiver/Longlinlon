@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1800019343805501539",
+    "created_at": "2024-06-10T04:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T05:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800019832441815448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248913476002537472",
+          "start": 0,
+          "username": "PRCAngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800019832441815448",
+    "in_reply_to_user_id": "1248913476002537472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800019343805501539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRCAngel 哇好强势"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1800019343805501539",
+        "created_at": "2024-06-10T04:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T05:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800019832441815448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248913476002537472",
+              "start": 0,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800019832441815448",
+        "in_reply_to_user_id": "1248913476002537472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800019343805501539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCAngel 哇好强势"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800019338323533825",
+            "3_1800019341666344960"
+          ]
+        },
+        "author_id": "1248913476002537472",
+        "conversation_id": "1800019343805501539",
+        "created_at": "2024-06-10T04:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T05:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800019343805501539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ONOxpMuZkT",
+              "end": 110,
+              "expanded_url": "https://twitter.com/PRCAngel/status/1800019343805501539/photo/1",
+              "media_key": "3_1800019338323533825",
+              "start": 87,
+              "url": "https://t.co/ONOxpMuZkT"
+            },
+            {
+              "display_url": "pic.twitter.com/ONOxpMuZkT",
+              "end": 110,
+              "expanded_url": "https://twitter.com/PRCAngel/status/1800019343805501539/photo/1",
+              "media_key": "3_1800019341666344960",
+              "start": 87,
+              "url": "https://t.co/ONOxpMuZkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800019343805501539",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强势“出柜”\n好像炸柜了😢\n关于化妆，\n母亲那关直接秒过\n父亲好像直接炸了😓\n\n好在我有谈判的筹码，家里平时也不给我生活费，根本限制不到我。\n\n需要给他们一段时间理解接纳。 https://t.co/ONOxpMuZkT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1990,
+          "like_count": 139020,
+          "listed_count": 9,
+          "tweet_count": 9972
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T10:01:47.000Z",
+        "description": "😚自己愛主義の天使なんですよろしくね。\nㅤㅤㅤㅤㅤ\n🥺原谅我这一生不羁放纵爱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelqwq.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://angelqwq.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/GHk3MQap8s"
+              }
+            ]
+          }
+        },
+        "id": "1248913476002537472",
+        "location": "𝕮𝖆𝖓𝖙𝖔𝖓",
+        "name": "𝗗𝗗𝗥𝙁𝙪𝙣🇨🇳",
+        "pinned_tweet_id": "1395681267530670085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785703199720296448/lyDOwE3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 1555,
+          "like_count": 20494,
+          "listed_count": 13,
+          "tweet_count": 8575
+        },
+        "url": "https://t.co/GHk3MQap8s",
+        "username": "PRCAngel",
+        "verified": false
+      }
+    ]
+  }
+}

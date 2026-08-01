@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1949345405054890333",
+    "created_at": "2025-07-27T05:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949345405054890333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DustSwallo1580…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/DustSwallo15805/status/1949131884606431404",
+          "start": 6,
+          "url": "https://t.co/eRHDppO7Al"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949345405054890333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949131884606431404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被除跨籍了 https://t.co/eRHDppO7Al"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1949345405054890333",
+        "created_at": "2025-07-27T05:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949345405054890333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DustSwallo1580…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/DustSwallo15805/status/1949131884606431404",
+              "start": 6,
+              "url": "https://t.co/eRHDppO7Al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949345405054890333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949131884606431404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被除跨籍了 https://t.co/eRHDppO7Al"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1949131884606431404",
+        "created_at": "2025-07-26T15:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949131884606431404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949131884606431404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 453,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我觉得跨圈几乎人手一张莫奈🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2482,
+          "like_count": 213439,
+          "listed_count": 7,
+          "media_count": 1255,
+          "tweet_count": 14076
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 310,
+          "like_count": 23258,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 1589
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

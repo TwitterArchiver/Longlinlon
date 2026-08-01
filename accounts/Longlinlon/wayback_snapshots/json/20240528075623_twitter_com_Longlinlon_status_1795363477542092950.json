@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1795363477542092950",
+    "created_at": "2024-05-28T07:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T08:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795363477542092950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1774318939541282816",
+          "start": 3,
+          "username": "estranh72382__"
+        },
+        {
+          "end": 28,
+          "id": "1115864186528120833",
+          "start": 20,
+          "username": "titist_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795363477542092950",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795301028549763358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @estranh72382__: @titist_ 买了也走不出性别困境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1795363477542092950",
+        "created_at": "2024-05-28T07:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T08:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795363477542092950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1774318939541282816",
+              "start": 3,
+              "username": "estranh72382__"
+            },
+            {
+              "end": 28,
+              "id": "1115864186528120833",
+              "start": 20,
+              "username": "titist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795363477542092950",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795301028549763358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @estranh72382__: @titist_ 买了也走不出性别困境"
+      },
+      {
+        "attachments": {},
+        "author_id": "1774318939541282816",
+        "conversation_id": "1795268443765407839",
+        "created_at": "2024-05-28T03:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T04:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795301028549763358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1115864186528120833",
+              "start": 0,
+              "username": "titist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795301028549763358",
+        "in_reply_to_user_id": "1115864186528120833",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795268443765407839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titist_ 买了也走不出性别困境"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 1985,
+          "like_count": 133387,
+          "listed_count": 9,
+          "tweet_count": 9647
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T06:13:06.000Z",
+        "description": "可能是非二元性别（mtx） ？ HRT：2024.4.10。 enfp 5w6/有主了/一般路过音游玩家/会做饭/172cm65kg/羡慕所有有一技之长的人。想安静的在一边观察世界。姐姐：@shynjnnkh179588｜对象无推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "shynjnnkh179588"
+              }
+            ]
+          }
+        },
+        "id": "1774318939541282816",
+        "location": "现居广东",
+        "name": "ストランジ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774319810060713984/KmhhCZOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 167,
+          "like_count": 1179,
+          "listed_count": 3,
+          "tweet_count": 449
+        },
+        "username": "estranh72382__",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T06:28:48.000Z",
+        "description": "MtF/想和同类互fo/先努力支撑起来吧！/恕不议大事",
+        "id": "1115864186528120833",
+        "name": "Titist@想和🏳️‍⚧️同类互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1116959196115636224/B9DaTC-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 1069,
+          "like_count": 7173,
+          "listed_count": 5,
+          "tweet_count": 4073
+        },
+        "username": "titist_",
+        "verified": false
+      }
+    ]
+  }
+}

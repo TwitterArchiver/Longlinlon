@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808135692083777556",
+    "created_at": "2024-07-02T13:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T14:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808135692083777556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599311632370323456",
+          "start": 3,
+          "username": "linjiaqi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808135692083777556",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808133440749162637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linjiaqi443: 上课也没教啥啊，怎么实训就那么莫名其妙呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808135692083777556",
+        "created_at": "2024-07-02T13:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808135692083777556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599311632370323456",
+              "start": 3,
+              "username": "linjiaqi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808135692083777556",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808133440749162637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linjiaqi443: 上课也没教啥啊，怎么实训就那么莫名其妙呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1599311632370323456",
+        "conversation_id": "1808133440749162637",
+        "created_at": "2024-07-02T13:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T14:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808133440749162637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808133440749162637",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上课也没教啥啊，怎么实训就那么莫名其妙呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 2046,
+          "like_count": 149728,
+          "listed_count": 10,
+          "tweet_count": 10354
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T07:57:22.000Z",
+        "description": "",
+        "id": "1599311632370323456",
+        "name": "Ling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802386615463227392/lMUI3EZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "username": "linjiaqi443",
+        "verified": false
+      }
+    ]
+  }
+}

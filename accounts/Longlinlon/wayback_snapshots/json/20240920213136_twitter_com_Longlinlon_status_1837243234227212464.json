@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1837161779501437083",
+    "created_at": "2024-09-20T21:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T22:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837243234227212464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486592421962022919",
+          "start": 0,
+          "username": "dhmmyyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837243234227212464",
+    "in_reply_to_user_id": "1486592421962022919",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837161969171775684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhmmyyds 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1837161779501437083",
+        "created_at": "2024-09-20T21:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T22:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837243234227212464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486592421962022919",
+              "start": 0,
+              "username": "dhmmyyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837243234227212464",
+        "in_reply_to_user_id": "1486592421962022919",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837161969171775684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhmmyyds 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486592421962022919",
+        "conversation_id": "1837161779501437083",
+        "created_at": "2024-09-20T16:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T17:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837161969171775684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837161969171775684",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837161779501437083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon srkl😙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 2220,
+          "like_count": 175586,
+          "listed_count": 10,
+          "tweet_count": 11410
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T06:50:37.000Z",
+        "description": "🙂",
+        "id": "1486592421962022919",
+        "name": "Opus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825955538431045632/9d0wYblw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 47,
+          "like_count": 1645,
+          "listed_count": 2,
+          "tweet_count": 307
+        },
+        "username": "dhmmyyds",
+        "verified": false
+      }
+    ]
+  }
+}

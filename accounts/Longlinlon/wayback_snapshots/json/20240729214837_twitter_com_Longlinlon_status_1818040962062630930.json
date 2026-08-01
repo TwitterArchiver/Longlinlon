@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1818040962062630930",
+    "created_at": "2024-07-29T21:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T22:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818040962062630930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818040962062630930",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817431319011299756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: 世界上最恶心的就是把问题揽在自己身上，本意是想给对方一个台阶下，结果发现对方真以为是你的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1818040962062630930",
+        "created_at": "2024-07-29T21:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T22:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818040962062630930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818040962062630930",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817431319011299756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: 世界上最恶心的就是把问题揽在自己身上，本意是想给对方一个台阶下，结果发现对方真以为是你的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507396901594820608",
+        "conversation_id": "1817431319011299756",
+        "created_at": "2024-07-28T05:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817431319011299756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817431319011299756",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 141271,
+          "like_count": 1583,
+          "quote_count": 13,
+          "reply_count": 83,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最恶心的就是把问题揽在自己身上，本意是想给对方一个台阶下，结果发现对方真以为是你的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2153,
+          "like_count": 164133,
+          "listed_count": 10,
+          "tweet_count": 10789
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "古希腊掌管抽象与屌丝的神｜‼️文案娱乐‼️ 随便拿 ‼️祝大家冲浪愉快 天天开心🥳｜随缘回关 感谢关注🤗｜提问箱📬https://t.co/N3uuclGtx2｜有偿转推‼️有偿转推",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds520",
+                "end": 80,
+                "expanded_url": "https://ngl.link/hgds520",
+                "start": 57,
+                "url": "https://t.co/N3uuclGtx2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=sBjJBEk7",
+                "start": 0,
+                "url": "https://t.co/fwO0bCPUND"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "location": "超好用的VPN👇👇👇",
+        "name": "渔",
+        "pinned_tweet_id": "1809933741462364553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722306263881797633/y6gEaktC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25914,
+          "following_count": 2416,
+          "like_count": 30091,
+          "listed_count": 37,
+          "tweet_count": 3476
+        },
+        "url": "https://t.co/fwO0bCPUND",
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

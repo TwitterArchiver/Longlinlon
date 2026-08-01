@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957422471835250688"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1957422477208093167",
+    "created_at": "2025-08-18T12:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T13:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957422477208093167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mbvnmu5DSR",
+          "end": 27,
+          "expanded_url": "https://x.com/Longlinlon/status/1957422477208093167/photo/1",
+          "media_key": "3_1957422471835250688",
+          "start": 4,
+          "url": "https://t.co/mbvnmu5DSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957422477208093167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "四排爽 https://t.co/mbvnmu5DSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957422471835250688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyopXgUbcAA2i1f.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957422471835250688"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1957422477208093167",
+        "created_at": "2025-08-18T12:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957422477208093167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbvnmu5DSR",
+              "end": 27,
+              "expanded_url": "https://x.com/Longlinlon/status/1957422477208093167/photo/1",
+              "media_key": "3_1957422471835250688",
+              "start": 4,
+              "url": "https://t.co/mbvnmu5DSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957422477208093167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四排爽 https://t.co/mbvnmu5DSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "tk14❤️-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2503,
+          "like_count": 214509,
+          "listed_count": 6,
+          "media_count": 1282,
+          "tweet_count": 14198
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

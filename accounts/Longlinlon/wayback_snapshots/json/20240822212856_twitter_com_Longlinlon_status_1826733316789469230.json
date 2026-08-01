@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1826638482716168597",
+    "created_at": "2024-08-22T21:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T22:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826733316789469230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "830659836924694528",
+          "start": 0,
+          "username": "zh2zr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826733316789469230",
+    "in_reply_to_user_id": "830659836924694528",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826638482716168597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zh2zr 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1826638482716168597",
+        "created_at": "2024-08-22T21:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T22:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826733316789469230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "830659836924694528",
+              "start": 0,
+              "username": "zh2zr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826733316789469230",
+        "in_reply_to_user_id": "830659836924694528",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826638482716168597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zh2zr 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "1826638482716168597",
+        "created_at": "2024-08-22T15:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T16:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826638482716168597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826638482716168597",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人从小到大没用过全新电子设备吗 我就是\n我甚至f991计算器都是买的咸鱼二手的\n我玩网早 小时候咸鱼不叫咸鱼 叫淘宝二手\n那时候都是用网页端 没有什么app\n所以除了父亲年会送过一台iPod Touch4，\n其实也不好说，家里人一度都是很有钱的\n穷养\n长大了破产了，也没机会了\n所以一直是穷的状态 没体验过好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 2221,
+          "like_count": 172422,
+          "listed_count": 10,
+          "tweet_count": 11100
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "何处春生",
+        "id": "830659836924694528",
+        "name": "白巧曲奇🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1507091028687605760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826450800001925120/PaOjlLsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 768,
+          "like_count": 14422,
+          "listed_count": 8,
+          "tweet_count": 8397
+        },
+        "username": "zh2zr",
+        "verified": false
+      }
+    ]
+  }
+}

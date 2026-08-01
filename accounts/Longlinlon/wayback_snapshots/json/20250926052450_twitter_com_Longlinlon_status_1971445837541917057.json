@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1971184452870242388",
+    "created_at": "2025-09-26T05:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T06:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971445837541917057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692950832843788288",
+          "start": 0,
+          "username": "rioko_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971445837541917057",
+    "in_reply_to_user_id": "1692950832843788288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971445360934740152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rioko_shizuku ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1971184452870242388",
+        "created_at": "2025-09-26T05:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T06:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971445837541917057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692950832843788288",
+              "start": 0,
+              "username": "rioko_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971445837541917057",
+        "in_reply_to_user_id": "1692950832843788288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971445360934740152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rioko_shizuku ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692950832843788288",
+        "conversation_id": "1971184452870242388",
+        "created_at": "2025-09-26T05:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971445360934740152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971445360934740152",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971184452870242388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 豬豬可愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "艾达是病患和园丁的亲妈-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 2516,
+          "like_count": 215126,
+          "listed_count": 9,
+          "media_count": 1312,
+          "tweet_count": 14344
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T17:25:19.000Z",
+        "description": "#MTF🏳️‍⚧️|#HRT🍥|台北🦞|約攝影請私📷|有奶有ㄐㄐ的妹紙🍼|喜歡宅宅的人🏠|宝 @wine_girlu🍼|寫真 https://t.co/ynZnhtQ4og",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "MTF"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "HRT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "wine_girlu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/bei_baby",
+                "end": 86,
+                "expanded_url": "https://linktr.ee/bei_baby",
+                "start": 63,
+                "url": "https://t.co/ynZnhtQ4og"
+              }
+            ]
+          }
+        },
+        "id": "1692950832843788288",
+        "location": "Taipei City, Taiwan",
+        "name": "˖ ࣪⊹ 🌧️賣香雨寶˖ ࣪⊹🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951117509190623235/DEEyXzNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9160,
+          "following_count": 1332,
+          "like_count": 6123,
+          "listed_count": 13,
+          "media_count": 537,
+          "tweet_count": 1875
+        },
+        "username": "rioko_shizuku",
+        "verified": true
+      }
+    ]
+  }
+}

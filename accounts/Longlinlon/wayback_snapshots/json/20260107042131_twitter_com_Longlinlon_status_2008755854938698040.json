@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2008755854938698040",
+    "created_at": "2026-01-07T04:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008755854938698040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Maverickssurr/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Maverickssurr/status/2008516404165963849",
+          "start": 32,
+          "url": "https://t.co/HO3Xx7N39F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008755854938698040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008516404165963849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等你被体制内男同领导抓走当性奴你就知道为什么又快又不要钱哦签了 https://t.co/HO3Xx7N39F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2008755854938698040",
+        "created_at": "2026-01-07T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008755854938698040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Maverickssurr/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Maverickssurr/status/2008516404165963849",
+              "start": 32,
+              "url": "https://t.co/HO3Xx7N39F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008755854938698040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008516404165963849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等你被体制内男同领导抓走当性奴你就知道为什么又快又不要钱哦签了 https://t.co/HO3Xx7N39F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883491513206034432",
+        "conversation_id": "2008516404165963849",
+        "created_at": "2026-01-06T12:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008516404165963849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008516404165963849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 32152,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 132,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我从来没在梯子🪜上花过钱\n这种东西有的是又快又不要钱的\n为什么还要花钱买🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2488,
+          "like_count": 210764,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14588
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T12:26:51.000Z",
+        "description": "这个人又凶又饥渴 @mavericks_surr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "mavericks_surr"
+              }
+            ]
+          }
+        },
+        "id": "1883491513206034432",
+        "location": "shandong",
+        "name": "水仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981031537232535554/GBXm87fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7594,
+          "following_count": 157,
+          "like_count": 1750,
+          "listed_count": 11,
+          "media_count": 36,
+          "tweet_count": 542
+        },
+        "username": "Maverickssurr",
+        "verified": false
+      }
+    ]
+  }
+}

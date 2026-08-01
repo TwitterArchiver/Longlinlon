@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1790759711429808525",
+    "created_at": "2024-05-15T15:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T16:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790759711429808525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TrousersFree/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/TrousersFree/status/1790687359199277163",
+          "start": 3,
+          "url": "https://t.co/4clNknBM24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790759711429808525",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790687359199277163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反了 https://t.co/4clNknBM24"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1790759711429808525",
+        "created_at": "2024-05-15T15:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T16:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790759711429808525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TrousersFree/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/TrousersFree/status/1790687359199277163",
+              "start": 3,
+              "url": "https://t.co/4clNknBM24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790759711429808525",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790687359199277163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反了 https://t.co/4clNknBM24"
+      },
+      {
+        "attachments": {},
+        "author_id": "1655218409028861953",
+        "conversation_id": "1790682340135776457",
+        "created_at": "2024-05-15T10:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T11:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790687359199277163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790687359199277163",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790687171625857228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 我的意思是\n没钱没能力缺爱才会跨性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1913,
+          "like_count": 127004,
+          "listed_count": 10,
+          "tweet_count": 9271
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T14:30:18.000Z",
+        "description": "周一三五吃补佳乐 周二四六吃来曲唑 周日喝中药调理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trousersfree.io",
+                "end": 23,
+                "expanded_url": "http://trousersfree.io",
+                "start": 0,
+                "url": "https://t.co/kwOkyn4EkV"
+              }
+            ]
+          }
+        },
+        "id": "1655218409028861953",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "库子的裤子",
+        "pinned_tweet_id": "1680037561191010308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671811959174619137/ov4pV-co_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 1174,
+          "like_count": 7691,
+          "listed_count": 5,
+          "tweet_count": 2584
+        },
+        "url": "https://t.co/kwOkyn4EkV",
+        "username": "TrousersFree",
+        "verified": true
+      }
+    ]
+  }
+}

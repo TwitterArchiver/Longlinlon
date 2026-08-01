@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1949173804401406082",
+    "created_at": "2025-07-26T18:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T19:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949175926346105023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510309098302156804",
+          "start": 0,
+          "username": "Qi_owo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949175926346105023",
+    "in_reply_to_user_id": "1510309098302156804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949173804401406082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qi_owo_ 可怜宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1949173804401406082",
+        "created_at": "2025-07-26T18:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949175926346105023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510309098302156804",
+              "start": 0,
+              "username": "Qi_owo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949175926346105023",
+        "in_reply_to_user_id": "1510309098302156804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949173804401406082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qi_owo_ 可怜宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510309098302156804",
+        "conversation_id": "1949173804401406082",
+        "created_at": "2025-07-26T18:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949173804401406082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949173804401406082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炮友哥我操你妈了。。。偷偷谈恋爱，谈之前甚至没和我做最后一次。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2481,
+          "like_count": 213388,
+          "listed_count": 7,
+          "media_count": 1255,
+          "tweet_count": 14071
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T17:32:21.000Z",
+        "description": "我想要好多钱也想要好多爱",
+        "id": "1510309098302156804",
+        "name": "我不想学化学",
+        "pinned_tweet_id": "1816915809182319105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611768328196100096/czrVjrDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 340,
+          "like_count": 20039,
+          "listed_count": 10,
+          "media_count": 199,
+          "tweet_count": 4138
+        },
+        "username": "Qi_owo_",
+        "verified": false
+      }
+    ]
+  }
+}

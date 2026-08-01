@@ -1,0 +1,264 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1811758141920674177",
+    "created_at": "2024-07-12T13:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T14:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811758141920674177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DashDASH7792/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/DashDASH7792/status/1811538939859374586",
+          "start": 26,
+          "url": "https://t.co/AvXyEgUNtQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811758141920674177",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811538939859374586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人：cosplay是日本文化\ncosplay： https://t.co/AvXyEgUNtQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1811758141920674177",
+        "created_at": "2024-07-12T13:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T14:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811758141920674177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DashDASH7792/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/DashDASH7792/status/1811538939859374586",
+              "start": 26,
+              "url": "https://t.co/AvXyEgUNtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811758141920674177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811538939859374586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人：cosplay是日本文化\ncosplay： https://t.co/AvXyEgUNtQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1811538892002328577"
+          ]
+        },
+        "author_id": "1650882360748179456",
+        "conversation_id": "1811538939859374586",
+        "created_at": "2024-07-11T23:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T00:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811538939859374586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fqFQBku9cS",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DashDASH7792/status/1811538939859374586/video/1",
+              "media_key": "7_1811538892002328577",
+              "start": 5,
+              "url": "https://t.co/fqFQBku9cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811538939859374586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 95609,
+          "like_count": 360,
+          "quote_count": 17,
+          "reply_count": 242,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "繼續更新 https://t.co/fqFQBku9cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 2086,
+          "like_count": 157079,
+          "listed_count": 10,
+          "tweet_count": 10534
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T15:20:11.000Z",
+        "description": "互fo、",
+        "id": "1650882360748179456",
+        "location": "平壤",
+        "name": "🐇🐇🐰Dash 7792🐰🐇🐇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791364442883866624/qPZYgLgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 600,
+          "like_count": 1148,
+          "listed_count": 5,
+          "tweet_count": 4561
+        },
+        "username": "DashDASH7792",
+        "verified": false
+      }
+    ]
+  }
+}

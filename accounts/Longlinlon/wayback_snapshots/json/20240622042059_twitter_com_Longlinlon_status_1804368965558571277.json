@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1804368965558571277",
+    "created_at": "2024-06-22T04:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T05:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804368965558571277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718399336118169600",
+          "start": 3,
+          "username": "MitsuoKaori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804368965558571277",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804361486011371561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MitsuoKaori: 我也想和东野奈兔组成cp😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1804368965558571277",
+        "created_at": "2024-06-22T04:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T05:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804368965558571277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718399336118169600",
+              "start": 3,
+              "username": "MitsuoKaori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804368965558571277",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804361486011371561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MitsuoKaori: 我也想和东野奈兔组成cp😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1718399336118169600",
+        "conversation_id": "1804361486011371561",
+        "created_at": "2024-06-22T03:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T04:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804361486011371561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804361486011371561",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也想和东野奈兔组成cp😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1983,
+          "like_count": 140733,
+          "listed_count": 10,
+          "tweet_count": 10151
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T22:48:34.000Z",
+        "description": "母狼",
+        "id": "1718399336118169600",
+        "name": "ベルタ•フォイアシュタイン",
+        "pinned_tweet_id": "1792962221531902313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797787469141934080/EPjC4g3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 95,
+          "like_count": 5195,
+          "listed_count": 0,
+          "tweet_count": 5853
+        },
+        "username": "MitsuoKaori",
+        "verified": false
+      }
+    ]
+  }
+}

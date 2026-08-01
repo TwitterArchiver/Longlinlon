@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1835170991628337285",
+    "created_at": "2024-09-15T04:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T05:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835170991628337285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1835170912855105803",
+          "start": 6,
+          "url": "https://t.co/YYVc0bjCfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835170991628337285",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835170912855105803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小脑懒得喷 https://t.co/YYVc0bjCfT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1835170991628337285",
+        "created_at": "2024-09-15T04:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T05:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835170991628337285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1835170912855105803",
+              "start": 6,
+              "url": "https://t.co/YYVc0bjCfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835170991628337285",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835170912855105803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小脑懒得喷 https://t.co/YYVc0bjCfT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1835158900875673872",
+        "created_at": "2024-09-15T04:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T05:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835170912855105803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835170912855105803",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835170022916079825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 就是说有的低龄跨纯纯小脑，输出年龄焦虑的都死全家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 2219,
+          "like_count": 175107,
+          "listed_count": 10,
+          "tweet_count": 11352
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

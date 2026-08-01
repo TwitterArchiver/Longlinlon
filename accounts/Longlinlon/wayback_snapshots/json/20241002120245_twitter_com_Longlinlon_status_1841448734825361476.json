@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1841415040517177544",
+    "created_at": "2024-10-02T12:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T13:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841448734825361476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677252589182943232",
+          "start": 0,
+          "username": "Hikari2304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841448734825361476",
+    "in_reply_to_user_id": "1677252589182943232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841415040517177544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari2304 踢猫效应启动"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1841415040517177544].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1841415040517177544",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1841415040517177544"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1841415040517177544",
+        "created_at": "2024-10-02T12:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T13:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841448734825361476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677252589182943232",
+              "start": 0,
+              "username": "Hikari2304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841448734825361476",
+        "in_reply_to_user_id": "1677252589182943232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841415040517177544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari2304 踢猫效应启动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2221,
+          "like_count": 176876,
+          "listed_count": 8,
+          "tweet_count": 11579
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "",
+        "id": "1677252589182943232",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 537,
+          "like_count": 32592,
+          "listed_count": 5,
+          "tweet_count": 7334
+        },
+        "username": "Hikari2304",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1900972446142058606",
+    "created_at": "2025-03-15T19:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T20:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900985906624163950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691937358944583682",
+          "start": 0,
+          "username": "KanoeYuukoSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900985906624163950",
+    "in_reply_to_user_id": "1691937358944583682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900977181414822088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoeYuukoSama 给下角色我看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1900972446142058606",
+        "created_at": "2025-03-15T19:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T20:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900985906624163950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691937358944583682",
+              "start": 0,
+              "username": "KanoeYuukoSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900985906624163950",
+        "in_reply_to_user_id": "1691937358944583682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900977181414822088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoeYuukoSama 给下角色我看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691937358944583682",
+        "conversation_id": "1900972446142058606",
+        "created_at": "2025-03-15T18:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T19:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900977181414822088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900977181414822088",
+        "in_reply_to_user_id": "1691937358944583682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900976263084601755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 打击，看窗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 2336,
+          "like_count": 198891,
+          "listed_count": 8,
+          "media_count": 1146,
+          "tweet_count": 13154
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T22:18:11.000Z",
+        "description": "conservatism 对小彩虹进行友谊计划，空间翘曲导弹 发射！ 远星号太空艇@KokkoroChyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "KokkoroChyan"
+              }
+            ]
+          }
+        },
+        "id": "1691937358944583682",
+        "location": "川陀",
+        "name": "Kanoe Yuuko",
+        "pinned_tweet_id": "1899850592576798789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875837225746993152/yKZNPGTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 633,
+          "like_count": 63517,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 9857
+        },
+        "username": "KanoeYuukoSama",
+        "verified": false
+      }
+    ]
+  }
+}

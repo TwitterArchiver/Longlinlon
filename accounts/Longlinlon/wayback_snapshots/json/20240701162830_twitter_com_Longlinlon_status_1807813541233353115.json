@@ -1,0 +1,183 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1807810292946289149",
+    "created_at": "2024-07-01T16:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T17:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807813541233353115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807813541233353115",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807810292946289149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱鲨tv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1807810292946289149",
+        "created_at": "2024-07-01T16:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807813541233353115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807813541233353115",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807810292946289149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱鲨tv"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1807810292946289149",
+        "created_at": "2024-07-01T16:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807810292946289149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Desiitos/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Desiitos/status/1807510373278368077",
+              "start": 5,
+              "url": "https://t.co/nVNcWUxoPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807810292946289149",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807510373278368077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个豆 https://t.co/nVNcWUxoPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 2040,
+          "like_count": 148847,
+          "listed_count": 10,
+          "tweet_count": 10345
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

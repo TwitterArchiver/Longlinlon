@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1948110949870977334",
+    "created_at": "2025-07-23T20:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T21:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948110949870977334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/congqianman199…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/congqianman1994/status/1947950340571087078",
+          "start": 38,
+          "url": "https://t.co/ZQ4NzBjMdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948110949870977334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947950340571087078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的是的老旧小区开个电脑都开不动开个空调都用不了洗衣机非常的秀非常考验手法 https://t.co/ZQ4NzBjMdn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1947950110329237506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiCTf5bcAIDqn8.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1948110949870977334",
+        "created_at": "2025-07-23T20:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T21:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948110949870977334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/congqianman199…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/congqianman1994/status/1947950340571087078",
+              "start": 38,
+              "url": "https://t.co/ZQ4NzBjMdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948110949870977334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947950340571087078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的是的老旧小区开个电脑都开不动开个空调都用不了洗衣机非常的秀非常考验手法 https://t.co/ZQ4NzBjMdn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947950110329237506"
+          ]
+        },
+        "author_id": "1206904705160318981",
+        "conversation_id": "1947950340571087078",
+        "created_at": "2025-07-23T09:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T10:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947950340571087078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqzFCBwfp4",
+              "end": 58,
+              "expanded_url": "https://x.com/congqianman1994/status/1947950340571087078/photo/1",
+              "media_key": "3_1947950110329237506",
+              "start": 35,
+              "url": "https://t.co/dqzFCBwfp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947950340571087078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 164126,
+          "like_count": 543,
+          "quote_count": 6,
+          "reply_count": 114,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "唉，别吹牛了，就前几天，中国东南某省某市一下子停了十几天电呢。。。🤨 https://t.co/dqzFCBwfp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2480,
+          "like_count": 213144,
+          "listed_count": 7,
+          "media_count": 1254,
+          "tweet_count": 14048
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T11:51:37.000Z",
+        "description": "There is no need to rush. There is no need to shine. You don't need to be anyone but yourself.\n我的油管：https://t.co/2bg3ik0hbs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@congqianman19…",
+                "end": 123,
+                "expanded_url": "https://www.youtube.com/@congqianman1994",
+                "start": 100,
+                "url": "https://t.co/2bg3ik0hbs"
+              }
+            ]
+          }
+        },
+        "id": "1206904705160318981",
+        "location": "China",
+        "name": "八瓣橘子七分甜",
+        "pinned_tweet_id": "1935883330484158498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643515465866805248/Cb-0l-ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38970,
+          "following_count": 291,
+          "like_count": 169347,
+          "listed_count": 79,
+          "media_count": 4256,
+          "tweet_count": 19885
+        },
+        "username": "congqianman1994",
+        "verified": false
+      }
+    ]
+  }
+}

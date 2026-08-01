@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1903730523601789366",
+    "created_at": "2025-03-23T18:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T19:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903883665542926636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701841796547092480",
+          "start": 0,
+          "username": "broccoli_senpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903883665542926636",
+    "in_reply_to_user_id": "1701841796547092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903859603613294960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broccoli_senpai 玩不进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1903730523601789366",
+        "created_at": "2025-03-23T18:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903883665542926636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701841796547092480",
+              "start": 0,
+              "username": "broccoli_senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903883665542926636",
+        "in_reply_to_user_id": "1701841796547092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903859603613294960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broccoli_senpai 玩不进去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701841796547092480",
+        "conversation_id": "1903730523601789366",
+        "created_at": "2025-03-23T17:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903859603613294960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903859603613294960",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903730523601789366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 巫师三"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 2358,
+          "like_count": 200638,
+          "listed_count": 9,
+          "media_count": 1155,
+          "tweet_count": 13256
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T06:14:49.000Z",
+        "description": "男 友Lgbtq+🏳️‍🌈🏳️‍⚧️著名动漫博主喜欢时评和偶尔日常的锐评博主 不会去反任何一个意识形态 但我厌蠢",
+        "id": "1701841796547092480",
+        "location": "距离你5公里",
+        "name": "西兰花前辈🕶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837113622406782976/0OO87Afr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3033,
+          "following_count": 63,
+          "like_count": 33065,
+          "listed_count": 6,
+          "media_count": 541,
+          "tweet_count": 12537
+        },
+        "username": "broccoli_senpai",
+        "verified": false
+      }
+    ]
+  }
+}

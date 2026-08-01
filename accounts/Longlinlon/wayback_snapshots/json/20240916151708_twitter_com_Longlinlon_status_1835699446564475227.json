@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1835674946535907554",
+    "created_at": "2024-09-16T15:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T16:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835699446564475227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689268609380675585",
+          "start": 0,
+          "username": "KzCynic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835699446564475227",
+    "in_reply_to_user_id": "1689268609380675585",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835674946535907554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KzCynic 卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1835674946535907554",
+        "created_at": "2024-09-16T15:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T16:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835699446564475227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689268609380675585",
+              "start": 0,
+              "username": "KzCynic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835699446564475227",
+        "in_reply_to_user_id": "1689268609380675585",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835674946535907554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KzCynic 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835674936578576385"
+          ]
+        },
+        "author_id": "1689268609380675585",
+        "conversation_id": "1835674946535907554",
+        "created_at": "2024-09-16T13:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T14:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835674946535907554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ivbjfwplj",
+              "end": 23,
+              "expanded_url": "https://twitter.com/KzCynic/status/1835674946535907554/photo/1",
+              "media_key": "3_1835674936578576385",
+              "start": 0,
+              "url": "https://t.co/2iVBJfWplJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835674946535907554",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 677,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2iVBJfWplJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2217,
+          "like_count": 175316,
+          "listed_count": 10,
+          "tweet_count": 11378
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T13:33:29.000Z",
+        "description": "我如笼中金丝雀 空囚冰心在玉壶丨里@HugMeCynic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "HugMeCynic"
+              }
+            ]
+          }
+        },
+        "id": "1689268609380675585",
+        "location": "我想放假",
+        "name": "空奏Cynic",
+        "pinned_tweet_id": "1817110566042792075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725736799220465664/eAU0yCTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3019,
+          "following_count": 458,
+          "like_count": 3680,
+          "listed_count": 4,
+          "tweet_count": 1646
+        },
+        "username": "KzCynic",
+        "verified": false
+      }
+    ]
+  }
+}

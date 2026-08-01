@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1950528542498083176",
+    "created_at": "2025-07-30T14:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950568078879997972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1768682351603896320",
+          "start": 0,
+          "username": "Hatethefox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950568078879997972",
+    "in_reply_to_user_id": "1768682351603896320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950528542498083176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatethefox 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1950528538928685056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGrXy8bIAAYQxR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1950528538987376641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGrXzKasAEM1L_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1950528542498083176",
+        "created_at": "2025-07-30T14:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950568078879997972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1768682351603896320",
+              "start": 0,
+              "username": "Hatethefox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950568078879997972",
+        "in_reply_to_user_id": "1768682351603896320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950528542498083176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatethefox 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950528538928685056",
+            "3_1950528538987376641"
+          ]
+        },
+        "author_id": "1768682351603896320",
+        "conversation_id": "1950528542498083176",
+        "created_at": "2025-07-30T12:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950528542498083176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoNrmPMmzg",
+              "end": 31,
+              "expanded_url": "https://x.com/Hatethefox/status/1950528542498083176/photo/1",
+              "media_key": "3_1950528538928685056",
+              "start": 8,
+              "url": "https://t.co/XoNrmPMmzg"
+            },
+            {
+              "display_url": "pic.x.com/XoNrmPMmzg",
+              "end": 31,
+              "expanded_url": "https://x.com/Hatethefox/status/1950528542498083176/photo/1",
+              "media_key": "3_1950528538987376641",
+              "start": 8,
+              "url": "https://t.co/XoNrmPMmzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950528542498083176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6683,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "第一次女装🥺😭 https://t.co/XoNrmPMmzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2489,
+          "like_count": 213691,
+          "listed_count": 6,
+          "media_count": 1259,
+          "tweet_count": 14103
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T16:55:16.000Z",
+        "description": "可爱狐娘在此",
+        "id": "1768682351603896320",
+        "name": "狐狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898830249280098304/rkZEztIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 114,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 426
+        },
+        "username": "Hatethefox",
+        "verified": false
+      }
+    ]
+  }
+}

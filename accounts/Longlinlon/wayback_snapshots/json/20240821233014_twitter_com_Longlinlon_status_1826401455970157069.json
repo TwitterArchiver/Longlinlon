@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1826389377981022686",
+    "created_at": "2024-08-21T23:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T00:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826401455970157069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1800724899201458176",
+          "start": 0,
+          "username": "boyeo817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826401455970157069",
+    "in_reply_to_user_id": "1800724899201458176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826389377981022686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boyeo817 为什么非要打，直接跑过去就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1826389377981022686",
+        "created_at": "2024-08-21T23:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T00:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826401455970157069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1800724899201458176",
+              "start": 0,
+              "username": "boyeo817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826401455970157069",
+        "in_reply_to_user_id": "1800724899201458176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826389377981022686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boyeo817 为什么非要打，直接跑过去就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800724899201458176",
+        "conversation_id": "1826389377981022686",
+        "created_at": "2024-08-21T22:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T23:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826389377981022686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826389377981022686",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲真的，我之前对黑神话都不怎么感兴趣，今天通宵玩了，整体还是不错的，可惜我打那个大头娃娃就死了十几次，可能是我很少玩这类游戏缘故吧，看的出来剧情向真的很不错！什么时候出一款三国题材的卡牌游戏呢？。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 2223,
+          "like_count": 172259,
+          "listed_count": 10,
+          "tweet_count": 11092
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:01:03.000Z",
+        "description": "很酷不聊天",
+        "id": "1800724899201458176",
+        "name": "伯约",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824821761814528000/NFTDEqui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 11,
+          "like_count": 39,
+          "listed_count": 1,
+          "tweet_count": 5
+        },
+        "username": "boyeo817",
+        "verified": false
+      }
+    ]
+  }
+}

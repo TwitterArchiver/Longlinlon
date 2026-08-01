@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010366780028702720"
+      ],
+      "media_source_tweet_id": [
+        "2010366975684628514"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "2010628419130982419",
+    "created_at": "2026-01-12T08:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T09:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010628419130982419"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "高尾ノエル",
+          "probability": 0.7286,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1016575051846410240",
+          "start": 3,
+          "username": "_burningform"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/12R2zbuKDo",
+          "end": 47,
+          "expanded_url": "https://x.com/_burningform/status/2010366975684628514/photo/1",
+          "media_key": "3_2010366780028702720",
+          "start": 24,
+          "url": "https://t.co/12R2zbuKDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010628419130982419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010366975684628514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_burningform: 高尾ノエル https://t.co/12R2zbuKDo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2010366780028702720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZB71_bUAAVusG.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010366780028702720"
+          ],
+          "media_source_tweet_id": [
+            "2010366975684628514"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "2010628419130982419",
+        "created_at": "2026-01-12T08:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T09:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010628419130982419"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "高尾ノエル",
+              "probability": 0.7286,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1016575051846410240",
+              "start": 3,
+              "username": "_burningform"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/12R2zbuKDo",
+              "end": 47,
+              "expanded_url": "https://x.com/_burningform/status/2010366975684628514/photo/1",
+              "media_key": "3_2010366780028702720",
+              "start": 24,
+              "url": "https://t.co/12R2zbuKDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010628419130982419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010366975684628514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_burningform: 高尾ノエル https://t.co/12R2zbuKDo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010366780028702720"
+          ]
+        },
+        "author_id": "1016575051846410240",
+        "conversation_id": "2010366975684628514",
+        "created_at": "2026-01-11T15:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010366975684628514"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "高尾ノエル",
+              "probability": 0.7331,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/12R2zbuKDo",
+              "end": 29,
+              "expanded_url": "https://x.com/_burningform/status/2010366975684628514/photo/1",
+              "media_key": "3_2010366780028702720",
+              "start": 6,
+              "url": "https://t.co/12R2zbuKDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010366975684628514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4840,
+          "like_count": 367,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "高尾ノエル https://t.co/12R2zbuKDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2496,
+          "like_count": 210859,
+          "listed_count": 9,
+          "media_count": 1369,
+          "tweet_count": 14638
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T06:49:14.000Z",
+        "description": "⚠️無断転載トレス禁止(Do not reupload my art)⚠️ ⚠️AI学習禁止(Do not use my art for Al training)⚠️特撮を中心に雑多/詳細はプロフ参照/25↑成人済/リプ・引用見てます！ありがとう✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/Sk7he71NzTep…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/Sk7he71NzTep7OQL0V0tfS6mjVR2",
+                "start": 0,
+                "url": "https://t.co/4lc30hYq5w"
+              }
+            ]
+          }
+        },
+        "id": "1016575051846410240",
+        "name": "ドンドン⚙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905972053045628928/33lto1I2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 125,
+          "like_count": 85281,
+          "listed_count": 39,
+          "media_count": 1176,
+          "tweet_count": 16672
+        },
+        "url": "https://t.co/4lc30hYq5w",
+        "username": "_burningform",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1908685142283215281",
+    "created_at": "2025-04-06T03:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T04:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908728712658629115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1631228116034265089",
+          "start": 0,
+          "username": "tbhx_officialJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908728712658629115",
+    "in_reply_to_user_id": "1631228116034265089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908685142283215281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tbhx_officialJP lh0你他妈要干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1908685135769460737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0DBLGbYAEBGQk.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1908685142283215281",
+        "created_at": "2025-04-06T03:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T04:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908728712658629115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1631228116034265089",
+              "start": 0,
+              "username": "tbhx_officialJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908728712658629115",
+        "in_reply_to_user_id": "1631228116034265089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908685142283215281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tbhx_officialJP lh0你他妈要干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908685135769460737"
+          ]
+        },
+        "author_id": "1631228116034265089",
+        "conversation_id": "1908685142283215281",
+        "created_at": "2025-04-06T00:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T01:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908685142283215281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "TOBEHEROX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FtGRLPtsN",
+              "end": 34,
+              "expanded_url": "https://x.com/tbhx_officialJP/status/1908685142283215281/photo/1",
+              "media_key": "3_1908685135769460737",
+              "start": 11,
+              "url": "https://t.co/3FtGRLPtsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908685142283215281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 31515,
+          "like_count": 637,
+          "quote_count": 32,
+          "reply_count": 10,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "#TOBEHEROX https://t.co/3FtGRLPtsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 2364,
+          "like_count": 201515,
+          "listed_count": 8,
+          "media_count": 1167,
+          "tweet_count": 13373
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T09:43:30.000Z",
+        "description": "bilibili × Aniplex 新プロジェクト始動！ 「TO BE HERO X」フジテレビほかにて2025年4月6日より日曜朝9時30分放送決定！ #TOBEHEROX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 78,
+                "tag": "TOBEHEROX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tbhx.net",
+                "end": 23,
+                "expanded_url": "https://tbhx.net/",
+                "start": 0,
+                "url": "https://t.co/PRRhl6rbG9"
+              }
+            ]
+          }
+        },
+        "id": "1631228116034265089",
+        "name": "『TO BE HERO X』公式",
+        "pinned_tweet_id": "1908685335598333985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824372326823305216/sI65ODzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44107,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 149,
+          "media_count": 265,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/PRRhl6rbG9",
+        "username": "tbhx_officialJP",
+        "verified": false
+      }
+    ]
+  }
+}

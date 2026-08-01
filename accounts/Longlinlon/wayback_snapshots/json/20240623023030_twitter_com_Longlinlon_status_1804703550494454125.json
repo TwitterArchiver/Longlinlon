@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1804421635694563431",
+    "created_at": "2024-06-23T02:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T03:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804703550494454125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1501231514473799682",
+          "start": 0,
+          "username": "cxmiss_cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804703550494454125",
+    "in_reply_to_user_id": "1501231514473799682",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804702911785795873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxmiss_cc 不是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1804421635694563431",
+        "created_at": "2024-06-23T02:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T03:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804703550494454125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1501231514473799682",
+              "start": 0,
+              "username": "cxmiss_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804703550494454125",
+        "in_reply_to_user_id": "1501231514473799682",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804702911785795873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxmiss_cc 不是你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1501231514473799682",
+        "conversation_id": "1804421635694563431",
+        "created_at": "2024-06-23T02:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T03:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804702911785795873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804702911785795873",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804421635694563431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon sorry 哦，没想到你会讨厌我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1986,
+          "like_count": 141367,
+          "listed_count": 10,
+          "tweet_count": 10176
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T16:21:12.000Z",
+        "description": "男娘‖永远的16岁‖摆烂党‖miku 推‖喜欢cosplay‖高强度网上冲浪‖🚪66/蔚蓝档案玩家",
+        "id": "1501231514473799682",
+        "location": "批发市场",
+        "name": "泷®",
+        "pinned_tweet_id": "1799567580421833050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739386737456226304/M-jcIbh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8054,
+          "following_count": 951,
+          "like_count": 78553,
+          "listed_count": 20,
+          "tweet_count": 2558
+        },
+        "username": "cxmiss_cc",
+        "verified": false
+      }
+    ]
+  }
+}

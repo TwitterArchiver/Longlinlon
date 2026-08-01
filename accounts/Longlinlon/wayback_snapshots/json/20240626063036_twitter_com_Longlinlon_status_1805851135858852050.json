@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805851135858852050",
+    "created_at": "2024-06-26T06:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T07:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805851135858852050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761357247643594752",
+          "start": 3,
+          "username": "mugong5036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805851135858852050",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805839852501692680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugong5036: 这里是子归离，怎么叫我都OK我无所谓（？）\n什么都会一点但是什么都不完全会的傻子，半死不活的玩意儿\n可能会塔罗占卜之类的，不知道能不能接到单，给我送几个大冤种吧上天\n不那么好看（或许是非常难看），喜欢发癫\n偶尔会解锁幼稚小女孩心理\n但是大多数时间…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1805851135858852050].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1805851135858852050",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1805851135858852050"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805839835174944768",
+            "3_1805839849406316546"
+          ]
+        },
+        "author_id": "1761357247643594752",
+        "conversation_id": "1805839852501692680",
+        "created_at": "2024-06-26T05:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T06:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805839852501692680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XxoO9tRmz3",
+              "end": 171,
+              "expanded_url": "https://twitter.com/mugong5036/status/1805839852501692680/photo/1",
+              "media_key": "3_1805839835174944768",
+              "start": 148,
+              "url": "https://t.co/XxoO9tRmz3"
+            },
+            {
+              "display_url": "pic.twitter.com/XxoO9tRmz3",
+              "end": 171,
+              "expanded_url": "https://twitter.com/mugong5036/status/1805839852501692680/photo/1",
+              "media_key": "3_1805839849406316546",
+              "start": 148,
+              "url": "https://t.co/XxoO9tRmz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805839852501692680",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是子归离，怎么叫我都OK我无所谓（？）\n什么都会一点但是什么都不完全会的傻子，半死不活的玩意儿\n可能会塔罗占卜之类的，不知道能不能接到单，给我送几个大冤种吧上天\n不那么好看（或许是非常难看），喜欢发癫\n偶尔会解锁幼稚小女孩心理\n但是大多数时间都是个神经病\n所以请vivo50，谢谢屏幕前的你 https://t.co/XxoO9tRmz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 2012,
+          "like_count": 144091,
+          "listed_count": 10,
+          "tweet_count": 10235
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:47:58.000Z",
+        "description": "药娘，可能也是个神经病，一言蔽之，是个傻逼\n“濒临死亡的鱼终于搁浅在了希望的沙滩上”\ntelegram账号:@muziliiiiiiiii\n二代帐号:@mugong5037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "muziliiiiiiiii"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "mugong5037"
+              }
+            ]
+          }
+        },
+        "id": "1761357247643594752",
+        "name": "子归离🍥",
+        "pinned_tweet_id": "1805839852501692680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 389,
+          "like_count": 12275,
+          "listed_count": 1,
+          "tweet_count": 1651
+        },
+        "username": "mugong5036",
+        "verified": false
+      }
+    ]
+  }
+}

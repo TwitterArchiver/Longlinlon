@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012412855531032576"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "2012383470996107755",
+    "created_at": "2026-01-17T06:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012412858563199273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1237318792364998656",
+          "start": 0,
+          "username": "Honezam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KXIx0R6eYs",
+          "end": 70,
+          "expanded_url": "https://x.com/Longlinlon/status/2012412858563199273/photo/1",
+          "media_key": "3_2012412855531032576",
+          "start": 47,
+          "url": "https://t.co/KXIx0R6eYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012412858563199273",
+    "in_reply_to_user_id": "1237318792364998656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012383470996107755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Honezam He said this on his personal account： https://t.co/KXIx0R6eYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012412855531032576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2G1HNbUAAxRyx.jpg",
+        "width": 142
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2012383463463415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1sGRObcAAUygk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012412855531032576"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "2012383470996107755",
+        "created_at": "2026-01-17T06:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012412858563199273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1237318792364998656",
+              "start": 0,
+              "username": "Honezam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXIx0R6eYs",
+              "end": 70,
+              "expanded_url": "https://x.com/Longlinlon/status/2012412858563199273/photo/1",
+              "media_key": "3_2012412855531032576",
+              "start": 47,
+              "url": "https://t.co/KXIx0R6eYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012412858563199273",
+        "in_reply_to_user_id": "1237318792364998656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012383470996107755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Honezam He said this on his personal account： https://t.co/KXIx0R6eYs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012383463463415808"
+          ]
+        },
+        "author_id": "1237318792364998656",
+        "conversation_id": "2012383470996107755",
+        "created_at": "2026-01-17T04:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012383470996107755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Wolves",
+              "probability": 0.5011,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "2025秋季IVL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FRIFGz63N",
+              "end": 56,
+              "expanded_url": "https://x.com/Honezam/status/2012383470996107755/photo/1",
+              "media_key": "3_2012383463463415808",
+              "start": 33,
+              "url": "https://t.co/4FRIFGz63N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012383470996107755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 67679,
+          "like_count": 1024,
+          "quote_count": 225,
+          "reply_count": 3,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "Wolvesから 487 が脱退しました。\n#2025秋季IVL https://t.co/4FRIFGz63N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤丨精神病丨第五人格人孝子丨表演型人格丨小蛋糕丨单身丨hrt10.11丨捞妹丨IVL，KPL丨特摄丨1999丨龙族丨musedash丨十日终焉丨国拟丨安那其🚩🏴丨王者荣耀丨od丨说记丨杰园丨机囚丨患园丨舞裘丨气弓丨信离丨龙影丨",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2506,
+          "like_count": 210989,
+          "listed_count": 9,
+          "media_count": 1374,
+          "tweet_count": 14675
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T10:06:09.000Z",
+        "description": "Manager at SCARZ",
+        "id": "1237318792364998656",
+        "location": "honezamu@gmail.com",
+        "name": "ほねざむ丶",
+        "pinned_tweet_id": "2007419686984794156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941055469155708928/X2SAXO1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13044,
+          "following_count": 456,
+          "like_count": 34778,
+          "listed_count": 89,
+          "media_count": 3563,
+          "tweet_count": 13678
+        },
+        "username": "Honezam",
+        "verified": true
+      }
+    ]
+  }
+}

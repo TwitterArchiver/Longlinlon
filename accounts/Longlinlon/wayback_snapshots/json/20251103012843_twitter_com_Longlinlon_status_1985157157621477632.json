@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1984166722908385512",
+    "created_at": "2025-11-03T01:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T02:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985157157621477632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        },
+        {
+          "end": 24,
+          "id": "1599311632370323456",
+          "start": 12,
+          "username": "linjiaqi443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985157157621477632",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984166722908385512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning @linjiaqi443"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63685,
+        "height": 660,
+        "media_key": "13_1984166582780866560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984166582780866560/img/3jK70lZXSHSsYsKO.jpg",
+        "public_metrics": {
+          "view_count": 119195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984166582780866560/vid/avc1/492x270/OPCeu7A3-W1wsBOV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984166582780866560/vid/avc1/656x360/JAGpiZUpPM8_ZxMc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984166582780866560/vid/avc1/1206x660/WLRaDKzinpcUCqGO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984166582780866560/pl/68Chq2wquAXfCWxK.m3u8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1984166722908385512",
+        "created_at": "2025-11-03T01:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T02:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985157157621477632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            },
+            {
+              "end": 24,
+              "id": "1599311632370323456",
+              "start": 12,
+              "username": "linjiaqi443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985157157621477632",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984166722908385512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning @linjiaqi443"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984166582780866560"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1984166722908385512",
+        "created_at": "2025-10-31T07:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984166722908385512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnZjovYhbS",
+              "end": 37,
+              "expanded_url": "https://x.com/lover_ning/status/1984166722908385512/video/1",
+              "media_key": "13_1984166582780866560",
+              "start": 14,
+              "url": "https://t.co/QnZjovYhbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984166722908385512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 266354,
+          "like_count": 2914,
+          "quote_count": 94,
+          "reply_count": 317,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "好诡异我不行了谁发明的这个 https://t.co/QnZjovYhbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2504,
+          "like_count": 213729,
+          "listed_count": 9,
+          "media_count": 1347,
+          "tweet_count": 14465
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256748,
+          "following_count": 107,
+          "like_count": 33221,
+          "listed_count": 460,
+          "media_count": 3281,
+          "tweet_count": 28251
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T07:57:22.000Z",
+        "description": "04/ENTP/妖尾/三坑/爱吃果冻/双面不粘锅",
+        "id": "1599311632370323456",
+        "name": "Ling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802386615463227392/lMUI3EZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 62,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "username": "linjiaqi443",
+        "verified": false
+      }
+    ]
+  }
+}

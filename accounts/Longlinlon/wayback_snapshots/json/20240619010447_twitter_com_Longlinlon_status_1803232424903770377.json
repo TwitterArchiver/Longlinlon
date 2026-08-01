@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1803132978635407733",
+    "created_at": "2024-06-19T01:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T02:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803232424903770377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608872873665654784",
+          "start": 0,
+          "username": "yhu37052536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803232424903770377",
+    "in_reply_to_user_id": "1608872873665654784",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803222966567878963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhu37052536 但满庭芳是歌名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1803132978635407733",
+        "created_at": "2024-06-19T01:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T02:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803232424903770377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608872873665654784",
+              "start": 0,
+              "username": "yhu37052536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803232424903770377",
+        "in_reply_to_user_id": "1608872873665654784",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803222966567878963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhu37052536 但满庭芳是歌名"
+      },
+      {
+        "attachments": {},
+        "author_id": "1608872873665654784",
+        "conversation_id": "1803132978635407733",
+        "created_at": "2024-06-19T00:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T01:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803222966567878963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803222966567878963",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803132978635407733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 好思路，以后写小说改改当女主名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1988,
+          "like_count": 140008,
+          "listed_count": 10,
+          "tweet_count": 10124
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T17:09:35.000Z",
+        "description": "一个人独处时可以适当剖析自己的内心；但在别人面前剖析自己就是傻子，会容易让自己处于道德上的不利地位。",
+        "id": "1608872873665654784",
+        "location": "愿与你同在",
+        "name": "之美",
+        "pinned_tweet_id": "1786480627698610360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709574955523096576/K71xay4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1076,
+          "like_count": 30348,
+          "listed_count": 1,
+          "tweet_count": 1643
+        },
+        "username": "yhu37052536",
+        "verified": false
+      }
+    ]
+  }
+}

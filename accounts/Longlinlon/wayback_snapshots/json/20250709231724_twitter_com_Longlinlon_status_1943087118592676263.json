@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1942628588391649396",
+    "created_at": "2025-07-09T23:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T00:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943087118592676263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1926867142512721920",
+          "start": 0,
+          "username": "zhouzhou445612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943087118592676263",
+    "in_reply_to_user_id": "1926867142512721920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942628588391649396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouzhou445612 大妈有零个人在意你性取向🙄🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1942628588391649396",
+        "created_at": "2025-07-09T23:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T00:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943087118592676263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1926867142512721920",
+              "start": 0,
+              "username": "zhouzhou445612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943087118592676263",
+        "in_reply_to_user_id": "1926867142512721920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942628588391649396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouzhou445612 大妈有零个人在意你性取向🙄🙄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926867142512721920",
+        "conversation_id": "1942628588391649396",
+        "created_at": "2025-07-08T16:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942628588391649396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942628588391649396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 42054,
+          "like_count": 63,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把我照片加书签是什么意思 我已经登上男同必吃榜了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2470,
+          "like_count": 211751,
+          "listed_count": 7,
+          "media_count": 1237,
+          "tweet_count": 13952
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T05:05:11.000Z",
+        "description": "万粉账号从0开始了 牛魔的（喜欢女的）",
+        "id": "1926867142512721920",
+        "name": "zhou zhou",
+        "pinned_tweet_id": "1929224245541847261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926867443923701760/_eS_LUjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6484,
+          "following_count": 604,
+          "like_count": 319,
+          "listed_count": 11,
+          "media_count": 33,
+          "tweet_count": 618
+        },
+        "username": "zhouzhou445612",
+        "verified": false
+      }
+    ]
+  }
+}

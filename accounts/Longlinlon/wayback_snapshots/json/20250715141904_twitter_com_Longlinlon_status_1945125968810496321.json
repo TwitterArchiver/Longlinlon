@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1944435857769058678",
+    "created_at": "2025-07-15T14:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T15:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945125968810496321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794199641879351296",
+          "start": 0,
+          "username": "QL_ocean544"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945125968810496321",
+    "in_reply_to_user_id": "1794199641879351296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944996646493811012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QL_ocean544 约炮软件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1944435857769058678",
+        "created_at": "2025-07-15T14:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T15:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945125968810496321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794199641879351296",
+              "start": 0,
+              "username": "QL_ocean544"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945125968810496321",
+        "in_reply_to_user_id": "1794199641879351296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944996646493811012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QL_ocean544 约炮软件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794199641879351296",
+        "conversation_id": "1944435857769058678",
+        "created_at": "2025-07-15T05:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944996646493811012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944996646493811012",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944435857769058678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 光遇呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2470,
+          "like_count": 212518,
+          "listed_count": 0,
+          "media_count": 1244,
+          "tweet_count": 13986
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T02:51:56.000Z",
+        "description": "今天过得好吗？",
+        "id": "1794199641879351296",
+        "location": "鳥船遺跡",
+        "name": "四色洋流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943742789268779008/265ylt_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 314,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 304
+        },
+        "username": "QL_ocean544",
+        "verified": false
+      }
+    ]
+  }
+}

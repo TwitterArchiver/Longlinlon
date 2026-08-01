@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2081332349934162079",
+    "created_at": "2026-07-26T10:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081332349934162079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/naib00/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/naib00/status/2081050982436442411",
+          "start": 14,
+          "url": "https://t.co/4HaW1FhUaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081332349934162079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081050982436442411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "庄园又发婆娘了吗我的婆娘呢 https://t.co/4HaW1FhUaO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9171,
+        "height": 1280,
+        "media_key": "13_2081050920616681472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081050920616681472/img/pB-EKDFRTq2rpp-d.jpg",
+        "public_metrics": {
+          "view_count": 664
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081050920616681472/vid/avc1/320x568/VakPTUd53ntmCGzI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081050920616681472/vid/avc1/480x852/C4TxV2X-6kmetWvr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081050920616681472/vid/avc1/720x1280/3eSujVeLPFw5Nz0b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081050920616681472/pl/YolaY7MFVrHkKvqo.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13421,
+        "height": 1280,
+        "media_key": "13_2081050920612413440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081050920612413440/img/L50ymzeCjlesEfjk.jpg",
+        "public_metrics": {
+          "view_count": 173
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081050920612413440/vid/avc1/320x568/zM9fVK3vUBMfb_Dv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081050920612413440/vid/avc1/480x852/TG6dB99aisx5ctHi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081050920612413440/vid/avc1/720x1280/CSVFa-QgOrg-1qBu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081050920612413440/pl/GNSJkcbYgUKD__RK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2081332349934162079",
+        "created_at": "2026-07-26T10:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081332349934162079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naib00/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/naib00/status/2081050982436442411",
+              "start": 14,
+              "url": "https://t.co/4HaW1FhUaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081332349934162079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081050982436442411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "庄园又发婆娘了吗我的婆娘呢 https://t.co/4HaW1FhUaO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081050920616681472",
+            "13_2081050920612413440"
+          ]
+        },
+        "author_id": "1999939632830758912",
+        "conversation_id": "2081050982436442411",
+        "created_at": "2026-07-25T16:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081050982436442411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2tCtRDNvFN",
+              "end": 30,
+              "expanded_url": "https://x.com/naib00/status/2081050982436442411/video/1",
+              "media_key": "13_2081050920616681472",
+              "start": 7,
+              "url": "https://t.co/2tCtRDNvFN"
+            },
+            {
+              "display_url": "pic.x.com/2tCtRDNvFN",
+              "end": 30,
+              "expanded_url": "https://x.com/naib00/status/2081050982436442411/video/1",
+              "media_key": "13_2081050920612413440",
+              "start": 7,
+              "url": "https://t.co/2tCtRDNvFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081050982436442411",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1496,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "틱놀만이햇다 https://t.co/2tCtRDNvFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2511,
+          "like_count": 206491,
+          "listed_count": 7,
+          "media_count": 1401,
+          "tweet_count": 14900
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T20:29:19.000Z",
+        "description": "어째서 우리는 장원에 가야할까?\n제작진은 장원의 진실을 알기 위해 어두운 호수마을로",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/naib00",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/naib00",
+                "start": 0,
+                "url": "https://t.co/29CUJOTfIi"
+              }
+            ]
+          }
+        },
+        "id": "1999939632830758912",
+        "location": "🧲🤕",
+        "name": "8",
+        "pinned_tweet_id": "2059625329929703607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074543825780142080/J8pLflUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 59,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/29CUJOTfIi",
+        "username": "naib00",
+        "verified": false
+      }
+    ]
+  }
+}

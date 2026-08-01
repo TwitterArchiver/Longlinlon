@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2014335137522323889",
+    "created_at": "2026-01-23T07:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014604615166427382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421301972007849986",
+          "start": 0,
+          "username": "pbpp10521715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014604615166427382",
+    "in_reply_to_user_id": "1421301972007849986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014350641251160256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbpp10521715 你自己带入怪谁，你自己看你这样也觉得自己配当标准成年男性吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2014335137522323889",
+        "created_at": "2026-01-23T07:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014604615166427382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421301972007849986",
+              "start": 0,
+              "username": "pbpp10521715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014604615166427382",
+        "in_reply_to_user_id": "1421301972007849986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014350641251160256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbpp10521715 你自己带入怪谁，你自己看你这样也觉得自己配当标准成年男性吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "2014335137522323889",
+        "created_at": "2026-01-22T14:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014350641251160256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014350641251160256",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014335137522323889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 原po预设社会化程度高的成年人都是人渣你不说话了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤丨精神病丨第五人格人孝子丨表演型人格丨小蛋糕丨单身丨hrt10.11丨捞妹丨IVL，KPL丨特摄丨1999丨龙族丨musedash丨十日终焉丨国拟丨安那其🚩🏴丨王者荣耀丨od丨说记丨杰园丨机囚丨患园丨舞裘丨气弓丨信离丨龙影丨",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 2516,
+          "like_count": 210972,
+          "listed_count": 9,
+          "media_count": 1374,
+          "tweet_count": 14688
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "命比丝袜薄，脑子🧠想到什么发什么",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005189372724027392/wrCnH6l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12644,
+          "following_count": 473,
+          "like_count": 24156,
+          "listed_count": 26,
+          "media_count": 846,
+          "tweet_count": 9203
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

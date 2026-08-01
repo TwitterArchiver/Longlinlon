@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946415401673318400"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1946415405213610470",
+    "created_at": "2025-07-19T03:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T04:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946415405213610470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKTCjyzPdw",
+          "end": 29,
+          "expanded_url": "https://x.com/Longlinlon/status/1946415405213610470/photo/1",
+          "media_key": "3_1946415401673318400",
+          "start": 6,
+          "url": "https://t.co/bKTCjyzPdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946415405213610470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好暧昧。。 https://t.co/bKTCjyzPdw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_1946415401673318400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwMOfsoWYAAsF7Q.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946415401673318400"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1946415405213610470",
+        "created_at": "2025-07-19T03:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946415405213610470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKTCjyzPdw",
+              "end": 29,
+              "expanded_url": "https://x.com/Longlinlon/status/1946415405213610470/photo/1",
+              "media_key": "3_1946415401673318400",
+              "start": 6,
+              "url": "https://t.co/bKTCjyzPdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946415405213610470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好暧昧。。 https://t.co/bKTCjyzPdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2476,
+          "like_count": 212698,
+          "listed_count": 0,
+          "media_count": 1250,
+          "tweet_count": 14018
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1934579861206806883",
+    "created_at": "2025-06-17T06:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T07:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934859785285062972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292518508215992322",
+          "start": 0,
+          "username": "ReversedFrontTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934859785285062972",
+    "in_reply_to_user_id": "1292518508215992322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934579861206806883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReversedFrontTW 我磕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1934579851857739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkCIBubwAAE0sN.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1934579861206806883",
+        "created_at": "2025-06-17T06:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934859785285062972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292518508215992322",
+              "start": 0,
+              "username": "ReversedFrontTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934859785285062972",
+        "in_reply_to_user_id": "1292518508215992322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934579861206806883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReversedFrontTW 我磕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934579851857739776"
+          ]
+        },
+        "author_id": "1292518508215992322",
+        "conversation_id": "1934579861206806883",
+        "created_at": "2025-06-16T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934579861206806883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "逆统战烽火"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViMuu6N4FQ",
+              "end": 140,
+              "expanded_url": "https://x.com/ReversedFrontTW/status/1934579861206806883/photo/1",
+              "media_key": "3_1934579851857739776",
+              "start": 117,
+              "url": "https://t.co/ViMuu6N4FQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934579861206806883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 18083,
+          "like_count": 428,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "《逆统战：烽火》曾经的协力团体共青团如今面对政治压力而被迫与我们割席，开发团队选择理解与尊重，祝福共青团一切平安，也感谢共青团曾经带给我们那么好的角色设定与剧情。\n\n#逆统战烽火 这段感情只有我在付出.jpg\n感谢消息来源 奶茶同萌 https://t.co/ViMuu6N4FQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2444,
+          "like_count": 209452,
+          "listed_count": 7,
+          "media_count": 1217,
+          "tweet_count": 13795
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T17:50:11.000Z",
+        "description": "现代东亚国战手游《逆统战：烽火》安卓APK游戏安装档下载：https://t.co/HJ8z56sJNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "app.filen.io/#/d/072e5aa6-5…",
+                "end": 52,
+                "expanded_url": "https://app.filen.io/#/d/072e5aa6-5671-4f3b-ae53-facfc4db4634%23CuXSSIKO1TCEeXSofa1JR8ZoOWwOmQI4",
+                "start": 29,
+                "url": "https://t.co/HJ8z56sJNQ"
+              }
+            ]
+          }
+        },
+        "id": "1292518508215992322",
+        "name": "逆統戰：烽火 Reversed Front: Bonfire",
+        "pinned_tweet_id": "1927966928607338705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679048240510160897/YXcxgshb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14887,
+          "following_count": 337,
+          "like_count": 2224,
+          "listed_count": 41,
+          "media_count": 425,
+          "tweet_count": 2719
+        },
+        "username": "ReversedFrontTW",
+        "verified": true
+      }
+    ]
+  }
+}

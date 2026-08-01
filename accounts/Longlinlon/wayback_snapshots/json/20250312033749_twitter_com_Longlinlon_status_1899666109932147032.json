@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1899666109932147032",
+    "created_at": "2025-03-12T03:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T04:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899666109932147032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/damatte8964/status/1899474080811938175",
+          "start": 7,
+          "url": "https://t.co/x1TVaJ3Sgs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899666109932147032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899474080811938175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽说的好好 https://t.co/x1TVaJ3Sgs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1899666109932147032",
+        "created_at": "2025-03-12T03:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T04:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899666109932147032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/damatte8964/status/1899474080811938175",
+              "start": 7,
+              "url": "https://t.co/x1TVaJ3Sgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899666109932147032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899474080811938175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽说的好好 https://t.co/x1TVaJ3Sgs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1899474080811938175",
+        "created_at": "2025-03-11T14:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T15:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899474080811938175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899474080811938175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6019,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人常常把对异性的嫉妒理解成爱，把对同性的爱理解成嫉妒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 2335,
+          "like_count": 197988,
+          "listed_count": 8,
+          "media_count": 1135,
+          "tweet_count": 13072
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*｜我系小咪呀｜有人格障碍和精神疾病抱歉｜ACG｜ボカロ｜你觉得我是什么人我就是什么人｜感谢你来看我OwO",
+        "id": "1747931023277502465",
+        "location": "🚪99/198",
+        "name": "想帮男友乳交结果发现奶子不够大愤而撞墙自杀",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29685,
+          "following_count": 640,
+          "like_count": 4748,
+          "listed_count": 35,
+          "media_count": 93,
+          "tweet_count": 1632
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

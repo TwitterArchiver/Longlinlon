@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1828413803807285403",
+    "created_at": "2024-08-27T13:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T14:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828430774296813864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800741229296271360",
+          "start": 0,
+          "username": "Abydos_RF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828430774296813864",
+    "in_reply_to_user_id": "1800741229296271360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828413803807285403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abydos_RF 两万这个宿舍还是算了吧，我学校7000都和这个差不多，甚至上床下桌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1828413803807285403",
+        "created_at": "2024-08-27T13:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T14:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828430774296813864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800741229296271360",
+              "start": 0,
+              "username": "Abydos_RF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828430774296813864",
+        "in_reply_to_user_id": "1800741229296271360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828413803807285403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abydos_RF 两万这个宿舍还是算了吧，我学校7000都和这个差不多，甚至上床下桌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828413782642634752"
+          ]
+        },
+        "author_id": "1800741229296271360",
+        "conversation_id": "1828413803807285403",
+        "created_at": "2024-08-27T12:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T13:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828413803807285403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b56mf3u6si",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Abydos_RF/status/1828413803807285403/photo/1",
+              "media_key": "3_1828413782642634752",
+              "start": 64,
+              "url": "https://t.co/B56MF3U6si"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828413803807285403",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然弹幕做题家全在嘲讽这大专，什么“可惜我高考在试卷上踩了几脚，不然也可以来这里读书”😹，但如果真让我住，我马上给学校歌功颂德 https://t.co/B56MF3U6si"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 2225,
+          "like_count": 173357,
+          "listed_count": 10,
+          "tweet_count": 11159
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T04:05:59.000Z",
+        "description": "尊重所有人的温和白子 永远爱你哦🥰\n@Fiammetta1453的逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Fiammetta1453"
+              }
+            ]
+          }
+        },
+        "id": "1800741229296271360",
+        "name": "阿拜多斯圆脸💚💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800742516586946560/jZYDLjGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 169,
+          "like_count": 618,
+          "listed_count": 0,
+          "tweet_count": 90
+        },
+        "username": "Abydos_RF",
+        "verified": false
+      }
+    ]
+  }
+}

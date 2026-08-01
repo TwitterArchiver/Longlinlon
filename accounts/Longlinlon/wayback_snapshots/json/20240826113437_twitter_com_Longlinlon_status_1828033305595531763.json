@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1828003239507431804",
+    "created_at": "2024-08-26T11:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T12:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828033305595531763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1820843841190256640",
+          "start": 0,
+          "username": "KiraAme3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828033305595531763",
+    "in_reply_to_user_id": "1820843841190256640",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828003239507431804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraAme3 妈呀6书签"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1828003239507431804",
+        "created_at": "2024-08-26T11:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T12:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828033305595531763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1820843841190256640",
+              "start": 0,
+              "username": "KiraAme3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828033305595531763",
+        "in_reply_to_user_id": "1820843841190256640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828003239507431804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraAme3 妈呀6书签"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1828003222075977728"
+          ]
+        },
+        "author_id": "1820843841190256640",
+        "conversation_id": "1828003239507431804",
+        "created_at": "2024-08-26T09:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T10:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828003239507431804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vf4asunxw7",
+              "end": 28,
+              "expanded_url": "https://twitter.com/KiraAme3/status/1828003239507431804/video/1",
+              "media_key": "7_1828003222075977728",
+              "start": 5,
+              "url": "https://t.co/Vf4AsuNxW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828003239507431804",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 481,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "简单一射 https://t.co/Vf4AsuNxW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 2222,
+          "like_count": 173197,
+          "listed_count": 10,
+          "tweet_count": 11147
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:26:26.000Z",
+        "description": "Kira三代目 分身@kirakira4th",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "kirakira4th"
+              }
+            ]
+          }
+        },
+        "id": "1820843841190256640",
+        "name": "雨天倒带",
+        "pinned_tweet_id": "1820851418158526501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825903369879433223/UfIOGKvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 691,
+          "like_count": 2979,
+          "listed_count": 0,
+          "tweet_count": 1065
+        },
+        "username": "KiraAme3",
+        "verified": false
+      }
+    ]
+  }
+}

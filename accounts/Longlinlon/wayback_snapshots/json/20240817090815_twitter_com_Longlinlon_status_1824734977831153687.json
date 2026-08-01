@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1824647838166552701",
+    "created_at": "2024-08-17T09:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T10:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824734977831153687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748346218722340864",
+          "start": 0,
+          "username": "Los_Ka1ser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824734977831153687",
+    "in_reply_to_user_id": "1748346218722340864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824647838166552701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Los_Ka1ser 笑点解析之平等合法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1824647838166552701",
+        "created_at": "2024-08-17T09:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T10:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824734977831153687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748346218722340864",
+              "start": 0,
+              "username": "Los_Ka1ser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824734977831153687",
+        "in_reply_to_user_id": "1748346218722340864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824647838166552701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Los_Ka1ser 笑点解析之平等合法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748346218722340864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1824647838166552701",
+        "created_at": "2024-08-17T03:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T04:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824647838166552701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824647838166552701",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2557,
+          "like_count": 17,
+          "quote_count": 16,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不反lgbt，但lgbt就是要严格对未成年人管控，跨性别hrt等更是得满成年后才能进行，在保证平等合法的情况下只留最基本的性教育。\n其他可能伤害未成年人身健康的思想都该被严控或禁止。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 2212,
+          "like_count": 170862,
+          "listed_count": 10,
+          "tweet_count": 11012
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T14:06:37.000Z",
+        "description": "TNO同人学习制作中，欢迎各位和我聊天，意识形态是秘传孙笑川主义&候国玉思想 侍卫长@Los_AEIOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Los_AEIOU"
+              }
+            ]
+          }
+        },
+        "id": "1748346218722340864",
+        "location": "桜が丘女子高等学校",
+        "name": "Los",
+        "pinned_tweet_id": "1803298001693319261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823373815453548544/za0Eu7WR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 440,
+          "like_count": 5281,
+          "listed_count": 2,
+          "tweet_count": 3154
+        },
+        "username": "Los_Ka1ser",
+        "verified": false
+      }
+    ]
+  }
+}

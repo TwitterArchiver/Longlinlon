@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1826175442963017768",
+    "created_at": "2024-08-21T09:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T10:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826193402423365763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "916758476080128000",
+          "start": 0,
+          "username": "nyanyakodayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826193402423365763",
+    "in_reply_to_user_id": "916758476080128000",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826175442963017768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyakodayo 支持喵😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1826175442963017768",
+        "created_at": "2024-08-21T09:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T10:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826193402423365763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "916758476080128000",
+              "start": 0,
+              "username": "nyanyakodayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826193402423365763",
+        "in_reply_to_user_id": "916758476080128000",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826175442963017768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyakodayo 支持喵😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "916758476080128000",
+        "conversation_id": "1826175442963017768",
+        "created_at": "2024-08-21T08:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T09:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826175442963017768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyanyakodayo/s…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/nyanyakodayo/status/1826158644976886225",
+              "start": 94,
+              "url": "https://t.co/99XsHBGfO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826175442963017768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1329,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826158644976886225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都推荐说换电脑，我觉得这关我什么事情，下载游戏是我的责任，运行游戏是电脑的责任，电脑配置不够，没有空间，它不会自己努力吗？不会自己创造条件克服一下困难吗？凭什么要我出钱，太不讲理了💢 https://t.co/99XsHBGfO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 2221,
+          "like_count": 171980,
+          "listed_count": 10,
+          "tweet_count": 11078
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-07T20:13:48.000Z",
+        "description": "我永远喜欢初音未来🌱✨",
+        "id": "916758476080128000",
+        "location": "喵子星",
+        "name": "喵喵子",
+        "pinned_tweet_id": "1742127993991188544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667069956398227457/HO1XCO5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37485,
+          "following_count": 787,
+          "like_count": 17712,
+          "listed_count": 94,
+          "tweet_count": 29677
+        },
+        "username": "nyanyakodayo",
+        "verified": false
+      }
+    ]
+  }
+}

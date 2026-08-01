@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1936368866461986816"
+      ],
+      "media_source_tweet_id": [
+        "1936369191415881889"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1936771769085645308",
+    "created_at": "2025-06-22T13:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T14:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936771769085645308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 16,
+          "tag": "RevengedLove"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "逆爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1237992251294248960",
+          "start": 3,
+          "username": "chaixioayu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TldnRsehRc",
+          "end": 66,
+          "expanded_url": "https://x.com/chaixioayu/status/1936369191415881889/video/1",
+          "media_key": "13_1936368866461986816",
+          "start": 43,
+          "url": "https://t.co/TldnRsehRc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936771769085645308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3717
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936369191415881889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @chaixioayu: #RevengedLove \n办公室play\n#逆爱 https://t.co/TldnRsehRc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90666,
+        "height": 1280,
+        "media_key": "13_1936368866461986816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936368866461986816/img/FJSYyg__IjDthr_S.jpg",
+        "public_metrics": {
+          "view_count": 926345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/vid/avc1/320x568/bAdWIEDxjcg2Da_L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/vid/avc1/480x852/RB_BQgLuE3rPzLCi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/vid/avc1/720x1280/beyM70gtWHzgkQrN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936368866461986816/pl/e18V4jfpId7B8CYI.m3u8?v=ffc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936368866461986816"
+          ],
+          "media_source_tweet_id": [
+            "1936369191415881889"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936771769085645308",
+        "created_at": "2025-06-22T13:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936771769085645308"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "RevengedLove"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "逆爱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1237992251294248960",
+              "start": 3,
+              "username": "chaixioayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TldnRsehRc",
+              "end": 66,
+              "expanded_url": "https://x.com/chaixioayu/status/1936369191415881889/video/1",
+              "media_key": "13_1936368866461986816",
+              "start": 43,
+              "url": "https://t.co/TldnRsehRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936771769085645308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3717
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936369191415881889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @chaixioayu: #RevengedLove \n办公室play\n#逆爱 https://t.co/TldnRsehRc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936368866461986816"
+          ]
+        },
+        "author_id": "1237992251294248960",
+        "conversation_id": "1936369191415881889",
+        "created_at": "2025-06-21T10:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936369191415881889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "RevengedLove"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "逆爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TldnRsehRc",
+              "end": 50,
+              "expanded_url": "https://x.com/chaixioayu/status/1936369191415881889/video/1",
+              "media_key": "13_1936368866461986816",
+              "start": 27,
+              "url": "https://t.co/TldnRsehRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936369191415881889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9616,
+          "impression_count": 1128450,
+          "like_count": 37110,
+          "quote_count": 204,
+          "reply_count": 28,
+          "retweet_count": 3717
+        },
+        "reply_settings": "verified",
+        "text": "#RevengedLove \n办公室play\n#逆爱 https://t.co/TldnRsehRc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2446,
+          "like_count": 210490,
+          "listed_count": 7,
+          "media_count": 1226,
+          "tweet_count": 13850
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T06:42:15.000Z",
+        "description": "",
+        "id": "1237992251294248960",
+        "location": "Beijing",
+        "name": "Rain",
+        "pinned_tweet_id": "1936571421758787728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936505602143875072/4HXiNnGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 149,
+          "like_count": 5493,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 40
+        },
+        "username": "chaixioayu",
+        "verified": false
+      }
+    ]
+  }
+}

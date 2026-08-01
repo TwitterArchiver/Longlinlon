@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1924035063186157705",
+    "created_at": "2025-05-18T14:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T15:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924113422985367643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1422610674182541312",
+          "start": 0,
+          "username": "fyiere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924113422985367643",
+    "in_reply_to_user_id": "1422610674182541312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924035063186157705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fyiere 😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_1924034865319591936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOLhBrXQAAhORD.jpg",
+        "width": 1024
+      },
+      {
+        "height": 632,
+        "media_key": "3_1924034865235673088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOLhBXWwAAGnkX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1924035063186157705",
+        "created_at": "2025-05-18T14:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T15:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924113422985367643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1422610674182541312",
+              "start": 0,
+              "username": "fyiere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924113422985367643",
+        "in_reply_to_user_id": "1422610674182541312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924035063186157705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fyiere 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924034865319591936",
+            "3_1924034865235673088"
+          ]
+        },
+        "author_id": "1422610674182541312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924035063186157705",
+        "created_at": "2025-05-18T09:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T10:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924035063186157705"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "TBHXe7",
+              "probability": 0.6563,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "TBHXe7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsXndlD3uD",
+              "end": 80,
+              "expanded_url": "https://x.com/fyiere/status/1924035063186157705/photo/1",
+              "media_key": "3_1924034865319591936",
+              "start": 57,
+              "url": "https://t.co/AsXndlD3uD"
+            },
+            {
+              "display_url": "pic.x.com/AsXndlD3uD",
+              "end": 80,
+              "expanded_url": "https://x.com/fyiere/status/1924035063186157705/photo/1",
+              "media_key": "3_1924034865235673088",
+              "start": 57,
+              "url": "https://t.co/AsXndlD3uD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924035063186157705",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 4203,
+          "like_count": 566,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Isn’t it crazy that they both lost their e-souls #TBHXe7 https://t.co/AsXndlD3uD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2419,
+          "like_count": 205805,
+          "listed_count": 9,
+          "media_count": 1192,
+          "tweet_count": 13600
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T17:30:04.000Z",
+        "description": "art || multifandom but mostly HSR and TBHX || repost ok w/credit",
+        "id": "1422610674182541312",
+        "name": "Fie | TBHX arc",
+        "pinned_tweet_id": "1882460301393866827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806759601825853440/umOa2K7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 246,
+          "like_count": 7062,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 133
+        },
+        "username": "fyiere",
+        "verified": false
+      }
+    ]
+  }
+}

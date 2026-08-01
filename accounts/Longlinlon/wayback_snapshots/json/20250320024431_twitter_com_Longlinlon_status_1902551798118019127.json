@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1902551289697009842",
+    "created_at": "2025-03-20T02:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T03:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902551798118019127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902551798118019127",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902551289697009842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyndicalismCat 排后面去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1902551289697009842",
+        "created_at": "2025-03-20T02:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T03:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902551798118019127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902551798118019127",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902551289697009842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 排后面去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "1902551289697009842",
+        "created_at": "2025-03-20T02:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T03:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902551289697009842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902551289697009842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看自己照片看的有点水仙倾向了 香草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2345,
+          "like_count": 199997,
+          "listed_count": 9,
+          "media_count": 1149,
+          "tweet_count": 13200
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "哈基汪@Nekomimiawa @4s7Ra1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Nekomimiawa"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "username": "4s7Ra1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/XWEE9pDW0i"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻哈基米",
+        "pinned_tweet_id": "1888584972245909717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890621422357360640/h4Epa7mB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 1168,
+          "like_count": 124641,
+          "listed_count": 9,
+          "media_count": 1447,
+          "tweet_count": 18074
+        },
+        "url": "https://t.co/XWEE9pDW0i",
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

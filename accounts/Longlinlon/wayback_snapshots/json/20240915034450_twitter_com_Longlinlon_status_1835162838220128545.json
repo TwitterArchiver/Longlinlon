@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1835162838220128545",
+    "created_at": "2024-09-15T03:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T04:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835162838220128545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1834922558589923649",
+          "start": 22,
+          "url": "https://t.co/G4VXwK2BWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835162838220128545",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834922558589923649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续结果是他转姓安了然后我现在是个走资派喵 https://t.co/G4VXwK2BWr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1835162838220128545",
+        "created_at": "2024-09-15T03:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T04:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835162838220128545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1834922558589923649",
+              "start": 22,
+              "url": "https://t.co/G4VXwK2BWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835162838220128545",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834922558589923649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续结果是他转姓安了然后我现在是个走资派喵 https://t.co/G4VXwK2BWr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1834922558589923649",
+        "created_at": "2024-09-14T11:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T12:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834922558589923649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l4824112951562…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/l4824112951562/status/1832424175627309225",
+              "start": 15,
+              "url": "https://t.co/nRHVeobcQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834922558589923649",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832424175627309225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14岁为了追暗恋哥疯狂读左经 https://t.co/nRHVeobcQB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 2220,
+          "like_count": 175102,
+          "listed_count": 10,
+          "tweet_count": 11350
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

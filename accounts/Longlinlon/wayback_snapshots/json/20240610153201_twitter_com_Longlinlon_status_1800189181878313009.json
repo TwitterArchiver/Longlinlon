@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1800189181878313009",
+    "created_at": "2024-06-10T15:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T16:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800189181878313009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1565591413282476033",
+          "start": 3,
+          "username": "sakanadesu0449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800189181878313009",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800056815897719177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakanadesu0449: 没事的，当你觉得自己很没用时，不妨看看画师在bio里写的禁止ai训练"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1800189181878313009",
+        "created_at": "2024-06-10T15:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T16:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800189181878313009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1565591413282476033",
+              "start": 3,
+              "username": "sakanadesu0449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800189181878313009",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800056815897719177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakanadesu0449: 没事的，当你觉得自己很没用时，不妨看看画师在bio里写的禁止ai训练"
+      },
+      {
+        "attachments": {},
+        "author_id": "1565591413282476033",
+        "conversation_id": "1800056815897719177",
+        "created_at": "2024-06-10T06:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T07:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800056815897719177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800056815897719177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1058,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没事的，当你觉得自己很没用时，不妨看看画师在bio里写的禁止ai训练"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1987,
+          "like_count": 139366,
+          "listed_count": 9,
+          "tweet_count": 9980
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "",
+        "id": "1565591413282476033",
+        "name": "魚",
+        "pinned_tweet_id": "1787032533068341576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 1051,
+          "like_count": 8674,
+          "listed_count": 5,
+          "tweet_count": 18693
+        },
+        "username": "sakanadesu0449",
+        "verified": false
+      }
+    ]
+  }
+}

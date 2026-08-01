@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792939784018821419",
+    "created_at": "2024-05-21T15:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T16:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792939784018821419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ysyxssssh/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ysyxssssh/status/1792938813083332984",
+          "start": 23,
+          "url": "https://t.co/gBz4ZhfWmK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792939784018821419",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792938813083332984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不开心的有钱人可以把钱给我 我替你开心一下🤒 https://t.co/gBz4ZhfWmK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792939784018821419",
+        "created_at": "2024-05-21T15:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T16:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792939784018821419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ysyxssssh/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ysyxssssh/status/1792938813083332984",
+              "start": 23,
+              "url": "https://t.co/gBz4ZhfWmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792939784018821419",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792938813083332984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不开心的有钱人可以把钱给我 我替你开心一下🤒 https://t.co/gBz4ZhfWmK"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553716160243281921",
+        "conversation_id": "1792938813083332984",
+        "created_at": "2024-05-21T15:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T16:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792938813083332984"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792938813083332984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不开心的有钱人可以把钱给我 我替你开心一下🤒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 1966,
+          "like_count": 130788,
+          "listed_count": 9,
+          "tweet_count": 9486
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T12:16:23.000Z",
+        "description": "13岁/女初/风湿/眼镜妹",
+        "id": "1553716160243281921",
+        "name": "Ms.bean",
+        "pinned_tweet_id": "1787183008937922857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729198137934532608/_uyHDla9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 401,
+          "like_count": 25485,
+          "listed_count": 5,
+          "tweet_count": 4273
+        },
+        "username": "ysyxssssh",
+        "verified": false
+      }
+    ]
+  }
+}

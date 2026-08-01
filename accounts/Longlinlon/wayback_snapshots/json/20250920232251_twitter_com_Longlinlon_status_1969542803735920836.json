@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1969432323683991916",
+    "created_at": "2025-09-20T23:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T00:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969542803735920836"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "wiggin",
+          "probability": 0.5023,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810686092137627648",
+          "start": 0,
+          "username": "chong4shi4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969542803735920836",
+    "in_reply_to_user_id": "1810686092137627648",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969467663668666724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chong4shi4 wiggin"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1969467663668666724].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1969467663668666724",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1969467663668666724"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1969432323683991916",
+        "created_at": "2025-09-20T23:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969542803735920836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "wiggin",
+              "probability": 0.5023,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810686092137627648",
+              "start": 0,
+              "username": "chong4shi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969542803735920836",
+        "in_reply_to_user_id": "1810686092137627648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969467663668666724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chong4shi4 wiggin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "艾达是病患和园丁的亲妈-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2513,
+          "like_count": 215257,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 14317
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T14:43:12.000Z",
+        "description": "isfp/民主社/中表🇨🇳藏表🇷🇪/汉字改良/不通过鉴证哥哈/只要你搞表说话不味大 主播都可以聊！",
+        "id": "1810686092137627648",
+        "location": "卢关革命委员会",
+        "name": "主席女孩重度依赖🏁🏳️",
+        "pinned_tweet_id": "1957893429524066367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954635895782723584/Vq6LnYnp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 224,
+          "like_count": 16207,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 2270
+        },
+        "username": "chong4shi4",
+        "verified": false
+      }
+    ]
+  }
+}

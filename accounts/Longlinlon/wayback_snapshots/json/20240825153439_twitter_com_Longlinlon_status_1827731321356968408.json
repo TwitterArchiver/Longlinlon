@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1827337741215859052",
+    "created_at": "2024-08-25T15:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T16:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827731321356968408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "762277482238050304",
+          "start": 0,
+          "username": "xMBGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827731321356968408",
+    "in_reply_to_user_id": "762277482238050304",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827337741215859052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xMBGx no"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1827337741215859052",
+        "created_at": "2024-08-25T15:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T16:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827731321356968408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "762277482238050304",
+              "start": 0,
+              "username": "xMBGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827731321356968408",
+        "in_reply_to_user_id": "762277482238050304",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827337741215859052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xMBGx no"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827337739273986049"
+          ]
+        },
+        "author_id": "762277482238050304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1827337741215859052",
+        "created_at": "2024-08-24T13:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T14:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827337741215859052"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Black Myth Wukong",
+              "probability": 0.6935,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vregx9uzr9",
+              "end": 78,
+              "expanded_url": "https://twitter.com/xMBGx/status/1827337741215859052/photo/1",
+              "media_key": "3_1827337739273986049",
+              "start": 55,
+              "url": "https://t.co/vrEGx9uzR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827337741215859052",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 1073763,
+          "like_count": 4523,
+          "quote_count": 86,
+          "reply_count": 728,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "Is Black Myth Wukong as good as you expected it to be? https://t.co/vrEGx9uzR9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 2221,
+          "like_count": 173086,
+          "listed_count": 10,
+          "tweet_count": 11141
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-07T13:21:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/MuscleBoundG…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/MuscleBoundGamer",
+                "start": 0,
+                "url": "https://t.co/YFceRNo2It"
+              }
+            ]
+          }
+        },
+        "id": "762277482238050304",
+        "location": "United States",
+        "name": "MBG",
+        "pinned_tweet_id": "1746200470706692127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810412627409133568/qTnLYM_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68415,
+          "following_count": 40,
+          "like_count": 11460,
+          "listed_count": 191,
+          "tweet_count": 15652
+        },
+        "url": "https://t.co/YFceRNo2It",
+        "username": "xMBGx",
+        "verified": true
+      }
+    ]
+  }
+}

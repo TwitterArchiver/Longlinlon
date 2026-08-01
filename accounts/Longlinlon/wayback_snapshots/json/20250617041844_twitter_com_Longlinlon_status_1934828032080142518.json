@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934828029349679104"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1934828032080142518",
+    "created_at": "2025-06-17T04:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T05:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934828032080142518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u57DRB5whm",
+          "end": 32,
+          "expanded_url": "https://x.com/Longlinlon/status/1934828032080142518/photo/1",
+          "media_key": "3_1934828029349679104",
+          "start": 9,
+          "url": "https://t.co/u57DRB5whm"
+        },
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/codyhunk/status/1934513975372415277",
+          "start": 33,
+          "url": "https://t.co/O4zrxQV6tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934828032080142518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934513975372415277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我老公怎么还没火 https://t.co/u57DRB5whm https://t.co/O4zrxQV6tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 422,
+        "media_key": "3_1934828029349679104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtnj127bUAAiLWF.jpg",
+        "width": 426
+      },
+      {
+        "height": 1142,
+        "media_key": "3_1934513964710608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtjGM4-bwAApzSk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934828029349679104"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934828032080142518",
+        "created_at": "2025-06-17T04:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934828032080142518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u57DRB5whm",
+              "end": 32,
+              "expanded_url": "https://x.com/Longlinlon/status/1934828032080142518/photo/1",
+              "media_key": "3_1934828029349679104",
+              "start": 9,
+              "url": "https://t.co/u57DRB5whm"
+            },
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/codyhunk/status/1934513975372415277",
+              "start": 33,
+              "url": "https://t.co/O4zrxQV6tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934828032080142518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934513975372415277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老公怎么还没火 https://t.co/u57DRB5whm https://t.co/O4zrxQV6tm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934513964710608896"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1934513975372415277",
+        "created_at": "2025-06-16T07:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934513975372415277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJbxKWuBuv",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1934513975372415277/photo/1",
+              "media_key": "3_1934513964710608896",
+              "start": 0,
+              "url": "https://t.co/fJbxKWuBuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934513975372415277",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 81855,
+          "like_count": 622,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fJbxKWuBuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2443,
+          "like_count": 209373,
+          "listed_count": 7,
+          "media_count": 1217,
+          "tweet_count": 13794
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图。没啥雷点，对任何群体都保持友好。爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏(互fo",
+        "pinned_tweet_id": "1932670284546650154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3795,
+          "following_count": 667,
+          "like_count": 988,
+          "listed_count": 5,
+          "media_count": 1636,
+          "tweet_count": 1813
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

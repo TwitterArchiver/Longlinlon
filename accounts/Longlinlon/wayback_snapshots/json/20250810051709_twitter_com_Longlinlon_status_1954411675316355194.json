@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1954184607169122497",
+    "created_at": "2025-08-10T05:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T06:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954411675316355194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1167281110394392576",
+          "start": 0,
+          "username": "Paker428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954411675316355194",
+    "in_reply_to_user_id": "1167281110394392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954184607169122497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paker428 那很爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1954184607169122497",
+        "created_at": "2025-08-10T05:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T06:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954411675316355194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1167281110394392576",
+              "start": 0,
+              "username": "Paker428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954411675316355194",
+        "in_reply_to_user_id": "1167281110394392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954184607169122497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paker428 那很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167281110394392576",
+        "conversation_id": "1954184607169122497",
+        "created_at": "2025-08-09T14:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T15:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954184607169122497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954184607169122497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5088,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在地铁上拎着奶茶，被小朋友拿着东方明珠玩具戳屁股了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "庄园访客-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2484,
+          "like_count": 213460,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 14138
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-30T03:41:26.000Z",
+        "description": "喵喵｜喵喵喵喵喵喵喵喵喵！",
+        "id": "1167281110394392576",
+        "location": "上海",
+        "name": "Paker",
+        "pinned_tweet_id": "1791121963324407999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940842049265455105/v74CANZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 517,
+          "like_count": 3896,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1249
+        },
+        "username": "Paker428",
+        "verified": false
+      }
+    ]
+  }
+}

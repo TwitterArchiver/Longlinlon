@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1949786956990406912",
+    "created_at": "2025-07-28T11:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T12:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949786956990406912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/piyoplate/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/piyoplate/status/1949430366596726838",
+          "start": 14,
+          "url": "https://t.co/NMQ2Ssld3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949786956990406912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949430366596726838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有宝宝锁的fpx.ken https://t.co/NMQ2Ssld3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1949430353090990080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3Ek95aUAAAOcT.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1949786956990406912",
+        "created_at": "2025-07-28T11:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T12:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949786956990406912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/piyoplate/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/piyoplate/status/1949430366596726838",
+              "start": 14,
+              "url": "https://t.co/NMQ2Ssld3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949786956990406912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949430366596726838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有宝宝锁的fpx.ken https://t.co/NMQ2Ssld3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949430353090990080"
+          ]
+        },
+        "author_id": "1262923899710259200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949430366596726838",
+        "created_at": "2025-07-27T11:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949430366596726838"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Alf",
+              "probability": 0.3797,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqjxv79R40",
+              "end": 53,
+              "expanded_url": "https://x.com/piyoplate/status/1949430366596726838/photo/1",
+              "media_key": "3_1949430353090990080",
+              "start": 30,
+              "url": "https://t.co/nqjxv79R40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949430366596726838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 192642,
+          "like_count": 6693,
+          "quote_count": 182,
+          "reply_count": 4,
+          "retweet_count": 1132
+        },
+        "reply_settings": "everyone",
+        "text": "Alf、出場した大会の優勝率100%はもう人智を越えている https://t.co/nqjxv79R40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2484,
+          "like_count": 213519,
+          "listed_count": 7,
+          "media_count": 1257,
+          "tweet_count": 14084
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T01:51:48.000Z",
+        "description": "雑食 🐥🇲🇰 ヘッダー＆アイコン ⇒ @Srtmnkko 様",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Srtmnkko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/Nkdsq",
+                "end": 23,
+                "expanded_url": "http://x.gd/Nkdsq",
+                "start": 0,
+                "url": "https://t.co/9qoRxtJ5ZF"
+              }
+            ]
+          }
+        },
+        "id": "1262923899710259200",
+        "location": "呪泉郷",
+        "name": "酸マ",
+        "pinned_tweet_id": "1927717352302317983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926527787415855105/xvQPJYsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5075,
+          "following_count": 1982,
+          "like_count": 106427,
+          "listed_count": 35,
+          "media_count": 6196,
+          "tweet_count": 54763
+        },
+        "url": "https://t.co/9qoRxtJ5ZF",
+        "username": "piyoplate",
+        "verified": false
+      }
+    ]
+  }
+}

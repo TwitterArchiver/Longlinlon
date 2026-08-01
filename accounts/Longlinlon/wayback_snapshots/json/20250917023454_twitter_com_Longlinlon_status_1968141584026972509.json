@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1968141465881833472"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1968141584026972509",
+    "created_at": "2025-09-17T02:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T03:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968141584026972509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8Qh7bqas6",
+          "end": 39,
+          "expanded_url": "https://x.com/Longlinlon/status/1968141584026972509/video/1",
+          "media_key": "7_1968141465881833472",
+          "start": 16,
+          "url": "https://t.co/D8Qh7bqas6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968141584026972509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉自己超帅至于为什么输你别管 https://t.co/D8Qh7bqas6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41050,
+        "height": 576,
+        "media_key": "7_1968141465881833472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1968141465881833472/pu/img/CPGCZOxCjBkC71qH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968141465881833472/pu/vid/avc1/600x270/J09gP8mo5FN68aqB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968141465881833472/pu/vid/avc1/800x360/jQqtYqD4KlZtfdgP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1968141465881833472/pu/vid/avc1/1280x576/kJ8nj2FPr4F2lxrK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1968141465881833472/pu/pl/Dij6wFsThLPw3XrL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1968141465881833472"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1968141584026972509",
+        "created_at": "2025-09-17T02:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968141584026972509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8Qh7bqas6",
+              "end": 39,
+              "expanded_url": "https://x.com/Longlinlon/status/1968141584026972509/video/1",
+              "media_key": "7_1968141465881833472",
+              "start": 16,
+              "url": "https://t.co/D8Qh7bqas6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968141584026972509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己超帅至于为什么输你别管 https://t.co/D8Qh7bqas6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "艾达是病患和园丁的亲妈-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2513,
+          "like_count": 215554,
+          "listed_count": 10,
+          "media_count": 1307,
+          "tweet_count": 14305
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

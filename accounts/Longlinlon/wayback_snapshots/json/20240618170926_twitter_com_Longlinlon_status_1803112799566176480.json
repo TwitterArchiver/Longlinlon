@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1802813270077964544",
+    "created_at": "2024-06-18T17:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T18:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803112799566176480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1204752745481170944",
+          "start": 0,
+          "username": "realShellWen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803112799566176480",
+    "in_reply_to_user_id": "1204752745481170944",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802813270077964544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realShellWen 加油宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1802813270077964544",
+        "created_at": "2024-06-18T17:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T18:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803112799566176480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1204752745481170944",
+              "start": 0,
+              "username": "realShellWen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803112799566176480",
+        "in_reply_to_user_id": "1204752745481170944",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802813270077964544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realShellWen 加油宝宝"
+      },
+      {
+        "attachments": {},
+        "author_id": "1204752745481170944",
+        "conversation_id": "1802813270077964544",
+        "created_at": "2024-06-17T21:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T22:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802813270077964544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802813270077964544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 60110,
+          "like_count": 214,
+          "quote_count": 6,
+          "reply_count": 123,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本人为 2024 届高考生，现就志愿填报事宜征求各位的意见。\n现尚未出分，预测分数大概在 350 分上下，故仅考虑专科院校。\n家中经济情况不乐观，不考虑海外方向。\n专业仅考虑软工方向与电子工程方向。\n不求在学校学到知识，只求行政上不要太折腾人。\n恳请各位提供宝贵意见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1991,
+          "like_count": 139991,
+          "listed_count": 10,
+          "tweet_count": 10118
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-11T13:21:00.000Z",
+        "description": "♂️Just a student;\n❤️Furry & Coding;\n🌐Chinese ⭕ | English ⭕ | Others ❎;\n🐻Nice to meet you.\n🐘Mastodon: @ShellWen@meow.social;\n👨‍💻GitHub: @ShellWen.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 135,
+                "username": "ShellWen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shellwen.com",
+                "end": 23,
+                "expanded_url": "https://shellwen.com",
+                "start": 0,
+                "url": "https://t.co/fNwbTL2RLO"
+              }
+            ]
+          }
+        },
+        "id": "1204752745481170944",
+        "location": "我是傻逼",
+        "name": "@shellwen@meow.social ⚝",
+        "pinned_tweet_id": "1759914028741345534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738389535766261760/qonUW7vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 1932,
+          "like_count": 47521,
+          "listed_count": 14,
+          "tweet_count": 17483
+        },
+        "url": "https://t.co/fNwbTL2RLO",
+        "username": "realShellWen",
+        "verified": false
+      }
+    ]
+  }
+}

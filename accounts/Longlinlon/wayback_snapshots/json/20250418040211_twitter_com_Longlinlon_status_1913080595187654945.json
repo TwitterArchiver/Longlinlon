@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1913080595187654945",
+    "created_at": "2025-04-18T04:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T05:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913080595187654945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Musnd_071011/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Musnd_071011/status/1912847029359005906",
+          "start": 16,
+          "url": "https://t.co/keVFMr71mY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913080595187654945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912847029359005906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次看到这个段子我主队才刚夺冠 https://t.co/keVFMr71mY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1913080595187654945",
+        "created_at": "2025-04-18T04:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913080595187654945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Musnd_071011/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Musnd_071011/status/1912847029359005906",
+              "start": 16,
+              "url": "https://t.co/keVFMr71mY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913080595187654945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912847029359005906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次看到这个段子我主队才刚夺冠 https://t.co/keVFMr71mY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322716741785411584",
+        "conversation_id": "1912847029359005906",
+        "created_at": "2025-04-17T12:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T13:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912847029359005906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912847029359005906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6867,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在昏暗的房间里，传出了哥哥的声音\n“弟弟。。。唔唔。。”\n弟弟滚动了一下喉结，说\n“忍忍。。哥哥。。”\n然后他们打开了 弟唔忍哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2386,
+          "like_count": 202257,
+          "listed_count": 8,
+          "media_count": 1180,
+          "tweet_count": 13484
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-01T01:47:28.000Z",
+        "description": "我是乐声（Musnd）｜窝是i人不要攻击窝（｜負面号：@Ys_Happyday｜另🐱：@XiaoZhi443｜🐶爱人：@baixiaochun133",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Ys_Happyday"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "XiaoZhi443"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "baixiaochun133"
+              }
+            ]
+          }
+        },
+        "id": "1322716741785411584",
+        "location": "什么是真正的绝望（一段音乐Isn't it lovely,）",
+        "name": "神秘的Musnd变成小猫这不神奇吗快点击一个获取下方我链接获取一个获取一个",
+        "pinned_tweet_id": "1881028852555894974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912948199146573824/Hmo2yjvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 1731,
+          "like_count": 31348,
+          "listed_count": 6,
+          "media_count": 778,
+          "tweet_count": 9579
+        },
+        "username": "Musnd_071011",
+        "verified": false
+      }
+    ]
+  }
+}

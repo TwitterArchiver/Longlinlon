@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1933488310770680220",
+    "created_at": "2025-06-13T11:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T12:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933492956641833210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817118173755510784",
+          "start": 0,
+          "username": "moekurt999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933492956641833210",
+    "in_reply_to_user_id": "1817118173755510784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933492784104944096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moekurt999 大概就是偷赛训给自家屠夫偷出来个必四局吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1933488310770680220",
+        "created_at": "2025-06-13T11:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T12:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933492956641833210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817118173755510784",
+              "start": 0,
+              "username": "moekurt999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933492956641833210",
+        "in_reply_to_user_id": "1817118173755510784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933492784104944096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moekurt999 大概就是偷赛训给自家屠夫偷出来个必四局吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817118173755510784",
+        "conversation_id": "1933488310770680220",
+        "created_at": "2025-06-13T11:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T12:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933492784104944096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933492784104944096",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933488310770680220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 看哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 2438,
+          "like_count": 208680,
+          "listed_count": 7,
+          "media_count": 1212,
+          "tweet_count": 13751
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:42:00.000Z",
+        "description": "♥️📕，除了冒险家是萌妹别的都随便。非常杂食。愿天堂没有毛豆",
+        "id": "1817118173755510784",
+        "name": "我们大胡子少女怎么你了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839803237777715204/b4IYpCdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 206,
+          "like_count": 13387,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 6397
+        },
+        "username": "moekurt999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1794734745303294164",
+    "created_at": "2024-05-26T14:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T15:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794734745303294164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1794710214576660822",
+          "start": 4,
+          "url": "https://t.co/wdGb3116tW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794734745303294164",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794710214576660822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沃野药 https://t.co/wdGb3116tW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1794734745303294164",
+        "created_at": "2024-05-26T14:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T15:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794734745303294164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1794710214576660822",
+              "start": 4,
+              "url": "https://t.co/wdGb3116tW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794734745303294164",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794710214576660822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沃野药 https://t.co/wdGb3116tW"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1794710214576660822",
+        "created_at": "2024-05-26T12:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T13:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794710214576660822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KarubonWaito/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/KarubonWaito/status/1794691502578569391",
+              "start": 4,
+              "url": "https://t.co/CH381dZy1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794710214576660822",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794691502578569391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挡灾了 https://t.co/CH381dZy1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 1983,
+          "like_count": 132875,
+          "listed_count": 9,
+          "tweet_count": 9610
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 87,
+          "like_count": 37,
+          "listed_count": 5,
+          "tweet_count": 1806
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

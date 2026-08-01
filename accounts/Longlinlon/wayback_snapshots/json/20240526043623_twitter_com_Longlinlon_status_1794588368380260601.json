@@ -1,0 +1,240 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1289175819927949315",
+          "name": "Work from home"
+        }
+      }
+    ],
+    "conversation_id": "1794588368380260601",
+    "created_at": "2024-05-26T04:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T05:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794588368380260601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/synup16g/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/synup16g/status/1794256335779041347",
+          "start": 9,
+          "url": "https://t.co/DS3EljGUxP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794588368380260601",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794256335779041347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇去，烛天鲨鱼服 https://t.co/DS3EljGUxP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1289175819927949315",
+              "name": "Work from home"
+            }
+          }
+        ],
+        "conversation_id": "1794588368380260601",
+        "created_at": "2024-05-26T04:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T05:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794588368380260601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/synup16g/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/synup16g/status/1794256335779041347",
+              "start": 9,
+              "url": "https://t.co/DS3EljGUxP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794588368380260601",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794256335779041347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇去，烛天鲨鱼服 https://t.co/DS3EljGUxP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794249848402944000",
+            "3_1794249848411328512"
+          ]
+        },
+        "author_id": "3663917780",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1289175819927949315",
+              "name": "Work from home"
+            }
+          }
+        ],
+        "conversation_id": "1794256335779041347",
+        "created_at": "2024-05-25T06:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T07:11:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794249881646957034",
+          "1794256335779041347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/61vo9KOAAL",
+              "end": 78,
+              "expanded_url": "https://twitter.com/synup16g/status/1794256335779041347/photo/1",
+              "media_key": "3_1794249848402944000",
+              "start": 55,
+              "url": "https://t.co/61vo9KOAAL"
+            },
+            {
+              "display_url": "pic.twitter.com/61vo9KOAAL",
+              "end": 78,
+              "expanded_url": "https://twitter.com/synup16g/status/1794256335779041347/photo/1",
+              "media_key": "3_1794249848411328512",
+              "start": 55,
+              "url": "https://t.co/61vo9KOAAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794256335779041347",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10989,
+          "impression_count": 21738592,
+          "like_count": 170061,
+          "quote_count": 3059,
+          "reply_count": 449,
+          "retweet_count": 13708
+        },
+        "reply_settings": "everyone",
+        "text": "在宅勤務にどうですか皆様\n\n【追記】\n嫁と相談した結果「帰るまでに300いいね付けば買って良し」らしいです。 https://t.co/61vo9KOAAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1978,
+          "like_count": 132560,
+          "listed_count": 9,
+          "tweet_count": 9593
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-23T22:41:05.000Z",
+        "description": "Microsoft界隈でｲﾝﾌﾗやﾃﾞｰﾀを扱うﾈｯｺとｱﾆﾒとｽｼﾛｰとｻｲｾﾞとｴﾝｾﾞﾙﾊﾟｲ好きの現場ｲｯﾇ、得意技は飯ﾃﾛ、冒険者ﾄﾘｯｷｰ、ゆるふわｼﾌｫﾝ主義なﾎﾟｽﾄを心掛けています",
+        "id": "3663917780",
+        "location": "大阪",
+        "name": "ちろあぽ",
+        "pinned_tweet_id": "1741675389070745761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539626274213470208/8qgQWnTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4798,
+          "following_count": 3272,
+          "like_count": 14115,
+          "listed_count": 60,
+          "tweet_count": 5870
+        },
+        "username": "synup16g",
+        "verified": true
+      }
+    ]
+  }
+}

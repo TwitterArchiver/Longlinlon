@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1827378296478429218",
+    "created_at": "2024-08-24T20:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T21:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827443945028382881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1553716160243281921",
+          "start": 0,
+          "username": "ysyxssssh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827443945028382881",
+    "in_reply_to_user_id": "1553716160243281921",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827378296478429218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysyxssssh 豆姐🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1827378296478429218",
+        "created_at": "2024-08-24T20:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T21:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827443945028382881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1553716160243281921",
+              "start": 0,
+              "username": "ysyxssssh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827443945028382881",
+        "in_reply_to_user_id": "1553716160243281921",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827378296478429218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysyxssssh 豆姐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553716160243281921",
+        "conversation_id": "1827378296478429218",
+        "created_at": "2024-08-24T16:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827378296478429218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827378296478429218",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这人接受否定 但是你必须指出我哪不行 和 应该怎么解决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 2221,
+          "like_count": 172925,
+          "listed_count": 10,
+          "tweet_count": 11131
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T12:16:23.000Z",
+        "description": "奢求被爱是愚蠢的 我们都在名为爱的小河里流浪｜喜欢转载各种萌物",
+        "id": "1553716160243281921",
+        "location": "0.1km",
+        "name": "Ms.bean",
+        "pinned_tweet_id": "1823368664177102983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729198137934532608/_uyHDla9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 457,
+          "like_count": 35727,
+          "listed_count": 4,
+          "tweet_count": 5146
+        },
+        "username": "ysyxssssh",
+        "verified": false
+      }
+    ]
+  }
+}

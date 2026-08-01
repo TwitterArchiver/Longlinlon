@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1969432323683991916",
+    "created_at": "2025-09-20T17:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969449597195202755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799692652511932416",
+          "start": 0,
+          "username": "LQL6778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969449597195202755",
+    "in_reply_to_user_id": "1799692652511932416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969446823631995035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LQL6778 ❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1969446823631995035].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1969446823631995035",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1969446823631995035"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1969432323683991916",
+        "created_at": "2025-09-20T17:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969449597195202755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799692652511932416",
+              "start": 0,
+              "username": "LQL6778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969449597195202755",
+        "in_reply_to_user_id": "1799692652511932416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969446823631995035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LQL6778 ❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "艾达是病患和园丁的亲妈-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 2512,
+          "like_count": 215275,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 14316
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T06:39:26.000Z",
+        "description": "说好的幸福呢",
+        "id": "1799692652511932416",
+        "name": "巧乐🍥",
+        "pinned_tweet_id": "1943214783769038850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969432225415643137/ztt0TfQz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 293,
+          "like_count": 35931,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 4710
+        },
+        "username": "LQL6778",
+        "verified": false
+      }
+    ]
+  }
+}

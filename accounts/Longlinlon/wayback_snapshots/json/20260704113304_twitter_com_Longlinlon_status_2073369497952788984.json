@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2073369497952788984",
+    "created_at": "2026-07-04T11:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073369497952788984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LingJiaXin233/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/LingJiaXin233/status/2073181442327056706",
+          "start": 36,
+          "url": "https://t.co/7oq7JjIkQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073369497952788984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073181442327056706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "健全比幻想时刻belike：\n（甚至还有傻子跨子转发到蓝鸟，想唐死谁） https://t.co/7oq7JjIkQI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2073181433175101440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMVrh39WUAAekTd.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2073369497952788984",
+        "created_at": "2026-07-04T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073369497952788984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/2073181442327056706",
+              "start": 36,
+              "url": "https://t.co/7oq7JjIkQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073369497952788984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073181442327056706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全比幻想时刻belike：\n（甚至还有傻子跨子转发到蓝鸟，想唐死谁） https://t.co/7oq7JjIkQI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073181433175101440"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2073181442327056706",
+        "created_at": "2026-07-03T23:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073181442327056706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MezTxk8NN",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2073181442327056706/photo/1",
+              "media_key": "3_2073181433175101440",
+              "start": 0,
+              "url": "https://t.co/2MezTxk8NN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073181442327056706",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 58626,
+          "like_count": 905,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2MezTxk8NN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2523,
+          "like_count": 206803,
+          "listed_count": 7,
+          "media_count": 1399,
+          "tweet_count": 14889
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//接受投稿，投稿请私信//各位在X玩的开心！",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2069052806779043991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7759,
+          "following_count": 550,
+          "like_count": 19876,
+          "listed_count": 17,
+          "media_count": 2627,
+          "tweet_count": 6139
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

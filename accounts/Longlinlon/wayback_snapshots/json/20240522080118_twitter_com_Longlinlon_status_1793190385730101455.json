@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1793190385730101455",
+    "created_at": "2024-05-22T08:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T09:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793190385730101455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766774763010289664",
+          "start": 3,
+          "username": "cyberotto999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793190385730101455",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793187115871703268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyberotto999: 支持男性卖淫自由！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1793190385730101455",
+        "created_at": "2024-05-22T08:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T09:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793190385730101455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766774763010289664",
+              "start": 3,
+              "username": "cyberotto999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793190385730101455",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793187115871703268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyberotto999: 支持男性卖淫自由！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1766774763010289664",
+        "conversation_id": "1793187115871703268",
+        "created_at": "2024-05-22T07:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T08:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793187115871703268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kmgkhhbot/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kmgkhhbot/status/1793092665812173140",
+              "start": 10,
+              "url": "https://t.co/zniJwBzJZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793187115871703268",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793092665812173140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持男性卖淫自由！ https://t.co/zniJwBzJZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1965,
+          "like_count": 130954,
+          "listed_count": 9,
+          "tweet_count": 9496
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T10:35:10.000Z",
+        "description": "一切有为法，如梦幻泡影。如露亦如电，应作如是观。",
+        "id": "1766774763010289664",
+        "location": "灵芝野区",
+        "name": "💥赛博电棍💥 🦹诡术妖僧🪷",
+        "pinned_tweet_id": "1768788026858324204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766776027651723264/FgyPAPdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 188,
+          "like_count": 1474,
+          "listed_count": 1,
+          "tweet_count": 944
+        },
+        "username": "cyberotto999",
+        "verified": false
+      }
+    ]
+  }
+}

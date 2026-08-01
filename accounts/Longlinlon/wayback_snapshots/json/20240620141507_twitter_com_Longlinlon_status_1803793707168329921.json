@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1803791322001838462",
+    "created_at": "2024-06-20T14:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T15:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803793707168329921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803793707168329921",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803791322001838462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1803791322001838462",
+        "created_at": "2024-06-20T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803793707168329921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803793707168329921",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803791322001838462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba 不要"
+      },
+      {
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "conversation_id": "1803791322001838462",
+        "created_at": "2024-06-20T14:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T15:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803791322001838462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803791322001838462",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "优美o完了就只能换普瑞了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1982,
+          "like_count": 140325,
+          "listed_count": 10,
+          "tweet_count": 10143
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "♥️@Longlinlon♥️•中度抑郁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Longlinlon"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "name": "💮神楽坂　千羽🌸🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785425479622967296/BwmA3PV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 4467,
+          "like_count": 58903,
+          "listed_count": 10,
+          "tweet_count": 19324
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

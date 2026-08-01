@@ -1,0 +1,437 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809578018601652224"
+      ],
+      "media_source_tweet_id": [
+        "1809578021239812101"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1809578127619989940",
+    "created_at": "2024-07-06T13:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T14:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809578127619989940"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "ニディガ東西POP UP STORE",
+          "probability": 0.2269,
+          "start": 21,
+          "type": "Organization"
+        },
+        {
+          "end": 47,
+          "normalized_text": "TOKYO",
+          "probability": 0.663,
+          "start": 43,
+          "type": "Place"
+        },
+        {
+          "end": 55,
+          "normalized_text": "関西",
+          "probability": 0.8457,
+          "start": 54,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2024年8月24日から東京で開催！",
+          "display_url": "needygirl.shop/eastandwest/to…",
+          "end": 93,
+          "expanded_url": "https://www.needygirl.shop/eastandwest/tokyo/",
+          "images": [
+            {
+              "height": 496,
+              "url": "https://pbs.twimg.com/news_img/1809576732137226240/EZGrD0Fk?format=png&name=orig",
+              "width": 496
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1809576732137226240/EZGrD0Fk?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 70,
+          "status": 200,
+          "title": "ニディガ東西POP UP STORE",
+          "unwound_url": "https://www.needygirl.shop/eastandwest/tokyo/",
+          "url": "https://t.co/FCUY3fiGeV"
+        },
+        {
+          "display_url": "pic.twitter.com/u12CtcHe7E",
+          "end": 117,
+          "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1809578021239812101/photo/1",
+          "media_key": "3_1809578018601652224",
+          "start": 94,
+          "url": "https://t.co/u12CtcHe7E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809578127619989940",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809578021239812101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: ニディガ東西POP UP STORE\n\nまたTOKYOでも、今度は関西にも逢いに行くよ ほんまに\nhttps://t.co/FCUY3fiGeV https://t.co/u12CtcHe7E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1809578018601652224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRzpntAbUAA5NeF.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809578018601652224"
+          ],
+          "media_source_tweet_id": [
+            "1809578021239812101"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1809578127619989940",
+        "created_at": "2024-07-06T13:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T14:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809578127619989940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "ニディガ東西POP UP STORE",
+              "probability": 0.2269,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 47,
+              "normalized_text": "TOKYO",
+              "probability": 0.663,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "関西",
+              "probability": 0.8457,
+              "start": 54,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2024年8月24日から東京で開催！",
+              "display_url": "needygirl.shop/eastandwest/to…",
+              "end": 93,
+              "expanded_url": "https://www.needygirl.shop/eastandwest/tokyo/",
+              "images": [
+                {
+                  "height": 496,
+                  "url": "https://pbs.twimg.com/news_img/1809576732137226240/EZGrD0Fk?format=png&name=orig",
+                  "width": 496
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1809576732137226240/EZGrD0Fk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "ニディガ東西POP UP STORE",
+              "unwound_url": "https://www.needygirl.shop/eastandwest/tokyo/",
+              "url": "https://t.co/FCUY3fiGeV"
+            },
+            {
+              "display_url": "pic.twitter.com/u12CtcHe7E",
+              "end": 117,
+              "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1809578021239812101/photo/1",
+              "media_key": "3_1809578018601652224",
+              "start": 94,
+              "url": "https://t.co/u12CtcHe7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809578127619989940",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809578021239812101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: ニディガ東西POP UP STORE\n\nまたTOKYOでも、今度は関西にも逢いに行くよ ほんまに\nhttps://t.co/FCUY3fiGeV https://t.co/u12CtcHe7E"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809578018601652224"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1809578021239812101",
+        "created_at": "2024-07-06T13:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T14:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809578021239812101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ニディガ東西POP UP STORE",
+              "probability": 0.2499,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 26,
+              "normalized_text": "TOKYO",
+              "probability": 0.6644,
+              "start": 22,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "関西",
+              "probability": 0.8404,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2024年8月24日から東京で開催！",
+              "display_url": "needygirl.shop/eastandwest/to…",
+              "end": 72,
+              "expanded_url": "https://www.needygirl.shop/eastandwest/tokyo/",
+              "images": [
+                {
+                  "height": 496,
+                  "url": "https://pbs.twimg.com/news_img/1809576732137226240/EZGrD0Fk?format=png&name=orig",
+                  "width": 496
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1809576732137226240/EZGrD0Fk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "ニディガ東西POP UP STORE",
+              "unwound_url": "https://www.needygirl.shop/eastandwest/tokyo/",
+              "url": "https://t.co/FCUY3fiGeV"
+            },
+            {
+              "display_url": "pic.twitter.com/u12CtcHe7E",
+              "end": 96,
+              "expanded_url": "https://twitter.com/x_angelkawaii_x/status/1809578021239812101/photo/1",
+              "media_key": "3_1809578018601652224",
+              "start": 73,
+              "url": "https://t.co/u12CtcHe7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809578021239812101",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 215,
+          "like_count": 526,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "ニディガ東西POP UP STORE\n\nまたTOKYOでも、今度は関西にも逢いに行くよ ほんまに\nhttps://t.co/FCUY3fiGeV https://t.co/u12CtcHe7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 2061,
+          "like_count": 153372,
+          "listed_count": 10,
+          "tweet_count": 10441
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリやめられないね https://t.co/vvQuMSgTJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 52,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 29,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/x.angelkawaii.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/x.angelkawaii.x/",
+                "start": 0,
+                "url": "https://t.co/XaUNcD4kIo"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483494206371155973/8L2Fs4p0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519246,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1262,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/XaUNcD4kIo",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

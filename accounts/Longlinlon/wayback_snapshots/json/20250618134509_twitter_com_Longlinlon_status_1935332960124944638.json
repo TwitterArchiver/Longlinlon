@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1935331430315245810",
+    "created_at": "2025-06-18T13:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935332960124944638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935332960124944638",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935331430315245810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 XD我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_1935331407271747584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtutqT0W4AAoJ1a.jpg",
+        "width": 399
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1935331407275999232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtutqT1XwAAR1h0.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1935331430315245810",
+        "created_at": "2025-06-18T13:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935332960124944638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935332960124944638",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935331430315245810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 XD我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935331407271747584",
+            "3_1935331407275999232"
+          ]
+        },
+        "author_id": "1844290406391103488",
+        "conversation_id": "1935331430315245810",
+        "created_at": "2025-06-18T13:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935331430315245810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FUabxCb1AV",
+              "end": 33,
+              "expanded_url": "https://x.com/qhqq114514/status/1935331430315245810/photo/1",
+              "media_key": "3_1935331407271747584",
+              "start": 10,
+              "url": "https://t.co/FUabxCb1AV"
+            },
+            {
+              "display_url": "pic.x.com/FUabxCb1AV",
+              "end": 33,
+              "expanded_url": "https://x.com/qhqq114514/status/1935331430315245810/photo/1",
+              "media_key": "3_1935331407275999232",
+              "start": 10,
+              "url": "https://t.co/FUabxCb1AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935331430315245810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没头像用可以用这个 https://t.co/FUabxCb1AV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2443,
+          "like_count": 209658,
+          "listed_count": 7,
+          "media_count": 1219,
+          "tweet_count": 13807
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@KillTokiyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "KillTokiyuki"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933765097471500288/U92RbbAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 272,
+          "like_count": 1812,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2535
+        },
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1617067139919400962",
+    "created_at": "2023-01-22T09:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-22T10:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1617095485822566401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565988119941627905",
+          "start": 0,
+          "username": "BadgalTaffy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1617095485822566401",
+    "in_reply_to_user_id": "1565988119941627905",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1617067139919400962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BadgalTaffy_ 急了😆👉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1617067139919400962",
+        "created_at": "2023-01-22T09:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-22T10:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1617095485822566401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565988119941627905",
+              "start": 0,
+              "username": "BadgalTaffy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1617095485822566401",
+        "in_reply_to_user_id": "1565988119941627905",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617067139919400962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BadgalTaffy_ 急了😆👉"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1617067136123572224"
+          ]
+        },
+        "author_id": "1565988119941627905",
+        "conversation_id": "1617067139919400962",
+        "created_at": "2023-01-22T07:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-22T08:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1617067139919400962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1Yi1S8tyhg",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BadgalTaffy_/status/1617067139919400962/photo/1",
+              "media_key": "3_1617067136123572224",
+              "start": 10,
+              "url": "https://t.co/1Yi1S8tyhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1617067139919400962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 586,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也没和他互动过啊 https://t.co/1Yi1S8tyhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "People's Republic of China",
+        "name": "凌美琪",
+        "pinned_tweet_id": "1604501861146324994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596436743183425537/bIHNcEf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 337,
+          "listed_count": 2,
+          "tweet_count": 395
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:00:46.000Z",
+        "description": "别取fo我求你了，还有我不是托派",
+        "id": "1565988119941627905",
+        "location": "下北泽工人革命造反总司令部",
+        "name": "娜娜米今天吃菠萝包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606097615229026304/EFc2ZSkh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 1715,
+          "listed_count": 20,
+          "tweet_count": 6601
+        },
+        "username": "BadgalTaffy_",
+        "verified": false
+      }
+    ]
+  }
+}

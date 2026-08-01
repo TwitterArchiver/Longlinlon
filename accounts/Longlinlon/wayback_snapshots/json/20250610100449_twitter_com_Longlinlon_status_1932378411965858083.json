@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1932372226831196637",
+    "created_at": "2025-06-10T10:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T11:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932378411965858083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817118173755510784",
+          "start": 0,
+          "username": "moekurt999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932378411965858083",
+    "in_reply_to_user_id": "1817118173755510784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932372226831196637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moekurt999 呜呜我们国服rxz只是人少不是没有😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1932372226831196637",
+        "created_at": "2025-06-10T10:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932378411965858083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817118173755510784",
+              "start": 0,
+              "username": "moekurt999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932378411965858083",
+        "in_reply_to_user_id": "1817118173755510784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932372226831196637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moekurt999 呜呜我们国服rxz只是人少不是没有😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817118173755510784",
+        "conversation_id": "1932372226831196637",
+        "created_at": "2025-06-10T09:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932372226831196637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932372226831196637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂国服一堆txz欧美服一堆rxz的救赎感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 2434,
+          "like_count": 208348,
+          "listed_count": 7,
+          "media_count": 1210,
+          "tweet_count": 13721
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:42:00.000Z",
+        "description": "♥️📕，除了冒险家是萌妹别的都随便。非常杂食。愿天堂没有毛豆",
+        "id": "1817118173755510784",
+        "name": "我们大胡子少女怎么你了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839803237777715204/b4IYpCdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 206,
+          "like_count": 13362,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 6369
+        },
+        "username": "moekurt999",
+        "verified": false
+      }
+    ]
+  }
+}

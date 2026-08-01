@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808825117881029030",
+    "created_at": "2024-07-04T11:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T12:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808825117881029030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1808787808900759629",
+          "start": 11,
+          "url": "https://t.co/1ob7PUnN5b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808825117881029030",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808787808900759629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我是真不敢回广西了 https://t.co/1ob7PUnN5b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808825117881029030",
+        "created_at": "2024-07-04T11:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T12:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808825117881029030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1808787808900759629",
+              "start": 11,
+              "url": "https://t.co/1ob7PUnN5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808825117881029030",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808787808900759629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我是真不敢回广西了 https://t.co/1ob7PUnN5b"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1808787284889571328",
+            "7_1808787291617292288",
+            "3_1808787458596777984"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1808787808900759629",
+        "created_at": "2024-07-04T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808787808900759629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9xaS2MqA74",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1808787808900759629/video/1",
+              "media_key": "7_1808787284889571328",
+              "start": 60,
+              "url": "https://t.co/9xaS2MqA74"
+            },
+            {
+              "display_url": "pic.twitter.com/9xaS2MqA74",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1808787808900759629/video/1",
+              "media_key": "7_1808787291617292288",
+              "start": 60,
+              "url": "https://t.co/9xaS2MqA74"
+            },
+            {
+              "display_url": "pic.twitter.com/9xaS2MqA74",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1808787808900759629/video/1",
+              "media_key": "3_1808787458596777984",
+              "start": 60,
+              "url": "https://t.co/9xaS2MqA74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808787808900759629",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 189539,
+          "like_count": 1087,
+          "quote_count": 26,
+          "reply_count": 158,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "7月4日，广西桂平市油麻镇一中发生无差别砍人，导致多人受伤，包括有孩子。\n事发后，当地公安机关立即开始追踪转发视频者。 https://t.co/9xaS2MqA74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 2052,
+          "like_count": 151573,
+          "listed_count": 10,
+          "tweet_count": 10403
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594835,
+          "following_count": 906,
+          "like_count": 5026,
+          "listed_count": 7471,
+          "tweet_count": 19943
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

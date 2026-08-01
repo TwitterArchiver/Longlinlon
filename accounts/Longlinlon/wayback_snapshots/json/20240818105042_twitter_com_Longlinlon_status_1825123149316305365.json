@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1825072721522569483",
+    "created_at": "2024-08-18T10:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T11:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825123149316305365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1564472440989687809",
+          "start": 0,
+          "username": "dadada168"
+        },
+        {
+          "end": 24,
+          "id": "1517937189224472576",
+          "start": 11,
+          "username": "miorine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825123149316305365",
+    "in_reply_to_user_id": "1564472440989687809",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825088239121883360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dadada168 @miorine_8964 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1825072721522569483",
+        "created_at": "2024-08-18T10:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T11:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825123149316305365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1564472440989687809",
+              "start": 0,
+              "username": "dadada168"
+            },
+            {
+              "end": 24,
+              "id": "1517937189224472576",
+              "start": 11,
+              "username": "miorine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825123149316305365",
+        "in_reply_to_user_id": "1564472440989687809",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825088239121883360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dadada168 @miorine_8964 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564472440989687809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1825072721522569483",
+        "created_at": "2024-08-18T08:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T09:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825088239121883360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517937189224472576",
+              "start": 0,
+              "username": "miorine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825088239121883360",
+        "in_reply_to_user_id": "1517937189224472576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825072721522569483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miorine_8964 2077的主角和银手中文都是c位 不知道黑猴子准备怎么搞海外市场😁感觉可能还不如明日方舟这种手游厂子（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 2220,
+          "like_count": 171205,
+          "listed_count": 10,
+          "tweet_count": 11042
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T04:37:56.000Z",
+        "description": "要俺说的话，你们人类肯定没有好下场。”卓尔坦·齐瓦语气阴沉，“这个世界上所有的智慧生物，在贫穷和不幸时都会抱团取暖。时局艰难时，相互帮助会让生存更轻松。可你们人类呢？你们只想靠别人的不幸发财。饥荒时你们不肯分享食物，而是吃掉最弱小的同类。这种做法狼群也会用，为的是让最健康最强壮的狼生存下来。",
+        "id": "1564472440989687809",
+        "name": "铪铪",
+        "pinned_tweet_id": "1677893976303759360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597174394274840577/tZm_bgu3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 3318,
+          "like_count": 27786,
+          "listed_count": 0,
+          "tweet_count": 2827
+        },
+        "username": "dadada168",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T18:43:37.000Z",
+        "description": "已润｜爱中TV",
+        "id": "1517937189224472576",
+        "location": "中南海",
+        "name": "网友仁顺菜",
+        "pinned_tweet_id": "1822838702969925807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822631097848750080/46xUfD_h_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 755,
+          "like_count": 28604,
+          "listed_count": 9,
+          "tweet_count": 9141
+        },
+        "username": "miorine_8964",
+        "verified": false
+      }
+    ]
+  }
+}

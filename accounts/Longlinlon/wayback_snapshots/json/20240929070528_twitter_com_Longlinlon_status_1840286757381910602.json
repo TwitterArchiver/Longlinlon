@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840042624247574786",
+    "created_at": "2024-09-29T07:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T08:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840286757381910602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1618735736093659142",
+          "start": 0,
+          "username": "Agamemnon8964"
+        },
+        {
+          "end": 29,
+          "id": "1624393872037265413",
+          "start": 15,
+          "username": "CassiusKassik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840286757381910602",
+    "in_reply_to_user_id": "1618735736093659142",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840285614341570901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Agamemnon8964 @CassiusKassik 真的吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840285614341570901].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840285614341570901",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840285614341570901"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840042624247574786",
+        "created_at": "2024-09-29T07:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T08:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840286757381910602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1618735736093659142",
+              "start": 0,
+              "username": "Agamemnon8964"
+            },
+            {
+              "end": 29,
+              "id": "1624393872037265413",
+              "start": 15,
+              "username": "CassiusKassik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840286757381910602",
+        "in_reply_to_user_id": "1618735736093659142",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840285614341570901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Agamemnon8964 @CassiusKassik 真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 2213,
+          "like_count": 176557,
+          "listed_count": 8,
+          "tweet_count": 11515
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T22:21:08.000Z",
+        "description": "与哪里都格格不入的县城费拉/中文(母语)/English(able to communicate)/Español(pocos)/屠格涅夫，赫尔岑，普列汉诺夫思想",
+        "id": "1618735736093659142",
+        "name": "DESDE CONDADO",
+        "pinned_tweet_id": "1826572747662843922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840038452219318272/9VPxBYC5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 2988,
+          "like_count": 9261,
+          "listed_count": 0,
+          "tweet_count": 1576
+        },
+        "username": "Agamemnon8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/Y0cPdDFcr0"
+              }
+            ]
+          }
+        },
+        "id": "1624393872037265413",
+        "name": "𝕮𝖆𝖘𝖘𝖎𝖚𝖘 𝕶𝖆𝖘𝖘𝖎𝖐🇮🇪",
+        "pinned_tweet_id": "1810347853673599117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810337436431781888/6b2dWDeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 570,
+          "like_count": 10919,
+          "listed_count": 2,
+          "tweet_count": 11967
+        },
+        "url": "https://t.co/Y0cPdDFcr0",
+        "username": "CassiusKassik",
+        "verified": false
+      }
+    ]
+  }
+}

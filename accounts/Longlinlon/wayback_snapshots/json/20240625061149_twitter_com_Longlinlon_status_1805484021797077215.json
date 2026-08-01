@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805475601853432171",
+    "created_at": "2024-06-25T06:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T07:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805484021797077215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1553716160243281921",
+          "start": 0,
+          "username": "ysyxssssh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805484021797077215",
+    "in_reply_to_user_id": "1553716160243281921",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805475601853432171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysyxssssh 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805475601853432171",
+        "created_at": "2024-06-25T06:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T07:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805484021797077215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1553716160243281921",
+              "start": 0,
+              "username": "ysyxssssh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805484021797077215",
+        "in_reply_to_user_id": "1553716160243281921",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805475601853432171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysyxssssh 抱抱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553716160243281921",
+        "conversation_id": "1805475601853432171",
+        "created_at": "2024-06-25T05:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T06:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805475601853432171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805475601853432171",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "查询高考成绩的时候我以为怎么也会卡顿一会有个小圈圈转一会 然而成绩就是突然蹦了出来 预估530的我只考了480 想上的所有只能重新考虑 原来我一直都是自以为是的那个 你把自己看高太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 2007,
+          "like_count": 143151,
+          "listed_count": 10,
+          "tweet_count": 10206
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T12:16:23.000Z",
+        "description": "鉴🐔:语音评价20/次○ 文字评价8/次      包满意   🉑要求鼓励/批评/客观",
+        "id": "1553716160243281921",
+        "location": "0.1km",
+        "name": "Ms.bean",
+        "pinned_tweet_id": "1795476673808220331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729198137934532608/_uyHDla9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 436,
+          "like_count": 29731,
+          "listed_count": 4,
+          "tweet_count": 4710
+        },
+        "username": "ysyxssssh",
+        "verified": false
+      }
+    ]
+  }
+}

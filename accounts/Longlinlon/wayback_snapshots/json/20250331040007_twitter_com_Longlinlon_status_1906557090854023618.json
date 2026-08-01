@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1906264370017140896",
+    "created_at": "2025-03-31T04:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T05:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906557090854023618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691937358944583682",
+          "start": 0,
+          "username": "KanoeYuukoSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906557090854023618",
+    "in_reply_to_user_id": "1691937358944583682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906431134051025055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KanoeYuukoSama 这个游戏我看不清脚印🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1906264370017140896",
+        "created_at": "2025-03-31T04:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906557090854023618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1691937358944583682",
+              "start": 0,
+              "username": "KanoeYuukoSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906557090854023618",
+        "in_reply_to_user_id": "1691937358944583682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906431134051025055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KanoeYuukoSama 这个游戏我看不清脚印🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691937358944583682",
+        "conversation_id": "1906264370017140896",
+        "created_at": "2025-03-30T19:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T20:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906431134051025055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906431134051025055",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906264370017140896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 🫠感觉还是大踹天灾钩和找人实用点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 2364,
+          "like_count": 201000,
+          "listed_count": 9,
+          "media_count": 1163,
+          "tweet_count": 13321
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T22:18:11.000Z",
+        "description": "Progressivism 对小彩虹进行友谊计划，空间翘曲导弹 发射！ 远星号太空艇@KokkoroChyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "KokkoroChyan"
+              }
+            ]
+          }
+        },
+        "id": "1691937358944583682",
+        "location": "川陀",
+        "name": "Kanoe Yuuko",
+        "pinned_tweet_id": "1899850592576798789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875837225746993152/yKZNPGTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 642,
+          "like_count": 66152,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 10242
+        },
+        "username": "KanoeYuukoSama",
+        "verified": false
+      }
+    ]
+  }
+}

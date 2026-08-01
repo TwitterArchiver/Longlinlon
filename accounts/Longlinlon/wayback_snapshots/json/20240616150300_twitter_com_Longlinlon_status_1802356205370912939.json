@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1802344297376944632",
+    "created_at": "2024-06-16T15:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T16:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802356205370912939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248913476002537472",
+          "start": 0,
+          "username": "PRCAngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802356205370912939",
+    "in_reply_to_user_id": "1248913476002537472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802344297376944632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRCAngel 羡慕家长党喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1802344297376944632",
+        "created_at": "2024-06-16T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802356205370912939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248913476002537472",
+              "start": 0,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802356205370912939",
+        "in_reply_to_user_id": "1248913476002537472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802344297376944632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCAngel 羡慕家长党喵"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802344294940106752"
+          ]
+        },
+        "author_id": "1248913476002537472",
+        "conversation_id": "1802344297376944632",
+        "created_at": "2024-06-16T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802344297376944632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "后续"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hLYurWhM9e",
+              "end": 45,
+              "expanded_url": "https://twitter.com/PRCAngel/status/1802344297376944632/photo/1",
+              "media_key": "3_1802344294940106752",
+              "start": 22,
+              "url": "https://t.co/hLYurWhM9e"
+            },
+            {
+              "display_url": "x.com/PRCAngel/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/PRCAngel/status/1802257332568764610",
+              "start": 46,
+              "url": "https://t.co/C7Q240HPfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802344297376944632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802257332568764610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#后续 \n试图缓解紧张关系后\n好感度+50 https://t.co/hLYurWhM9e https://t.co/C7Q240HPfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 1988,
+          "like_count": 139505,
+          "listed_count": 10,
+          "tweet_count": 10082
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T10:01:47.000Z",
+        "description": "炒 A 股不如炒 P 股 ｜ 看 A 股不如看 A 片",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelqwq.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://angelqwq.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/GHk3MQap8s"
+              }
+            ]
+          }
+        },
+        "id": "1248913476002537472",
+        "location": "𝕮𝖆𝖓𝖙𝖔𝖓",
+        "name": "𝗗𝗗𝗥𝙁𝙪𝙣🇨🇳",
+        "pinned_tweet_id": "1395681267530670085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785703199720296448/lyDOwE3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 1564,
+          "like_count": 20955,
+          "listed_count": 13,
+          "tweet_count": 8730
+        },
+        "url": "https://t.co/GHk3MQap8s",
+        "username": "PRCAngel",
+        "verified": false
+      }
+    ]
+  }
+}

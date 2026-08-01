@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799062659687735630",
+    "created_at": "2024-06-07T19:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T20:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799159890721775616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573722407625543683",
+          "start": 0,
+          "username": "Amarantos_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799159890721775616",
+    "in_reply_to_user_id": "1573722407625543683",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799062659687735630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amarantos_00 不知道，但是你头像的狗狗好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799062659687735630",
+        "created_at": "2024-06-07T19:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T20:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799159890721775616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573722407625543683",
+              "start": 0,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799159890721775616",
+        "in_reply_to_user_id": "1573722407625543683",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799062659687735630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amarantos_00 不知道，但是你头像的狗狗好可爱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1573722407625543683",
+        "conversation_id": "1799062659687735630",
+        "created_at": "2024-06-07T12:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T13:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799062659687735630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799062659687735630",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3897,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你觉得删掉和ta有关的动态就是不爱ta了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1993,
+          "like_count": 137986,
+          "listed_count": 9,
+          "tweet_count": 9914
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T17:14:25.000Z",
+        "description": "开朗乐观小金毛，期待实现每天都能吃饱的目标。🚪88/188不退不还",
+        "id": "1573722407625543683",
+        "location": "罗夏·罗斯切尔德的腿上",
+        "name": "花子Hanako",
+        "pinned_tweet_id": "1796988178470969347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742202402302836736/AHF9C27s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 115,
+          "like_count": 13519,
+          "listed_count": 3,
+          "tweet_count": 8095
+        },
+        "username": "Amarantos_00",
+        "verified": false
+      }
+    ]
+  }
+}

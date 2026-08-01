@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1817853724213297152"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1817853769050423383",
+    "created_at": "2024-07-29T09:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T10:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817853769050423383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/TWZJbQjKu9",
+          "end": 23,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1817853769050423383/video/1",
+          "media_key": "7_1817853724213297152",
+          "start": 0,
+          "url": "https://t.co/TWZJbQjKu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817853769050423383",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/TWZJbQjKu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23997,
+        "height": 576,
+        "media_key": "7_1817853724213297152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1817853724213297152/pu/img/6UxbdZV6jpMiLW9-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817853724213297152/pu/vid/avc1/600x270/m8HeZhUYl0TcwqUX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817853724213297152/pu/vid/avc1/800x360/z-sWJYsz0pT7dYkU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817853724213297152/pu/vid/avc1/1280x576/zrVZh9iN8AoUgSSU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1817853724213297152/pu/pl/rRZ6aaqS0nr8Eqao.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817853724213297152"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1817853769050423383",
+        "created_at": "2024-07-29T09:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817853769050423383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TWZJbQjKu9",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1817853769050423383/video/1",
+              "media_key": "7_1817853724213297152",
+              "start": 0,
+              "url": "https://t.co/TWZJbQjKu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817853769050423383",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TWZJbQjKu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 2149,
+          "like_count": 163754,
+          "listed_count": 10,
+          "tweet_count": 10768
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1832659482813591987",
+    "created_at": "2024-09-08T05:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T06:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832659482813591987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1499709348616241155",
+          "start": 3,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832659482813591987",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832629441094201600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caomeiweimaomao: 🕰️置顶🕰️\n我是爱礼！\n目前大三休学中\n喜欢画画和追剧\n学的是视觉传达专业\n🚪70r仅闲聊吹水回答问题\n希望大家转发，想互转可以私聊我。\n————————————————\n后排出售饮品：🥛🫖☕️🍵🧃🥤🧋🍶🍺🍻🥂🍷🥃🍸🍹🧉🍾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1832659482813591987",
+        "created_at": "2024-09-08T05:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T06:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832659482813591987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1499709348616241155",
+              "start": 3,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832659482813591987",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832629441094201600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caomeiweimaomao: 🕰️置顶🕰️\n我是爱礼！\n目前大三休学中\n喜欢画画和追剧\n学的是视觉传达专业\n🚪70r仅闲聊吹水回答问题\n希望大家转发，想互转可以私聊我。\n————————————————\n后排出售饮品：🥛🫖☕️🍵🧃🥤🧋🍶🍺🍻🥂🍷🥃🍸🍹🧉🍾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499709348616241155",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1832629441094201600",
+        "created_at": "2024-09-08T03:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T04:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832629441094201600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832629441094201600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "🕰️置顶🕰️\n我是爱礼！\n目前大三休学中\n喜欢画画和追剧\n学的是视觉传达专业\n🚪70r仅闲聊吹水回答问题\n希望大家转发，想互转可以私聊我。\n————————————————\n后排出售饮品：🥛🫖☕️🍵🧃🥤🧋🍶🍺🍻🥂🍷🥃🍸🍹🧉🍾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 2223,
+          "like_count": 174289,
+          "listed_count": 10,
+          "tweet_count": 11267
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "？20岁//未知，是养的猫猫是重要的人@xsarnayyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "xsarnayyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.suzi03.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.suzi03.xyz/#/register?code=U8x8snvo",
+                "start": 0,
+                "url": "https://t.co/DW6ufDaBlY"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "🪜：",
+        "name": "“爱礼”",
+        "pinned_tweet_id": "1832629441094201600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830126256521691136/qFfv7amJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36716,
+          "following_count": 879,
+          "like_count": 20404,
+          "listed_count": 45,
+          "tweet_count": 21358
+        },
+        "url": "https://t.co/DW6ufDaBlY",
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

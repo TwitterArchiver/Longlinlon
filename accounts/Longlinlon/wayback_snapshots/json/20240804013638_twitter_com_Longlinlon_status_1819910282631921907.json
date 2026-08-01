@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1819705189601055139",
+    "created_at": "2024-08-04T01:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T02:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819910282631921907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1516668413275430912",
+          "start": 0,
+          "username": "LimeRosk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819910282631921907",
+    "in_reply_to_user_id": "1516668413275430912",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819705189601055139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimeRosk 你们兽圈都这个样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1819705189601055139",
+        "created_at": "2024-08-04T01:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T02:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819910282631921907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1516668413275430912",
+              "start": 0,
+              "username": "LimeRosk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819910282631921907",
+        "in_reply_to_user_id": "1516668413275430912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819705189601055139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimeRosk 你们兽圈都这个样吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819705182156136448",
+            "3_1819705182126751745"
+          ]
+        },
+        "author_id": "1516668413275430912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819705189601055139",
+        "created_at": "2024-08-03T12:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T13:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819705189601055139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PPvtxe7Kg4",
+              "end": 38,
+              "expanded_url": "https://twitter.com/LimeRosk/status/1819705189601055139/photo/1",
+              "media_key": "3_1819705182156136448",
+              "start": 15,
+              "url": "https://t.co/PPvtxe7Kg4"
+            },
+            {
+              "display_url": "pic.twitter.com/PPvtxe7Kg4",
+              "end": 38,
+              "expanded_url": "https://twitter.com/LimeRosk/status/1819705189601055139/photo/1",
+              "media_key": "3_1819705182126751745",
+              "start": 15,
+              "url": "https://t.co/PPvtxe7Kg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819705189601055139",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4231,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你们高贵哥要不自己办个兽聚吧 https://t.co/PPvtxe7Kg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 2166,
+          "like_count": 165535,
+          "listed_count": 10,
+          "tweet_count": 10853
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T06:42:03.000Z",
+        "description": "你好！这里是Rosk/天洛，是一只帅气可爱的狼狼OwO   \n喜欢龙、白狼 还有科幻机械装甲 电子音乐非专业爱好者 游玩天凤/舞萌\n\n🚫独狼，不约\n中国語しかできません  Only Chinese",
+        "id": "1516668413275430912",
+        "location": "赛博朋克  夜之城",
+        "name": "Rosk⚡️",
+        "pinned_tweet_id": "1725419751680491553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815779426770325504/z5Pc9fAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4698,
+          "following_count": 790,
+          "like_count": 8744,
+          "listed_count": 6,
+          "tweet_count": 5040
+        },
+        "username": "LimeRosk",
+        "verified": false
+      }
+    ]
+  }
+}

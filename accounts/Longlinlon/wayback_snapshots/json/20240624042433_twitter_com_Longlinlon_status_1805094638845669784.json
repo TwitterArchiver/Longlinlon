@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805094638845669784",
+    "created_at": "2024-06-24T04:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T05:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805094638845669784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1623668615131312129",
+          "start": 3,
+          "username": "Chippin_in8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805094638845669784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804954293793091825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chippin_in8964: 少他妈整这套自我检讨，别人不尊重你的唯一原因就是他们是一群没教养的臭傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805094638845669784",
+        "created_at": "2024-06-24T04:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T05:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805094638845669784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1623668615131312129",
+              "start": 3,
+              "username": "Chippin_in8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805094638845669784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804954293793091825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chippin_in8964: 少他妈整这套自我检讨，别人不尊重你的唯一原因就是他们是一群没教养的臭傻逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1623668615131312129",
+        "conversation_id": "1804954293793091825",
+        "created_at": "2024-06-23T19:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T20:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804954293793091825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cryptoeth10w/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cryptoeth10w/status/1804337766773461119",
+              "start": 37,
+              "url": "https://t.co/O7QdGHQ6bs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804954293793091825",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 993,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804337766773461119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少他妈整这套自我检讨，别人不尊重你的唯一原因就是他们是一群没教养的臭傻逼 https://t.co/O7QdGHQ6bs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 2000,
+          "like_count": 142190,
+          "listed_count": 10,
+          "tweet_count": 10183
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T13:02:28.000Z",
+        "description": "臭打游戏的/🫶🏳️‍🌈🏳️‍⚧️&🐈/ISTP 5w4/无性别/虚拟性恋/LGBT共和国总统/黑墙驻夜之城大使",
+        "id": "1623668615131312129",
+        "location": "荒坂塔",
+        "name": "89烧火棍otto64",
+        "pinned_tweet_id": "1804080670119202911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803155849197842432/lgaI6jR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 170,
+          "like_count": 23082,
+          "listed_count": 2,
+          "tweet_count": 6004
+        },
+        "username": "Chippin_in8964",
+        "verified": false
+      }
+    ]
+  }
+}

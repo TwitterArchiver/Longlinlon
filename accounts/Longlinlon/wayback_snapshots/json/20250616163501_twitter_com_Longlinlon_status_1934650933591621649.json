@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1934336302394339453",
+    "created_at": "2025-06-16T16:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T17:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934650933591621649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650562179668795392",
+          "start": 0,
+          "username": "mokeymokey725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934650933591621649",
+    "in_reply_to_user_id": "1650562179668795392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934336302394339453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mokeymokey725 其实就是美版龙族"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1934336302394339453",
+        "created_at": "2025-06-16T16:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T17:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934650933591621649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650562179668795392",
+              "start": 0,
+              "username": "mokeymokey725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934650933591621649",
+        "in_reply_to_user_id": "1650562179668795392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934336302394339453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mokeymokey725 其实就是美版龙族"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650562179668795392",
+        "conversation_id": "1934336302394339453",
+        "created_at": "2025-06-15T19:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T20:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934336302394339453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Sui_aini/status/1934251305410957752",
+              "start": 55,
+              "url": "https://t.co/OrHsVnMu6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934336302394339453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934251305410957752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我必须得罪一些人哈，就是喜欢哈利波特本身只能说明品味很差。哈利波特和现在なろう系龙傲天爽文基本没半点差别…… https://t.co/OrHsVnMu6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2441,
+          "like_count": 209185,
+          "listed_count": 7,
+          "media_count": 1216,
+          "tweet_count": 13783
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T18:07:52.000Z",
+        "description": "¿",
+        "id": "1650562179668795392",
+        "name": "随风飘飘游×毁灭不死鸟魔侠",
+        "pinned_tweet_id": "1719789489357459525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665129424021520385/V2L8dfY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 79,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 9320
+        },
+        "username": "mokeymokey725",
+        "verified": false
+      }
+    ]
+  }
+}

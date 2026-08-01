@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799366675831390643",
+    "created_at": "2024-06-08T09:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T10:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799369600515317905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799369600515317905",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799366675831390643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba 不要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799366675831390643",
+        "created_at": "2024-06-08T09:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799369600515317905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799369600515317905",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799366675831390643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba 不要死"
+      },
+      {
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "conversation_id": "1799366675831390643",
+        "created_at": "2024-06-08T09:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799366675831390643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799366675831390643",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1992,
+          "like_count": 138236,
+          "listed_count": 9,
+          "tweet_count": 9943
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "♥️@Longlinlon♥️•将爱传达给各位•男的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Longlinlon"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "name": "💮Senba🌸🍀",
+        "pinned_tweet_id": "1785411859220431099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785425479622967296/BwmA3PV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 4415,
+          "like_count": 57886,
+          "listed_count": 10,
+          "tweet_count": 18750
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1801325269992751455",
+    "created_at": "2024-06-14T17:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T18:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801667881694073131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555695367152631808",
+          "start": 0,
+          "username": "KMSRtoragaame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801667881694073131",
+    "in_reply_to_user_id": "1555695367152631808",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801644460360761854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMSRtoragaame 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1801325269992751455",
+        "created_at": "2024-06-14T17:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T18:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801667881694073131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555695367152631808",
+              "start": 0,
+              "username": "KMSRtoragaame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801667881694073131",
+        "in_reply_to_user_id": "1555695367152631808",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801644460360761854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMSRtoragaame 好"
+      },
+      {
+        "attachments": {},
+        "author_id": "1555695367152631808",
+        "conversation_id": "1801325269992751455",
+        "created_at": "2024-06-14T15:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T16:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801644460360761854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801644460360761854",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801325269992751455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 《怪物》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1988,
+          "like_count": 139149,
+          "listed_count": 9,
+          "tweet_count": 10050
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T23:21:16.000Z",
+        "description": "濡れはしないが、なんとはなしに肌の湿る、盲のような虎が雨（@KamishiroTRGAM）だ。表に駈け出した少年(@Xira21021561)、(@khronosnn)、(@blueicesama)は、少圧の伞を见てはじめて、「あら、雨なのね?」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "KamishiroTRGAM"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Xira21021561"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "khronosnn"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "blueicesama"
+              }
+            ]
+          }
+        },
+        "id": "1555695367152631808",
+        "location": "不知原市立云波学园高等学校",
+        "name": "神代虎が雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786778124866465792/BX6cwx10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 584,
+          "like_count": 1840,
+          "listed_count": 1,
+          "tweet_count": 3730
+        },
+        "username": "KMSRtoragaame",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1901117010030821767",
+    "created_at": "2025-03-16T03:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T04:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901118169248682079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1739437517772926976",
+          "start": 0,
+          "username": "Dandelion8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901118169248682079",
+    "in_reply_to_user_id": "1739437517772926976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901117010030821767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dandelion8964 因为大家其实根本不在意质量，只希望用最少的价格买一杯小甜水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1901117010030821767",
+        "created_at": "2025-03-16T03:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T04:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901118169248682079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739437517772926976",
+              "start": 0,
+              "username": "Dandelion8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901118169248682079",
+        "in_reply_to_user_id": "1739437517772926976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901117010030821767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dandelion8964 因为大家其实根本不在意质量，只希望用最少的价格买一杯小甜水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739437517772926976",
+        "conversation_id": "1901117010030821767",
+        "created_at": "2025-03-16T03:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T04:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901117010030821767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1901105380488282570",
+              "start": 74,
+              "url": "https://t.co/KkFIFcMU1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901117010030821767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901105380488282570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我觉得蜜雪冰城的质量配不上它的价格吗？奶茶同样的价格能点烧仙草了都；果茶里面水+糖浆+一点点廉价水果，甚至糖浆摇都不摇的。不过冰淇淋倒挺好吃的 https://t.co/KkFIFcMU1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 2339,
+          "like_count": 199058,
+          "listed_count": 8,
+          "media_count": 1147,
+          "tweet_count": 13160
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T00:06:59.000Z",
+        "description": "",
+        "id": "1739437517772926976",
+        "name": "Dandelion",
+        "pinned_tweet_id": "1887829316475515233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893887338939404288/eLpVnFod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 972,
+          "like_count": 7597,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 545
+        },
+        "username": "Dandelion8964",
+        "verified": false
+      }
+    ]
+  }
+}

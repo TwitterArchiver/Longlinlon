@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1819587572114276404",
+    "created_at": "2024-08-03T04:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T05:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819593007898951972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741500438204362752",
+          "start": 0,
+          "username": "Bolichara0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819593007898951972",
+    "in_reply_to_user_id": "1741500438204362752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819587572114276404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolichara0 😱😱怎么把qq发出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1819587572114276404",
+        "created_at": "2024-08-03T04:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T05:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819593007898951972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741500438204362752",
+              "start": 0,
+              "username": "Bolichara0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819593007898951972",
+        "in_reply_to_user_id": "1741500438204362752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819587572114276404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolichara0 😱😱怎么把qq发出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819587565764202496"
+          ]
+        },
+        "author_id": "1741500438204362752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1819587572114276404",
+        "created_at": "2024-08-03T04:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T05:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819587572114276404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Test——",
+              "display_url": "t.me/bolicha0",
+              "end": 125,
+              "expanded_url": "https://t.me/bolicha0",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1819035751603920896/sF3JAwpt?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1819035751603920896/sF3JAwpt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "Chara Boli",
+              "unwound_url": "https://t.me/bolicha0",
+              "url": "https://t.co/oHqymnMEFf"
+            },
+            {
+              "display_url": "pic.twitter.com/GZ7TJm1i2i",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Bolichara0/status/1819587572114276404/photo/1",
+              "media_key": "3_1819587565764202496",
+              "start": 153,
+              "url": "https://t.co/GZ7TJm1i2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819587572114276404",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要不简单把我的聊天方式都说一下吧（真的好想扩列😭😭）\nqq 89491484\ndiscord bolichara\nIns 没想到吧还是bolichara🤓👊\nLine 请见下面的二维码\nSteam\nTg https://t.co/oHqymnMEFf\n微信就算力（悲）\n别的没了喵💦💦💦💦💦\n我好无聊💦💦 https://t.co/GZ7TJm1i2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 2164,
+          "like_count": 165325,
+          "listed_count": 10,
+          "tweet_count": 10838
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T16:44:17.000Z",
+        "description": "天津的败类初中生/这位路过的朋友请问你是否承认三月七小姐美貌举世无双/BA&MC&UT&崩铁玩家/@Bolichara 是小号/想吃药没钱买/180 80（大悲/求无痛自杀方法/欢迎互fo，会尽量回复每条评论/根本不像个MtF/想发癫诶嘿嘿嘿/男娘控（？/三月七厨/三！体！/想扩列qq89491484也可以tg👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Bolichara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bolicha0",
+                "end": 23,
+                "expanded_url": "https://t.me/bolicha0",
+                "start": 0,
+                "url": "https://t.co/wBV8rVGGy4"
+              }
+            ]
+          }
+        },
+        "id": "1741500438204362752",
+        "location": "天津市 北辰区",
+        "name": "Bolichara（互fo😭）🏳️‍⚧️",
+        "pinned_tweet_id": "1819050303456784447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816737977877606400/wQnDHIBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 193,
+          "like_count": 49,
+          "listed_count": 0,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/wBV8rVGGy4",
+        "username": "Bolichara0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1925209315620929578",
+    "created_at": "2025-05-21T15:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T16:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925209315620929578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "KillTokiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925209315620929578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925127781681135992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KillTokiyuki: 你一旦拉完屎，第一件事就是冲掉，即使它曾经是你最喜欢吃的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1925209315620929578",
+        "created_at": "2025-05-21T15:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925209315620929578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925209315620929578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925127781681135992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KillTokiyuki: 你一旦拉完屎，第一件事就是冲掉，即使它曾经是你最喜欢吃的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1925127781681135992",
+        "created_at": "2025-05-21T09:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T10:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925127781681135992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925127781681135992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你一旦拉完屎，第一件事就是冲掉，即使它曾经是你最喜欢吃的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2427,
+          "like_count": 206256,
+          "listed_count": 8,
+          "media_count": 1193,
+          "tweet_count": 13610
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "people like you don't deserve to live.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "DIE!!☆TOKIYUKI",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922519967917867008/kr2F9O3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 1279,
+          "like_count": 26015,
+          "listed_count": 13,
+          "media_count": 153,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillTokiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

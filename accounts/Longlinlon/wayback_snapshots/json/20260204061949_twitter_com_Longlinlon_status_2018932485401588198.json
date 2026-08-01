@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2018932485401588198",
+    "created_at": "2026-02-04T06:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018932485401588198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuchabuku/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/kuchabuku/status/2018575365682471139",
+          "start": 18,
+          "url": "https://t.co/JTHUrDpLP4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018932485401588198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018575365682471139",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢草逼不带套的顺直普遍智商就这样 https://t.co/JTHUrDpLP4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2018575354827571200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANrlyDbAAABeoc.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2018932485401588198",
+        "created_at": "2026-02-04T06:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018932485401588198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuchabuku/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kuchabuku/status/2018575365682471139",
+              "start": 18,
+              "url": "https://t.co/JTHUrDpLP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018932485401588198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018575365682471139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢草逼不带套的顺直普遍智商就这样 https://t.co/JTHUrDpLP4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018575354827571200"
+          ]
+        },
+        "author_id": "972838824882548738",
+        "conversation_id": "2018575365682471139",
+        "created_at": "2026-02-03T06:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018575365682471139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtB53TMpsl",
+              "end": 27,
+              "expanded_url": "https://x.com/kuchabuku/status/2018575365682471139/photo/1",
+              "media_key": "3_2018575354827571200",
+              "start": 4,
+              "url": "https://t.co/vtB53TMpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018575365682471139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 1844068,
+          "like_count": 3182,
+          "quote_count": 5,
+          "reply_count": 105,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "哦😲？ https://t.co/vtB53TMpsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 2536,
+          "like_count": 210078,
+          "listed_count": 9,
+          "media_count": 1378,
+          "tweet_count": 14703
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-11T14:17:05.000Z",
+        "description": "努力孕育小人儿ing ｜ 生活推（偶尔飙车）｜ 需按F进入的坦克妹｜北京清纯巨乳妹｜不发正脸因为丑｜不笑像刘欢大笑似李逵 ｜直插你灵魂深处的写手｜Lover佛系男公关@BT_nangongguan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "BT_nangongguan"
+              }
+            ]
+          }
+        },
+        "id": "972838824882548738",
+        "name": "变态苦茶超甜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966642621281169409/5BSh5D6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31474,
+          "following_count": 628,
+          "like_count": 608,
+          "listed_count": 127,
+          "media_count": 1470,
+          "tweet_count": 20990
+        },
+        "username": "kuchabuku",
+        "verified": false
+      }
+    ]
+  }
+}

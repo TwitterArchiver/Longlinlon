@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1800013275167687148",
+    "created_at": "2024-06-10T03:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T04:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800013275167687148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amwatmt/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/amwatmt/status/1799988265916965228",
+          "start": 7,
+          "url": "https://t.co/7EKZ7nkUuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800013275167687148",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799988265916965228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该说什么好呢 https://t.co/7EKZ7nkUuL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1800013275167687148",
+        "created_at": "2024-06-10T03:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T04:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800013275167687148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amwatmt/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/amwatmt/status/1799988265916965228",
+              "start": 7,
+              "url": "https://t.co/7EKZ7nkUuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800013275167687148",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799988265916965228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该说什么好呢 https://t.co/7EKZ7nkUuL"
+      },
+      {
+        "attachments": {},
+        "author_id": "1605483830428962816",
+        "conversation_id": "1799988265916965228",
+        "created_at": "2024-06-10T02:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T03:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799988265916965228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amwatmt/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/amwatmt/status/1799838673338548393",
+              "start": 143,
+              "url": "https://t.co/V7awaijkRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799988265916965228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799838673338548393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hrt本就是个很自私的行为了\n出柜无非就是告诉对方，并让别人更迁就自己\n向家人或父母出柜，告诉他们自己打针吃药，以后要在你们面前娘娘的，或是穿女装，这不仅仅是自私了，还要硬拉着身边最亲的人一起疯：我既然跟你出柜了，你就必须要接受我，你不理解我就是不行。\n三思吧，家人还渴望你理解他们呢 https://t.co/V7awaijkRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1991,
+          "like_count": 138946,
+          "listed_count": 9,
+          "tweet_count": 9971
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T08:42:40.000Z",
+        "description": "无性别主义（不挂旗）/超大龄/酒腻子/机车党/日常发癫并开始记录自己发癫的人生/情绪失控中并在修复自己的情绪。再感谢：有你相伴",
+        "id": "1605483830428962816",
+        "location": "Beijing",
+        "name": "咪宝🎀",
+        "pinned_tweet_id": "1799095718705307837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616694264611868673/9g7km6w__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 100,
+          "like_count": 2207,
+          "listed_count": 0,
+          "tweet_count": 3021
+        },
+        "username": "amwatmt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2040354611119403459",
+    "created_at": "2026-04-04T09:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040354611119403459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDaquaforever/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/DDaquaforever/status/2039940801082642634",
+          "start": 22,
+          "url": "https://t.co/bqSrWPuA28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040354611119403459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039940801082642634",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不会按拒绝就和被放血不投降一样，默认享受😋 https://t.co/bqSrWPuA28"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2039940765917630465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9TUYtb0AEH3vs.png",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2040354611119403459",
+        "created_at": "2026-04-04T09:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040354611119403459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/2039940801082642634",
+              "start": 22,
+              "url": "https://t.co/bqSrWPuA28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040354611119403459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039940801082642634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不会按拒绝就和被放血不投降一样，默认享受😋 https://t.co/bqSrWPuA28"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039940765917630465"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2039940801082642634",
+        "created_at": "2026-04-03T05:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039940801082642634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehH3aE71nG",
+              "end": 26,
+              "expanded_url": "https://x.com/DDaquaforever/status/2039940801082642634/photo/1",
+              "media_key": "3_2039940765917630465",
+              "start": 3,
+              "url": "https://t.co/ehH3aE71nG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039940801082642634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1796,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "是的 https://t.co/ehH3aE71nG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2551,
+          "like_count": 207468,
+          "listed_count": 8,
+          "media_count": 1385,
+          "tweet_count": 14782
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4303,
+          "following_count": 4762,
+          "like_count": 8256,
+          "listed_count": 12,
+          "media_count": 2939,
+          "tweet_count": 13586
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

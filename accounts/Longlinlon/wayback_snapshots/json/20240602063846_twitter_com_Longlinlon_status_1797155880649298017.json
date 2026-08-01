@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1797138237804445791",
+    "created_at": "2024-06-02T06:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T07:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797155880649298017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690936487116967936",
+          "start": 0,
+          "username": "Kamukura1072415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797155880649298017",
+    "in_reply_to_user_id": "1690936487116967936",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797153525337919800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kamukura1072415 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1797138237804445791",
+        "created_at": "2024-06-02T06:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797155880649298017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690936487116967936",
+              "start": 0,
+              "username": "Kamukura1072415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797155880649298017",
+        "in_reply_to_user_id": "1690936487116967936",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797153525337919800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kamukura1072415 抱抱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1690936487116967936",
+        "conversation_id": "1797138237804445791",
+        "created_at": "2024-06-02T06:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797153525337919800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797153525337919800",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797138237804445791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 我也没喝到牛肉汤，今天没开门😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1981,
+          "like_count": 134783,
+          "listed_count": 9,
+          "tweet_count": 9794
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:01:02.000Z",
+        "description": "魔圆/弹丸/火影/名柯/ddlc/游戏王/碧蓝档案/型月/原/d5（已退坑）欢迎各位同好大人来找我玩",
+        "id": "1690936487116967936",
+        "name": "圣三一第一突破手圣园未花",
+        "pinned_tweet_id": "1691064121276669952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751050367016833024/-Jniy7ee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 111,
+          "like_count": 307,
+          "listed_count": 1,
+          "tweet_count": 313
+        },
+        "username": "Kamukura1072415",
+        "verified": false
+      }
+    ]
+  }
+}

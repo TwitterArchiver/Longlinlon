@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1957285388856221696",
+    "created_at": "2025-08-18T03:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957285388856221696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PeanutVicku/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/PeanutVicku/status/1957258457280606357",
+          "start": 7,
+          "url": "https://t.co/3SOylq306O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957285388856221696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957258457280606357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "破奈天下第一 https://t.co/3SOylq306O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_1957258454751473664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymUMdEXcAAgcs0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1957285388856221696",
+        "created_at": "2025-08-18T03:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957285388856221696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PeanutVicku/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/PeanutVicku/status/1957258457280606357",
+              "start": 7,
+              "url": "https://t.co/3SOylq306O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957285388856221696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957258457280606357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "破奈天下第一 https://t.co/3SOylq306O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957258454751473664"
+          ]
+        },
+        "author_id": "1386537357818568712",
+        "conversation_id": "1957258457280606357",
+        "created_at": "2025-08-18T01:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T02:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957258457280606357"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "TBHX",
+              "probability": 0.8275,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "tbhxnice",
+              "probability": 0.5136,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "tbhxwreck",
+              "probability": 0.4748,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "TBHX"
+            },
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "tbhxnice"
+            },
+            {
+              "end": 61,
+              "start": 51,
+              "tag": "tbhxwreck"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "wrice"
+            },
+            {
+              "end": 75,
+              "start": 69,
+              "tag": "凸变英雄X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Halwkv3Of4",
+              "end": 99,
+              "expanded_url": "https://x.com/PeanutVicku/status/1957258457280606357/photo/1",
+              "media_key": "3_1957258454751473664",
+              "start": 76,
+              "url": "https://t.co/Halwkv3Of4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957258457280606357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 9439,
+          "like_count": 1492,
+          "quote_count": 9,
+          "reply_count": 8,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "I love this kind of trope on them\n\n#TBHX #tbhxnice #tbhxwreck #wrice #凸变英雄X https://t.co/Halwkv3Of4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "tk14❤️-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2503,
+          "like_count": 214467,
+          "listed_count": 6,
+          "media_count": 1280,
+          "tweet_count": 14193
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:27:31.000Z",
+        "description": "19 ◇ any pronouns ◇Multishipper and multifandom ◇Pokemon, TBHX and gays ◇ENG/ESP🇲🇽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vickumani.straw.page",
+                "end": 23,
+                "expanded_url": "https://vickumani.straw.page",
+                "start": 0,
+                "url": "https://t.co/2C2FOmy4pu"
+              }
+            ]
+          }
+        },
+        "id": "1386537357818568712",
+        "name": "Vicku 🌻",
+        "pinned_tweet_id": "1938459000577642956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902090100055449600/GSlFK49Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 850,
+          "like_count": 78495,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 4888
+        },
+        "url": "https://t.co/2C2FOmy4pu",
+        "username": "PeanutVicku",
+        "verified": false
+      }
+    ]
+  }
+}

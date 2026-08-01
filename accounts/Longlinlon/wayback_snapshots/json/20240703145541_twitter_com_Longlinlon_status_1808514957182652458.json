@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808514957182652458",
+    "created_at": "2024-07-03T14:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T15:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808514957182652458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723520063758815232",
+          "start": 3,
+          "username": "Liz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808514957182652458",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808442694903185743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liz8964: 听到包XXX的这个句式就烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808514957182652458",
+        "created_at": "2024-07-03T14:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T15:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808514957182652458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723520063758815232",
+              "start": 3,
+              "username": "Liz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808514957182652458",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808442694903185743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liz8964: 听到包XXX的这个句式就烦"
+      },
+      {
+        "attachments": {},
+        "author_id": "1723520063758815232",
+        "conversation_id": "1808442694903185743",
+        "created_at": "2024-07-03T10:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T11:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808442694903185743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808442694903185743",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4837,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "听到包XXX的这个句式就烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 2049,
+          "like_count": 150823,
+          "listed_count": 10,
+          "tweet_count": 10381
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T01:56:52.000Z",
+        "description": "INTP-T",
+        "id": "1723520063758815232",
+        "name": "Liz",
+        "pinned_tweet_id": "1801586316783849764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785353664913420288/KNllyAmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8561,
+          "following_count": 602,
+          "like_count": 22210,
+          "listed_count": 23,
+          "tweet_count": 8581
+        },
+        "username": "Liz8964",
+        "verified": false
+      }
+    ]
+  }
+}

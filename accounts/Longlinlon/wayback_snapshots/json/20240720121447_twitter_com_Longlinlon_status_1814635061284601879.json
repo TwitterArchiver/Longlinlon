@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1814604315643810168",
+    "created_at": "2024-07-20T12:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T13:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814635061284601879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Keio_1nokashira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814635061284601879",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814624213610999880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keio_1nokashira 哎🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1814604315643810168",
+        "created_at": "2024-07-20T12:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T13:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814635061284601879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Keio_1nokashira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814635061284601879",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814624213610999880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keio_1nokashira 哎🥰"
+      },
+      {
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1814604315643810168",
+        "created_at": "2024-07-20T11:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T12:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814624213610999880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814624213610999880",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814604315643810168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 姐姐🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 2121,
+          "like_count": 160032,
+          "listed_count": 10,
+          "tweet_count": 10614
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "长期锁推，心情好了就解一阵",
+        "id": "1688233455363219456",
+        "location": "吉祥寺駅",
+        "name": "京王井の頭線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814323453111177216/Y7AdaD8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 2072,
+          "like_count": 97843,
+          "listed_count": 12,
+          "tweet_count": 18285
+        },
+        "username": "Keio_1nokashira",
+        "verified": false
+      }
+    ]
+  }
+}

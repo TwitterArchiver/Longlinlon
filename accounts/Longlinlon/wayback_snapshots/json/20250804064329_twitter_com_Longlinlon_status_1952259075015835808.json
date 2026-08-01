@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951580022147538945"
+      ],
+      "media_source_tweet_id": [
+        "1951580024538341526"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1952259075015835808",
+    "created_at": "2025-08-04T06:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T07:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952259075015835808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1643517192955207680",
+          "start": 3,
+          "username": "GlassFoxowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmdgLywNCs",
+          "end": 40,
+          "expanded_url": "https://x.com/GlassFoxowo/status/1951580024538341526/photo/1",
+          "media_key": "3_1951580022147538945",
+          "start": 17,
+          "url": "https://t.co/hmdgLywNCs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952259075015835808",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951580024538341526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlassFoxowo: https://t.co/hmdgLywNCs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1828,
+        "media_key": "3_1951580022147538945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVnsLLaYAEPYPY.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951580022147538945"
+          ],
+          "media_source_tweet_id": [
+            "1951580024538341526"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1952259075015835808",
+        "created_at": "2025-08-04T06:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T07:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952259075015835808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1643517192955207680",
+              "start": 3,
+              "username": "GlassFoxowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmdgLywNCs",
+              "end": 40,
+              "expanded_url": "https://x.com/GlassFoxowo/status/1951580024538341526/photo/1",
+              "media_key": "3_1951580022147538945",
+              "start": 17,
+              "url": "https://t.co/hmdgLywNCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952259075015835808",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951580024538341526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlassFoxowo: https://t.co/hmdgLywNCs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951580022147538945"
+          ]
+        },
+        "author_id": "1643517192955207680",
+        "conversation_id": "1951580024538341526",
+        "created_at": "2025-08-02T09:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951580024538341526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmdgLywNCs",
+              "end": 23,
+              "expanded_url": "https://x.com/GlassFoxowo/status/1951580024538341526/photo/1",
+              "media_key": "3_1951580022147538945",
+              "start": 0,
+              "url": "https://t.co/hmdgLywNCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951580024538341526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 213506,
+          "like_count": 2051,
+          "quote_count": 16,
+          "reply_count": 88,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hmdgLywNCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2486,
+          "like_count": 213085,
+          "listed_count": 6,
+          "media_count": 1264,
+          "tweet_count": 14114
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "🏳️‍🌈 Gay | 22 | Furry | ✝ |\n❤️ 爱人 @realShellWen |\n伤口的腐肉与阴沟的淤泥 @ViaDolorosa7STN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "realShellWen"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "ViaDolorosa7STN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "https://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/g02SwVlinT"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "location": "南通福瑞有限公司",
+        "name": "玻狸.PKGBUILD",
+        "pinned_tweet_id": "1936239760508641608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723760164258385921/XvL1oibV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2819,
+          "following_count": 564,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 2984
+        },
+        "url": "https://t.co/g02SwVlinT",
+        "username": "GlassFoxowo",
+        "verified": false
+      }
+    ]
+  }
+}

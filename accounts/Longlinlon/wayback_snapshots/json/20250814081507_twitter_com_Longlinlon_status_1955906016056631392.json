@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1955824270124392586",
+    "created_at": "2025-08-14T08:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T09:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955906016056631392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1495386210977517568",
+          "start": 0,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 29,
+          "id": "1892240715100594176",
+          "start": 16,
+          "username": "chuF6yuanmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955906016056631392",
+    "in_reply_to_user_id": "1495386210977517568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955881433035362377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CapelaLoveLove @chuF6yuanmen 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1067,
+        "media_key": "3_1955881430200016896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySvzE3a4AAfzBo.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1955824270124392586",
+        "created_at": "2025-08-14T08:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955906016056631392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 29,
+              "id": "1892240715100594176",
+              "start": 16,
+              "username": "chuF6yuanmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955906016056631392",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955881433035362377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @chuF6yuanmen 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955881430200016896"
+          ]
+        },
+        "author_id": "1495386210977517568",
+        "conversation_id": "1955824270124392586",
+        "created_at": "2025-08-14T06:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T07:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955881433035362377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892240715100594176",
+              "start": 0,
+              "username": "chuF6yuanmen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7soKdKQLp",
+              "end": 73,
+              "expanded_url": "https://x.com/CapelaLoveLove/status/1955881433035362377/photo/1",
+              "media_key": "3_1955881430200016896",
+              "start": 50,
+              "url": "https://t.co/c7soKdKQLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955881433035362377",
+        "in_reply_to_user_id": "1892240715100594176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955824270124392586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuF6yuanmen 拥抱是无价的，但本小姐可以免费\n  若不嫌廉价，本小姐的怀抱便随时敞开 https://t.co/c7soKdKQLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "病友轮回-Wiggin",
+        "pinned_tweet_id": "1955629240017436683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2493,
+          "like_count": 214074,
+          "listed_count": 6,
+          "media_count": 1274,
+          "tweet_count": 14158
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "Name：卡佩拉/信仰：基督新教/性格：温良仅限对人/Like：阿尔迪巴兰，蹂躏与虐杀，爱，好吃的东西，格斗游戏/Hate：阿尔迪巴兰，傻逼，失败/\n『本小姐对你们的感情不是书的指示，是真心的，是纯爱』\n/除了没推文或全键政全黄的号都会回fo/\n请爱上我",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 436,
+          "like_count": 16286,
+          "listed_count": 1,
+          "media_count": 1364,
+          "tweet_count": 6534
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:52:22.000Z",
+        "description": "04｜hrt:25 3.1🍥｜喵喵喵｜mtf｜174/50｜是个废物｜同类互fo｜不见证",
+        "id": "1892240715100594176",
+        "name": "⁺✞假期重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916893727714684928/Jly1jONk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 584,
+          "like_count": 3400,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1448
+        },
+        "username": "chuF6yuanmen",
+        "verified": false
+      }
+    ]
+  }
+}

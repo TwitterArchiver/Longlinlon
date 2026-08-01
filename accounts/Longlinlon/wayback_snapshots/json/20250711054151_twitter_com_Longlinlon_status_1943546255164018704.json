@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943546252202762240"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1943510554166915213",
+    "created_at": "2025-07-11T05:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T06:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943546255164018704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689268609380675585",
+          "start": 0,
+          "username": "KzCynic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DA8VzKbrTx",
+          "end": 32,
+          "expanded_url": "https://x.com/Longlinlon/status/1943546255164018704/photo/1",
+          "media_key": "3_1943546252202762240",
+          "start": 9,
+          "url": "https://t.co/DA8VzKbrTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943546255164018704",
+    "in_reply_to_user_id": "1689268609380675585",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943510554166915213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KzCynic https://t.co/DA8VzKbrTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_1943546252202762240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjdBN8WYAAwk9n.jpg",
+        "width": 755
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1943510531647901697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvi8iAgakAE8TZE.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943510543148453890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvi8irWXEAIXr_i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943546252202762240"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1943510554166915213",
+        "created_at": "2025-07-11T05:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T06:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943546255164018704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689268609380675585",
+              "start": 0,
+              "username": "KzCynic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DA8VzKbrTx",
+              "end": 32,
+              "expanded_url": "https://x.com/Longlinlon/status/1943546255164018704/photo/1",
+              "media_key": "3_1943546252202762240",
+              "start": 9,
+              "url": "https://t.co/DA8VzKbrTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943546255164018704",
+        "in_reply_to_user_id": "1689268609380675585",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943510554166915213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KzCynic https://t.co/DA8VzKbrTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943510531647901697",
+            "3_1943510543148453890"
+          ]
+        },
+        "author_id": "1689268609380675585",
+        "conversation_id": "1943510554166915213",
+        "created_at": "2025-07-11T03:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T04:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943510554166915213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hCgdDiRrD",
+              "end": 31,
+              "expanded_url": "https://x.com/KzCynic/status/1943510554166915213/photo/1",
+              "media_key": "3_1943510531647901697",
+              "start": 8,
+              "url": "https://t.co/8hCgdDiRrD"
+            },
+            {
+              "display_url": "pic.x.com/8hCgdDiRrD",
+              "end": 31,
+              "expanded_url": "https://x.com/KzCynic/status/1943510554166915213/photo/1",
+              "media_key": "3_1943510543148453890",
+              "start": 8,
+              "url": "https://t.co/8hCgdDiRrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943510554166915213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 487,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "煮啵日常照如骗 https://t.co/8hCgdDiRrD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 2469,
+          "like_count": 211890,
+          "listed_count": 7,
+          "media_count": 1241,
+          "tweet_count": 13967
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T13:33:29.000Z",
+        "description": "手提玉剑斥千军 昔日锦鲤化金龙丨友@Horace_Yee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Horace_Yee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kzcynic",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kzcynic",
+                "start": 0,
+                "url": "https://t.co/KK8wGfJ9dw"
+              }
+            ]
+          }
+        },
+        "id": "1689268609380675585",
+        "name": "空奏Cynic",
+        "pinned_tweet_id": "1934244981411356852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858204721540214784/18m88iAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3307,
+          "following_count": 628,
+          "like_count": 5610,
+          "listed_count": 7,
+          "media_count": 312,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/KK8wGfJ9dw",
+        "username": "KzCynic",
+        "verified": false
+      }
+    ]
+  }
+}

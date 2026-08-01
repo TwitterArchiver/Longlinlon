@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1802072051320246553",
+    "created_at": "2024-06-15T21:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T22:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802097974182637735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705164295976214528",
+          "start": 0,
+          "username": "ziname1113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802097974182637735",
+    "in_reply_to_user_id": "1705164295976214528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802072051320246553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziname1113 这下我也想当神婆惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1802072051320246553",
+        "created_at": "2024-06-15T21:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T22:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802097974182637735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705164295976214528",
+              "start": 0,
+              "username": "ziname1113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802097974182637735",
+        "in_reply_to_user_id": "1705164295976214528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802072051320246553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziname1113 这下我也想当神婆惹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1705164295976214528",
+        "conversation_id": "1802072051320246553",
+        "created_at": "2024-06-15T20:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T21:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802072051320246553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bh2usu/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/bh2usu/status/1802038663699996790",
+              "start": 10,
+              "url": "https://t.co/MihVO5RgLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802072051320246553",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802038663699996790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠 超现代神婆？ https://t.co/MihVO5RgLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1989,
+          "like_count": 139541,
+          "listed_count": 10,
+          "tweet_count": 10080
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T10:17:24.000Z",
+        "description": "当我面对现实，我张开双臂拥抱大地/🏳️‍⚧️🏳️‍🌈/门槛50元/激素替换1.4年/一名流浪在外的落魄少妇/不建政⚠️建政浓度高的滚",
+        "id": "1705164295976214528",
+        "name": "冷泽安-Zina(毛毛妞）🍥",
+        "pinned_tweet_id": "1793614116138979639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799123728028028929/XEvmVtEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 448,
+          "like_count": 8643,
+          "listed_count": 4,
+          "tweet_count": 12390
+        },
+        "username": "ziname1113",
+        "verified": false
+      }
+    ]
+  }
+}

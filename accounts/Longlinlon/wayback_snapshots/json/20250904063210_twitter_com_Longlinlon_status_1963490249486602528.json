@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1963472239203897545",
+    "created_at": "2025-09-04T06:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T07:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963490249486602528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "915881796881076224",
+          "start": 0,
+          "username": "SD2190392804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963490249486602528",
+    "in_reply_to_user_id": "915881796881076224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963472239203897545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SD2190392804 美人。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963472231687962624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-nl4AawAAy-2N.jpg",
+        "width": 1318
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963472231755059200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-nl4QakAAzd71.jpg",
+        "width": 1384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1963472239203897545",
+        "created_at": "2025-09-04T06:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963490249486602528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "915881796881076224",
+              "start": 0,
+              "username": "SD2190392804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963490249486602528",
+        "in_reply_to_user_id": "915881796881076224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963472239203897545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SD2190392804 美人。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963472231687962624",
+            "3_1963472231755059200"
+          ]
+        },
+        "author_id": "915881796881076224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963472239203897545",
+        "created_at": "2025-09-04T05:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963472239203897545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "TOBEHEROX"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "tbhx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htPEDI0AdT",
+              "end": 72,
+              "expanded_url": "https://x.com/SD2190392804/status/1963472239203897545/photo/1",
+              "media_key": "3_1963472231687962624",
+              "start": 49,
+              "url": "https://t.co/htPEDI0AdT"
+            },
+            {
+              "display_url": "pic.x.com/htPEDI0AdT",
+              "end": 72,
+              "expanded_url": "https://x.com/SD2190392804/status/1963472239203897545/photo/1",
+              "media_key": "3_1963472231755059200",
+              "start": 49,
+              "url": "https://t.co/htPEDI0AdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963472239203897545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 8331,
+          "like_count": 664,
+          "quote_count": 39,
+          "reply_count": 14,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "#TOBEHEROX #tbhx 和朋友们聊到的脑洞，尝试着画一下（没有考究画错了什么别打我🏳️ https://t.co/htPEDI0AdT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭磕患园-Wiggin",
+        "pinned_tweet_id": "1942519630431674832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2508,
+          "like_count": 215448,
+          "listed_count": 10,
+          "media_count": 1295,
+          "tweet_count": 14266
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-05T10:10:11.000Z",
+        "description": "*｢TO BE HERO X」公式立ち絵＆ポスターイラスト担当  *OC余烬驿站  *DOGS/B&C *什么都画･なんでも描く｜weibo：SpeakLOUDER_｜中文/日本語",
+        "id": "915881796881076224",
+        "name": "ShaDow💫",
+        "pinned_tweet_id": "1530609325537775616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942413582198792193/3W24TIf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131859,
+          "following_count": 1044,
+          "like_count": 4448,
+          "listed_count": 774,
+          "media_count": 554,
+          "tweet_count": 3948
+        },
+        "username": "SD2190392804",
+        "verified": false
+      }
+    ]
+  }
+}

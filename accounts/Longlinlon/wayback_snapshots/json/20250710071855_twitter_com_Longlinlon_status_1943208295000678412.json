@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1943208295000678412",
+    "created_at": "2025-07-10T07:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T08:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943208295000678412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964Ximo/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/8964Ximo/status/1943201367671119903",
+          "start": 4,
+          "url": "https://t.co/hxR40MxKei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943208295000678412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943201367671119903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是真的 https://t.co/hxR40MxKei"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1943208295000678412",
+        "created_at": "2025-07-10T07:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T08:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943208295000678412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964Ximo/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/8964Ximo/status/1943201367671119903",
+              "start": 4,
+              "url": "https://t.co/hxR40MxKei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943208295000678412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943201367671119903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的 https://t.co/hxR40MxKei"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1943201367671119903",
+        "created_at": "2025-07-10T06:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943201367671119903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943201367671119903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们还不知道吗？我的互fo都被我草过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2470,
+          "like_count": 211790,
+          "listed_count": 7,
+          "media_count": 1238,
+          "tweet_count": 13960
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "我自杀了，现在是时行的哥哥",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943205610419314688/1jbcj6Zu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6197,
+          "following_count": 253,
+          "like_count": 28894,
+          "listed_count": 14,
+          "media_count": 158,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "8964Ximo",
+        "verified": false
+      }
+    ]
+  }
+}

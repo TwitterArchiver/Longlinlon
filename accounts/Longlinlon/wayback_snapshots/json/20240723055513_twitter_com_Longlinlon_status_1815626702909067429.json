@@ -1,0 +1,279 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1815378395901145088"
+      ],
+      "media_source_tweet_id": [
+        "1815378485403431048"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1815626702909067429",
+    "created_at": "2024-07-23T05:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T06:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815626702909067429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "406273108",
+          "start": 3,
+          "username": "rincent_yuzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hcdnP1ToAs",
+          "end": 56,
+          "expanded_url": "https://twitter.com/rincent_yuzu/status/1815378485403431048/video/1",
+          "media_key": "13_1815378395901145088",
+          "start": 33,
+          "url": "https://t.co/hcdnP1ToAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815626702909067429",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815378485403431048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rincent_yuzu: ダチョウの人って呼んでいいよ https://t.co/hcdnP1ToAs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14301,
+        "height": 1280,
+        "media_key": "13_1815378395901145088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1815378395901145088/img/3qd79pkt8ntrUQjZ.jpg",
+        "public_metrics": {
+          "view_count": 2123088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815378395901145088/vid/avc1/320x568/za1SSvx65tV32O_B.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815378395901145088/vid/avc1/480x852/Xqns0qjQmVvdpXuO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1815378395901145088/vid/avc1/720x1280/hL1lg9rIY0XT59HE.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1815378395901145088/pl/tRTya9u1cteBNsI5.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1815378395901145088"
+          ],
+          "media_source_tweet_id": [
+            "1815378485403431048"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1815626702909067429",
+        "created_at": "2024-07-23T05:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T06:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815626702909067429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "406273108",
+              "start": 3,
+              "username": "rincent_yuzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hcdnP1ToAs",
+              "end": 56,
+              "expanded_url": "https://twitter.com/rincent_yuzu/status/1815378485403431048/video/1",
+              "media_key": "13_1815378395901145088",
+              "start": 33,
+              "url": "https://t.co/hcdnP1ToAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815626702909067429",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815378485403431048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rincent_yuzu: ダチョウの人って呼んでいいよ https://t.co/hcdnP1ToAs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1815378395901145088"
+          ]
+        },
+        "author_id": "406273108",
+        "conversation_id": "1815378485403431048",
+        "created_at": "2024-07-22T13:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T14:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815378485403431048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hcdnP1ToAs",
+              "end": 38,
+              "expanded_url": "https://twitter.com/rincent_yuzu/status/1815378485403431048/video/1",
+              "media_key": "13_1815378395901145088",
+              "start": 15,
+              "url": "https://t.co/hcdnP1ToAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815378485403431048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8405,
+          "impression_count": 4536671,
+          "like_count": 123087,
+          "quote_count": 1154,
+          "reply_count": 987,
+          "retweet_count": 14118
+        },
+        "reply_settings": "everyone",
+        "text": "ダチョウの人って呼んでいいよ https://t.co/hcdnP1ToAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 2137,
+          "like_count": 161455,
+          "listed_count": 10,
+          "tweet_count": 10677
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-06T13:50:35.000Z",
+        "description": "RiNCENT♯(@rincent_idol)のｲﾝｷｬ番長ﾎﾟﾝｺﾂ水色ﾘｰﾀﾞｰまっすぐ一生懸命👊🩵ことぶきです！声低くてよく喋ります。振り付けもしてます#ゆずといっしょ 踊ってみたでは「とぷす」という名前です/コスプレ/管理栄養士 rincent.idol@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "rincent_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kotobukiyuzu",
+                "end": 23,
+                "expanded_url": "https://lit.link/kotobukiyuzu",
+                "start": 0,
+                "url": "https://t.co/OigB2q3Cl8"
+              }
+            ]
+          }
+        },
+        "id": "406273108",
+        "location": "茨城出身東京なう",
+        "name": "琴吹ゆず(RiNCENT♯）",
+        "pinned_tweet_id": "1696484342409953495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809184227386437632/c-skhNVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23962,
+          "following_count": 435,
+          "like_count": 110684,
+          "listed_count": 290,
+          "tweet_count": 54516
+        },
+        "url": "https://t.co/OigB2q3Cl8",
+        "username": "rincent_yuzu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799381305802838019",
+    "created_at": "2024-06-08T10:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T11:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799387345386647749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608462743337865221",
+          "start": 0,
+          "username": "KMGKHHBOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799387345386647749",
+    "in_reply_to_user_id": "1608462743337865221",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799381305802838019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMGKHHBOT 跨女圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799381305802838019",
+        "created_at": "2024-06-08T10:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T11:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799387345386647749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608462743337865221",
+              "start": 0,
+              "username": "KMGKHHBOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799387345386647749",
+        "in_reply_to_user_id": "1608462743337865221",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799381305802838019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMGKHHBOT 跨女圈"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1799381304875876352"
+          ]
+        },
+        "author_id": "1608462743337865221",
+        "conversation_id": "1799381305802838019",
+        "created_at": "2024-06-08T10:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T11:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799381305802838019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799381305802838019",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【3167】\n抽象程度更高的是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1991,
+          "like_count": 138277,
+          "listed_count": 9,
+          "tweet_count": 9944
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T13:59:48.000Z",
+        "description": "🚩致力于成为让共产党人体验舒心的网络厕所🚩我们的宗旨是：全世界的无产阶级、被压迫民族和被压迫性别联合起来！🚩不限于共产党人，欢迎各派来稿🚩民族主义者和自由主义者来稿请添加tag“资产阶级来稿”🚩封建老保来稿请添加 “封建地主来稿”🚩法西斯分子来稿请添加 “黑衫军来稿” 🚩",
+        "id": "1608462743337865221",
+        "location": "彼得格勒",
+        "name": "康米隔空喊话bot",
+        "pinned_tweet_id": "1765560068198879511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764163254233026561/GmyBR5H3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 415,
+          "like_count": 2222,
+          "listed_count": 15,
+          "tweet_count": 4700
+        },
+        "username": "KMGKHHBOT",
+        "verified": false
+      }
+    ]
+  }
+}

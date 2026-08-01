@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840560642706780219",
+    "created_at": "2024-09-30T01:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T02:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840566998167937072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287738015817723906",
+          "start": 0,
+          "username": "Zhinazhu_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840566998167937072",
+    "in_reply_to_user_id": "1287738015817723906",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840566533376057416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhinazhu_8964 我会有新的恋情吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840566533376057416].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840566533376057416",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840566533376057416"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840560642706780219",
+        "created_at": "2024-09-30T01:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T02:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840566998167937072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287738015817723906",
+              "start": 0,
+              "username": "Zhinazhu_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840566998167937072",
+        "in_reply_to_user_id": "1287738015817723906",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840566533376057416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhinazhu_8964 我会有新的恋情吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2217,
+          "like_count": 176817,
+          "listed_count": 8,
+          "tweet_count": 11563
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T13:14:15.000Z",
+        "description": "塔罗师 草药女巫 \n神秘學爱好者\nChinese/English/Japanese/Korean",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "塔罗.中国/?_refluxos=a10",
+                "end": 23,
+                "expanded_url": "https://xn--omsu12g.xn--fiqs8s/?_refluxos=a10",
+                "start": 0,
+                "url": "https://t.co/yH6ZzwqjO3"
+              }
+            ]
+          }
+        },
+        "id": "1287738015817723906",
+        "location": "東京 板橋区",
+        "name": "✞川嶋イクミ✞",
+        "pinned_tweet_id": "1837772953955758406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838916237222608896/agUgO9Fz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 367,
+          "like_count": 19846,
+          "listed_count": 2,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/yH6ZzwqjO3",
+        "username": "Zhinazhu_8964",
+        "verified": false
+      }
+    ]
+  }
+}

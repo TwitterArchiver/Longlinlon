@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1919608398095778280",
+    "created_at": "2025-05-07T12:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920093429343867026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888664824089067520",
+          "start": 0,
+          "username": "LampWithMBV"
+        },
+        {
+          "end": 28,
+          "id": "1490675894238986251",
+          "start": 13,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920093429343867026",
+    "in_reply_to_user_id": "1888664824089067520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919913299380211828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LampWithMBV @SyndicalismCat 今晚我真干了😄💔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919913299380211828].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919913299380211828",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919913299380211828"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1919608398095778280",
+        "created_at": "2025-05-07T12:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920093429343867026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888664824089067520",
+              "start": 0,
+              "username": "LampWithMBV"
+            },
+            {
+              "end": 28,
+              "id": "1490675894238986251",
+              "start": 13,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920093429343867026",
+        "in_reply_to_user_id": "1888664824089067520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919913299380211828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LampWithMBV @SyndicalismCat 今晚我真干了😄💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2400,
+          "like_count": 204534,
+          "listed_count": 9,
+          "media_count": 1189,
+          "tweet_count": 13557
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T19:02:44.000Z",
+        "description": "本人猪头肉特价批发38.8/斤跳楼价绝赞售卖中",
+        "id": "1888664824089067520",
+        "location": "Sunny Day Real Estate",
+        "name": "Aire Sutileza🍐",
+        "pinned_tweet_id": "1895034510636654997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919772643026493440/4sCSraZ4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 151,
+          "like_count": 10137,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2830
+        },
+        "username": "LampWithMBV",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "非二元/she her/含键政/架空历史/民主社会主义/对政治人物态度不代表赞同其立场或意识形态/ 哈基汪@Nekomimiawa @A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Nekomimiawa"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻邪恶纱世理",
+        "pinned_tweet_id": "1888584972245909717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912750102479048704/H54iMSqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 1214,
+          "like_count": 127764,
+          "listed_count": 10,
+          "media_count": 1536,
+          "tweet_count": 18998
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

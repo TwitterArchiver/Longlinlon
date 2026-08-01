@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009111122935517185"
+      ],
+      "media_source_tweet_id": [
+        "2009111129700876466"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009196342015615270",
+    "created_at": "2026-01-08T09:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009196342015615270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1485122707792424962",
+          "start": 3,
+          "username": "Kaede_1402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/quNwqmNANb",
+          "end": 42,
+          "expanded_url": "https://x.com/Kaede_1402/status/2009111129700876466/photo/1",
+          "media_key": "3_2009111122935517185",
+          "start": 19,
+          "url": "https://t.co/quNwqmNANb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009196342015615270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1452
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009111129700876466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaede_1402: 生誕 https://t.co/quNwqmNANb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2009111122935517185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HL6-zbkAE2QRA.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009111122935517185"
+          ],
+          "media_source_tweet_id": [
+            "2009111129700876466"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009196342015615270",
+        "created_at": "2026-01-08T09:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009196342015615270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1485122707792424962",
+              "start": 3,
+              "username": "Kaede_1402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/quNwqmNANb",
+              "end": 42,
+              "expanded_url": "https://x.com/Kaede_1402/status/2009111129700876466/photo/1",
+              "media_key": "3_2009111122935517185",
+              "start": 19,
+              "url": "https://t.co/quNwqmNANb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009196342015615270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1452
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009111129700876466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaede_1402: 生誕 https://t.co/quNwqmNANb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009111122935517185"
+          ]
+        },
+        "author_id": "1485122707792424962",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009111129700876466",
+        "created_at": "2026-01-08T03:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009111129700876466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/quNwqmNANb",
+              "end": 26,
+              "expanded_url": "https://x.com/Kaede_1402/status/2009111129700876466/photo/1",
+              "media_key": "3_2009111122935517185",
+              "start": 3,
+              "url": "https://t.co/quNwqmNANb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009111129700876466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 744,
+          "impression_count": 70111,
+          "like_count": 8521,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 1452
+        },
+        "reply_settings": "everyone",
+        "text": "生誕 https://t.co/quNwqmNANb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 2494,
+          "like_count": 210781,
+          "listed_count": 9,
+          "media_count": 1368,
+          "tweet_count": 14607
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T05:31:12.000Z",
+        "description": "FAと与太話／無断転載など禁止",
+        "id": "1485122707792424962",
+        "location": "今見てる→現行、🚢81、85、93、95、99、05、18",
+        "name": "かえで",
+        "pinned_tweet_id": "2006017361707520226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926617565805072385/mYVn41A7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4956,
+          "following_count": 288,
+          "like_count": 52803,
+          "listed_count": 52,
+          "media_count": 1153,
+          "tweet_count": 32587
+        },
+        "username": "Kaede_1402",
+        "verified": false
+      }
+    ]
+  }
+}

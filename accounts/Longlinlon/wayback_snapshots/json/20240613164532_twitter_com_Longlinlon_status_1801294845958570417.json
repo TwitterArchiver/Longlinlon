@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1801294845958570417",
+    "created_at": "2024-06-13T16:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T17:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801294845958570417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1753355639949291521",
+          "start": 3,
+          "username": "jesuisnoirdeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801294845958570417",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801290545077408014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jesuisnoirdeL: 说实话大部分中国顺男同的支味臭不可闻😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1801294845958570417",
+        "created_at": "2024-06-13T16:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T17:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801294845958570417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1753355639949291521",
+              "start": 3,
+              "username": "jesuisnoirdeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801294845958570417",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801290545077408014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jesuisnoirdeL: 说实话大部分中国顺男同的支味臭不可闻😌"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "1801290545077408014",
+        "created_at": "2024-06-13T16:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T17:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801290545077408014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801290545077408014",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说实话大部分中国顺男同的支味臭不可闻😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 1984,
+          "like_count": 138828,
+          "listed_count": 9,
+          "tweet_count": 10010
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🌈06 Shanghai 🇫🇷 fine art  Cisgender male homosexual   Art contemporain local de Shanghai.   @jesuislee_ 此處，建構的亭台與意識的庭園。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "jesuislee_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+FDzSL22hrgw3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+FDzSL22hrgw3ZWI1",
+                "start": 0,
+                "url": "https://t.co/IywxSJ9pI2"
+              }
+            ]
+          }
+        },
+        "id": "1753355639949291521",
+        "location": "Shanghaï ",
+        "name": "L老师不是李嘉也不是李颖是李嘉然",
+        "pinned_tweet_id": "1790761824570290428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800845819094204417/gQE6WvcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 310,
+          "like_count": 12310,
+          "listed_count": 1,
+          "tweet_count": 6924
+        },
+        "url": "https://t.co/IywxSJ9pI2",
+        "username": "jesuisnoirdeL",
+        "verified": false
+      }
+    ]
+  }
+}

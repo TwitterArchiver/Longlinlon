@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1793678220858114411",
+    "created_at": "2024-05-24T02:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T03:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793826832942567918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793826832942567918",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793678220858114411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 笑死了第一次见给顺批发跨籍的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1793678220858114411",
+        "created_at": "2024-05-24T02:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T03:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793826832942567918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793826832942567918",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793678220858114411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 笑死了第一次见给顺批发跨籍的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793678216798031872"
+          ]
+        },
+        "author_id": "3012350599",
+        "conversation_id": "1793678220858114411",
+        "created_at": "2024-05-23T16:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T17:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793678220858114411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/l9BpsjxBNY",
+              "end": 25,
+              "expanded_url": "https://twitter.com/__Ju___Ju__/status/1793678220858114411/photo/1",
+              "media_key": "3_1793678216798031872",
+              "start": 2,
+              "url": "https://t.co/l9BpsjxBNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793678220858114411",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/l9BpsjxBNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 1961,
+          "like_count": 131531,
+          "listed_count": 9,
+          "tweet_count": 9546
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "电波女｜病みかわいい｜我的小熊🧸@IshimiyaChiharu 花路@Misoka___",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "IshimiyaChiharu"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Misoka___"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "name": "小桔",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792839217896386560/QU_fJtsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 437,
+          "like_count": 30112,
+          "listed_count": 17,
+          "tweet_count": 23839
+        },
+        "username": "__Ju___Ju__",
+        "verified": false
+      }
+    ]
+  }
+}

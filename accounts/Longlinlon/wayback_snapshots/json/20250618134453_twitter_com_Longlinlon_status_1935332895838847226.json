@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1935332895838847226",
+    "created_at": "2025-06-18T13:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935332895838847226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Noa1016612/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Noa1016612/status/1934993649005212030",
+          "start": 35,
+          "url": "https://t.co/bbXTwO45so"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935332895838847226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934993649005212030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是对的，国内12-16未成年已经处于人均被开和人均开过别人的阶段了 https://t.co/bbXTwO45so"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 289,
+        "media_key": "3_1934993200533340160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtp6EFiWAAAuKWV.png",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1935332895838847226",
+        "created_at": "2025-06-18T13:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935332895838847226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Noa1016612/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Noa1016612/status/1934993649005212030",
+              "start": 35,
+              "url": "https://t.co/bbXTwO45so"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935332895838847226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934993649005212030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是对的，国内12-16未成年已经处于人均被开和人均开过别人的阶段了 https://t.co/bbXTwO45so"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934993200533340160"
+          ]
+        },
+        "author_id": "1672291777687195648",
+        "conversation_id": "1934993649005212030",
+        "created_at": "2025-06-17T15:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934993649005212030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MF5tJnhBzk",
+              "end": 108,
+              "expanded_url": "https://x.com/Noa1016612/status/1934993649005212030/photo/1",
+              "media_key": "3_1934993200533340160",
+              "start": 85,
+              "url": "https://t.co/MF5tJnhBzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934993649005212030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1703,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "西方国家什么时候才能意识到这种靠纯粹的ban是没有意义的，不深入算法领域解决、不思考对公司以及市场的监管方法、也不考虑和青少年真正沟通真正理解他们的心理，只会一刀切…… https://t.co/MF5tJnhBzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2443,
+          "like_count": 209657,
+          "listed_count": 7,
+          "media_count": 1219,
+          "tweet_count": 13806
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T17:13:35.000Z",
+        "description": "ZH/EN. Ushio Noa is here. \nThe past is never dead, it's not even past.",
+        "id": "1672291777687195648",
+        "name": "Noa🌹",
+        "pinned_tweet_id": "1854120256723353994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930803167697993728/P9WzOfod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 1990,
+          "like_count": 12892,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 7736
+        },
+        "username": "Noa1016612",
+        "verified": false
+      }
+    ]
+  }
+}

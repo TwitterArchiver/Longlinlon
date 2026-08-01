@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1921555330053329361",
+    "created_at": "2025-05-11T13:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T14:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921565515572552128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620367275273633792",
+          "start": 0,
+          "username": "Nastyusha_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921565515572552128",
+    "in_reply_to_user_id": "1620367275273633792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921555330053329361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nastyusha_0 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1921555330053329361",
+        "created_at": "2025-05-11T13:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T14:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921565515572552128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620367275273633792",
+              "start": 0,
+              "username": "Nastyusha_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921565515572552128",
+        "in_reply_to_user_id": "1620367275273633792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921555330053329361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nastyusha_0 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620367275273633792",
+        "conversation_id": "1921555330053329361",
+        "created_at": "2025-05-11T13:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T14:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921555330053329361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kaijiangtuotu_…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kaijiangtuotu_/status/1921555165242359811",
+              "start": 30,
+              "url": "https://t.co/n13yaOPrNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921555330053329361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921555165242359811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的，“O”和“0”一个数字一个字母都能通假，你是真牛逼 https://t.co/n13yaOPrNO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2401,
+          "like_count": 204706,
+          "listed_count": 9,
+          "media_count": 1189,
+          "tweet_count": 13568
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "Подкалиберные！\nНа-*35*！\nТанк！",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Днепр-серебряная ласточка",
+        "pinned_tweet_id": "1920538416866865448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915328543745335296/RFt_DDSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 622,
+          "like_count": 15833,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 3388
+        },
+        "username": "Nastyusha_0",
+        "verified": false
+      }
+    ]
+  }
+}

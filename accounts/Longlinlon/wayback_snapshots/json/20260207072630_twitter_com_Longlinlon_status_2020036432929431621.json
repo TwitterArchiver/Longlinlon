@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2019705932805292046",
+    "created_at": "2026-02-07T07:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T08:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020036432929431621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1498710075170443265",
+          "start": 0,
+          "username": "mutian414"
+        },
+        {
+          "end": 21,
+          "id": "1620328547847110656",
+          "start": 11,
+          "username": "NPC888666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020036432929431621",
+    "in_reply_to_user_id": "1498710075170443265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019706893162381434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mutian414 @NPC888666 要怪就怪你们男的不去制止家暴男导致家暴案件里全是男性作案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2019705932805292046",
+        "created_at": "2026-02-07T07:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T08:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020036432929431621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1498710075170443265",
+              "start": 0,
+              "username": "mutian414"
+            },
+            {
+              "end": 21,
+              "id": "1620328547847110656",
+              "start": 11,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020036432929431621",
+        "in_reply_to_user_id": "1498710075170443265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019706893162381434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mutian414 @NPC888666 要怪就怪你们男的不去制止家暴男导致家暴案件里全是男性作案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498710075170443265",
+        "conversation_id": "2019705932805292046",
+        "created_at": "2026-02-06T09:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019706893162381434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620328547847110656",
+              "start": 0,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019706893162381434",
+        "in_reply_to_user_id": "1620328547847110656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 43752,
+          "like_count": 320,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019705932805292046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NPC888666 这要是换成反过来，老公被老婆砸了牙，医生会这么紧张地单独询问吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 2545,
+          "like_count": 209722,
+          "listed_count": 9,
+          "media_count": 1378,
+          "tweet_count": 14712
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T17:21:57.000Z",
+        "description": "我只研究一件事：\n普通人如何在 X 上，把认知变成钱\n\n拆解爆款｜评论区流量｜真实实操",
+        "id": "1498710075170443265",
+        "name": "目口口口口",
+        "pinned_tweet_id": "2019682916066881930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498710208746438656/_7gD1Anw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 3111,
+          "like_count": 24023,
+          "listed_count": 15,
+          "media_count": 2219,
+          "tweet_count": 6381
+        },
+        "username": "mutian414",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37491,
+          "following_count": 1314,
+          "like_count": 7244,
+          "listed_count": 230,
+          "media_count": 575,
+          "tweet_count": 6839
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

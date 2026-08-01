@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1899530013361496355",
+    "created_at": "2025-03-11T18:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T19:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899530013361496355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7__ol_/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/7__ol_/status/1899356547534467417",
+          "start": 8,
+          "url": "https://t.co/c76FRtvAFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899530013361496355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899356547534467417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "桃 神 伟 大 https://t.co/c76FRtvAFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26693,
+        "height": 1280,
+        "media_key": "13_1899356427401244672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1899356427401244672/img/K-e_3CDD53PXpr3L.jpg",
+        "public_metrics": {
+          "view_count": 6639
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899356427401244672/vid/avc1/320x568/5_3gqsUWBSA_rxPC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899356427401244672/vid/avc1/480x852/GKA_oomngY3BireZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1899356427401244672/vid/avc1/720x1280/ud8lAMnbT5t5HhjS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1899356427401244672/pl/BP4Y_V874-U8CrgK.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1899530013361496355",
+        "created_at": "2025-03-11T18:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T19:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899530013361496355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7__ol_/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/7__ol_/status/1899356547534467417",
+              "start": 8,
+              "url": "https://t.co/c76FRtvAFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899530013361496355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899356547534467417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "桃 神 伟 大 https://t.co/c76FRtvAFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1899356427401244672"
+          ]
+        },
+        "author_id": "1734384953583132672",
+        "conversation_id": "1899356547534467417",
+        "created_at": "2025-03-11T07:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899356547534467417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJrLa0BqIp",
+              "end": 38,
+              "expanded_url": "https://x.com/7__ol_/status/1899356547534467417/video/1",
+              "media_key": "13_1899356427401244672",
+              "start": 15,
+              "url": "https://t.co/YJrLa0BqIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899356547534467417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 20496,
+          "like_count": 403,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 45
+        },
+        "reply_settings": "following",
+        "text": "桃ちゃの笑顔胸キュン✋🏻🍑💖 https://t.co/YJrLa0BqIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 2334,
+          "like_count": 197869,
+          "listed_count": 8,
+          "media_count": 1135,
+          "tweet_count": 13058
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T01:29:44.000Z",
+        "description": "💚𝘇𝗲𝘁𝗮𝘄𝗶𝗻┋𝘅𝗰 𝘀𝗮𝗻𝘀 𝘅𝗮𝘄𝗺",
+        "id": "1734384953583132672",
+        "location": "🗝垢でよく喋ってます！好きな事投稿◎",
+        "name": "なな",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815010744473419776/PgEh_pJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 175,
+          "like_count": 738,
+          "listed_count": 5,
+          "media_count": 341,
+          "tweet_count": 795
+        },
+        "username": "7__ol_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1793301398563717149",
+    "created_at": "2024-05-22T15:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T16:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793301398563717149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1356955433567621121",
+          "start": 3,
+          "username": "HuaiHuaBaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793301398563717149",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793298572068442436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuaiHuaBaby: 当你20岁出头的时候，你想退出推特圈子的时候，你会发现你的爸爸妈妈已经为你准备好了驾驶证和轿车，楼房和家具，你可以从魔怔键政圈无缝衔接岁月静好的生活，这就是你的生活。我还在拿着10块钱的红包去免费发给陌生人，我没有做资本家护主犬的打算，也没有谈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1793301398563717149",
+        "created_at": "2024-05-22T15:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T16:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793301398563717149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1356955433567621121",
+              "start": 3,
+              "username": "HuaiHuaBaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793301398563717149",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793298572068442436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuaiHuaBaby: 当你20岁出头的时候，你想退出推特圈子的时候，你会发现你的爸爸妈妈已经为你准备好了驾驶证和轿车，楼房和家具，你可以从魔怔键政圈无缝衔接岁月静好的生活，这就是你的生活。我还在拿着10块钱的红包去免费发给陌生人，我没有做资本家护主犬的打算，也没有谈…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793298549993848832",
+            "3_1793298549993869312",
+            "3_1793298550916571136",
+            "3_1793298550992011264"
+          ]
+        },
+        "author_id": "1356955433567621121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1793298572068442436",
+        "created_at": "2024-05-22T15:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T16:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793298572068442436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9sM1JKzpUu",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HuaiHuaBaby/status/1793298572068442436/photo/1",
+              "media_key": "3_1793298549993848832",
+              "start": 143,
+              "url": "https://t.co/9sM1JKzpUu"
+            },
+            {
+              "display_url": "pic.twitter.com/9sM1JKzpUu",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HuaiHuaBaby/status/1793298572068442436/photo/1",
+              "media_key": "3_1793298549993869312",
+              "start": 143,
+              "url": "https://t.co/9sM1JKzpUu"
+            },
+            {
+              "display_url": "pic.twitter.com/9sM1JKzpUu",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HuaiHuaBaby/status/1793298572068442436/photo/1",
+              "media_key": "3_1793298550916571136",
+              "start": 143,
+              "url": "https://t.co/9sM1JKzpUu"
+            },
+            {
+              "display_url": "pic.twitter.com/9sM1JKzpUu",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HuaiHuaBaby/status/1793298572068442436/photo/1",
+              "media_key": "3_1793298550992011264",
+              "start": 143,
+              "url": "https://t.co/9sM1JKzpUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793298572068442436",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当你20岁出头的时候，你想退出推特圈子的时候，你会发现你的爸爸妈妈已经为你准备好了驾驶证和轿车，楼房和家具，你可以从魔怔键政圈无缝衔接岁月静好的生活，这就是你的生活。我还在拿着10块钱的红包去免费发给陌生人，我没有做资本家护主犬的打算，也没有谈恋爱考虑未来的想法，我想多为社会做点贡献 https://t.co/9sM1JKzpUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 1964,
+          "like_count": 131060,
+          "listed_count": 9,
+          "tweet_count": 9510
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T13:19:32.000Z",
+        "description": "欢迎加入脸家军💗私信领冥币: 1，你知不知道网络警察无处不在？2，你知不知道我非常想念近平村夫？3，你知不知道我现在非常老实，不敢在墙外发表反华言论了。4，你知不知道 “近平村夫🏳️‍⚧️粉红褪色者” 已经壮烈牺牲了？5，你知不知道我爱你们~宝贝~我先当小粉红了~我害怕警察叔叔拿着电棍和手铐线下来逮捕我💔🥺😭",
+        "id": "1356955433567621121",
+        "location": "武陵长城座银河系太阳系地球🌐🇪🇺德意志第四帝国🇪🇺",
+        "name": "♂温迪小可爱♀粉红褪色者🏳️‍⚧️实习期",
+        "pinned_tweet_id": "1789948712254324772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754173707512127488/5swwpQst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 7,
+          "like_count": 1188,
+          "listed_count": 0,
+          "tweet_count": 742
+        },
+        "username": "HuaiHuaBaby",
+        "verified": false
+      }
+    ]
+  }
+}

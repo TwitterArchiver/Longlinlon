@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1842111394688466998",
+    "created_at": "2024-10-04T08:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T09:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842114066267177258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684856654779592704",
+          "start": 0,
+          "username": "duoduofuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842114066267177258",
+    "in_reply_to_user_id": "1684856654779592704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842113918954832195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduofuo 小马孩带点头摇头动作然后会议里打字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1842111394688466998",
+        "created_at": "2024-10-04T08:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T09:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842114066267177258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684856654779592704",
+              "start": 0,
+              "username": "duoduofuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842114066267177258",
+        "in_reply_to_user_id": "1684856654779592704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842113918954832195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduofuo 小马孩带点头摇头动作然后会议里打字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684856654779592704",
+        "conversation_id": "1842111394688466998",
+        "created_at": "2024-10-04T08:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T09:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842113918954832195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842113918954832195",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842113775719350519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 怎么玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 2214,
+          "like_count": 177149,
+          "listed_count": 9,
+          "tweet_count": 11592
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T09:21:55.000Z",
+        "description": "八月十五天台见",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mini1.cn/index",
+                "end": 23,
+                "expanded_url": "https://www.mini1.cn/index",
+                "start": 0,
+                "url": "https://t.co/ZXDX6AH1TL"
+              }
+            ]
+          }
+        },
+        "id": "1684856654779592704",
+        "location": "帕拉迪岛",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1783138479745925218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831485711784009728/h3ilDEnx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 553,
+          "like_count": 18070,
+          "listed_count": 4,
+          "tweet_count": 7698
+        },
+        "url": "https://t.co/ZXDX6AH1TL",
+        "username": "duoduofuo",
+        "verified": false
+      }
+    ]
+  }
+}

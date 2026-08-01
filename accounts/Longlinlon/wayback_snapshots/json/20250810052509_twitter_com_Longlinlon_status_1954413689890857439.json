@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1954224758951956481",
+    "created_at": "2025-08-10T05:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T06:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954413689890857439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554453405187325955",
+          "start": 0,
+          "username": "Banding5033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954413689890857439",
+    "in_reply_to_user_id": "1554453405187325955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954224758951956481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Banding5033 邕城铁骑出动哔哔哔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_1954224755080634368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7ND5HbIAA3aMi.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1954224758951956481",
+        "created_at": "2025-08-10T05:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T06:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954413689890857439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554453405187325955",
+              "start": 0,
+              "username": "Banding5033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954413689890857439",
+        "in_reply_to_user_id": "1554453405187325955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954224758951956481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Banding5033 邕城铁骑出动哔哔哔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954224755080634368"
+          ]
+        },
+        "author_id": "1554453405187325955",
+        "conversation_id": "1954224758951956481",
+        "created_at": "2025-08-09T16:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T17:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954224758951956481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zLvU0yHWeS",
+              "end": 45,
+              "expanded_url": "https://x.com/Banding5033/status/1954224758951956481/photo/1",
+              "media_key": "3_1954224755080634368",
+              "start": 22,
+              "url": "https://t.co/zLvU0yHWeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954224758951956481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们一不小心玩脱了，给自己升三星了怎么办 https://t.co/zLvU0yHWeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "庄园访客-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2484,
+          "like_count": 213477,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 14139
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T13:06:01.000Z",
+        "description": "furry,HAM @BG7QII。中文/English。扩列请私信。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "BG7QII"
+              }
+            ]
+          }
+        },
+        "id": "1554453405187325955",
+        "location": "Nanning,Guangxi",
+        "name": "板钉",
+        "pinned_tweet_id": "1843908851684536730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914147104865607680/ADFwnebR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 1527,
+          "like_count": 27379,
+          "listed_count": 2,
+          "media_count": 675,
+          "tweet_count": 5470
+        },
+        "username": "Banding5033",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2021799208454705552",
+    "created_at": "2026-02-12T22:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T23:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022068217028784472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979408921220780036",
+          "start": 0,
+          "username": "gugumanboxiami"
+        },
+        {
+          "end": 25,
+          "id": "1911628907842818049",
+          "start": 16,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022068217028784472",
+    "in_reply_to_user_id": "1979408921220780036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021898128946081855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugumanboxiami @codyhunk 你这种肥猪最爱了❤️＾3＾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2021799208454705552",
+        "created_at": "2026-02-12T22:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T23:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022068217028784472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979408921220780036",
+              "start": 0,
+              "username": "gugumanboxiami"
+            },
+            {
+              "end": 25,
+              "id": "1911628907842818049",
+              "start": 16,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022068217028784472",
+        "in_reply_to_user_id": "1979408921220780036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021898128946081855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugumanboxiami @codyhunk 你这种肥猪最爱了❤️＾3＾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979408921220780036",
+        "conversation_id": "2021799208454705552",
+        "created_at": "2026-02-12T10:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021898128946081855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021898128946081855",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27753,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021799208454705552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 这还没欲望，戒过毒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2545,
+          "like_count": 209780,
+          "listed_count": 9,
+          "media_count": 1381,
+          "tweet_count": 14727
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T04:47:28.000Z",
+        "description": "",
+        "id": "1979408921220780036",
+        "name": "(●—●)",
+        "pinned_tweet_id": "1987462579120410815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996216693279113216/qlskHxHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 2896,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 66
+        },
+        "username": "gugumanboxiami",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10992,
+          "following_count": 1689,
+          "like_count": 22967,
+          "listed_count": 29,
+          "media_count": 5053,
+          "tweet_count": 7991
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

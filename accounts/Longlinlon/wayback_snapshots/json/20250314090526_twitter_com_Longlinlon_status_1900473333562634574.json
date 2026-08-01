@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1900230362212819202",
+    "created_at": "2025-03-14T09:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T10:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900473333562634574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1734871175405404160",
+          "start": 0,
+          "username": "miuPP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900473333562634574",
+    "in_reply_to_user_id": "1734871175405404160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900230362212819202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miuPP7 萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_1900230292906078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl75YjAacAA6oro.png",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1900230362212819202",
+        "created_at": "2025-03-14T09:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T10:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900473333562634574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1734871175405404160",
+              "start": 0,
+              "username": "miuPP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900473333562634574",
+        "in_reply_to_user_id": "1734871175405404160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900230362212819202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miuPP7 萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900230292906078208"
+          ]
+        },
+        "author_id": "1734871175405404160",
+        "conversation_id": "1900230362212819202",
+        "created_at": "2025-03-13T16:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T17:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900230362212819202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciVZ0T60CF",
+              "end": 23,
+              "expanded_url": "https://x.com/miuPP7/status/1900230362212819202/photo/1",
+              "media_key": "3_1900230292906078208",
+              "start": 0,
+              "url": "https://t.co/ciVZ0T60CF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900230362212819202",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 6078,
+          "like_count": 631,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ciVZ0T60CF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 2338,
+          "like_count": 198610,
+          "listed_count": 8,
+          "media_count": 1139,
+          "tweet_count": 13115
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T09:41:40.000Z",
+        "description": "서로개쳐팸이들로무한동력굴리는계정",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/miuPP7",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/miuPP7",
+                "start": 0,
+                "url": "https://t.co/Lb96IVAUZR"
+              }
+            ]
+          }
+        },
+        "id": "1734871175405404160",
+        "location": "🔕",
+        "name": "김민우",
+        "pinned_tweet_id": "1897700802778878135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873430259753967616/t-LxaUmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 57,
+          "like_count": 2314,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/Lb96IVAUZR",
+        "username": "miuPP7",
+        "verified": false
+      }
+    ]
+  }
+}

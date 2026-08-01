@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1806564317397168511",
+    "created_at": "2024-06-28T05:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T06:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806564317397168511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1606310622475751425",
+          "start": 3,
+          "username": "braito32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806564317397168511",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806563094874948043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @braito32: 搞不明白，是家里有矿还是有人兜底，icu说进就进，跟回家一样，七进七出，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1806564317397168511",
+        "created_at": "2024-06-28T05:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T06:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806564317397168511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1606310622475751425",
+              "start": 3,
+              "username": "braito32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806564317397168511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806563094874948043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @braito32: 搞不明白，是家里有矿还是有人兜底，icu说进就进，跟回家一样，七进七出，"
+      },
+      {
+        "attachments": {},
+        "author_id": "1606310622475751425",
+        "conversation_id": "1806563094874948043",
+        "created_at": "2024-06-28T05:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T06:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806563094874948043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806563094874948043",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "搞不明白，是家里有矿还是有人兜底，icu说进就进，跟回家一样，七进七出，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 2017,
+          "like_count": 145606,
+          "listed_count": 10,
+          "tweet_count": 10273
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-23T15:28:02.000Z",
+        "description": "这个人的上辈子什么都没留下",
+        "id": "1606310622475751425",
+        "name": "一只大猪头",
+        "pinned_tweet_id": "1777921110992204250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795312524117819392/KiSC5NGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 272,
+          "like_count": 591,
+          "listed_count": 0,
+          "tweet_count": 965
+        },
+        "username": "braito32",
+        "verified": false
+      }
+    ]
+  }
+}

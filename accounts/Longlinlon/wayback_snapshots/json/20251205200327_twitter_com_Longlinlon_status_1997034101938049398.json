@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1996922070928933363",
+    "created_at": "2025-12-05T20:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T21:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997034101938049398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1575823641920798721",
+          "start": 0,
+          "username": "youyulianmian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997034101938049398",
+    "in_reply_to_user_id": "1575823641920798721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996977529287332065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyulianmian 坏蛋(⋟﹏⋞)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996977529287332065].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996977529287332065",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996977529287332065"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1996922070928933363",
+        "created_at": "2025-12-05T20:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T21:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997034101938049398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1575823641920798721",
+              "start": 0,
+              "username": "youyulianmian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997034101938049398",
+        "in_reply_to_user_id": "1575823641920798721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996977529287332065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyulianmian 坏蛋(⋟﹏⋞)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2488,
+          "like_count": 211416,
+          "listed_count": 9,
+          "media_count": 1362,
+          "tweet_count": 14544
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T12:23:42.000Z",
+        "description": "",
+        "id": "1575823641920798721",
+        "location": "骂我的人麻薯掉了",
+        "name": "CUloveMonly",
+        "pinned_tweet_id": "1923984351798362350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993771320933552128/WVJLmvFk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 135,
+          "like_count": 4600,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 613
+        },
+        "username": "youyulianmian",
+        "verified": false
+      }
+    ]
+  }
+}

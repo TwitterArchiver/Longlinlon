@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959430666330034176"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1959430669865713791",
+    "created_at": "2025-08-24T01:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T02:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959430669865713791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDhd7GKovy",
+          "end": 34,
+          "expanded_url": "https://x.com/Longlinlon/status/1959430669865713791/photo/1",
+          "media_key": "3_1959430666330034176",
+          "start": 11,
+          "url": "https://t.co/MDhd7GKovy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959430669865713791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老公老公老公老公老公 https://t.co/MDhd7GKovy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1959430666330034176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFLzzyb0AANXWB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959430666330034176"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1959430669865713791",
+        "created_at": "2025-08-24T01:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T02:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959430669865713791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDhd7GKovy",
+              "end": 34,
+              "expanded_url": "https://x.com/Longlinlon/status/1959430669865713791/photo/1",
+              "media_key": "3_1959430666330034176",
+              "start": 11,
+              "url": "https://t.co/MDhd7GKovy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959430669865713791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公老公老公老公老公 https://t.co/MDhd7GKovy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2508,
+          "like_count": 214841,
+          "listed_count": 8,
+          "media_count": 1287,
+          "tweet_count": 14217
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

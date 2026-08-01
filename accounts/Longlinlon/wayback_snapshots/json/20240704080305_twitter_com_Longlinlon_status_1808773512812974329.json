@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808773512812974329",
+    "created_at": "2024-07-04T08:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T09:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808773512812974329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683758209369079811",
+          "start": 3,
+          "username": "miojing16344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808773512812974329",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808770376052453541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miojing16344: 他威胁我不删就传私密照真恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808773512812974329",
+        "created_at": "2024-07-04T08:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T09:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808773512812974329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683758209369079811",
+              "start": 3,
+              "username": "miojing16344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808773512812974329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808770376052453541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miojing16344: 他威胁我不删就传私密照真恶心"
+      },
+      {
+        "attachments": {},
+        "author_id": "1683758209369079811",
+        "conversation_id": "1808770376052453541",
+        "created_at": "2024-07-04T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808770376052453541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808770376052453541",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他威胁我不删就传私密照真恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 2050,
+          "like_count": 151259,
+          "listed_count": 10,
+          "tweet_count": 10397
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T08:37:04.000Z",
+        "description": "",
+        "id": "1683758209369079811",
+        "name": "喵酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802787650560307200/Es8yIp-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 11,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "miojing16344",
+        "verified": false
+      }
+    ]
+  }
+}

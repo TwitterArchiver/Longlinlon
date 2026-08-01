@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805506578323587163",
+    "created_at": "2024-06-25T07:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T08:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805507882844307942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615586607482163201",
+          "start": 0,
+          "username": "RealKafuuChino"
+        },
+        {
+          "end": 24,
+          "id": "1544868186650161152",
+          "start": 16,
+          "username": "xxenjxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805507882844307942",
+    "in_reply_to_user_id": "1615586607482163201",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805507451208483237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealKafuuChino @xxenjxs 被排除了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805506578323587163",
+        "created_at": "2024-06-25T07:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T08:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805507882844307942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615586607482163201",
+              "start": 0,
+              "username": "RealKafuuChino"
+            },
+            {
+              "end": 24,
+              "id": "1544868186650161152",
+              "start": 16,
+              "username": "xxenjxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805507882844307942",
+        "in_reply_to_user_id": "1615586607482163201",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805507451208483237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealKafuuChino @xxenjxs 被排除了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1615586607482163201",
+        "conversation_id": "1805506578323587163",
+        "created_at": "2024-06-25T07:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T08:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805507451208483237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1544868186650161152",
+              "start": 0,
+              "username": "xxenjxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805507451208483237",
+        "in_reply_to_user_id": "1544868186650161152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805506578323587163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxenjxs 因为大部分人是真的有更高的要求的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 2007,
+          "like_count": 143280,
+          "listed_count": 10,
+          "tweet_count": 10210
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "My dream is to be KafuuChino’s husband ｜Egoist｜ISTJ-A｜顺直男",
+        "id": "1615586607482163201",
+        "location": "Tsuen Wan,HK",
+        "name": "智乃",
+        "pinned_tweet_id": "1799280009556939067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800183103715151872/XpATTs3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 941,
+          "like_count": 30290,
+          "listed_count": 2,
+          "tweet_count": 6364
+        },
+        "username": "RealKafuuChino",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T02:17:47.000Z",
+        "description": "上海人/大一摆子/通信工程学渣/INTJ/05后/math/physics/cosmology/mc/e-music/基本不b人/互fo(私信)/如果您fo了我，谢谢您/belong to @foudingjingling🥺🏳️‍🌈🇦🇶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "foudingjingling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeemeeuwzhou.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://zeemeeuwzhou.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/idYyNI8eLm"
+              }
+            ]
+          }
+        },
+        "id": "1544868186650161152",
+        "location": "Subterranean Wonderland",
+        "name": "ℤ𝕖𝕖𝕞𝕖𝕖𝕦𝕨",
+        "pinned_tweet_id": "1703074122975298016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797163058068119553/qTwgAsed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 317,
+          "like_count": 1692,
+          "listed_count": 0,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/idYyNI8eLm",
+        "username": "xxenjxs",
+        "verified": false
+      }
+    ]
+  }
+}

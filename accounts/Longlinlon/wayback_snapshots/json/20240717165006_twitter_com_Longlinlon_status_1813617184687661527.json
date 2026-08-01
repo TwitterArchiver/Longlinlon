@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1813617184687661527",
+    "created_at": "2024-07-17T16:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T17:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813617184687661527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813617184687661527",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813448955528900964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 有一句话不知当讲不当讲。互联网上凡是说，要修补原生家庭关系的，你看了都不要生气。因为她们根本没有原生家庭问题，是装的，是在表演，是在学说话，是在博人关心。\n\n我们这种真的有原生家庭创伤的人，说话油得很，根本不会那种低情商卖惨，卖得不像，还给自己败…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1813617184687661527",
+        "created_at": "2024-07-17T16:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T17:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813617184687661527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813617184687661527",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813448955528900964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 有一句话不知当讲不当讲。互联网上凡是说，要修补原生家庭关系的，你看了都不要生气。因为她们根本没有原生家庭问题，是装的，是在表演，是在学说话，是在博人关心。\n\n我们这种真的有原生家庭创伤的人，说话油得很，根本不会那种低情商卖惨，卖得不像，还给自己败…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1813448955528900964",
+        "created_at": "2024-07-17T05:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T06:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813448955528900964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813448955528900964",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9304,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "有一句话不知当讲不当讲。互联网上凡是说，要修补原生家庭关系的，你看了都不要生气。因为她们根本没有原生家庭问题，是装的，是在表演，是在学说话，是在博人关心。\n\n我们这种真的有原生家庭创伤的人，说话油得很，根本不会那种低情商卖惨，卖得不像，还给自己败坏路人缘。\n\n情商这么低，人早就死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 2108,
+          "like_count": 159002,
+          "listed_count": 10,
+          "tweet_count": 10573
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8184,
+          "following_count": 126,
+          "like_count": 105,
+          "listed_count": 30,
+          "tweet_count": 4812
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

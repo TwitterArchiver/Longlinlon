@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1945958269992030522",
+    "created_at": "2025-07-17T21:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T22:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945958269992030522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1945858922252038284",
+          "start": 9,
+          "url": "https://t.co/ydOloxWfwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945958269992030522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945858922252038284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想隔着屏幕吻你 https://t.co/ydOloxWfwV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1945958269992030522",
+        "created_at": "2025-07-17T21:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T22:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945958269992030522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1945858922252038284",
+              "start": 9,
+              "url": "https://t.co/ydOloxWfwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945958269992030522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945858922252038284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想隔着屏幕吻你 https://t.co/ydOloxWfwV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1945858922252038284",
+        "created_at": "2025-07-17T14:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945858922252038284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1944935392052236696",
+              "start": 13,
+              "url": "https://t.co/AzaUKsJdB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945858922252038284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944935392052236696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有你的互联网生活好无聊 https://t.co/AzaUKsJdB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2476,
+          "like_count": 212748,
+          "listed_count": 0,
+          "media_count": 1246,
+          "tweet_count": 14006
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1851629761669316835",
+    "created_at": "2024-10-30T14:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T15:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851631101057638407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        },
+        {
+          "end": 22,
+          "id": "1787772783197401088",
+          "start": 12,
+          "username": "RS_100505"
+        },
+        {
+          "end": 33,
+          "id": "1795072631169044480",
+          "start": 23,
+          "username": "KillBasi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851631101057638407",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851629999150846176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 @RS_100505 @KillBasi1 你小号好多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1851629761669316835",
+        "created_at": "2024-10-30T14:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T15:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851631101057638407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            },
+            {
+              "end": 22,
+              "id": "1787772783197401088",
+              "start": 12,
+              "username": "RS_100505"
+            },
+            {
+              "end": 33,
+              "id": "1795072631169044480",
+              "start": 23,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851631101057638407",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851629999150846176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 @RS_100505 @KillBasi1 你小号好多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844290406391103488",
+        "conversation_id": "1851629761669316835",
+        "created_at": "2024-10-30T14:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T15:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851629999150846176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1787772783197401088",
+              "start": 0,
+              "username": "RS_100505"
+            },
+            {
+              "end": 21,
+              "id": "1795072631169044480",
+              "start": 11,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851629999150846176",
+        "in_reply_to_user_id": "1787772783197401088",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851629761669316835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RS_100505 @KillBasi1 不贱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 2214,
+          "like_count": 176876,
+          "listed_count": 8,
+          "tweet_count": 11729
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "",
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844292252803514368/nqmLdkZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 53,
+          "like_count": 180,
+          "listed_count": 0,
+          "tweet_count": 133
+        },
+        "username": "qhqq114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T09:13:58.000Z",
+        "description": "",
+        "id": "1787772783197401088",
+        "location": "皮特凯恩群岛 要fo私信直fo不回",
+        "name": "Zara",
+        "pinned_tweet_id": "1850243515135201647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842016561978089472/nDSmeQvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 271,
+          "like_count": 22772,
+          "listed_count": 4,
+          "tweet_count": 9641
+        },
+        "username": "RS_100505",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I love Mari 🥰互动小号： @qhqq114514 傻逼：@RS_100505 （最喜欢干的事情是睡觉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "qhqq114514"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "RS_100505"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "name": "时行（男娘重度依赖",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843973141850402817/REOm-m-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 797,
+          "like_count": 6863,
+          "listed_count": 2,
+          "tweet_count": 220
+        },
+        "username": "KillBasi1",
+        "verified": false
+      }
+    ]
+  }
+}

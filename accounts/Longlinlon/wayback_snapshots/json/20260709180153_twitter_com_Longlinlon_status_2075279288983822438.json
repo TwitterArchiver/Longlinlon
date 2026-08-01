@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2075279288983822438",
+    "created_at": "2026-07-09T18:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075279288983822438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kotoro0223/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kotoro0223/status/2075247838095917349",
+          "start": 11,
+          "url": "https://t.co/WsfKGWGLtN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075279288983822438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075247838095917349",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "广西人都是这样的贱种 https://t.co/WsfKGWGLtN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2075247829627604992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzC5-nakAAtVsP.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2075279288983822438",
+        "created_at": "2026-07-09T18:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075279288983822438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotoro0223/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kotoro0223/status/2075247838095917349",
+              "start": 11,
+              "url": "https://t.co/WsfKGWGLtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075279288983822438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075247838095917349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广西人都是这样的贱种 https://t.co/WsfKGWGLtN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075247829627604992"
+          ]
+        },
+        "author_id": "1153373316977176576",
+        "conversation_id": "2075247838095917349",
+        "created_at": "2026-07-09T15:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075247838095917349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etbFCpQL5L",
+              "end": 42,
+              "expanded_url": "https://x.com/kotoro0223/status/2075247838095917349/photo/1",
+              "media_key": "3_2075247829627604992",
+              "start": 19,
+              "url": "https://t.co/etbFCpQL5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075247838095917349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19328,
+          "like_count": 108,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "混v圈的傻子疯了吧 拿这种事情开玩笑 https://t.co/etbFCpQL5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 2517,
+          "like_count": 206754,
+          "listed_count": 7,
+          "media_count": 1400,
+          "tweet_count": 14894
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 87,
+          "like_count": 1114,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 1057
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

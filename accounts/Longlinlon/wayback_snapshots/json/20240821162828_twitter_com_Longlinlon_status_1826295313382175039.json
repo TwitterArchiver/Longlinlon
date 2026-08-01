@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1826238719210434974",
+    "created_at": "2024-08-21T16:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T17:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826295313382175039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1787439752016523264",
+          "start": 0,
+          "username": "MayEveningRose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826295313382175039",
+    "in_reply_to_user_id": "1787439752016523264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826273421858324731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MayEveningRose 唉唉所以我现在只玩模仿者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1826238719210434974",
+        "created_at": "2024-08-21T16:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T17:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826295313382175039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1787439752016523264",
+              "start": 0,
+              "username": "MayEveningRose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826295313382175039",
+        "in_reply_to_user_id": "1787439752016523264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826273421858324731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MayEveningRose 唉唉所以我现在只玩模仿者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787439752016523264",
+        "conversation_id": "1826238719210434974",
+        "created_at": "2024-08-21T15:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T16:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826273421858324731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826273421858324731",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826238719210434974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 玩人类是这样的，操作失误就容易被队友赛后猎马，玩屠夫你就会发现没人会赛后说你，但你一旦失误鞭尸或者闪现撞墙导致赢变平、平变输，等着投降时间到了然后左上右下的时候，你能骂自己一整局"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 2222,
+          "like_count": 172075,
+          "listed_count": 10,
+          "tweet_count": 11084
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T11:10:34.000Z",
+        "description": "Communist",
+        "id": "1787439752016523264",
+        "name": "五月傍晚的蔷薇🌹🌷",
+        "pinned_tweet_id": "1826108125633712204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822987089312468992/zHDZXuqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 379,
+          "like_count": 2363,
+          "listed_count": 3,
+          "tweet_count": 855
+        },
+        "username": "MayEveningRose",
+        "verified": false
+      }
+    ]
+  }
+}

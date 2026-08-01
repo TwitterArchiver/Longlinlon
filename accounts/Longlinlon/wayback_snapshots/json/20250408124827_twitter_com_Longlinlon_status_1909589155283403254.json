@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1909583792215605313",
+    "created_at": "2025-04-08T12:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T13:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909589155283403254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "711919157420273664",
+          "start": 0,
+          "username": "cigu_knitwear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909589155283403254",
+    "in_reply_to_user_id": "711919157420273664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909583792215605313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cigu_knitwear 萌死啦萌死啦额啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909583773622321158",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoA0Ux-bwAYT-Pz.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1909583792215605313",
+        "created_at": "2025-04-08T12:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909589155283403254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "711919157420273664",
+              "start": 0,
+              "username": "cigu_knitwear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909589155283403254",
+        "in_reply_to_user_id": "711919157420273664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909583792215605313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigu_knitwear 萌死啦萌死啦额啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909583773622321158"
+          ]
+        },
+        "author_id": "711919157420273664",
+        "conversation_id": "1909583792215605313",
+        "created_at": "2025-04-08T12:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T13:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909583792215605313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "孽蜥"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "魔トカゲ"
+            },
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "Luchino"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "卢基诺"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nImS6O93Cd",
+              "end": 56,
+              "expanded_url": "https://x.com/cigu_knitwear/status/1909583792215605313/photo/1",
+              "media_key": "3_1909583773622321158",
+              "start": 33,
+              "url": "https://t.co/nImS6O93Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909583792215605313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 205,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "大包菜和小包菜 \n#孽蜥 #魔トカゲ #Luchino #卢基诺 https://t.co/nImS6O93Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 2373,
+          "like_count": 201856,
+          "listed_count": 8,
+          "media_count": 1170,
+          "tweet_count": 13398
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-21T14:15:28.000Z",
+        "description": "I'm Hachi/20⬆️/堆图用/很杂什么都有/近期idv 🦎🧪/日本語OKです",
+        "id": "711919157420273664",
+        "location": "火車",
+        "name": "886-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899021350481924096/dKLsmqQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 699,
+          "like_count": 15367,
+          "listed_count": 20,
+          "media_count": 879,
+          "tweet_count": 4296
+        },
+        "username": "cigu_knitwear",
+        "verified": false
+      }
+    ]
+  }
+}

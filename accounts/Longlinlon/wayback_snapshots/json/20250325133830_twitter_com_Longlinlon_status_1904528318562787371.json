@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1904477864986136932",
+    "created_at": "2025-03-25T13:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T14:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904528318562787371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685290945598590976",
+          "start": 0,
+          "username": "AreeyouuuuWhoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904528318562787371",
+    "in_reply_to_user_id": "1685290945598590976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904477864986136932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AreeyouuuuWhoo 别这样好不好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904477864986136932].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904477864986136932",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904477864986136932"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1904477864986136932",
+        "created_at": "2025-03-25T13:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T14:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904528318562787371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685290945598590976",
+              "start": 0,
+              "username": "AreeyouuuuWhoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904528318562787371",
+        "in_reply_to_user_id": "1685290945598590976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904477864986136932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AreeyouuuuWhoo 别这样好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 2355,
+          "like_count": 200630,
+          "listed_count": 9,
+          "media_count": 1157,
+          "tweet_count": 13276
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T14:07:37.000Z",
+        "description": "是谁的锁推小号呢？",
+        "id": "1685290945598590976",
+        "name": "最强魔剑士",
+        "pinned_tweet_id": "1758922613399691674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903344460609519616/8SwUhIjk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 259,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 93
+        },
+        "username": "AreeyouuuuWhoo",
+        "verified": false
+      }
+    ]
+  }
+}

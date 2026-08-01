@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1925799816551940301",
+    "created_at": "2025-05-23T06:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T07:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925799816551940301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyan_desu_/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/nyan_desu_/status/1925741970502164621",
+          "start": 12,
+          "url": "https://t.co/P4dV7nvzxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925799816551940301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925741970502164621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "買わない理由一切なーい https://t.co/P4dV7nvzxL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1925799816551940301",
+        "created_at": "2025-05-23T06:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925799816551940301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyan_desu_/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/nyan_desu_/status/1925741970502164621",
+              "start": 12,
+              "url": "https://t.co/P4dV7nvzxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925799816551940301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925741970502164621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "買わない理由一切なーい https://t.co/P4dV7nvzxL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269796950502551553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1925741970502164621",
+        "created_at": "2025-05-23T02:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T03:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925741970502164621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/identityvjp/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/identityvjp/status/1925735620539744311",
+              "start": 12,
+              "url": "https://t.co/J5EkLV2Xq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925741970502164621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 25178,
+          "like_count": 1280,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925735620539744311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "買わない理由一切なーい https://t.co/J5EkLV2Xq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2427,
+          "like_count": 206409,
+          "listed_count": 8,
+          "media_count": 1194,
+          "tweet_count": 13615
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-08T01:02:47.000Z",
+        "description": "@AXIZ_WAVE所属 さぶ@nyansabu_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "AXIZ_WAVE"
+              },
+              {
+                "end": 25,
+                "start": 15,
+                "username": "nyansabu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/T0WEX4JSO1H1?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/MnkuJkMBdY"
+              }
+            ]
+          }
+        },
+        "id": "1269796950502551553",
+        "name": "Nyan",
+        "pinned_tweet_id": "1717486986783817880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712267095009087488/Xs8dfYbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25386,
+          "following_count": 246,
+          "like_count": 4134,
+          "listed_count": 273,
+          "media_count": 306,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/MnkuJkMBdY",
+        "username": "nyan_desu_",
+        "verified": true
+      }
+    ]
+  }
+}

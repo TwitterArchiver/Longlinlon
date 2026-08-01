@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1958425745858203977",
+    "created_at": "2025-08-21T07:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T08:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958432840175284688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926720510982844416",
+          "start": 0,
+          "username": "DeRoss2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958432840175284688",
+    "in_reply_to_user_id": "1926720510982844416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958425745858203977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeRoss2778 笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "3_1958425739025625088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy251V2asAA6Yb6.jpg",
+        "width": 630
+      },
+      {
+        "height": 1402,
+        "media_key": "3_1958425739021414400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy251V1acAAeuup.jpg",
+        "width": 1523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1958425745858203977",
+        "created_at": "2025-08-21T07:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958432840175284688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926720510982844416",
+              "start": 0,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958432840175284688",
+        "in_reply_to_user_id": "1926720510982844416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958425745858203977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeRoss2778 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958425739025625088",
+            "3_1958425739021414400"
+          ]
+        },
+        "author_id": "1926720510982844416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1958425745858203977",
+        "created_at": "2025-08-21T07:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958425745858203977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGCHVzlKqW",
+              "end": 42,
+              "expanded_url": "https://x.com/DeRoss2778/status/1958425745858203977/photo/1",
+              "media_key": "3_1958425739025625088",
+              "start": 19,
+              "url": "https://t.co/QGCHVzlKqW"
+            },
+            {
+              "display_url": "pic.x.com/QGCHVzlKqW",
+              "end": 42,
+              "expanded_url": "https://x.com/DeRoss2778/status/1958425745858203977/photo/1",
+              "media_key": "3_1958425739021414400",
+              "start": 19,
+              "url": "https://t.co/QGCHVzlKqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958425745858203977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "十月人tv之以后可以去找你玩吗小姐姐 https://t.co/QGCHVzlKqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "tk14❤️-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2508,
+          "like_count": 214785,
+          "listed_count": 8,
+          "media_count": 1284,
+          "tweet_count": 14205
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号 封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子",
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "pinned_tweet_id": "1950739332991484064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955551801878671360/xVfcT2zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 223,
+          "like_count": 3428,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 760
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

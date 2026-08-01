@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1819593218130063376",
+    "created_at": "2024-08-03T04:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T05:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819593218130063376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677252589182943232",
+          "start": 3,
+          "username": "Hikari2304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819593218130063376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819569332848087531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikari2304: 爱猫的时候应该把猫妈妈也关笼子里让它看，多温馨，多其乐融融，叫的好大声\n下一个就是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1819593218130063376",
+        "created_at": "2024-08-03T04:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T05:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819593218130063376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677252589182943232",
+              "start": 3,
+              "username": "Hikari2304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819593218130063376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819569332848087531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hikari2304: 爱猫的时候应该把猫妈妈也关笼子里让它看，多温馨，多其乐融融，叫的好大声\n下一个就是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677252589182943232",
+        "conversation_id": "1819569332848087531",
+        "created_at": "2024-08-03T03:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T04:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819569332848087531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819569332848087531",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱猫的时候应该把猫妈妈也关笼子里让它看，多温馨，多其乐融融，叫的好大声\n下一个就是你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 2164,
+          "like_count": 165328,
+          "listed_count": 10,
+          "tweet_count": 10839
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "前妻 @bakajinping",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "bakajinping"
+              }
+            ]
+          }
+        },
+        "id": "1677252589182943232",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 581,
+          "like_count": 27604,
+          "listed_count": 8,
+          "tweet_count": 6299
+        },
+        "username": "Hikari2304",
+        "verified": false
+      }
+    ]
+  }
+}

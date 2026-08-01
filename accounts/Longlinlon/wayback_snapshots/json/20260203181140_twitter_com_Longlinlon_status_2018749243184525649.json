@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "2018749243184525649",
+    "created_at": "2026-02-03T18:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018749243184525649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ilovek8s/statu…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/ilovek8s/status/2018534890569187336",
+          "start": 48,
+          "url": "https://t.co/YCA2hamuUV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018749243184525649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018534890569187336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人什么时候能知道，社交不是打第五人格，不需要博弈和运气，有什么说什么难道是一件很难的事情吗 https://t.co/YCA2hamuUV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2018749243184525649",
+        "created_at": "2026-02-03T18:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018749243184525649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ilovek8s/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/ilovek8s/status/2018534890569187336",
+              "start": 48,
+              "url": "https://t.co/YCA2hamuUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018749243184525649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018534890569187336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人什么时候能知道，社交不是打第五人格，不需要博弈和运气，有什么说什么难道是一件很难的事情吗 https://t.co/YCA2hamuUV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335973070",
+        "conversation_id": "2018534890569187336",
+        "created_at": "2026-02-03T03:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018534890569187336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018534890569187336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么礼貌拒绝高铁上情侣或别人一家子的换座要求？\n\n这时候一定要出奇制胜，因为不管你拒绝的多么有礼貌，都会显得不近人情。我有一招，可以把不仁不义反弹给对方。\n\n大概几年前，我出差武汉至广州，晚上七点多，累了一天，只想上了车快点坐下休息。\n\n我选的位置是第3排F座，靠窗的。刚进车厢就看到一对情侣占了座位，男的坐了我的位置。\n\n那个男的伸长脖子左顾右盼，看样子就是已经组织好语言，等着座位主人过来，就提出换位的。\n\n越走越近，他从我的目光中判断，位置估计就是我的了。紧绷的脸缓缓挂好笑容，准备跟我搭讪换位置。\n\n但当时就是不想换，不知道为什么，就是不想。特别是余光扫了一眼旁边那女的，腿又长又白。\n\n我很累，只想尽快解决问题，我把目光移开径直走向第四排。那男的以为自己搞错了，堆好的笑容刚放下。我立马杀了个回马枪，跟他说：你好，我能找你换个位置吗？\n\n那男的本来就是想找人换位的，台词估计也预演好了，现在被我反问直接懵圈了。迟疑了一下，指着旁边女伴跟我说：不行，我跟她一起的，不好意思。\n\n我拿出车票，假装对比了一下，说：噢，不好意思，原来这个就是我的位置。\n\n他先拒绝了我，不近人情在先，现在已经没办法开口跟我换位置了。\n\n这个段子每年都会被大家拿出来传播一圈~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 254484,
+          "like_count": 735,
+          "quote_count": 6,
+          "reply_count": 92,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "怎么礼貌拒绝高铁上情侣或别人一家子的换座要求？\n\n这时候一定要出奇制胜，因为不管你拒绝的多么有礼貌，都会显得不近人情。我有一招，可以把不仁不义反弹给对方。\n\n大概几年前，我出差武汉至广州，晚上七点多，累了一天，只想上了车快点坐下休息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 2537,
+          "like_count": 210075,
+          "listed_count": 9,
+          "media_count": 1378,
+          "tweet_count": 14706
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-08T07:19:51.000Z",
+        "description": "资深全干工程师 | 尊贵的SRE(重启工程师)｜小报童甄选：https://t.co/xRn5j3KWjH 独立开发者出海技术栈：https://t.co/av5jVVXpyW 🌟欢迎DM🌟",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaobaot.best",
+                "end": 53,
+                "expanded_url": "https://xiaobaot.best/",
+                "start": 30,
+                "url": "https://t.co/xRn5j3KWjH"
+              },
+              {
+                "display_url": "chuhai.tools",
+                "end": 88,
+                "expanded_url": "https://chuhai.tools",
+                "start": 65,
+                "url": "https://t.co/av5jVVXpyW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuhai.tools",
+                "end": 23,
+                "expanded_url": "https://chuhai.tools",
+                "start": 0,
+                "url": "https://t.co/av5jVVXpyW"
+              }
+            ]
+          }
+        },
+        "id": "1335973070",
+        "location": "Hong Kong",
+        "name": "ilovelife",
+        "pinned_tweet_id": "1932334411040849977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767739942283980800/iJUzgOtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20658,
+          "following_count": 2434,
+          "like_count": 16078,
+          "listed_count": 207,
+          "media_count": 549,
+          "tweet_count": 19971
+        },
+        "url": "https://t.co/av5jVVXpyW",
+        "username": "ilovek8s",
+        "verified": true
+      }
+    ]
+  }
+}

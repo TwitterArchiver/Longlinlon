@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1789909300715934106",
+    "created_at": "2024-05-13T06:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T07:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789910171449209003"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "萌萌",
+          "probability": 0.6344,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547480744842633218",
+          "start": 0,
+          "username": "stnk_sabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789910171449209003",
+    "in_reply_to_user_id": "1547480744842633218",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789909300715934106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stnk_sabu 萌萌的！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1789909300715934106].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1789909300715934106",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1789909300715934106"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1789909300715934106",
+        "created_at": "2024-05-13T06:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T07:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789910171449209003"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "萌萌",
+              "probability": 0.6344,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547480744842633218",
+              "start": 0,
+              "username": "stnk_sabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789910171449209003",
+        "in_reply_to_user_id": "1547480744842633218",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789909300715934106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stnk_sabu 萌萌的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @KagurazakaSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1884,
+          "like_count": 125222,
+          "listed_count": 10,
+          "tweet_count": 9136
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T07:19:13.000Z",
+        "description": "ヘッダーは心の距離",
+        "id": "1547480744842633218",
+        "name": "素敵猫",
+        "pinned_tweet_id": "1719000400962236773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780596368979222528/dtZvcezj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 524,
+          "like_count": 2486,
+          "listed_count": 0,
+          "tweet_count": 3752
+        },
+        "username": "stnk_sabu",
+        "verified": false
+      }
+    ]
+  }
+}

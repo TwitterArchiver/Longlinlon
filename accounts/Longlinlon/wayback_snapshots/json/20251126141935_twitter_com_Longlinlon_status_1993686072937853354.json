@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1992610833969651871",
+    "created_at": "2025-11-26T14:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T15:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993686072937853354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926720510982844416",
+          "start": 0,
+          "username": "DeRoss2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993686072937853354",
+    "in_reply_to_user_id": "1926720510982844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992610833969651871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeRoss2778 获得“记者”成就---“明日新闻” +600"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992610822116556800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cs_EPbQAAWtLz.jpg",
+        "width": 1738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1992610833969651871",
+        "created_at": "2025-11-26T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993686072937853354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926720510982844416",
+              "start": 0,
+              "username": "DeRoss2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993686072937853354",
+        "in_reply_to_user_id": "1926720510982844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992610833969651871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeRoss2778 获得“记者”成就---“明日新闻” +600"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992610822116556800"
+          ]
+        },
+        "author_id": "1926720510982844416",
+        "conversation_id": "1992610833969651871",
+        "created_at": "2025-11-23T15:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992610833969651871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbzZkZndxk",
+              "end": 82,
+              "expanded_url": "https://x.com/DeRoss2778/status/1992610833969651871/photo/1",
+              "media_key": "3_1992610822116556800",
+              "start": 59,
+              "url": "https://t.co/rbzZkZndxk"
+            },
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1992408095151239193",
+              "start": 83,
+              "url": "https://t.co/FRLDg36TP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992610833969651871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 57647,
+          "like_count": 169,
+          "quote_count": 9,
+          "reply_count": 42,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992408095151239193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们以后说话都小心点，我平板存了11万张截图加上手机一共存了16多万张截图，你们说的每一句话都会被我一字不落的记录🥰 https://t.co/rbzZkZndxk https://t.co/FRLDg36TP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 2497,
+          "like_count": 212344,
+          "listed_count": 9,
+          "media_count": 1361,
+          "tweet_count": 14540
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T19:22:24.000Z",
+        "description": "想到什么就发什么的某不知名小号｜封建自由，大一统费拉 本人是诸夏武士 姨学勇敢分子｜毛主义者，毛主席的真正继承者  真左 真进步主义者\n本人是鉴证魔怔人，谨慎关注",
+        "id": "1926720510982844416",
+        "location": "欧利蒂丝庄园",
+        "name": "德罗斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955551801878671360/xVfcT2zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 390,
+          "like_count": 7473,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 1491
+        },
+        "username": "DeRoss2778",
+        "verified": false
+      }
+    ]
+  }
+}

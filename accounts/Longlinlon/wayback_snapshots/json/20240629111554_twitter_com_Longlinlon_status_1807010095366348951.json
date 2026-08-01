@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1807010095366348951",
+    "created_at": "2024-06-29T11:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T12:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807010095366348951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807010095366348951",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807009160636006648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 小男娘呀你快回家\n别逼妈妈实行家法\n一天不见你回家\n妈妈心里担惊受怕\nCDTS 都回家了\n你还在外边嘚瑟啥\n妈妈不会把儿来恨\n落叶总是要归根\n\n🎶🎶🎶你永远是跨圈人🎶🎶🎶\n\n永远记得变性恩\n无论你在外边怎么骚\n早晚回到妈妈怀抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1807010095366348951",
+        "created_at": "2024-06-29T11:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T12:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807010095366348951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807010095366348951",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807009160636006648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 小男娘呀你快回家\n别逼妈妈实行家法\n一天不见你回家\n妈妈心里担惊受怕\nCDTS 都回家了\n你还在外边嘚瑟啥\n妈妈不会把儿来恨\n落叶总是要归根\n\n🎶🎶🎶你永远是跨圈人🎶🎶🎶\n\n永远记得变性恩\n无论你在外边怎么骚\n早晚回到妈妈怀抱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1807009160636006648",
+        "created_at": "2024-06-29T11:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T12:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807009160636006648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807009160636006648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小男娘呀你快回家\n别逼妈妈实行家法\n一天不见你回家\n妈妈心里担惊受怕\nCDTS 都回家了\n你还在外边嘚瑟啥\n妈妈不会把儿来恨\n落叶总是要归根\n\n🎶🎶🎶你永远是跨圈人🎶🎶🎶\n\n永远记得变性恩\n无论你在外边怎么骚\n早晚回到妈妈怀抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 2022,
+          "like_count": 146508,
+          "listed_count": 10,
+          "tweet_count": 10293
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6659,
+          "following_count": 114,
+          "like_count": 94,
+          "listed_count": 24,
+          "tweet_count": 3727
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2029027706772570493",
+    "created_at": "2026-03-04T02:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029027706772570493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaojiao212/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jiaojiao212/status/2028849120639930769",
+          "start": 12,
+          "url": "https://t.co/IjRaoVPHJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029027706772570493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028849120639930769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "异性恋深度思考中。。。 https://t.co/IjRaoVPHJb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2029027706772570493",
+        "created_at": "2026-03-04T02:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029027706772570493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaojiao212/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jiaojiao212/status/2028849120639930769",
+              "start": 12,
+              "url": "https://t.co/IjRaoVPHJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029027706772570493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028849120639930769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "异性恋深度思考中。。。 https://t.co/IjRaoVPHJb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965812166243864576",
+        "conversation_id": "2028849120639930769",
+        "created_at": "2026-03-03T15:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028849120639930769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028849120639930769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 56366,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无畏契约的黄双咋打的 我真心好奇求旁听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 2566,
+          "like_count": 209634,
+          "listed_count": 9,
+          "media_count": 1382,
+          "tweet_count": 14763
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T16:18:46.000Z",
+        "description": "07/喜欢我请打钱/m/双/年上控/私信发牛子的死全家 不线下 感谢喜欢",
+        "id": "1965812166243864576",
+        "name": "椒椒",
+        "pinned_tweet_id": "2024840614723121309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026349743941767168/XJrZFS-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 26,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 118
+        },
+        "username": "jiaojiao212",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1934823103286419902",
+    "created_at": "2025-06-17T03:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T04:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934823103286419902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lialh4qwq/stat…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/lialh4qwq/status/1934793686304661515",
+          "start": 34,
+          "url": "https://t.co/OrcEbrpIeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934823103286419902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934793686304661515",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "搞怪妞来了，那群土逼看到你这种只会把你当猎奇对象都还护着也是无敌了 https://t.co/OrcEbrpIeD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1934823103286419902",
+        "created_at": "2025-06-17T03:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T04:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934823103286419902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lialh4qwq/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/lialh4qwq/status/1934793686304661515",
+              "start": 34,
+              "url": "https://t.co/OrcEbrpIeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934823103286419902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934793686304661515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搞怪妞来了，那群土逼看到你这种只会把你当猎奇对象都还护着也是无敌了 https://t.co/OrcEbrpIeD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474924380908290048",
+        "conversation_id": "1934665003589882004",
+        "created_at": "2025-06-17T02:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T03:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934793686304661515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934793686304661515",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934665003589882004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 优越啥呢普通人怎么你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2442,
+          "like_count": 209325,
+          "listed_count": 7,
+          "media_count": 1216,
+          "tweet_count": 13790
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T02:06:25.000Z",
+        "description": "🎀les ppl | feminism | INF(T?)P | 厌男小仙女，男的取关不谢",
+        "id": "1474924380908290048",
+        "name": "未若柳絮因风起",
+        "pinned_tweet_id": "1919566058303979860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737710761185808384/UynKY9bO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 113,
+          "like_count": 19485,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 3046
+        },
+        "username": "lialh4qwq",
+        "verified": false
+      }
+    ]
+  }
+}

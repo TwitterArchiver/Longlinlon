@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834053586751553538",
+        "3_1834053586415931392"
+      ],
+      "media_source_tweet_id": [
+        "1834053596129919222",
+        "1834053596129919222"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1834218483556696492",
+    "created_at": "2024-09-12T13:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T14:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834218483556696492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1721522192175767552",
+          "start": 3,
+          "username": "Sa1ntM0n1ka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rwzelomogg",
+          "end": 121,
+          "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1834053596129919222/photo/1",
+          "media_key": "3_1834053586751553538",
+          "start": 98,
+          "url": "https://t.co/RwzeLomOGG"
+        },
+        {
+          "display_url": "pic.x.com/rwzelomogg",
+          "end": 121,
+          "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1834053596129919222/photo/1",
+          "media_key": "3_1834053586415931392",
+          "start": 98,
+          "url": "https://t.co/RwzeLomOGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834218483556696492",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834053596129919222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sa1ntM0n1ka: 主播也是挂上赞赏码了\n生活好难，家里穷穷，无以为继\n如果您有多余的钱或许可以让我过得好一点\n不卖好友位，想加好友可以直接私信嘞\n负能量 割手 od，不喜勿扰ww https://t.co/RwzeLomOGG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834218483556696492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834218483556696492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834218483556696492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1834053586751553538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXPeBRlbgAIhfsE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 964,
+        "media_key": "3_1834053586415931392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXPeBQVaUAAi6dJ.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834053586751553538",
+            "3_1834053586415931392"
+          ]
+        },
+        "author_id": "1721522192175767552",
+        "conversation_id": "1834053596129919222",
+        "created_at": "2024-09-12T02:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T03:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834053596129919222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwzelomogg",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1834053596129919222/photo/1",
+              "media_key": "3_1834053586751553538",
+              "start": 81,
+              "url": "https://t.co/RwzeLomOGG"
+            },
+            {
+              "display_url": "pic.x.com/rwzelomogg",
+              "end": 104,
+              "expanded_url": "https://twitter.com/Sa1ntM0n1ka/status/1834053596129919222/photo/1",
+              "media_key": "3_1834053586415931392",
+              "start": 81,
+              "url": "https://t.co/RwzeLomOGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834053596129919222",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 705,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播也是挂上赞赏码了\n生活好难，家里穷穷，无以为继\n如果您有多余的钱或许可以让我过得好一点\n不卖好友位，想加好友可以直接私信嘞\n负能量 割手 od，不喜勿扰ww https://t.co/RwzeLomOGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 2217,
+          "like_count": 174840,
+          "listed_count": 10,
+          "tweet_count": 11298
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T13:37:41.000Z",
+        "description": "沒有救贖沒有神 只有化學與魔法 / 彼女 @nieniebuding",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "nieniebuding"
+              }
+            ]
+          }
+        },
+        "id": "1721522192175767552",
+        "location": "猫猫星",
+        "name": "Saint Monika · ナツメ アヤノ · 永雏塔黑猫 「无定义性别」",
+        "pinned_tweet_id": "1834053596129919222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399956336590848/1gJ9WPfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1129,
+          "like_count": 41576,
+          "listed_count": 8,
+          "tweet_count": 4017
+        },
+        "username": "Sa1ntM0n1ka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1802031405477842953",
+    "created_at": "2024-06-15T17:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T18:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802031405477842953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NmsleseResearc…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/NmsleseResearch/status/1801976945112150262",
+          "start": 14,
+          "url": "https://t.co/XWTez0sbmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802031405477842953",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801976945112150262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你把妈当妈，妈把你当孩了吗 https://t.co/XWTez0sbmg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1802031405477842953",
+        "created_at": "2024-06-15T17:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802031405477842953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NmsleseResearc…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/1801976945112150262",
+              "start": 14,
+              "url": "https://t.co/XWTez0sbmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802031405477842953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801976945112150262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你把妈当妈，妈把你当孩了吗 https://t.co/XWTez0sbmg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801976938434899968"
+          ]
+        },
+        "author_id": "1640674561980260354",
+        "conversation_id": "1801976945112150262",
+        "created_at": "2024-06-15T13:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801976945112150262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/v6oNc0CUC7",
+              "end": 26,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/1801976945112150262/photo/1",
+              "media_key": "3_1801976938434899968",
+              "start": 3,
+              "url": "https://t.co/v6oNc0CUC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801976945112150262",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4920,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/v6oNc0CUC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1989,
+          "like_count": 139517,
+          "listed_count": 10,
+          "tweet_count": 10078
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特的兔友迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "熊老大 🐻 兔友研究院Bot🔬",
+        "pinned_tweet_id": "1741387689646264678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741607157710389248/8u63IhcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7375,
+          "following_count": 2333,
+          "like_count": 313909,
+          "listed_count": 39,
+          "tweet_count": 20882
+        },
+        "username": "NmsleseResearch",
+        "verified": true
+      }
+    ]
+  }
+}

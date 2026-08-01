@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1933884930800726022",
+    "created_at": "2025-06-14T13:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T14:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933884930800726022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1932489566486999173",
+          "start": 17,
+          "url": "https://t.co/c12LchJzPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933884930800726022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932489566486999173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天早上就能看到刘雨薇了我好开心 https://t.co/c12LchJzPl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1933884930800726022",
+        "created_at": "2025-06-14T13:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933884930800726022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1932489566486999173",
+              "start": 17,
+              "url": "https://t.co/c12LchJzPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933884930800726022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932489566486999173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天早上就能看到刘雨薇了我好开心 https://t.co/c12LchJzPl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1932489566486999173",
+        "created_at": "2025-06-10T17:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T18:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932489566486999173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932489566486999173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Queen of the stars"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2437,
+          "like_count": 208852,
+          "listed_count": 7,
+          "media_count": 1213,
+          "tweet_count": 13766
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1807433547118191026",
+    "created_at": "2024-06-30T15:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T16:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807433547118191026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1753355639949291521",
+          "start": 3,
+          "username": "jesuisnoirdeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807433547118191026",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807363447161569450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jesuisnoirdeL: 不知道谁更耐死 反正都挺该死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1807433547118191026",
+        "created_at": "2024-06-30T15:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T16:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807433547118191026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1753355639949291521",
+              "start": 3,
+              "username": "jesuisnoirdeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807433547118191026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807363447161569450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jesuisnoirdeL: 不知道谁更耐死 反正都挺该死的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753355639949291521",
+        "conversation_id": "1807363447161569450",
+        "created_at": "2024-06-30T10:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T11:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807363447161569450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/phenovuoido/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/phenovuoido/status/1807120677490860091",
+              "start": 16,
+              "url": "https://t.co/8aePezZBdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807363447161569450",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807120677490860091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道谁更耐死 反正都挺该死的 https://t.co/8aePezZBdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 2031,
+          "like_count": 147534,
+          "listed_count": 10,
+          "tweet_count": 10312
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:52:33.000Z",
+        "description": "🌈06 Shanghai 🇫🇷 fine art \nCisgender male homosexual\nArt contemporain local de Shanghai.   @jesuislee_ 此處，建構的亭台與意識的庭園。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "jesuislee_"
+              }
+            ]
+          }
+        },
+        "id": "1753355639949291521",
+        "location": "Shanghaï ",
+        "name": "L老师不是李老师",
+        "pinned_tweet_id": "1806838903539953697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804560762888929280/jMEKRBzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 358,
+          "like_count": 16505,
+          "listed_count": 1,
+          "tweet_count": 10050
+        },
+        "username": "jesuisnoirdeL",
+        "verified": false
+      }
+    ]
+  }
+}

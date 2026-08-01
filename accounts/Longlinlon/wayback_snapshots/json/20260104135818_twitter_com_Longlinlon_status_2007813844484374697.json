@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007560475618488324"
+      ],
+      "media_source_tweet_id": [
+        "2007560482597867722"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007813844484374697",
+    "created_at": "2026-01-04T13:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T14:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007813844484374697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1906277834668244992",
+          "start": 3,
+          "username": "chiakilnwza007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Op3yoSaH8X",
+          "end": 43,
+          "expanded_url": "https://x.com/chiakilnwza007/status/2007560482597867722/photo/1",
+          "media_key": "3_2007560475618488324",
+          "start": 20,
+          "url": "https://t.co/Op3yoSaH8X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007813844484374697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1285
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007560482597867722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiakilnwza007: https://t.co/Op3yoSaH8X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007560475618488324",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xJnbZasAQ_AYJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007560475618488324"
+          ],
+          "media_source_tweet_id": [
+            "2007560482597867722"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007813844484374697",
+        "created_at": "2026-01-04T13:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007813844484374697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1906277834668244992",
+              "start": 3,
+              "username": "chiakilnwza007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Op3yoSaH8X",
+              "end": 43,
+              "expanded_url": "https://x.com/chiakilnwza007/status/2007560482597867722/photo/1",
+              "media_key": "3_2007560475618488324",
+              "start": 20,
+              "url": "https://t.co/Op3yoSaH8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007813844484374697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1285
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007560482597867722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiakilnwza007: https://t.co/Op3yoSaH8X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007560475618488324"
+          ]
+        },
+        "author_id": "1906277834668244992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007560482597867722",
+        "created_at": "2026-01-03T21:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T22:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007560482597867722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Op3yoSaH8X",
+              "end": 23,
+              "expanded_url": "https://x.com/chiakilnwza007/status/2007560482597867722/photo/1",
+              "media_key": "3_2007560475618488324",
+              "start": 0,
+              "url": "https://t.co/Op3yoSaH8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007560482597867722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 877,
+          "impression_count": 115259,
+          "like_count": 6777,
+          "quote_count": 134,
+          "reply_count": 23,
+          "retweet_count": 1285
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Op3yoSaH8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2476,
+          "like_count": 210676,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14578
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T09:30:39.000Z",
+        "description": "TH/ENG(not good)|♡♤  .°• \n. kamenrider / nitro chiral .°•",
+        "id": "1906277834668244992",
+        "name": "Choo choo",
+        "pinned_tweet_id": "2007749961807729009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006825760112390144/EAAXTmDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 101,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1807
+        },
+        "username": "chiakilnwza007",
+        "verified": false
+      }
+    ]
+  }
+}

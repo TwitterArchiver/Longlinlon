@@ -1,0 +1,406 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1807178600271290368"
+      ],
+      "media_source_tweet_id": [
+        "1807178606965395653"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1450181783895494661",
+          "name": "Dross"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1450181783895494661",
+          "name": "Dross"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1450181783895494661",
+          "name": "Dross"
+        }
+      }
+    ],
+    "conversation_id": "1807601879427551568",
+    "created_at": "2024-07-01T02:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T03:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807601879427551568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "78324623",
+          "start": 3,
+          "username": "eldiariodedross"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1I5GGHE2MV",
+          "end": 44,
+          "expanded_url": "https://twitter.com/eldiariodedross/status/1807178606965395653/photo/1",
+          "media_key": "3_1807178600271290368",
+          "start": 21,
+          "url": "https://t.co/1I5GGHE2MV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807601879427551568",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5092
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807178606965395653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eldiariodedross: https://t.co/1I5GGHE2MV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_1807178600271290368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRRjXLLboAAmV3v.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807178600271290368"
+          ],
+          "media_source_tweet_id": [
+            "1807178606965395653"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1450181783895494661",
+              "name": "Dross"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1450181783895494661",
+              "name": "Dross"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1450181783895494661",
+              "name": "Dross"
+            }
+          }
+        ],
+        "conversation_id": "1807601879427551568",
+        "created_at": "2024-07-01T02:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T03:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807601879427551568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "78324623",
+              "start": 3,
+              "username": "eldiariodedross"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1I5GGHE2MV",
+              "end": 44,
+              "expanded_url": "https://twitter.com/eldiariodedross/status/1807178606965395653/photo/1",
+              "media_key": "3_1807178600271290368",
+              "start": 21,
+              "url": "https://t.co/1I5GGHE2MV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807601879427551568",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5092
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807178606965395653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eldiariodedross: https://t.co/1I5GGHE2MV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807178600271290368"
+          ]
+        },
+        "author_id": "78324623",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1450181783895494661",
+              "name": "Dross"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1450181783895494661",
+              "name": "Dross"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1450181783895494661",
+              "name": "Dross"
+            }
+          }
+        ],
+        "conversation_id": "1807178606965395653",
+        "created_at": "2024-06-29T22:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T23:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807178606965395653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1I5GGHE2MV",
+              "end": 23,
+              "expanded_url": "https://twitter.com/eldiariodedross/status/1807178606965395653/photo/1",
+              "media_key": "3_1807178600271290368",
+              "start": 0,
+              "url": "https://t.co/1I5GGHE2MV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807178606965395653",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8747,
+          "impression_count": 7598110,
+          "like_count": 82840,
+          "quote_count": 356,
+          "reply_count": 1205,
+          "retweet_count": 5092
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1I5GGHE2MV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 2033,
+          "like_count": 147665,
+          "listed_count": 10,
+          "tweet_count": 10320
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-29T14:32:01.000Z",
+        "description": "Creador de contenido de horror | Escritor | Periodista | Troll | Mucho de lo que subo es bardo | Papá de Mussolini.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/DrossRotz…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/user/DrossRotzank",
+                "start": 0,
+                "url": "https://t.co/yPpmZSMG1F"
+              }
+            ]
+          }
+        },
+        "id": "78324623",
+        "location": "ＧＩＧＡＣＨＡＤ　ＨＱ",
+        "name": "DROSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722685216840384512/UxSX9G7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236616,
+          "following_count": 92,
+          "like_count": 41423,
+          "listed_count": 1839,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/yPpmZSMG1F",
+        "username": "eldiariodedross",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1822866206627619027",
+    "created_at": "2024-08-12T11:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T12:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822952017914106165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "keaifangong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822952017914106165",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822866206627619027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaifangong 外卖员是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1822866206627619027",
+        "created_at": "2024-08-12T11:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822952017914106165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "keaifangong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822952017914106165",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822866206627619027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaifangong 外卖员是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822864751850094592",
+            "3_1822865009300611072",
+            "3_1822865301077430274"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1822866206627619027",
+        "created_at": "2024-08-12T05:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T06:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822866206627619027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wacnqtz4qi",
+              "end": 114,
+              "expanded_url": "https://twitter.com/keaifangong/status/1822866206627619027/photo/1",
+              "media_key": "3_1822864751850094592",
+              "start": 91,
+              "url": "https://t.co/wAcnQTz4Qi"
+            },
+            {
+              "display_url": "pic.x.com/wacnqtz4qi",
+              "end": 114,
+              "expanded_url": "https://twitter.com/keaifangong/status/1822866206627619027/photo/1",
+              "media_key": "3_1822865009300611072",
+              "start": 91,
+              "url": "https://t.co/wAcnQTz4Qi"
+            },
+            {
+              "display_url": "pic.x.com/wacnqtz4qi",
+              "end": 114,
+              "expanded_url": "https://twitter.com/keaifangong/status/1822866206627619027/photo/1",
+              "media_key": "3_1822865301077430274",
+              "start": 91,
+              "url": "https://t.co/wAcnQTz4Qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822866206627619027",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“好多次强烈冲动，从腰间拔刀刺进他们有钱人脖子上”\n“老子挣几块钱要命一样，它们他妈比的吸血鬼每天吃顿饭都几千块”\n“随时在爆发的边缘”\n“直接开沙，反正有地址，外卖箱放着折叠刀” https://t.co/wAcnQTz4Qi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1821142206574686466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 2199,
+          "like_count": 169687,
+          "listed_count": 10,
+          "tweet_count": 10961
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "往事随风而去，我们共同的流金岁月，是未来最好的纪念",
+        "id": "1790370144755351552",
+        "location": "中国原神党",
+        "name": "可爱反共🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817066523149864960/GRq1uDGJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 616,
+          "like_count": 1034,
+          "listed_count": 4,
+          "tweet_count": 618
+        },
+        "username": "keaifangong",
+        "verified": false
+      }
+    ]
+  }
+}

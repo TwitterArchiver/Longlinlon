@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946086787786620928"
+      ],
+      "media_source_tweet_id": [
+        "1946086794593984721"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1946236612670877912",
+    "created_at": "2025-07-18T15:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T16:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946236612670877912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1769055828772786176",
+          "start": 3,
+          "username": "nabi_1120_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/143CS3vBy7",
+          "end": 75,
+          "expanded_url": "https://x.com/nabi_1120_/status/1946086794593984721/photo/1",
+          "media_key": "3_1946086787786620928",
+          "start": 52,
+          "url": "https://t.co/143CS3vBy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946236612670877912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946086794593984721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nabi_1120_: 哎呀笑死我了一张图集结了典中典的两种顺直男顺直女，狗咬狗谁懂真的很好笑 https://t.co/143CS3vBy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946086787786620928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwHjn2gaQAA38-H.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946086787786620928"
+          ],
+          "media_source_tweet_id": [
+            "1946086794593984721"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1946236612670877912",
+        "created_at": "2025-07-18T15:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T16:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946236612670877912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1769055828772786176",
+              "start": 3,
+              "username": "nabi_1120_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/143CS3vBy7",
+              "end": 75,
+              "expanded_url": "https://x.com/nabi_1120_/status/1946086794593984721/photo/1",
+              "media_key": "3_1946086787786620928",
+              "start": 52,
+              "url": "https://t.co/143CS3vBy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946236612670877912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946086794593984721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nabi_1120_: 哎呀笑死我了一张图集结了典中典的两种顺直男顺直女，狗咬狗谁懂真的很好笑 https://t.co/143CS3vBy7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946086787786620928"
+          ]
+        },
+        "author_id": "1769055828772786176",
+        "conversation_id": "1946086794593984721",
+        "created_at": "2025-07-18T05:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T06:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946086794593984721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/143CS3vBy7",
+              "end": 59,
+              "expanded_url": "https://x.com/nabi_1120_/status/1946086794593984721/photo/1",
+              "media_key": "3_1946086787786620928",
+              "start": 36,
+              "url": "https://t.co/143CS3vBy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946086794593984721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 37756,
+          "like_count": 313,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀笑死我了一张图集结了典中典的两种顺直男顺直女，狗咬狗谁懂真的很好笑 https://t.co/143CS3vBy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2476,
+          "like_count": 212733,
+          "listed_count": 7,
+          "media_count": 1247,
+          "tweet_count": 14010
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T17:39:33.000Z",
+        "description": "农村人不懂事发着玩的｜🚪288",
+        "id": "1769055828772786176",
+        "location": "精神病一触即发",
+        "name": "绝望毒妇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927957587166908416/5d4Znh-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9233,
+          "following_count": 133,
+          "like_count": 17992,
+          "listed_count": 23,
+          "media_count": 255,
+          "tweet_count": 9163
+        },
+        "username": "nabi_1120_",
+        "verified": false
+      }
+    ]
+  }
+}

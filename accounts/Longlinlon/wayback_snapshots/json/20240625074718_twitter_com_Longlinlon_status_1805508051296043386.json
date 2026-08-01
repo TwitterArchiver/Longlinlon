@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805508051296043386",
+    "created_at": "2024-06-25T07:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T08:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805508051296043386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "995490854683987968",
+          "start": 3,
+          "username": "Sabitasakana_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805508051296043386",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805478313458286741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sabitasakana_01: 苯人高考四百六十多分看着比我高几十上百分的推油说自己考砸了还考虑复读这就是世界的参差吗😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805508051296043386",
+        "created_at": "2024-06-25T07:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T08:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805508051296043386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "995490854683987968",
+              "start": 3,
+              "username": "Sabitasakana_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805508051296043386",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805478313458286741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sabitasakana_01: 苯人高考四百六十多分看着比我高几十上百分的推油说自己考砸了还考虑复读这就是世界的参差吗😇"
+      },
+      {
+        "attachments": {},
+        "author_id": "995490854683987968",
+        "conversation_id": "1805478313458286741",
+        "created_at": "2024-06-25T05:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T06:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805478313458286741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805478313458286741",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "苯人高考四百六十多分看着比我高几十上百分的推油说自己考砸了还考虑复读这就是世界的参差吗😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 2007,
+          "like_count": 143283,
+          "listed_count": 10,
+          "tweet_count": 10211
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-13T02:28:09.000Z",
+        "description": "是一条生锈的鱼",
+        "id": "995490854683987968",
+        "name": "錆魚あさこ🐟",
+        "pinned_tweet_id": "1802363096255943098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760554020966707200/e_3L_T-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 957,
+          "like_count": 10897,
+          "listed_count": 3,
+          "tweet_count": 4333
+        },
+        "username": "Sabitasakana_01",
+        "verified": false
+      }
+    ]
+  }
+}

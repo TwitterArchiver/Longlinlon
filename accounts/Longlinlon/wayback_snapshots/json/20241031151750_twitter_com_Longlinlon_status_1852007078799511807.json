@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1851997531779272896",
+    "created_at": "2024-10-31T15:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T16:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852007078799511807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852007078799511807",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851997531779272896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 为什么呀喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1851997531779272896",
+        "created_at": "2024-10-31T15:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852007078799511807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852007078799511807",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851997531779272896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 为什么呀喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851997456831254531",
+            "3_1851997464825597954"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1851997531779272896",
+        "created_at": "2024-10-31T14:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T15:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851997531779272896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X006c6guWM",
+              "end": 34,
+              "expanded_url": "https://x.com/JiZhenYouZi/status/1851997531779272896/photo/1",
+              "media_key": "3_1851997456831254531",
+              "start": 11,
+              "url": "https://t.co/X006c6guWM"
+            },
+            {
+              "display_url": "pic.x.com/X006c6guWM",
+              "end": 34,
+              "expanded_url": "https://x.com/JiZhenYouZi/status/1851997531779272896/photo/1",
+              "media_key": "3_1851997464825597954",
+              "start": 11,
+              "url": "https://t.co/X006c6guWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851997531779272896",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种我看见了直接屏蔽 https://t.co/X006c6guWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 2214,
+          "like_count": 176981,
+          "listed_count": 8,
+          "tweet_count": 11735
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "妾有绣腰襦，葳蕤自生光。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8228,
+          "following_count": 2341,
+          "like_count": 13816,
+          "listed_count": 33,
+          "tweet_count": 12874
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      }
+    ]
+  }
+}

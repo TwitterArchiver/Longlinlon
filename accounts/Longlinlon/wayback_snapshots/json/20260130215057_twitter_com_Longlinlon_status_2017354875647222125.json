@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2017354875647222125",
+    "created_at": "2026-01-30T21:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T22:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017354875647222125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "13949232",
+          "start": 30,
+          "username": "ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zhangfacai777/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/zhangfacai777/status/2016527343427461174",
+          "start": 52,
+          "url": "https://t.co/g2t8FnPvGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017354875647222125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016527343427461174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "习近平：张又侠给美国泄露核机密\n工程师：（喂给ai）\n傻子：@ai，这是真的吗\nai：这是真实发生的。 https://t.co/g2t8FnPvGU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2017354875647222125",
+        "created_at": "2026-01-30T21:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T22:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017354875647222125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "13949232",
+              "start": 30,
+              "username": "ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zhangfacai777/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/zhangfacai777/status/2016527343427461174",
+              "start": 52,
+              "url": "https://t.co/g2t8FnPvGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017354875647222125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016527343427461174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "习近平：张又侠给美国泄露核机密\n工程师：（喂给ai）\n傻子：@ai，这是真的吗\nai：这是真实发生的。 https://t.co/g2t8FnPvGU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656937690317869058",
+        "conversation_id": "2016527343427461174",
+        "created_at": "2026-01-28T15:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016527343427461174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016527343427461174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 809150,
+          "like_count": 1215,
+          "quote_count": 9,
+          "reply_count": 65,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "江青在上海时候,有一段时间非常困难，甚至没饭吃。多亏认识一个姓秦的保姆。保姆白天在一个有钱人家干活，晚上常常带点饭菜回来给她吃，而且还很照顾她的面子，说是尝尝她做的饭菜味道怎么样。江青非常感激，文革时这个保姆被抓起来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤丨精神病丨第五人格人孝子丨表演型人格丨小蛋糕丨单身丨hrt10.11丨捞妹丨IVL，KPL丨特摄丨1999丨龙族丨musedash丨十日终焉丨国拟丨安那其🚩🏴丨王者荣耀丨od丨说记丨杰园丨机囚丨患园丨舞裘丨气弓丨信离丨龙影丨",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 2529,
+          "like_count": 210758,
+          "listed_count": 9,
+          "media_count": 1377,
+          "tweet_count": 14704
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-25T17:08:43.000Z",
+        "description": "Managing partner Canonical · Venture Partner Lightspeed · Core Contributor Few Shot · Father · Husband",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "canonical.cc",
+                "end": 23,
+                "expanded_url": "http://canonical.cc",
+                "start": 0,
+                "url": "https://t.co/4Hkv56Gxr8"
+              }
+            ]
+          }
+        },
+        "id": "13949232",
+        "location": "San Francisco, CA",
+        "name": "anand iyer",
+        "pinned_tweet_id": "1973012141243551879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831182575689240576/7HmOAeIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45090,
+          "following_count": 594,
+          "like_count": 48273,
+          "listed_count": 1685,
+          "media_count": 1784,
+          "tweet_count": 17302
+        },
+        "url": "https://t.co/4Hkv56Gxr8",
+        "username": "ai",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-12T08:21:57.000Z",
+        "description": "流亡越南的按揭艺术家",
+        "id": "1656937690317869058",
+        "location": "越南海防",
+        "name": "张发财",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656937897856212993/RApWJ3Rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8873,
+          "following_count": 38,
+          "like_count": 4859,
+          "listed_count": 45,
+          "media_count": 131,
+          "tweet_count": 2004
+        },
+        "username": "zhangfacai777",
+        "verified": false
+      }
+    ]
+  }
+}

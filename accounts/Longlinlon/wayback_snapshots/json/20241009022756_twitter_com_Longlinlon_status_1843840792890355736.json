@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1843832165290914228",
+    "created_at": "2024-10-09T02:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T03:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843840792890355736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770810702707470336",
+          "start": 0,
+          "username": "aiheng6499464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843840792890355736",
+    "in_reply_to_user_id": "1770810702707470336",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843832165290914228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiheng6499464 原po早就辟谣了吧，我记得就在蓝鸟上，多久以前的事情了怎么还在发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1843832165290914228",
+        "created_at": "2024-10-09T02:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T03:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843840792890355736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770810702707470336",
+              "start": 0,
+              "username": "aiheng6499464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843840792890355736",
+        "in_reply_to_user_id": "1770810702707470336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843832165290914228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiheng6499464 原po早就辟谣了吧，我记得就在蓝鸟上，多久以前的事情了怎么还在发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843832158366117892"
+          ]
+        },
+        "author_id": "1770810702707470336",
+        "conversation_id": "1843832165290914228",
+        "created_at": "2024-10-09T01:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T02:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843832165290914228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "药娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "梅毒"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UCAI4TLLF5",
+              "end": 39,
+              "expanded_url": "https://x.com/aiheng6499464/status/1843832165290914228/photo/1",
+              "media_key": "3_1843832158366117892",
+              "start": 16,
+              "url": "https://t.co/UCAI4TLLF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843832165290914228",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么？生化母体。#药娘 #梅毒 https://t.co/UCAI4TLLF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 2217,
+          "like_count": 177582,
+          "listed_count": 9,
+          "tweet_count": 11645
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:52:54.000Z",
+        "description": "八年老mtf\n真实的我是个骗子！#双向情感障碍#药娘#易性症联系需门槛费20多了不要请喝杯奶茶不过分吧？多了不要只要20",
+        "id": "1770810702707470336",
+        "location": "江苏省 南京市",
+        "name": "千本樱 萌爱🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771888497986842624/BsxUzGjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 625,
+          "like_count": 902,
+          "listed_count": 0,
+          "tweet_count": 1777
+        },
+        "username": "aiheng6499464",
+        "verified": false
+      }
+    ]
+  }
+}

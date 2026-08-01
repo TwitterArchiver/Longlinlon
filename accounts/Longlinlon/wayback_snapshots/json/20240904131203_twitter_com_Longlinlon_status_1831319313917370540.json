@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1830941137437368483",
+    "created_at": "2024-09-04T13:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T14:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831319313917370540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825690131837366272",
+          "start": 0,
+          "username": "A1ienw0ter_7"
+        },
+        {
+          "end": 24,
+          "id": "1684856654779592704",
+          "start": 14,
+          "username": "duoduofuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831319313917370540",
+    "in_reply_to_user_id": "1825690131837366272",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831294625237151949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1ienw0ter_7 @duoduofuo 做题蛆跳脸什么呢，有0个人问了你的意见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1830941137437368483",
+        "created_at": "2024-09-04T13:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T14:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831319313917370540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825690131837366272",
+              "start": 0,
+              "username": "A1ienw0ter_7"
+            },
+            {
+              "end": 24,
+              "id": "1684856654779592704",
+              "start": 14,
+              "username": "duoduofuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831319313917370540",
+        "in_reply_to_user_id": "1825690131837366272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831294625237151949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1ienw0ter_7 @duoduofuo 做题蛆跳脸什么呢，有0个人问了你的意见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825690131837366272",
+        "conversation_id": "1830941137437368483",
+        "created_at": "2024-09-04T11:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T12:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831294625237151949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684856654779592704",
+              "start": 0,
+              "username": "duoduofuo"
+            },
+            {
+              "end": 22,
+              "id": "1596416860752207872",
+              "start": 11,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831294625237151949",
+        "in_reply_to_user_id": "1684856654779592704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830955028783472806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduofuo @Longlinlon 如果你是那个料的话也不至于上中专了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 2224,
+          "like_count": 174512,
+          "listed_count": 10,
+          "tweet_count": 11242
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T00:23:54.000Z",
+        "description": "",
+        "id": "1825690131837366272",
+        "name": "Seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830723100729552896/tnja_OSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "A1ienw0ter_7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T09:21:55.000Z",
+        "description": "八月十五天台见",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mini1.cn/index",
+                "end": 23,
+                "expanded_url": "https://www.mini1.cn/index",
+                "start": 0,
+                "url": "https://t.co/ZXDX6AH1TL"
+              }
+            ]
+          }
+        },
+        "id": "1684856654779592704",
+        "location": "帕拉迪岛",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1783138479745925218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825959244128243712/JFNvQPrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 543,
+          "like_count": 17945,
+          "listed_count": 4,
+          "tweet_count": 7663
+        },
+        "url": "https://t.co/ZXDX6AH1TL",
+        "username": "duoduofuo",
+        "verified": false
+      }
+    ]
+  }
+}

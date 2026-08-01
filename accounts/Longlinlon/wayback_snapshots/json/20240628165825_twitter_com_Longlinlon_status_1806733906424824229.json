@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1806733906424824229",
+    "created_at": "2024-06-28T16:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T17:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806733906424824229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1806731652036755855",
+          "start": 25,
+          "url": "https://t.co/RE0bIsWqbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806733906424824229",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806731652036755855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "健全逼只是自杀喂哈基米了，精神病要考虑的可就多了 https://t.co/RE0bIsWqbG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1806733906424824229",
+        "created_at": "2024-06-28T16:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T17:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806733906424824229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1806731652036755855",
+              "start": 25,
+              "url": "https://t.co/RE0bIsWqbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806733906424824229",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806731652036755855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "健全逼只是自杀喂哈基米了，精神病要考虑的可就多了 https://t.co/RE0bIsWqbG"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1806731652036755855",
+        "created_at": "2024-06-28T16:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T17:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806731652036755855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1805114880321638585",
+              "start": 43,
+              "url": "https://t.co/lHIChVnaUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806731652036755855",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805114880321638585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼玛啊人家精神病都在天台坐着半个身子都探出去了，剧版乔苓直接叫她去死什么毛病傻逼编剧 https://t.co/lHIChVnaUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 2018,
+          "like_count": 145853,
+          "listed_count": 10,
+          "tweet_count": 10287
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

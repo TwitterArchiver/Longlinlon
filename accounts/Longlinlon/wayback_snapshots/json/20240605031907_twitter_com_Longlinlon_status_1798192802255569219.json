@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1798192802255569219",
+    "created_at": "2024-06-05T03:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T04:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798192802255569219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ysyxssssh/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/ysyxssssh/status/1798010814529744917",
+          "start": 44,
+          "url": "https://t.co/KxU6LOycU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798192802255569219",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798010814529744917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想来想去还是好烦 又羡慕又嫉妒 大家的青春美丽 只有我这个丑逼默默在角落只能视奸别人🤮 https://t.co/KxU6LOycU7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1798192802255569219",
+        "created_at": "2024-06-05T03:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T04:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798192802255569219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ysyxssssh/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/ysyxssssh/status/1798010814529744917",
+              "start": 44,
+              "url": "https://t.co/KxU6LOycU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798192802255569219",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798010814529744917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想来想去还是好烦 又羡慕又嫉妒 大家的青春美丽 只有我这个丑逼默默在角落只能视奸别人🤮 https://t.co/KxU6LOycU7"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553716160243281921",
+        "conversation_id": "1798010814529744917",
+        "created_at": "2024-06-04T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T16:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798010814529744917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798010814529744917",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想来想去还是好烦 又羡慕又嫉妒 大家的青春美丽 只有我这个丑逼默默在角落只能视奸别人🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1988,
+          "like_count": 135810,
+          "listed_count": 9,
+          "tweet_count": 9834
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T12:16:23.000Z",
+        "description": "13岁/女初/风湿/眼镜妹/关注我的人会得到视奸/自由/想被爱",
+        "id": "1553716160243281921",
+        "location": "0.1km",
+        "name": "Ms.bean",
+        "pinned_tweet_id": "1795476673808220331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729198137934532608/_uyHDla9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 426,
+          "like_count": 27510,
+          "listed_count": 5,
+          "tweet_count": 4514
+        },
+        "username": "ysyxssssh",
+        "verified": false
+      }
+    ]
+  }
+}

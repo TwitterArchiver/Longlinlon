@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1838164593182667256",
+    "created_at": "2024-09-23T10:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T11:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838164593182667256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1719657023288324096",
+          "start": 3,
+          "username": "chen___Official"
+        },
+        {
+          "end": 27,
+          "id": "1243945571796295681",
+          "start": 21,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838164593182667256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838138263858786543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chen___Official: @yqua_ 男畜發現自己在一個圈子裡不再佔據主導權後發出的最後吶喊就是：這成飯圈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1838164593182667256",
+        "created_at": "2024-09-23T10:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T11:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838164593182667256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1719657023288324096",
+              "start": 3,
+              "username": "chen___Official"
+            },
+            {
+              "end": 27,
+              "id": "1243945571796295681",
+              "start": 21,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838164593182667256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838138263858786543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chen___Official: @yqua_ 男畜發現自己在一個圈子裡不再佔據主導權後發出的最後吶喊就是：這成飯圈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719657023288324096",
+        "conversation_id": "1838095959357849677",
+        "created_at": "2024-09-23T08:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T09:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838138263858786543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838138263858786543",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838095959357849677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 男畜發現自己在一個圈子裡不再佔據主導權後發出的最後吶喊就是：這成飯圈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2219,
+          "like_count": 175975,
+          "listed_count": 10,
+          "tweet_count": 11421
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T10:06:33.000Z",
+        "description": "真理只在冰櫃容量之內",
+        "id": "1719657023288324096",
+        "name": "chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719657430932733952/ra38GO0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 61,
+          "like_count": 26,
+          "listed_count": 2,
+          "tweet_count": 4310
+        },
+        "username": "chen___Official",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "铨｜间关莺语花底滑 幽咽流泉水下滩｜互fo请DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "挂甲寺",
+        "name": "𝓠𝓾𝓪𝓷. ᡣ𐭩",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11154,
+          "following_count": 3895,
+          "like_count": 153140,
+          "listed_count": 49,
+          "tweet_count": 17007
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

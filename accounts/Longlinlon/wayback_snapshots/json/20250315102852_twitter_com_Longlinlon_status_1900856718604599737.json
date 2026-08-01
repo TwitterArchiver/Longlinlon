@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1900856718604599737",
+    "created_at": "2025-03-15T10:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T11:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900856718604599737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385780024653926401",
+          "start": 3,
+          "username": "ja7kyRpcmxYzuOp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900856718604599737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900732369130414088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ja7kyRpcmxYzuOp: 我是一个残疾mtf，确诊了孤独症谱系障碍、心境障碍、精神病性障碍、强迫症、ADHD等精神障碍，身体上还有二型糖尿病，我现在一分钱也没有了，需要一点点钱治疗精神病和糖尿病，大家能捐助我一点钱吗？拜托了。 https://t.co/kZ4y…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_1900732339359281155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDB_fybcAM0IaT.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1900732342387568640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDB_rEbcAAOur5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1900732347651440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDB_-rbwAAdtVI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1900732348951654405",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDCADhbcAUR8SW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1900856718604599737",
+        "created_at": "2025-03-15T10:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900856718604599737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385780024653926401",
+              "start": 3,
+              "username": "ja7kyRpcmxYzuOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900856718604599737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900732369130414088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ja7kyRpcmxYzuOp: 我是一个残疾mtf，确诊了孤独症谱系障碍、心境障碍、精神病性障碍、强迫症、ADHD等精神障碍，身体上还有二型糖尿病，我现在一分钱也没有了，需要一点点钱治疗精神病和糖尿病，大家能捐助我一点钱吗？拜托了。 https://t.co/kZ4y…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900732339359281155",
+            "3_1900732342387568640",
+            "3_1900732347651440640",
+            "3_1900732348951654405"
+          ]
+        },
+        "author_id": "1385780024653926401",
+        "conversation_id": "1900732369130414088",
+        "created_at": "2025-03-15T02:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T03:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900732369130414088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZ4yqSO4qU",
+              "end": 124,
+              "expanded_url": "https://x.com/ja7kyRpcmxYzuOp/status/1900732369130414088/photo/1",
+              "media_key": "3_1900732339359281155",
+              "start": 101,
+              "url": "https://t.co/kZ4yqSO4qU"
+            },
+            {
+              "display_url": "pic.x.com/kZ4yqSO4qU",
+              "end": 124,
+              "expanded_url": "https://x.com/ja7kyRpcmxYzuOp/status/1900732369130414088/photo/1",
+              "media_key": "3_1900732342387568640",
+              "start": 101,
+              "url": "https://t.co/kZ4yqSO4qU"
+            },
+            {
+              "display_url": "pic.x.com/kZ4yqSO4qU",
+              "end": 124,
+              "expanded_url": "https://x.com/ja7kyRpcmxYzuOp/status/1900732369130414088/photo/1",
+              "media_key": "3_1900732347651440640",
+              "start": 101,
+              "url": "https://t.co/kZ4yqSO4qU"
+            },
+            {
+              "display_url": "pic.x.com/kZ4yqSO4qU",
+              "end": 124,
+              "expanded_url": "https://x.com/ja7kyRpcmxYzuOp/status/1900732369130414088/photo/1",
+              "media_key": "3_1900732348951654405",
+              "start": 101,
+              "url": "https://t.co/kZ4yqSO4qU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900732369130414088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8612,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个残疾mtf，确诊了孤独症谱系障碍、心境障碍、精神病性障碍、强迫症、ADHD等精神障碍，身体上还有二型糖尿病，我现在一分钱也没有了，需要一点点钱治疗精神病和糖尿病，大家能捐助我一点钱吗？拜托了。 https://t.co/kZ4yqSO4qU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 2338,
+          "like_count": 198790,
+          "listed_count": 8,
+          "media_count": 1144,
+          "tweet_count": 13147
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T02:18:08.000Z",
+        "description": "She/her/chinese/transgender（mtf或者non-binary）/ADHD/ASD/hrt/喜欢神经科学、认知科学和心理学/Buddhist/Socialism/Transhumanism/Mysticism/Anime/头像是自己找画师买的。",
+        "id": "1385780024653926401",
+        "name": "艾琳酱(she/her）🏳️‍⚧️",
+        "pinned_tweet_id": "1900732369130414088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385787108971868167/abewaCU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 814,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "ja7kyRpcmxYzuOp",
+        "verified": false
+      }
+    ]
+  }
+}

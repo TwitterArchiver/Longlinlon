@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1839570430480523399",
+    "created_at": "2024-10-06T22:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T23:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843051291930661097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835935487816802304",
+          "start": 0,
+          "username": "hx7474980064014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843051291930661097",
+    "in_reply_to_user_id": "1835935487816802304",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842950388145856768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hx7474980064014 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1839570430480523399",
+        "created_at": "2024-10-06T22:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T23:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843051291930661097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835935487816802304",
+              "start": 0,
+              "username": "hx7474980064014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843051291930661097",
+        "in_reply_to_user_id": "1835935487816802304",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842950388145856768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hx7474980064014 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835935487816802304",
+        "conversation_id": "1839570430480523399",
+        "created_at": "2024-10-06T15:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T16:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842950388145856768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842950388145856768",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839570430480523399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 朱波要不要一起玩第五人格。😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 2221,
+          "like_count": 177305,
+          "listed_count": 9,
+          "tweet_count": 11617
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T06:55:27.000Z",
+        "description": "欧美流行   troye /tate  /orlando\n四爱  手控",
+        "id": "1835935487816802304",
+        "name": "水上书•",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841745193583968259/LRmjpY54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 39,
+          "like_count": 14,
+          "listed_count": 0,
+          "tweet_count": 15
+        },
+        "username": "hx7474980064014",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1794407454798918072",
+    "created_at": "2024-05-25T16:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794407454798918072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 3,
+          "username": "clauntal"
+        },
+        {
+          "end": 26,
+          "id": "1752191571414659072",
+          "start": 14,
+          "username": "lao1999ssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794407454798918072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794402358803493260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clauntal: @lao1999ssss 感觉在起点和过程真的遥遥领先\n结果令人惋惜\n非冒犯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1794407454798918072",
+        "created_at": "2024-05-25T16:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794407454798918072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 3,
+              "username": "clauntal"
+            },
+            {
+              "end": 26,
+              "id": "1752191571414659072",
+              "start": 14,
+              "username": "lao1999ssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794407454798918072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794402358803493260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clauntal: @lao1999ssss 感觉在起点和过程真的遥遥领先\n结果令人惋惜\n非冒犯"
+      },
+      {
+        "attachments": {},
+        "author_id": "1699298317392580608",
+        "conversation_id": "1794320993902837893",
+        "created_at": "2024-05-25T16:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794402358803493260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752191571414659072",
+              "start": 0,
+              "username": "lao1999ssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794402358803493260",
+        "in_reply_to_user_id": "1752191571414659072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794320993902837893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lao1999ssss 感觉在起点和过程真的遥遥领先\n结果令人惋惜\n非冒犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1973,
+          "like_count": 132312,
+          "listed_count": 9,
+          "tweet_count": 9585
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "",
+        "id": "1699298317392580608",
+        "location": "山西省太原市小店区坞城街道体育路亲贤苑小区2号楼603",
+        "name": "任秉慧",
+        "pinned_tweet_id": "1792559505294885195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792446548619706369/C55cC5fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 617,
+          "like_count": 44988,
+          "listed_count": 3,
+          "tweet_count": 12291
+        },
+        "username": "clauntal",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:46:51.000Z",
+        "description": "关注必互，自用一元机场https://t.co/gFF8vlwBtO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.性价比机场.com/#/register?cod…",
+                "end": 34,
+                "expanded_url": "https://a.xn--6nq44r2uh9rhj7f.com/#/register?code=lryFDzJg",
+                "start": 11,
+                "url": "https://t.co/gFF8vlwBtO"
+              }
+            ]
+          }
+        },
+        "id": "1752191571414659072",
+        "location": "距离你8km",
+        "name": "安安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790527397873471488/P9dvxgdG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 694,
+          "like_count": 777,
+          "listed_count": 0,
+          "tweet_count": 548
+        },
+        "username": "lao1999ssss",
+        "verified": false
+      }
+    ]
+  }
+}

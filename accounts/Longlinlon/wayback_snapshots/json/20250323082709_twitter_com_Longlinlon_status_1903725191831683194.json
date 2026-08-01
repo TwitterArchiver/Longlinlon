@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1903504070498791540",
+    "created_at": "2025-03-23T08:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T09:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903725191831683194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1366763569832845317",
+          "start": 0,
+          "username": "huijialitian"
+        },
+        {
+          "end": 25,
+          "id": "1469724782270713856",
+          "start": 14,
+          "username": "dadada0016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903725191831683194",
+    "in_reply_to_user_id": "1366763569832845317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903658437830975889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huijialitian @dadada0016 不敢说，其实全推特只有你蠢到和炮友处对象🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1903504070498791540",
+        "created_at": "2025-03-23T08:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T09:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903725191831683194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1366763569832845317",
+              "start": 0,
+              "username": "huijialitian"
+            },
+            {
+              "end": 25,
+              "id": "1469724782270713856",
+              "start": 14,
+              "username": "dadada0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903725191831683194",
+        "in_reply_to_user_id": "1366763569832845317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903658437830975889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huijialitian @dadada0016 不敢说，其实全推特只有你蠢到和炮友处对象🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366763569832845317",
+        "conversation_id": "1903504070498791540",
+        "created_at": "2025-03-23T04:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T05:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903658437830975889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1469724782270713856",
+              "start": 0,
+              "username": "dadada0016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903658437830975889",
+        "in_reply_to_user_id": "1469724782270713856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2404,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903504070498791540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dadada0016 等变成男朋友一切都会变信不信？这种小心思是个男的都会伪装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2358,
+          "like_count": 200606,
+          "listed_count": 9,
+          "media_count": 1155,
+          "tweet_count": 13246
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T14:54:02.000Z",
+        "description": "大蘑菇超好吃",
+        "id": "1366763569832845317",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "见手青大蘑菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829211223554158592/s2XRe35N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 110,
+          "like_count": 541,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 1570
+        },
+        "username": "huijialitian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T17:44:47.000Z",
+        "description": "🚪520纯绿，闲聊卡颜卡身材看心情，不接推广｜推文均为虚构",
+        "id": "1469724782270713856",
+        "location": "随机",
+        "name": "阿布雷",
+        "pinned_tweet_id": "1779831207494349236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800943941799596032/c6WkWpYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6253,
+          "following_count": 685,
+          "like_count": 15113,
+          "listed_count": 28,
+          "media_count": 424,
+          "tweet_count": 11164
+        },
+        "username": "dadada0016",
+        "verified": false
+      }
+    ]
+  }
+}

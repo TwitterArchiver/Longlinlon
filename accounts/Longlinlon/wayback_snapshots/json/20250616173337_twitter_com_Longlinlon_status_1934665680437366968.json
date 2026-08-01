@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1934665680437366968",
+    "created_at": "2025-06-16T17:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T18:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934665680437366968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1934665003589882004",
+          "start": 43,
+          "url": "https://t.co/iikwxNQFxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934665680437366968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934665003589882004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男推女推这种土词也是你们发明的我真不行了我宁愿中推圈都是烂俗鉴证逼也比一群土逼好的多 https://t.co/iikwxNQFxI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1934665680437366968",
+        "created_at": "2025-06-16T17:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T18:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934665680437366968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1934665003589882004",
+              "start": 43,
+              "url": "https://t.co/iikwxNQFxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934665680437366968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934665003589882004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男推女推这种土词也是你们发明的我真不行了我宁愿中推圈都是烂俗鉴证逼也比一群土逼好的多 https://t.co/iikwxNQFxI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1934665003589882004",
+        "created_at": "2025-06-16T17:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T18:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934665003589882004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934665003589882004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女大男大能不能别玩推了既不是上层阶级的公子小姐也不是底层臭精神病就一群现实没存在感的土逼滚回去玩你的音符好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2442,
+          "like_count": 209215,
+          "listed_count": 7,
+          "media_count": 1216,
+          "tweet_count": 13787
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

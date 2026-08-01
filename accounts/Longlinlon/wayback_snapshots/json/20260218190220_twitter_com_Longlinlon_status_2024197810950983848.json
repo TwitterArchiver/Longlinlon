@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2024197810950983848",
+    "created_at": "2026-02-18T19:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T20:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024197810950983848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JasonLiuCrypto…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/JasonLiuCrypto/status/2024031358658478432",
+          "start": 23,
+          "url": "https://t.co/ojWr7FhK5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024197810950983848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024031358658478432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当巨婴不就是从小到大自己的生物母仆人惯的吗？ https://t.co/ojWr7FhK5R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2024197810950983848",
+        "created_at": "2026-02-18T19:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T20:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024197810950983848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JasonLiuCrypto…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/JasonLiuCrypto/status/2024031358658478432",
+              "start": 23,
+              "url": "https://t.co/ojWr7FhK5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024197810950983848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024031358658478432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当巨婴不就是从小到大自己的生物母仆人惯的吗？ https://t.co/ojWr7FhK5R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661241895425650689",
+        "conversation_id": "2023839685714604506",
+        "created_at": "2026-02-18T08:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024031358658478432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024031358658478432",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023839685714604506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 这不都是跟小仙女学的吗？走小仙女的路，让小仙女无路可走。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 2556,
+          "like_count": 209757,
+          "listed_count": 9,
+          "media_count": 1382,
+          "tweet_count": 14751
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T05:25:18.000Z",
+        "description": "",
+        "id": "1661241895425650689",
+        "name": "无锋重剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864923949181833216/3MCORr1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "username": "JasonLiuCrypto",
+        "verified": false
+      }
+    ]
+  }
+}

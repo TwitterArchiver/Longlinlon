@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805796926610456597",
+    "created_at": "2024-06-26T02:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T03:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805796926610456597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1015788561088630791",
+          "start": 3,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805796926610456597",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805710486102851708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_ruyue: 还有一件好玩的事就是 看到我又在批判女性又在搞女权 又在某些地方支持男性 然后看我又骂跨性别\n 然后不知道我到底是什么成分了\n就在一些人的眼里 就是人就是得 分阵营战斗的 \n顺直和跨是要开战的\n男的和女的是要开战的\n特别可笑就是说...为了社会平…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805796926610456597",
+        "created_at": "2024-06-26T02:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T03:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805796926610456597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1015788561088630791",
+              "start": 3,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805796926610456597",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805710486102851708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_ruyue: 还有一件好玩的事就是 看到我又在批判女性又在搞女权 又在某些地方支持男性 然后看我又骂跨性别\n 然后不知道我到底是什么成分了\n就在一些人的眼里 就是人就是得 分阵营战斗的 \n顺直和跨是要开战的\n男的和女的是要开战的\n特别可笑就是说...为了社会平…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1805710486102851708",
+        "created_at": "2024-06-25T21:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T22:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805710486102851708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805710486102851708",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1685,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还有一件好玩的事就是 看到我又在批判女性又在搞女权 又在某些地方支持男性 然后看我又骂跨性别\n 然后不知道我到底是什么成分了\n就在一些人的眼里 就是人就是得 分阵营战斗的 \n顺直和跨是要开战的\n男的和女的是要开战的\n特别可笑就是说...为了社会平等要骂每一个傻比很难理解吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 2010,
+          "like_count": 143869,
+          "listed_count": 10,
+          "tweet_count": 10226
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "location": "碧蓝港",
+        "name": "小猫如月",
+        "pinned_tweet_id": "1793411661665308804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804782817282506752/R5ZrgVm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31226,
+          "following_count": 4055,
+          "like_count": 121302,
+          "listed_count": 86,
+          "tweet_count": 25982
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840060457094394146",
+    "created_at": "2024-09-29T04:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T05:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840244283451810132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611344351313154049",
+          "start": 0,
+          "username": "hihikariyuna"
+        },
+        {
+          "end": 21,
+          "id": "1742381695045939200",
+          "start": 14,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840244283451810132",
+    "in_reply_to_user_id": "1611344351313154049",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840235593273655318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hihikariyuna @mo6ji4 幽默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840060457094394146",
+        "created_at": "2024-09-29T04:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T05:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840244283451810132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611344351313154049",
+              "start": 0,
+              "username": "hihikariyuna"
+            },
+            {
+              "end": 21,
+              "id": "1742381695045939200",
+              "start": 14,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840244283451810132",
+        "in_reply_to_user_id": "1611344351313154049",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840235593273655318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hihikariyuna @mo6ji4 幽默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611344351313154049",
+        "conversation_id": "1840060457094394146",
+        "created_at": "2024-09-29T03:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T04:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840235593273655318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840235593273655318",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840060457094394146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 我认为但凡是个智力正常的人并正常学习，都是可以考上大学，不需要当做题家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2213,
+          "like_count": 176540,
+          "listed_count": 8,
+          "tweet_count": 11513
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T12:50:33.000Z",
+        "description": "私はヒヒカリ・ユナ、大学生だ。私は甘い風、澄んだ水、暖かい日差し、そして自由な生活が好きだ。来て私とチャットして！✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hihikariyuna",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@hihikariyuna",
+                "start": 0,
+                "url": "https://t.co/tjQx9FZZg3"
+              }
+            ]
+          }
+        },
+        "id": "1611344351313154049",
+        "location": "Kagawa-ken, Japan",
+        "name": "ヒヒカリ・ユナ",
+        "pinned_tweet_id": "1831620111951917132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834125478317502464/Vq3IPQ2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 2802,
+          "like_count": 7533,
+          "listed_count": 6,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/tjQx9FZZg3",
+        "username": "hihikariyuna",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n是公用肉便器 是@mingnaisama 的飞机杯好厚米@zhao_remake \n防失联小号@m8o9j6i4 妈妈@cang_lan3667 妈妈@azusaROCtw 亲爱的@miku_suki393939 主人@35zf_out \n严重玻璃心自卑仇富",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "zhao_remake"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "cang_lan3667"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "35zf_out"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德",
+        "pinned_tweet_id": "1832885713286951270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 820,
+          "like_count": 81471,
+          "listed_count": 3,
+          "tweet_count": 14653
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

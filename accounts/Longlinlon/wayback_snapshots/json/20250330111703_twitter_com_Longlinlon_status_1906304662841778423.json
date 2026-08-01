@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1906264979012980815",
+    "created_at": "2025-03-30T11:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T12:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906304662841778423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824078289020895232",
+          "start": 0,
+          "username": "tamako345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906304662841778423",
+    "in_reply_to_user_id": "1824078289020895232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906276624351584447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamako345 就爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1906264979012980815",
+        "created_at": "2025-03-30T11:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T12:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906304662841778423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824078289020895232",
+              "start": 0,
+              "username": "tamako345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906304662841778423",
+        "in_reply_to_user_id": "1824078289020895232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906276624351584447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamako345 就爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824078289020895232",
+        "conversation_id": "1906264979012980815",
+        "created_at": "2025-03-30T09:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T10:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906276624351584447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906276624351584447",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906264979012980815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 大计基男娘是吧，但我总觉得男娘杂鱼多（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 2363,
+          "like_count": 200982,
+          "listed_count": 9,
+          "media_count": 1162,
+          "tweet_count": 13312
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T13:39:01.000Z",
+        "description": "",
+        "id": "1824078289020895232",
+        "name": "玉子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824078493245747200/-6PLB54F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 883,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 324
+        },
+        "username": "tamako345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1830518313270612313",
+    "created_at": "2024-09-02T08:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T09:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830518313270612313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662723831533027329",
+          "start": 3,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830518313270612313",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830503590139687274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loong001116: 对不起，我喜欢看女主把闺蜜男朋友、闺蜜弟弟、闺蜜本人都睡了的剧情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1830518313270612313",
+        "created_at": "2024-09-02T08:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T09:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830518313270612313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662723831533027329",
+              "start": 3,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830518313270612313",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830503590139687274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loong001116: 对不起，我喜欢看女主把闺蜜男朋友、闺蜜弟弟、闺蜜本人都睡了的剧情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "1830503590139687274",
+        "created_at": "2024-09-02T07:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T08:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830503590139687274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830503590139687274",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我喜欢看女主把闺蜜男朋友、闺蜜弟弟、闺蜜本人都睡了的剧情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2229,
+          "like_count": 174150,
+          "listed_count": 10,
+          "tweet_count": 11212
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "一个享受孤独的人",
+        "id": "1662723831533027329",
+        "name": "小龙",
+        "pinned_tweet_id": "1662847312908144641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829827968597966849/O7bR53Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 191,
+          "like_count": 489,
+          "listed_count": 0,
+          "tweet_count": 321
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

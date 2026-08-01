@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932738783520432128"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1932738791300870506",
+    "created_at": "2025-06-11T09:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T10:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932738791300870506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VhtJwSlb8I",
+          "end": 53,
+          "expanded_url": "https://x.com/Longlinlon/status/1932738791300870506/photo/1",
+          "media_key": "3_1932738783520432128",
+          "start": 30,
+          "url": "https://t.co/VhtJwSlb8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932738791300870506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 47,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂一个对家解，我亲友居然还有人跟他互fo，别让我发现是谁哈 https://t.co/VhtJwSlb8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_1932738783520432128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ3rvtbIAAwtXG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932738783520432128"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932738791300870506",
+        "created_at": "2025-06-11T09:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T10:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932738791300870506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhtJwSlb8I",
+              "end": 53,
+              "expanded_url": "https://x.com/Longlinlon/status/1932738791300870506/photo/1",
+              "media_key": "3_1932738783520432128",
+              "start": 30,
+              "url": "https://t.co/VhtJwSlb8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932738791300870506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂一个对家解，我亲友居然还有人跟他互fo，别让我发现是谁哈 https://t.co/VhtJwSlb8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2434,
+          "like_count": 208413,
+          "listed_count": 7,
+          "media_count": 1211,
+          "tweet_count": 13729
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

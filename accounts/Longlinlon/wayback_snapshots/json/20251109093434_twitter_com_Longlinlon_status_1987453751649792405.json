@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1987453680262828032"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1987453751649792405",
+    "created_at": "2025-11-09T09:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987453751649792405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WJL8hXRZQ",
+          "end": 23,
+          "expanded_url": "https://x.com/Longlinlon/status/1987453751649792405/video/1",
+          "media_key": "7_1987453680262828032",
+          "start": 0,
+          "url": "https://t.co/3WJL8hXRZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987453751649792405",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/3WJL8hXRZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10092,
+        "height": 1234,
+        "media_key": "7_1987453680262828032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1987453680262828032/pu/img/TwG-MSfcM4vjlb1b.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987453680262828032/pu/vid/avc1/320x548/n7l5r8jKLQxEtxk9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987453680262828032/pu/vid/avc1/480x822/PXIyIHGfac1BVe2x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987453680262828032/pu/vid/avc1/720x1234/_OvOcKMV_R8tWvw6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1987453680262828032/pu/pl/xu1iNETjlRgvte1J.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1987453680262828032"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1987453751649792405",
+        "created_at": "2025-11-09T09:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987453751649792405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WJL8hXRZQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Longlinlon/status/1987453751649792405/video/1",
+              "media_key": "7_1987453680262828032",
+              "start": 0,
+              "url": "https://t.co/3WJL8hXRZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987453751649792405",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3WJL8hXRZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2501,
+          "like_count": 213462,
+          "listed_count": 9,
+          "media_count": 1351,
+          "tweet_count": 14485
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

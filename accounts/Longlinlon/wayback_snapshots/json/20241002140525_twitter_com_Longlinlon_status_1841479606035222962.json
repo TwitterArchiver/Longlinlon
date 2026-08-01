@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1841479606035222962",
+    "created_at": "2024-10-02T14:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T15:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841479606035222962"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1841479606035222962",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凭什么我的游戏搭子她的友情保质期就两个月呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1841479606035222962",
+        "created_at": "2024-10-02T14:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T15:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841479606035222962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841479606035222962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么我的游戏搭子她的友情保质期就两个月呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2221,
+          "like_count": 176872,
+          "listed_count": 8,
+          "tweet_count": 11580
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

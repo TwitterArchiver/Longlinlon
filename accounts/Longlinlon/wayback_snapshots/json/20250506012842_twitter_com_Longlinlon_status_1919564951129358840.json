@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226217760722946",
+          "name": "Independiente del Valle"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226217760722946",
+          "name": "Independiente del Valle"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1919564951129358840",
+    "created_at": "2025-05-06T01:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T02:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919564951129358840"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "idv"
+        },
+        {
+          "end": 85,
+          "start": 77,
+          "tag": "ZETAWIN"
+        },
+        {
+          "end": 100,
+          "start": 86,
+          "tag": "COAVIII観戦スポット"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/_Mizutani__/st…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/_Mizutani__/status/1919299076144652436",
+          "start": 101,
+          "url": "https://t.co/ejYcrWjjif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919564951129358840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919299076144652436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "五一假期全用来看coa8了，回寝室的路上看到小情侣散步有点羡慕。但是一想到他们多半不知道这个世界还有001这回事，我那颗释然的心就嫉妒又自卑了。#idv #ZETAWIN #COAVIII観戦スポット https://t.co/ejYcrWjjif"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226217760722946",
+              "name": "Independiente del Valle"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226217760722946",
+              "name": "Independiente del Valle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1919564951129358840",
+        "created_at": "2025-05-06T01:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T02:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919564951129358840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "idv"
+            },
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "ZETAWIN"
+            },
+            {
+              "end": 100,
+              "start": 86,
+              "tag": "COAVIII観戦スポット"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/_Mizutani__/st…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/_Mizutani__/status/1919299076144652436",
+              "start": 101,
+              "url": "https://t.co/ejYcrWjjif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919564951129358840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919299076144652436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五一假期全用来看coa8了，回寝室的路上看到小情侣散步有点羡慕。但是一想到他们多半不知道这个世界还有001这回事，我那颗释然的心就嫉妒又自卑了。#idv #ZETAWIN #COAVIII観戦スポット https://t.co/ejYcrWjjif"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717730668179054592",
+        "conversation_id": "1919299076144652436",
+        "created_at": "2025-05-05T07:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919299076144652436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "黑格尔"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "绝对精神"
+            },
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "geist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919299076144652436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3835,
+          "like_count": 70,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "五一假期全用来看黑格尔了，回寝室的路上看到小情侣散步有点羡慕。但是一想到他们多半不知道这个世界还有绝对精神这回事，我那颗嫉妒又自卑的心就释然了。#黑格尔 #绝对精神 #geist"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2400,
+          "like_count": 204396,
+          "listed_count": 9,
+          "media_count": 1188,
+          "tweet_count": 13546
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T02:31:50.000Z",
+        "description": "我有失语症/被无意义包围",
+        "id": "1717730668179054592",
+        "name": "霧雨rcds",
+        "pinned_tweet_id": "1915674868416205174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917575649293918212/JGHmfkoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 275,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 506
+        },
+        "username": "_Mizutani__",
+        "verified": false
+      }
+    ]
+  }
+}

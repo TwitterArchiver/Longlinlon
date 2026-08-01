@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1806321164429783143",
+    "created_at": "2024-06-27T13:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T14:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806321164429783143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677252589182943232",
+          "start": 3,
+          "username": "Hikari2304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806321164429783143",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806301481144123814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikari2304: 你说得对，但这就是城中村，民工和厂妹相爱的地方，精神小伙和小太妹的希望之乡，河南人的应许之地\n这里的人有一种没有受过知识污染的淳朴，人均二孩三孩焕发生机与活力 ，农村妹眼里闪烁的是对美好生活的向往——啊，太美丽了\n祝你下辈子一定出生在城中村"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1806321164429783143",
+        "created_at": "2024-06-27T13:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T14:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806321164429783143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677252589182943232",
+              "start": 3,
+              "username": "Hikari2304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806321164429783143",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806301481144123814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hikari2304: 你说得对，但这就是城中村，民工和厂妹相爱的地方，精神小伙和小太妹的希望之乡，河南人的应许之地\n这里的人有一种没有受过知识污染的淳朴，人均二孩三孩焕发生机与活力 ，农村妹眼里闪烁的是对美好生活的向往——啊，太美丽了\n祝你下辈子一定出生在城中村"
+      },
+      {
+        "attachments": {},
+        "author_id": "1677252589182943232",
+        "conversation_id": "1806301481144123814",
+        "created_at": "2024-06-27T12:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806301481144123814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806301481144123814",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你说得对，但这就是城中村，民工和厂妹相爱的地方，精神小伙和小太妹的希望之乡，河南人的应许之地\n这里的人有一种没有受过知识污染的淳朴，人均二孩三孩焕发生机与活力 ，农村妹眼里闪烁的是对美好生活的向往——啊，太美丽了\n祝你下辈子一定出生在城中村"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 2018,
+          "like_count": 145157,
+          "listed_count": 10,
+          "tweet_count": 10258
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "一个飞舞",
+        "id": "1677252589182943232",
+        "name": ".",
+        "pinned_tweet_id": "1788856385775849606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 607,
+          "like_count": 23752,
+          "listed_count": 6,
+          "tweet_count": 5584
+        },
+        "username": "Hikari2304",
+        "verified": false
+      }
+    ]
+  }
+}

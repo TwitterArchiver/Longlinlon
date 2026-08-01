@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1941342742946382015",
+    "created_at": "2025-07-05T03:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T04:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941342742946382015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/jianlvup/status/1941122406174826794",
+          "start": 14,
+          "url": "https://t.co/n1xN7zXDhW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941342742946382015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941122406174826794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "广州能上榜还是外地佬太多了 https://t.co/n1xN7zXDhW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1865,
+        "media_key": "3_1941122374763425792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvBAg-1WMAAxxlV.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1941342742946382015",
+        "created_at": "2025-07-05T03:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T04:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941342742946382015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jianlvup/status/1941122406174826794",
+              "start": 14,
+              "url": "https://t.co/n1xN7zXDhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941342742946382015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941122406174826794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广州能上榜还是外地佬太多了 https://t.co/n1xN7zXDhW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941122374763425792"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1941122406174826794",
+        "created_at": "2025-07-04T13:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941122406174826794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/anoW3tqHkx",
+              "end": 45,
+              "expanded_url": "https://x.com/jianlvup/status/1941122406174826794/photo/1",
+              "media_key": "3_1941122374763425792",
+              "start": 22,
+              "url": "https://t.co/anoW3tqHkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941122406174826794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1717,
+          "like_count": 15,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国十大美食荒漠城市投票排名\n大家认同吗？ https://t.co/anoW3tqHkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2468,
+          "like_count": 210975,
+          "listed_count": 7,
+          "media_count": 1233,
+          "tweet_count": 13904
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1940694141748629600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328,
+          "following_count": 972,
+          "like_count": 21327,
+          "listed_count": 10,
+          "media_count": 837,
+          "tweet_count": 2037
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

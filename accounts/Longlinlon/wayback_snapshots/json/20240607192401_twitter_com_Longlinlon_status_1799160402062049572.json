@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799160402062049572",
+    "created_at": "2024-06-07T19:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T20:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799160402062049572"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1799160402062049572",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求强制关机教程求立马睡着教程求不做噩梦教程求眼前不会突然冒出鬼图幻觉教程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799160402062049572",
+        "created_at": "2024-06-07T19:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T20:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799160402062049572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799160402062049572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求强制关机教程求立马睡着教程求不做噩梦教程求眼前不会突然冒出鬼图幻觉教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1993,
+          "like_count": 137981,
+          "listed_count": 9,
+          "tweet_count": 9917
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

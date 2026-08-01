@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1815583943275753897",
+    "created_at": "2024-07-23T03:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T04:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815583943275753897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1754871332091682817",
+          "start": 3,
+          "username": "snake_lesyeux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815583943275753897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815496561251754433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snake_lesyeux: 自介\n蛇瞳 04 性别为x  adhd 双相\n账号内容包括 自残 负能 吸毒\n女权主义者 支持平权 \n愿意做你的树洞 我会很努力倾听\n如果您钱多到没处花 可以给我八十八"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1815583943275753897",
+        "created_at": "2024-07-23T03:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T04:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815583943275753897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1754871332091682817",
+              "start": 3,
+              "username": "snake_lesyeux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815583943275753897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815496561251754433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snake_lesyeux: 自介\n蛇瞳 04 性别为x  adhd 双相\n账号内容包括 自残 负能 吸毒\n女权主义者 支持平权 \n愿意做你的树洞 我会很努力倾听\n如果您钱多到没处花 可以给我八十八"
+      },
+      {
+        "attachments": {},
+        "author_id": "1754871332091682817",
+        "conversation_id": "1815496561251754433",
+        "created_at": "2024-07-22T21:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T22:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815496561251754433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815496561251754433",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n蛇瞳 04 性别为x  adhd 双相\n账号内容包括 自残 负能 吸毒\n女权主义者 支持平权 \n愿意做你的树洞 我会很努力倾听\n如果您钱多到没处花 可以给我八十八"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 2133,
+          "like_count": 161280,
+          "listed_count": 10,
+          "tweet_count": 10670
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:15:12.000Z",
+        "description": "将死者，不爱人。",
+        "id": "1754871332091682817",
+        "name": "蛇瞳",
+        "pinned_tweet_id": "1815496561251754433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815478737212932096/oO6rsR8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 575,
+          "like_count": 19178,
+          "listed_count": 0,
+          "tweet_count": 1254
+        },
+        "username": "snake_lesyeux",
+        "verified": false
+      }
+    ]
+  }
+}

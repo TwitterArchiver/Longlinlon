@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1959599405365072192",
+    "created_at": "2025-08-24T12:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T13:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959599405365072192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1959598928523079777",
+          "start": 19,
+          "url": "https://t.co/uq7H63c9Hk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959599405365072192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959598928523079777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次是东玄这次是桃晚安我真的一直在哭 https://t.co/uq7H63c9Hk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1959599405365072192",
+        "created_at": "2025-08-24T12:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959599405365072192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1959598928523079777",
+              "start": 19,
+              "url": "https://t.co/uq7H63c9Hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959599405365072192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959598928523079777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次是东玄这次是桃晚安我真的一直在哭 https://t.co/uq7H63c9Hk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1959598928523079777",
+        "created_at": "2025-08-24T12:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959598928523079777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959598928523079777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭我一直在哭上次输掉唯一不该抗住压的一局是21夏抖现在是你微博我不想在看一年狼队了，季后赛的空调过客回忆桃晚安捏捏哪个配不上冠军我真的抑郁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2509,
+          "like_count": 215018,
+          "listed_count": 8,
+          "media_count": 1287,
+          "tweet_count": 14227
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

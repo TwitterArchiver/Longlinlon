@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "2041352972442206599",
+    "created_at": "2026-04-07T03:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T04:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041352972442206599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oycxym/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/oycxym/status/2041060293699346610",
+          "start": 13,
+          "url": "https://t.co/cMHGDymGcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041352972442206599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041060293699346610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第五人格最不烈性的女主播 https://t.co/cMHGDymGcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47863,
+        "height": 318,
+        "media_key": "13_2041060225957208064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041060225957208064/img/gxxh_kvfYFDVQH8O.jpg",
+        "public_metrics": {
+          "view_count": 80902
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041060225957208064/vid/avc1/488x270/aoVSl9zZE_OYoGMv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041060225957208064/vid/avc1/576x318/6E-9k_li4W_WDI3_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041060225957208064/pl/iRujUHddHPkUUtxT.m3u8?v=bc7"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2041352972442206599",
+        "created_at": "2026-04-07T03:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041352972442206599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oycxym/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/oycxym/status/2041060293699346610",
+              "start": 13,
+              "url": "https://t.co/cMHGDymGcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041352972442206599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041060293699346610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第五人格最不烈性的女主播 https://t.co/cMHGDymGcB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041060225957208064"
+          ]
+        },
+        "author_id": "1479783918006341633",
+        "conversation_id": "2041060293699346610",
+        "created_at": "2026-04-06T07:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041060293699346610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0YAFbKkCl",
+              "end": 46,
+              "expanded_url": "https://x.com/oycxym/status/2041060293699346610/video/1",
+              "media_key": "13_2041060225957208064",
+              "start": 23,
+              "url": "https://t.co/A0YAFbKkCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041060293699346610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 412,
+          "impression_count": 193558,
+          "like_count": 2716,
+          "quote_count": 114,
+          "reply_count": 11,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "煽りやばいWWWWWWWWWこの人本当に好き https://t.co/A0YAFbKkCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2553,
+          "like_count": 207541,
+          "listed_count": 8,
+          "media_count": 1387,
+          "tweet_count": 14805
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T11:55:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/hams2chu?s=21",
+                "end": 23,
+                "expanded_url": "http://x.com/hams2chu?s=21",
+                "start": 0,
+                "url": "https://t.co/qwcVmJLn1k"
+              }
+            ]
+          }
+        },
+        "id": "1479783918006341633",
+        "location": "🗝️",
+        "name": "たん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037009565833977860/-4Ue2ZXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 37,
+          "like_count": 6239,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 2748
+        },
+        "url": "https://t.co/qwcVmJLn1k",
+        "username": "oycxym",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1834922558589923649",
+    "created_at": "2024-09-14T11:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T12:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834922558589923649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/l4824112951562…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/l4824112951562/status/1832424175627309225",
+          "start": 15,
+          "url": "https://t.co/nRHVeobcQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834922558589923649",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832424175627309225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "14岁为了追暗恋哥疯狂读左经 https://t.co/nRHVeobcQB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1834922558589923649",
+        "created_at": "2024-09-14T11:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T12:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834922558589923649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l4824112951562…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/l4824112951562/status/1832424175627309225",
+              "start": 15,
+              "url": "https://t.co/nRHVeobcQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834922558589923649",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832424175627309225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14岁为了追暗恋哥疯狂读左经 https://t.co/nRHVeobcQB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649338568635207682",
+        "conversation_id": "1832424175627309225",
+        "created_at": "2024-09-07T14:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T15:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832424175627309225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832424175627309225",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 348167,
+          "like_count": 731,
+          "quote_count": 47,
+          "reply_count": 555,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我14岁在操逼 你们14岁在干什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 2219,
+          "like_count": 175145,
+          "listed_count": 10,
+          "tweet_count": 11341
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T09:05:43.000Z",
+        "description": "@qin_wan91922",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "qin_wan91922"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/merajichan?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/merajichan?igsh=MWxjbnVzeWkxNWpiMQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/SFk2W3YJZe"
+              }
+            ]
+          }
+        },
+        "id": "1649338568635207682",
+        "location": "🪼",
+        "name": "めらじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834578245813178368/Uu2b50cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 291,
+          "like_count": 5828,
+          "listed_count": 2,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/SFk2W3YJZe",
+        "username": "l4824112951562",
+        "verified": false
+      }
+    ]
+  }
+}

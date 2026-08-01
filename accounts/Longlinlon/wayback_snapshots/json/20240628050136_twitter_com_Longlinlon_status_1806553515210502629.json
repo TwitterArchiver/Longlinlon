@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1806553515210502629",
+    "created_at": "2024-06-28T05:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T06:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806553515210502629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiand33/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/qiand33/status/1806317833699168261",
+          "start": 15,
+          "url": "https://t.co/lSyi2lzTwf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806553515210502629",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806317833699168261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在于中国特色奇异搞笑人情世故 https://t.co/lSyi2lzTwf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1806553515210502629",
+        "created_at": "2024-06-28T05:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T06:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806553515210502629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiand33/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/qiand33/status/1806317833699168261",
+              "start": 15,
+              "url": "https://t.co/lSyi2lzTwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806553515210502629",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806317833699168261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在于中国特色奇异搞笑人情世故 https://t.co/lSyi2lzTwf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806317832193335296"
+          ]
+        },
+        "author_id": "1660343948945006593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1806317833699168261",
+        "created_at": "2024-06-27T13:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T14:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806317833699168261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ks3ovLnMbK",
+              "end": 30,
+              "expanded_url": "https://twitter.com/qiand33/status/1806317833699168261/photo/1",
+              "media_key": "3_1806317832193335296",
+              "start": 7,
+              "url": "https://t.co/Ks3ovLnMbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806317833699168261",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2114,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "笑點在哪裡？ https://t.co/Ks3ovLnMbK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 2016,
+          "like_count": 145501,
+          "listed_count": 10,
+          "tweet_count": 10270
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T17:57:15.000Z",
+        "description": "愿生活如清泉，永流不息。希望生活能更甜一些，苦涩消逝。愿關係如同在星轨上的星星，愿我們永远在一起。永远爱与相信@kafei684134 和 @KawaiiSmolChino\n來自香港, 小学中文水平, 星粉(三星愛好者)背景 @tabo127238 taboo老师画的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "kafei684134"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "KawaiiSmolChino"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "tabo127238"
+              }
+            ]
+          }
+        },
+        "id": "1660343948945006593",
+        "location": "在你这里",
+        "name": "千晴🇭🇰",
+        "pinned_tweet_id": "1801467490318344532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803242016379224064/TfEuqfaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 247,
+          "like_count": 11981,
+          "listed_count": 2,
+          "tweet_count": 6997
+        },
+        "username": "qiand33",
+        "verified": false
+      }
+    ]
+  }
+}

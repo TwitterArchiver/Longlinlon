@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1992915938073804906",
+    "created_at": "2025-11-24T11:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T12:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992921497833451688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992921497833451688",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992915938073804906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 闺蜜帮我p图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1992915938073804906",
+        "created_at": "2025-11-24T11:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992921497833451688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992921497833451688",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992915938073804906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 闺蜜帮我p图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844290406391103488",
+        "conversation_id": "1992915938073804906",
+        "created_at": "2025-11-24T11:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992915938073804906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992915938073804906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是变好看了 我是批图技术变高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2497,
+          "like_count": 212342,
+          "listed_count": 9,
+          "media_count": 1360,
+          "tweet_count": 14531
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@FoxGod__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "FoxGod__"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992755842752409600/4HDswr6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 271,
+          "like_count": 1970,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 3474
+        },
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

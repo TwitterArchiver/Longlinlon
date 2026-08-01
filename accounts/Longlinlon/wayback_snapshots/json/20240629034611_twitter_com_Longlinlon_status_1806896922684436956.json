@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1800814169463374091",
+    "created_at": "2024-06-29T03:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T04:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806896922684436956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1478438832404000769",
+          "start": 0,
+          "username": "InnocentErinLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806896922684436956",
+    "in_reply_to_user_id": "1478438832404000769",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800814169463374091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InnocentErinLin 可怜宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1800814169463374091",
+        "created_at": "2024-06-29T03:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T04:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806896922684436956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1478438832404000769",
+              "start": 0,
+              "username": "InnocentErinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806896922684436956",
+        "in_reply_to_user_id": "1478438832404000769",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800814169463374091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InnocentErinLin 可怜宝宝"
+      },
+      {
+        "attachments": {},
+        "author_id": "1478438832404000769",
+        "conversation_id": "1800814169463374091",
+        "created_at": "2024-06-12T08:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T09:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800814169463374091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800814169463374091",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆了父母的金币，读了个烂学校，书没读好，喜欢的人也被别人谈了，从来没被坚定的选择过，好人没当成坏人也没当彻底，长得也不太行，还总是幻想自己是爽文男主，可一旦回归到现实当中，不敢和女生说话就算了，看见喜欢的女孩子也只会口嗨两句，在朋友面前像个神经病，一个人的时候就会躲在被窝emo。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 2020,
+          "like_count": 146043,
+          "listed_count": 10,
+          "tweet_count": 10290
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T18:51:11.000Z",
+        "description": "Innocent Erin! studying as a college student. Rhythm game!(Chunithm, Maimai, Cytus2) Blue Archive! Genshin! Occasionally, daily life here!",
+        "id": "1478438832404000769",
+        "name": "Erin",
+        "pinned_tweet_id": "1761457731347833204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771979713957015552/3CWBYCtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 371,
+          "like_count": 12424,
+          "listed_count": 0,
+          "tweet_count": 1618
+        },
+        "username": "InnocentErinLin",
+        "verified": false
+      }
+    ]
+  }
+}

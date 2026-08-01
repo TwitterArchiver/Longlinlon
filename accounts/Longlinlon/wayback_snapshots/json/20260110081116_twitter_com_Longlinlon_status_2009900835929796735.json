@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2009900835929796735",
+    "created_at": "2026-01-10T08:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T09:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009900835929796735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Edward_8964/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Edward_8964/status/2009319045980672302",
+          "start": 4,
+          "url": "https://t.co/6bdKQp8mEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009900835929796735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009319045980672302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓晕了 https://t.co/6bdKQp8mEF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2009900835929796735",
+        "created_at": "2026-01-10T08:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T09:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009900835929796735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Edward_8964/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Edward_8964/status/2009319045980672302",
+              "start": 4,
+              "url": "https://t.co/6bdKQp8mEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009900835929796735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009319045980672302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓晕了 https://t.co/6bdKQp8mEF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "2009319045980672302",
+        "created_at": "2026-01-08T17:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009319045980672302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/edward_8964/status/2009314474378055858",
+              "start": 26,
+              "url": "https://t.co/iuZU6WxGU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009319045980672302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5329,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009314474378055858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以说，杭州这一块，我想检查哪一户用电安全随便选 https://t.co/iuZU6WxGU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2497,
+          "like_count": 210824,
+          "listed_count": 9,
+          "media_count": 1369,
+          "tweet_count": 14627
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎/前FOW参与者/前FOW网页端维护者/退役OIer转ODer/ADHD/精神疾病/生存、梦想、进取/不盈利不卖药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/LISkhFoXg7"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "红船上的炸弹旁",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2009250869104066611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008623613470273536/BFTxYY73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 754,
+          "like_count": 8451,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 5316
+        },
+        "url": "https://t.co/LISkhFoXg7",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1903477490359677298",
+    "created_at": "2025-03-22T17:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T18:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903499438662000962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillTokiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903499438662000962",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903477490359677298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillTokiyuki 米米嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10300,
+        "height": 1280,
+        "media_key": "13_1903476989119381504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1903476989119381504/img/3O2CHNWOIeobVVWJ.jpg",
+        "public_metrics": {
+          "view_count": 141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903476989119381504/vid/avc1/320x568/xe5heL3LQIjRUV0Q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903476989119381504/vid/avc1/480x852/AEmphNPdUIeBx5EQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903476989119381504/vid/avc1/720x1280/T2lN06Q_kVIgTsPj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1903476989119381504/pl/F2UymjHa_ewui7j4.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 37306,
+        "height": 1280,
+        "media_key": "13_1903476989266427904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1903476989266427904/img/6doYInYjacE-UmX9.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903476989266427904/vid/avc1/320x568/1UOcgtt7VljcM0u6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903476989266427904/vid/avc1/480x852/HeKZHAjfjnhjj5FK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1903476989266427904/vid/avc1/720x1280/HyEm9nl0ezad3Kad.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1903476989266427904/pl/P-nEQgwmQgkHK6l8.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1903476989102641153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmqCPI2X0AEP6fi.jpg",
+        "width": 768
+      },
+      {
+        "height": 1180,
+        "media_key": "16_1903476989119385600",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GmqCPI6XUAA2eyT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GmqCPI6XUAA2eyT.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1903477490359677298",
+        "created_at": "2025-03-22T17:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T18:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903499438662000962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903499438662000962",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903477490359677298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillTokiyuki 米米嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1903476989119381504",
+            "13_1903476989266427904",
+            "3_1903476989102641153",
+            "16_1903476989119385600"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1903477490359677298",
+        "created_at": "2025-03-22T16:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T17:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903477490359677298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaBVGZa1Hs",
+              "end": 23,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1903477490359677298/video/1",
+              "media_key": "13_1903476989119381504",
+              "start": 0,
+              "url": "https://t.co/HaBVGZa1Hs"
+            },
+            {
+              "display_url": "pic.x.com/HaBVGZa1Hs",
+              "end": 23,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1903477490359677298/video/1",
+              "media_key": "13_1903476989266427904",
+              "start": 0,
+              "url": "https://t.co/HaBVGZa1Hs"
+            },
+            {
+              "display_url": "pic.x.com/HaBVGZa1Hs",
+              "end": 23,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1903477490359677298/video/1",
+              "media_key": "3_1903476989102641153",
+              "start": 0,
+              "url": "https://t.co/HaBVGZa1Hs"
+            },
+            {
+              "display_url": "pic.x.com/HaBVGZa1Hs",
+              "end": 23,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1903477490359677298/video/1",
+              "media_key": "16_1903476989119385600",
+              "start": 0,
+              "url": "https://t.co/HaBVGZa1Hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903477490359677298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 434,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HaBVGZa1Hs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 2356,
+          "like_count": 200443,
+          "listed_count": 9,
+          "media_count": 1154,
+          "tweet_count": 13238
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我喜歡你 就像魚兒不能離開水那樣喜歡著你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "不☆死",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903159507162640384/Q30iPMED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4303,
+          "following_count": 1206,
+          "like_count": 22878,
+          "listed_count": 12,
+          "media_count": 116,
+          "tweet_count": 550
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillTokiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2010700126520750278",
+    "created_at": "2026-01-12T13:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T14:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010700126520750278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/piropiron1026/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/piropiron1026/status/2010291464300110177",
+          "start": 11,
+          "url": "https://t.co/5Li4sI8VUY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010700126520750278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010291464300110177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的超级英雄在哪领。 https://t.co/5Li4sI8VUY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2435,
+        "media_key": "3_2010291435975921664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-X9aPha0AAxwNN.jpg",
+        "width": 1722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2010700126520750278",
+        "created_at": "2026-01-12T13:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T14:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010700126520750278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/piropiron1026/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/piropiron1026/status/2010291464300110177",
+              "start": 11,
+              "url": "https://t.co/5Li4sI8VUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010700126520750278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010291464300110177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的超级英雄在哪领。 https://t.co/5Li4sI8VUY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010291435975921664"
+          ]
+        },
+        "author_id": "1266945720222838786",
+        "conversation_id": "2010291464300110177",
+        "created_at": "2026-01-11T10:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T11:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010291464300110177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p65wuOrJTd",
+              "end": 74,
+              "expanded_url": "https://x.com/piropiron1026/status/2010291464300110177/photo/1",
+              "media_key": "3_2010291435975921664",
+              "start": 51,
+              "url": "https://t.co/p65wuOrJTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010291464300110177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 31608,
+          "like_count": 3229,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "真っ赤な太陽 燃えてる限り、必ず眩しい朝が来る！夢と希望の明日を願う！折リジナル戦隊！オリガレッド！ https://t.co/p65wuOrJTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2497,
+          "like_count": 210821,
+          "listed_count": 9,
+          "media_count": 1369,
+          "tweet_count": 14643
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-31T04:13:04.000Z",
+        "description": "はいどうも。愛の力で絵を描いてます。ｵﾘｼﾞﾅﾙﾋｰﾛｰはﾊｲﾗｲﾄ欄【ご依頼等は→ piropiron1026@gmail.com】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33927651",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/33927651",
+                "start": 0,
+                "url": "https://t.co/jI0YmsLlaD"
+              }
+            ]
+          }
+        },
+        "id": "1266945720222838786",
+        "name": "ぴろぴろ",
+        "pinned_tweet_id": "1947235268680929493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949280143941468160/cpLw04Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7084,
+          "following_count": 662,
+          "like_count": 3805,
+          "listed_count": 26,
+          "media_count": 580,
+          "tweet_count": 2253
+        },
+        "url": "https://t.co/jI0YmsLlaD",
+        "username": "piropiron1026",
+        "verified": true
+      }
+    ]
+  }
+}

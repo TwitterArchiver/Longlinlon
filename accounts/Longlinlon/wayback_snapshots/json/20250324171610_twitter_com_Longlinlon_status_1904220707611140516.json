@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1904133901783806084",
+    "created_at": "2025-03-24T17:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T18:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904220707611140516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1292795033272213510",
+          "start": 0,
+          "username": "xuaning2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904220707611140516",
+    "in_reply_to_user_id": "1292795033272213510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904133901783806084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuaning2 换份工"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1904133901783806084",
+        "created_at": "2025-03-24T17:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T18:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904220707611140516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1292795033272213510",
+              "start": 0,
+              "username": "xuaning2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904220707611140516",
+        "in_reply_to_user_id": "1292795033272213510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904133901783806084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuaning2 换份工"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292795033272213510",
+        "conversation_id": "1904133901783806084",
+        "created_at": "2025-03-24T11:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T12:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904133901783806084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904133901783806084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 768,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天中午晚上跑了跑外卖四五个小时，0.7元一单，挣了才不到30块。光是吃饭和买水果都不够。我操，我真的崩溃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 2354,
+          "like_count": 200603,
+          "listed_count": 9,
+          "media_count": 1156,
+          "tweet_count": 13261
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T12:08:55.000Z",
+        "description": "170/50黑皮男娘一枚，无证含糖（2025.2.22开始吃药），喜欢打游戏（ow 第五人格 无畏契约）的可爱小狗，容貌焦虑身材焦虑钱包焦虑性别焦虑/\n过门私信不了的联系qq小号2405916913/立志成为w粉博主喵喵喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/malaxiaozi",
+                "end": 23,
+                "expanded_url": "http://t.me/malaxiaozi",
+                "start": 0,
+                "url": "https://t.co/BtW1jVJz72"
+              }
+            ]
+          }
+        },
+        "id": "1292795033272213510",
+        "location": "21🚪给我钱🏳️‍⚧️",
+        "name": "小蜘xiaozi",
+        "pinned_tweet_id": "1901252480769343634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903702453415186432/nX6aGMps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 339,
+          "like_count": 1613,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/BtW1jVJz72",
+        "username": "xuaning2",
+        "verified": false
+      }
+    ]
+  }
+}

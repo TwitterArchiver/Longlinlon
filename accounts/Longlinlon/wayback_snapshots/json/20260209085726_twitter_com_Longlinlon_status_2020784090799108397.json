@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020426927186866176"
+      ],
+      "media_source_tweet_id": [
+        "2020437700424397026"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "2020784090799108397",
+    "created_at": "2026-02-09T08:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020784090799108397"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ファイブさん",
+          "probability": 0.5166,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2437015428",
+          "start": 3,
+          "username": "otokam1117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAbRbNxhC7",
+          "end": 55,
+          "expanded_url": "https://x.com/otokam1117/status/2020437700424397026/photo/1",
+          "media_key": "3_2020426927186866176",
+          "start": 32,
+          "url": "https://t.co/wAbRbNxhC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020784090799108397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 518
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020437700424397026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otokam1117: ファイブさんかわいく思えてきた https://t.co/wAbRbNxhC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2020426927186866176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAn_lembcAA7Ost.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020426927186866176"
+          ],
+          "media_source_tweet_id": [
+            "2020437700424397026"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "2020784090799108397",
+        "created_at": "2026-02-09T08:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020784090799108397"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ファイブさん",
+              "probability": 0.5166,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2437015428",
+              "start": 3,
+              "username": "otokam1117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAbRbNxhC7",
+              "end": 55,
+              "expanded_url": "https://x.com/otokam1117/status/2020437700424397026/photo/1",
+              "media_key": "3_2020426927186866176",
+              "start": 32,
+              "url": "https://t.co/wAbRbNxhC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020784090799108397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 518
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020437700424397026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otokam1117: ファイブさんかわいく思えてきた https://t.co/wAbRbNxhC7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020426927186866176"
+          ]
+        },
+        "author_id": "2437015428",
+        "conversation_id": "2020437700424397026",
+        "created_at": "2026-02-08T10:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020437700424397026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAbRbNxhC7",
+              "end": 39,
+              "expanded_url": "https://x.com/otokam1117/status/2020437700424397026/photo/1",
+              "media_key": "3_2020426927186866176",
+              "start": 16,
+              "url": "https://t.co/wAbRbNxhC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020437700424397026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 65418,
+          "like_count": 3825,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "ファイブさんかわいく思えてきた https://t.co/wAbRbNxhC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 2544,
+          "like_count": 209715,
+          "listed_count": 9,
+          "media_count": 1378,
+          "tweet_count": 14714
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-10T13:26:34.000Z",
+        "description": "絵描き。AI学習禁止。無断転載禁止。転載発見の報告不要。巻き込みリプブロ解。攻撃的リプはブロック。クローン病。※R-18あり。 リクエスト→ https://t.co/vYK14yXkW2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@otokam1117",
+                "end": 94,
+                "expanded_url": "https://skeb.jp/@otokam1117",
+                "start": 71,
+                "url": "https://t.co/vYK14yXkW2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/otokamotes",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/otokamotes",
+                "start": 0,
+                "url": "https://t.co/wwxfYLtcFl"
+              }
+            ]
+          }
+        },
+        "id": "2437015428",
+        "location": "岩手県",
+        "name": "オトカム@依頼月5件まで",
+        "pinned_tweet_id": "2016892305329045639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626582692270833668/4AeEumsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54743,
+          "following_count": 457,
+          "like_count": 111095,
+          "listed_count": 373,
+          "media_count": 8735,
+          "tweet_count": 111267
+        },
+        "url": "https://t.co/wwxfYLtcFl",
+        "username": "otokam1117",
+        "verified": false
+      }
+    ]
+  }
+}

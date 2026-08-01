@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1936039490738700335",
+    "created_at": "2025-06-20T14:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T15:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936070988837658927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936070988837658927",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936039490738700335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 抱(づ′▽`)づ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1936039490738700335",
+        "created_at": "2025-06-20T14:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936070988837658927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936070988837658927",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936039490738700335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 抱(づ′▽`)づ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844290406391103488",
+        "conversation_id": "1936039490738700335",
+        "created_at": "2025-06-20T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936039490738700335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936039490738700335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拥抱我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 2445,
+          "like_count": 209908,
+          "listed_count": 8,
+          "media_count": 1222,
+          "tweet_count": 13819
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@KillTokiyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "KillTokiyuki"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935412494022922240/qCqdwfLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 273,
+          "like_count": 1839,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2633
+        },
+        "username": "qhqq114514",
+        "verified": false
+      }
+    ]
+  }
+}

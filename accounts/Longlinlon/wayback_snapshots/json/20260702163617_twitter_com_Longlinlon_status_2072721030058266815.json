@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2072721030058266815",
+    "created_at": "2026-07-02T16:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072721030058266815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1104313352384217088",
+          "start": 3,
+          "username": "S9mynnQLvM7NVKw"
+        },
+        {
+          "end": 28,
+          "id": "2027387008340119552",
+          "start": 21,
+          "username": "Qustsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072721030058266815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072512249957425383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S9mynnQLvM7NVKw: @Qustsm 说实话，还是闲的，有空呻吟不如看看自己钱包几个子儿，有钱就去做医美护理，没钱就好好搬砖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2072721030058266815",
+        "created_at": "2026-07-02T16:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072721030058266815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1104313352384217088",
+              "start": 3,
+              "username": "S9mynnQLvM7NVKw"
+            },
+            {
+              "end": 28,
+              "id": "2027387008340119552",
+              "start": 21,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072721030058266815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072512249957425383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S9mynnQLvM7NVKw: @Qustsm 说实话，还是闲的，有空呻吟不如看看自己钱包几个子儿，有钱就去做医美护理，没钱就好好搬砖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1104313352384217088",
+        "conversation_id": "2072385135295791503",
+        "created_at": "2026-07-02T02:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072512249957425383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2027387008340119552",
+              "start": 0,
+              "username": "Qustsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072512249957425383",
+        "in_reply_to_user_id": "2027387008340119552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1890,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072385135295791503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qustsm 说实话，还是闲的，有空呻吟不如看看自己钱包几个子儿，有钱就去做医美护理，没钱就好好搬砖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 2521,
+          "like_count": 206736,
+          "listed_count": 7,
+          "media_count": 1397,
+          "tweet_count": 14879
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-09T09:29:55.000Z",
+        "description": "184 85kg OvO",
+        "id": "1104313352384217088",
+        "location": "距离3.2km",
+        "name": "板烧鸡腿堡",
+        "pinned_tweet_id": "2020402386016281016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968304713478377472/RmlQgrux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11917,
+          "following_count": 428,
+          "like_count": 7989,
+          "listed_count": 31,
+          "media_count": 75,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "S9mynnQLvM7NVKw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T14:16:07.000Z",
+        "description": "我是拜金女",
+        "id": "2027387008340119552",
+        "location": "江苏",
+        "name": "Qu",
+        "pinned_tweet_id": "2048257696873451576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065842596681850880/aQoAsj6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3508,
+          "following_count": 0,
+          "like_count": 83,
+          "listed_count": 10,
+          "media_count": 50,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "Qustsm",
+        "verified": false
+      }
+    ]
+  }
+}

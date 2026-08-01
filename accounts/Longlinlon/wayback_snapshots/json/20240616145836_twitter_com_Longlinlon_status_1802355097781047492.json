@@ -1,0 +1,260 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1802218800030646281",
+    "created_at": "2024-06-16T14:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T15:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802355097781047492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        },
+        {
+          "end": 24,
+          "id": "1613079089879076864",
+          "start": 17,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802355097781047492",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802343529915826375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba @Cldeop 啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1802218800030646281",
+        "created_at": "2024-06-16T14:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T15:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802355097781047492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            },
+            {
+              "end": 24,
+              "id": "1613079089879076864",
+              "start": 17,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802355097781047492",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802343529915826375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba @Cldeop 啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "conversation_id": "1802218800030646281",
+        "created_at": "2024-06-16T14:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T15:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802343529915826375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 19,
+              "id": "1596416860752207872",
+              "start": 8,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802343529915826375",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802218800030646281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @Longlinlon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 1988,
+          "like_count": 139479,
+          "listed_count": 10,
+          "tweet_count": 10081
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "♥️@Longlinlon♥️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Longlinlon"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "name": "💮OPPO A5🌸🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785425479622967296/BwmA3PV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 4452,
+          "like_count": 58121,
+          "listed_count": 10,
+          "tweet_count": 19194
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ACldJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/oRLDNvSezp"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1799437135747125690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20338,
+          "following_count": 435,
+          "like_count": 13903,
+          "listed_count": 91,
+          "tweet_count": 5287
+        },
+        "url": "https://t.co/oRLDNvSezp",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

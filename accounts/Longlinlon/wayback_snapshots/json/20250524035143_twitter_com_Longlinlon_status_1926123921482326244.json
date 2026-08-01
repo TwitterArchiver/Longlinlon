@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1926119668277788881",
+    "created_at": "2025-05-24T03:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T04:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926123921482326244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillTokiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926123921482326244",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926119668277788881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillTokiyuki 主播主播右边那个哈基人怎么抢你镜头了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1926119648291930113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrrznXdXQAE5DRI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1926119668277788881",
+        "created_at": "2025-05-24T03:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T04:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926123921482326244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926123921482326244",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926119668277788881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillTokiyuki 主播主播右边那个哈基人怎么抢你镜头了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926119648291930113"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1926119668277788881",
+        "created_at": "2025-05-24T03:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T04:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926119668277788881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pNNHY9KwV",
+              "end": 29,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1926119668277788881/photo/1",
+              "media_key": "3_1926119648291930113",
+              "start": 6,
+              "url": "https://t.co/0pNNHY9KwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926119668277788881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位中午好 https://t.co/0pNNHY9KwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2426,
+          "like_count": 206575,
+          "listed_count": 8,
+          "media_count": 1195,
+          "tweet_count": 13617
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "people like you don't deserve to live.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "DIE!! ★ TOKIYUKI",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922519967917867008/kr2F9O3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 1277,
+          "like_count": 26053,
+          "listed_count": 13,
+          "media_count": 153,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillTokiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

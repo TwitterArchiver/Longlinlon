@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1949424971371147356",
+    "created_at": "2025-07-27T20:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T21:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949567906087625169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768429038098616320",
+          "start": 0,
+          "username": "zhndng439938553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949567906087625169",
+    "in_reply_to_user_id": "1768429038098616320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949424971371147356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhndng439938553 卧槽老师我一进来你主页就是😱🥺😭😣🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949424967655063553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2_rflbgAEuVx8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949424963464953856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2_rP-bgAA6W8h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1949424971371147356",
+        "created_at": "2025-07-27T20:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T21:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949567906087625169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768429038098616320",
+              "start": 0,
+              "username": "zhndng439938553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949567906087625169",
+        "in_reply_to_user_id": "1768429038098616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949424971371147356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhndng439938553 卧槽老师我一进来你主页就是😱🥺😭😣🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949424967655063553",
+            "3_1949424963464953856"
+          ]
+        },
+        "author_id": "1768429038098616320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949424971371147356",
+        "created_at": "2025-07-27T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949424971371147356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cp8Uf28MZD",
+              "end": 40,
+              "expanded_url": "https://x.com/zhndng439938553/status/1949424971371147356/photo/1",
+              "media_key": "3_1949424967655063553",
+              "start": 17,
+              "url": "https://t.co/Cp8Uf28MZD"
+            },
+            {
+              "display_url": "pic.x.com/Cp8Uf28MZD",
+              "end": 40,
+              "expanded_url": "https://x.com/zhndng439938553/status/1949424971371147356/photo/1",
+              "media_key": "3_1949424963464953856",
+              "start": 17,
+              "url": "https://t.co/Cp8Uf28MZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949424971371147356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好的壁纸，使我的狂欢之椅飞起 https://t.co/Cp8Uf28MZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2483,
+          "like_count": 213457,
+          "listed_count": 7,
+          "media_count": 1255,
+          "tweet_count": 14077
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T00:08:54.000Z",
+        "description": "性别女，喜欢对赛博小动物发癫\n支持同性恋，支持男同女同支持四爱\n爱好总是变化多端，前一阵子喜欢女同，这一阵子更喜欢男同了，偶尔发点色图\n女角色的色图只发给女粉！不公开发布\n顺直男别来，直男也慎入，没有面向直男群体的东西",
+        "id": "1768429038098616320",
+        "name": "柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948430901479604225/DimY38xT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 13,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 9
+        },
+        "username": "zhndng439938553",
+        "verified": false
+      }
+    ]
+  }
+}

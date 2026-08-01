@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1791400047898460585",
+    "created_at": "2024-05-17T09:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T10:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791400047898460585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/citrus_404/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/citrus_404/status/1791399585593934265",
+          "start": 3,
+          "url": "https://t.co/3YP2djTp0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791400047898460585",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791399585593934265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/3YP2djTp0I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1791400047898460585",
+        "created_at": "2024-05-17T09:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T10:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791400047898460585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citrus_404/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/citrus_404/status/1791399585593934265",
+              "start": 3,
+              "url": "https://t.co/3YP2djTp0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791400047898460585",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791399585593934265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/3YP2djTp0I"
+      },
+      {
+        "attachments": {},
+        "author_id": "1492097874565468172",
+        "conversation_id": "1791399585593934265",
+        "created_at": "2024-05-17T09:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T10:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791399585593934265"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791399585593934265",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(哼起了愉快的小曲🎶)\n(跑调了)\n(用很大的声音掩盖过去)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1926,
+          "like_count": 127950,
+          "listed_count": 10,
+          "tweet_count": 9336
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:27:17.000Z",
+        "description": "请和我了解  | 中/日/英语可| 目标是创造只有初音未来的世界! | 在堆满过去的废土上免费提供拥抱 | 你的互联网精神庇护所 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/citrus_404",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/citrus_404",
+                "start": 0,
+                "url": "https://t.co/ry4JOLnb2e"
+              }
+            ]
+          }
+        },
+        "id": "1492097874565468172",
+        "location": "宛平南路600号",
+        "name": "Citrus🍉",
+        "pinned_tweet_id": "1753064413186183275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739220534372483072/bDcNLypR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19942,
+          "following_count": 222,
+          "like_count": 41444,
+          "listed_count": 60,
+          "tweet_count": 11675
+        },
+        "url": "https://t.co/ry4JOLnb2e",
+        "username": "citrus_404",
+        "verified": false
+      }
+    ]
+  }
+}

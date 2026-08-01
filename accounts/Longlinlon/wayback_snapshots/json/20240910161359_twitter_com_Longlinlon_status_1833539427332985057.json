@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1833539427332985057",
+    "created_at": "2024-09-10T16:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T17:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833539427332985057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1832910581101392258",
+          "start": 49,
+          "url": "https://t.co/g2VENt7ytV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833539427332985057",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832910581101392258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天哪一定要99🔒死啊😭😭😭😭😭😭你们不想买我都想买情侣手机壳给你们了一定要让他远嫁南宁让我看看呀 https://t.co/g2VENt7ytV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1833539427332985057",
+        "created_at": "2024-09-10T16:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T17:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833539427332985057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1832910581101392258",
+              "start": 49,
+              "url": "https://t.co/g2VENt7ytV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833539427332985057",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832910581101392258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天哪一定要99🔒死啊😭😭😭😭😭😭你们不想买我都想买情侣手机壳给你们了一定要让他远嫁南宁让我看看呀 https://t.co/g2VENt7ytV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1832910581101392258",
+        "created_at": "2024-09-08T22:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T23:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832910581101392258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1832818776775303179",
+              "start": 78,
+              "url": "https://t.co/zvfHHsuTd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832910581101392258",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1917,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832818776775303179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "操你爹的非要拉他来吗？？就非得让我阳台睡一晚脖子快断了才醒然后还跟我说没事反过来说我是不是吃醋了怎么朋友之间不能吃醋吗谁不希望自己是朋友心中的第一顺位啊？ https://t.co/zvfHHsuTd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 2219,
+          "like_count": 174574,
+          "listed_count": 10,
+          "tweet_count": 11287
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

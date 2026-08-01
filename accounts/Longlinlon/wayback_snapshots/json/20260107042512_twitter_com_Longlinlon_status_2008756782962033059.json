@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2008586423356846178",
+    "created_at": "2026-01-07T04:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008756782962033059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898537369428688896",
+          "start": 0,
+          "username": "Su2003ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008756782962033059",
+    "in_reply_to_user_id": "1898537369428688896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008586423356846178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Su2003ii 其实只是恨女然后鸡鸡又痒罢了，因为没法找顺女发淫秽信息所以只能对男娘发，男的闹麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2008586423356846178",
+        "created_at": "2026-01-07T04:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008756782962033059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898537369428688896",
+              "start": 0,
+              "username": "Su2003ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008756782962033059",
+        "in_reply_to_user_id": "1898537369428688896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008586423356846178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Su2003ii 其实只是恨女然后鸡鸡又痒罢了，因为没法找顺女发淫秽信息所以只能对男娘发，男的闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898537369428688896",
+        "conversation_id": "2008586423356846178",
+        "created_at": "2026-01-06T17:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008586423356846178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008586423356846178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 32837,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我一直搞不懂为什么很多男生喜欢男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2490,
+          "like_count": 210771,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14592
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T00:52:45.000Z",
+        "description": "试图了解我",
+        "id": "1898537369428688896",
+        "location": "🚪51",
+        "name": "苏苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898590148562157568/CWe39w3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79339,
+          "following_count": 11,
+          "like_count": 349,
+          "listed_count": 182,
+          "media_count": 252,
+          "tweet_count": 284
+        },
+        "username": "Su2003ii",
+        "verified": false
+      }
+    ]
+  }
+}

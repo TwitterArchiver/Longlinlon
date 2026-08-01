@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1788927527945433293",
+    "created_at": "2024-05-11T01:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T02:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789100948146749446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684856654779592704",
+          "start": 0,
+          "username": "duoduofuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789100948146749446",
+    "in_reply_to_user_id": "1684856654779592704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789023081639329902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduofuo 赛博高考移民真的很抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1788927527945433293",
+        "created_at": "2024-05-11T01:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T02:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789100948146749446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684856654779592704",
+              "start": 0,
+              "username": "duoduofuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789100948146749446",
+        "in_reply_to_user_id": "1684856654779592704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789023081639329902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduofuo 赛博高考移民真的很抽象"
+      },
+      {
+        "attachments": {},
+        "author_id": "1684856654779592704",
+        "conversation_id": "1788927527945433293",
+        "created_at": "2024-05-10T20:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T21:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789023081639329902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789023081639329902",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788927527945433293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 其实为了这种事情大吵大闹真的不至于"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @SaigyoujiSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "SaigyoujiSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 1863,
+          "like_count": 123141,
+          "listed_count": 10,
+          "tweet_count": 9009
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T09:21:55.000Z",
+        "description": "最开心的时候是在睡觉的时候",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mini1.cn/index",
+                "end": 23,
+                "expanded_url": "https://www.mini1.cn/index",
+                "start": 0,
+                "url": "https://t.co/ZXDX6AGu4d"
+              }
+            ]
+          }
+        },
+        "id": "1684856654779592704",
+        "location": "帕拉迪岛",
+        "name": "呕吐格瓦斯",
+        "pinned_tweet_id": "1783138479745925218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785586765576667136/V8qcRJ8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 560,
+          "like_count": 18781,
+          "listed_count": 5,
+          "tweet_count": 7565
+        },
+        "url": "https://t.co/ZXDX6AGu4d",
+        "username": "duoduofuo",
+        "verified": false
+      }
+    ]
+  }
+}

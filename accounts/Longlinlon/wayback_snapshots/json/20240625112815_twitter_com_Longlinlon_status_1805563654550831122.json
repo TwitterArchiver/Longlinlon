@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805563654550831122",
+    "created_at": "2024-06-25T11:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T12:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805563654550831122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/citrus_404/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/citrus_404/status/1805561183724093938",
+          "start": 20,
+          "url": "https://t.co/mp7xttpwgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805563654550831122",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805561183724093938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幸好现在就是臭底层，根本不怕保不住阶级 https://t.co/mp7xttpwgO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805563654550831122",
+        "created_at": "2024-06-25T11:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T12:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805563654550831122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citrus_404/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/citrus_404/status/1805561183724093938",
+              "start": 20,
+              "url": "https://t.co/mp7xttpwgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805563654550831122",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805561183724093938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幸好现在就是臭底层，根本不怕保不住阶级 https://t.co/mp7xttpwgO"
+      },
+      {
+        "attachments": {},
+        "author_id": "1492097874565468172",
+        "conversation_id": "1805561183724093938",
+        "created_at": "2024-06-25T11:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T12:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805561183724093938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805561183724093938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 409,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我挺好奇没找到工作的大家现在都在做什么。\n今年的应届生预计是1187万，硕博毕业生offer获得率为44.4%，本科生47.8%，相当于一半的应届生被消失了。\n换句话说高等教育作为普通人阶级跃迁的门已经渐渐关上，现在连能不能保住阶级都是个问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 2009,
+          "like_count": 143436,
+          "listed_count": 10,
+          "tweet_count": 10219
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:27:17.000Z",
+        "description": "请和我了解  | 中/日/英语可| 目标是创造只有初音未来的世界! | 在堆满过去的废土上免费提供拥抱 | 你的互联网精神庇护所 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/citrus_404",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/citrus_404",
+                "start": 0,
+                "url": "https://t.co/ry4JOLnb2e"
+              }
+            ]
+          }
+        },
+        "id": "1492097874565468172",
+        "location": "宛平南路600号",
+        "name": "Citrus🍉",
+        "pinned_tweet_id": "1753064413186183275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739220534372483072/bDcNLypR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20530,
+          "following_count": 217,
+          "like_count": 41331,
+          "listed_count": 57,
+          "tweet_count": 11827
+        },
+        "url": "https://t.co/ry4JOLnb2e",
+        "username": "citrus_404",
+        "verified": false
+      }
+    ]
+  }
+}

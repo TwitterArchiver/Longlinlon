@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1839577701264572598",
+    "created_at": "2024-09-28T08:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T09:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839938593269395497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1100050105426575364",
+          "start": 0,
+          "username": "RaccoonRockey"
+        },
+        {
+          "end": 22,
+          "id": "1742381695045939200",
+          "start": 15,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839938593269395497",
+    "in_reply_to_user_id": "1100050105426575364",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839899064776737111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaccoonRockey @mo6ji4 幽默富蛆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1839577701264572598",
+        "created_at": "2024-09-28T08:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T09:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839938593269395497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1100050105426575364",
+              "start": 0,
+              "username": "RaccoonRockey"
+            },
+            {
+              "end": 22,
+              "id": "1742381695045939200",
+              "start": 15,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839938593269395497",
+        "in_reply_to_user_id": "1100050105426575364",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839899064776737111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaccoonRockey @mo6ji4 幽默富蛆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100050105426575364",
+        "conversation_id": "1839577701264572598",
+        "created_at": "2024-09-28T05:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T06:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839899064776737111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839899064776737111",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839577701264572598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 出生在富有地区不是我们的错。\n但是你憎恨我们就是你的罪。原罪。\n有人把这称为支。\n其实是jealous."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 2214,
+          "like_count": 176350,
+          "listed_count": 9,
+          "tweet_count": 11499
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-25T15:09:17.000Z",
+        "description": "It's all right to be scared. \nRemember, \nthere's no courage without fear.",
+        "id": "1100050105426575364",
+        "name": "Groot",
+        "pinned_tweet_id": "1729479852955476252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712984518968414208/snc_r3d9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 316,
+          "like_count": 1056,
+          "listed_count": 1,
+          "tweet_count": 2271
+        },
+        "username": "RaccoonRockey",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n是公用肉便器 是@mingnaisama 的飞机杯好厚米@zhao_remake \n防失联小号@m8o9j6i4 妈妈@cang_lan3667 妈妈@azusaROCtw 亲爱的@miku_suki393939 主人@35zf_out \n严重玻璃心自卑仇富",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "zhao_remake"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "cang_lan3667"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "35zf_out"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德",
+        "pinned_tweet_id": "1832885713286951270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 821,
+          "like_count": 81127,
+          "listed_count": 1,
+          "tweet_count": 14564
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

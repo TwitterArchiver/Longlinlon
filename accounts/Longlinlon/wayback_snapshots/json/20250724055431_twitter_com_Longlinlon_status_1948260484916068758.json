@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1948110949870977334",
+    "created_at": "2025-07-24T05:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T06:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948260484916068758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263368268103860227",
+          "start": 0,
+          "username": "kano_258025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948260484916068758",
+    "in_reply_to_user_id": "1263368268103860227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948128701859635583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kano_258025 最近排位打太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1948110949870977334",
+        "created_at": "2025-07-24T05:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T06:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948260484916068758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263368268103860227",
+              "start": 0,
+              "username": "kano_258025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948260484916068758",
+        "in_reply_to_user_id": "1263368268103860227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948128701859635583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kano_258025 最近排位打太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263368268103860227",
+        "conversation_id": "1948110949870977334",
+        "created_at": "2025-07-23T21:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T22:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948128701859635583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948128701859635583",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948110949870977334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 后面怎么越来越第五人格口音了（脑子里想起了死母狗锋，非常考验手法 ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2479,
+          "like_count": 213155,
+          "listed_count": 7,
+          "media_count": 1254,
+          "tweet_count": 14050
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T07:20:32.000Z",
+        "description": "诡秘诡秘想不想和我一起玩xxxx喵喵喵",
+        "id": "1263368268103860227",
+        "location": "民国114年应天府明孝陵",
+        "name": "太祖高皇帝朱重八mygo子",
+        "pinned_tweet_id": "1546147036336046083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938099723724066819/7ERjw08r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 2277,
+          "like_count": 72813,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 6524
+        },
+        "username": "kano_258025",
+        "verified": false
+      }
+    ]
+  }
+}

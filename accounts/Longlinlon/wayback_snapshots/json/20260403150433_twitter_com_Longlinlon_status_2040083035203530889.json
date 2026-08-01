@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2040083035203530889",
+    "created_at": "2026-04-03T15:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040083035203530889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usd666666/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/usd666666/status/2039887682386723182",
+          "start": 37,
+          "url": "https://t.co/9wZChDZSnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040083035203530889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039887682386723182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一想到医生随便发点不明觉厉的信息就能让这群傻B真觉得有用还能收钱我就想笑 https://t.co/9wZChDZSnz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2039887671443828736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8jB4YbsAAN4Vd.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2040083035203530889",
+        "created_at": "2026-04-03T15:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040083035203530889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usd666666/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/usd666666/status/2039887682386723182",
+              "start": 37,
+              "url": "https://t.co/9wZChDZSnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040083035203530889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039887682386723182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一想到医生随便发点不明觉厉的信息就能让这群傻B真觉得有用还能收钱我就想笑 https://t.co/9wZChDZSnz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039887671443828736"
+          ]
+        },
+        "author_id": "1734483664548118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039887682386723182",
+        "created_at": "2026-04-03T02:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039887682386723182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhumvFXsYP",
+              "end": 29,
+              "expanded_url": "https://x.com/usd666666/status/2039887682386723182/photo/1",
+              "media_key": "3_2039887671443828736",
+              "start": 6,
+              "url": "https://t.co/OhumvFXsYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039887682386723182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 2165605,
+          "like_count": 490,
+          "quote_count": 1,
+          "reply_count": 304,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 ？ https://t.co/OhumvFXsYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 2554,
+          "like_count": 207458,
+          "listed_count": 8,
+          "media_count": 1383,
+          "tweet_count": 14774
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T08:02:41.000Z",
+        "description": "👨‍⚕️ 西时珍的赛博诊所（营业中）\n【主治】精神内耗、知识匮乏、日常无聊综合征\n【处方】30g 辛辣段子（每日口服）+ 100g 真实故事（睡前安神）+ 随机视频盲盒（视缘分掉落）\n【疗效】提神醒脑，延年益寿 🍷\n【医嘱】点个关注，药到病除 👇\n📮 USD666666@proton.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yyybyg",
+                "end": 23,
+                "expanded_url": "https://t.me/yyybyg",
+                "start": 0,
+                "url": "https://t.co/2zZ9vFmUH5"
+              }
+            ]
+          }
+        },
+        "id": "1734483664548118528",
+        "location": "Sydney, New South Wales",
+        "name": "西时珍🌎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005846677346037760/yvCtDLum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90380,
+          "following_count": 2257,
+          "like_count": 7961,
+          "listed_count": 326,
+          "media_count": 3115,
+          "tweet_count": 10021
+        },
+        "url": "https://t.co/2zZ9vFmUH5",
+        "username": "usd666666",
+        "verified": true
+      }
+    ]
+  }
+}

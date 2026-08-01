@@ -1,0 +1,159 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808465683405291941",
+    "created_at": "2024-07-03T11:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T12:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808468604805087357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545380010621427712",
+          "start": 0,
+          "username": "Suki_Hans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808468604805087357",
+    "in_reply_to_user_id": "1545380010621427712",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808465683405291941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suki_Hans 多"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1808465683405291941].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1808465683405291941",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1808465683405291941"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808465683405291941",
+        "created_at": "2024-07-03T11:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T12:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808468604805087357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545380010621427712",
+              "start": 0,
+              "username": "Suki_Hans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808468604805087357",
+        "in_reply_to_user_id": "1545380010621427712",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808465683405291941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suki_Hans 多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 2049,
+          "like_count": 150631,
+          "listed_count": 10,
+          "tweet_count": 10376
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T12:11:30.000Z",
+        "description": "我就是觉得，杯子是半空的",
+        "id": "1545380010621427712",
+        "location": "La provence",
+        "name": "Hans",
+        "pinned_tweet_id": "1694826629015486900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797300364854919169/ndSC33QL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 356,
+          "like_count": 20705,
+          "listed_count": 5,
+          "tweet_count": 8852
+        },
+        "username": "Suki_Hans",
+        "verified": false
+      }
+    ]
+  }
+}

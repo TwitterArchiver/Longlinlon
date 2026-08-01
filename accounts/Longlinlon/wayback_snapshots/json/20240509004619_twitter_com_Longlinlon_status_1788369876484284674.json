@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1788202711365857501",
+    "created_at": "2024-05-09T00:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T01:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788369876484284674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "938027704842043392",
+          "start": 0,
+          "username": "ID_0059"
+        },
+        {
+          "end": 21,
+          "id": "1717534726381080576",
+          "start": 9,
+          "username": "Heromothers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788369876484284674",
+    "in_reply_to_user_id": "938027704842043392",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788369809387962443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ID_0059 @Heromothers 果咩纳塞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1788202711365857501",
+        "created_at": "2024-05-09T00:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T01:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788369876484284674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "938027704842043392",
+              "start": 0,
+              "username": "ID_0059"
+            },
+            {
+              "end": 21,
+              "id": "1717534726381080576",
+              "start": 9,
+              "username": "Heromothers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788369876484284674",
+        "in_reply_to_user_id": "938027704842043392",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788369809387962443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ID_0059 @Heromothers 果咩纳塞"
+      },
+      {
+        "attachments": {},
+        "author_id": "938027704842043392",
+        "conversation_id": "1788202711365857501",
+        "created_at": "2024-05-09T00:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T01:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788369809387962443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            },
+            {
+              "end": 24,
+              "id": "1717534726381080576",
+              "start": 12,
+              "username": "Heromothers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788369809387962443",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788369493133295858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon @Heromothers 这是我和上面那个哥们之前玩的一个梗，你不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @SaigyoujiSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "SaigyoujiSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1850,
+          "like_count": 121083,
+          "listed_count": 9,
+          "tweet_count": 8919
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T12:50:07.000Z",
+        "description": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+        "id": "938027704842043392",
+        "location": "革命中心——Beijing",
+        "name": "Tony Vercetti",
+        "pinned_tweet_id": "1690309798049529856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713214811931328513/NYiXoalm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1714,
+          "like_count": 14887,
+          "listed_count": 13,
+          "tweet_count": 10742
+        },
+        "username": "ID_0059",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T13:32:59.000Z",
+        "description": "日本人の狩猟用ブレード",
+        "id": "1717534726381080576",
+        "location": "日本人研究院",
+        "name": "猎倭の刃🔴 👉👉👉👉👉👉👉🏳️‍🌈🤣🤣🤣🤣🤣",
+        "pinned_tweet_id": "1785193455687270677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781881125398536192/9-7kVPCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 83,
+          "like_count": 215,
+          "listed_count": 3,
+          "tweet_count": 1195
+        },
+        "username": "Heromothers",
+        "verified": false
+      }
+    ]
+  }
+}

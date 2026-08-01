@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853277698610921472"
+      ],
+      "media_source_tweet_id": [
+        "1853277712829567208"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1853313947358867592",
+    "created_at": "2024-11-04T05:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T06:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853313947358867592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 14,
+          "tag": "AlvaLuca"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "隱囚"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "隐囚"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "隠囚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644300934716219392",
+          "start": 3,
+          "username": "Chuer0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FcMKCr3cPm",
+          "end": 66,
+          "expanded_url": "https://x.com/Chuer0w0/status/1853277712829567208/photo/1",
+          "media_key": "3_1853277698610921472",
+          "start": 43,
+          "url": "https://t.co/FcMKCr3cPm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853313947358867592",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853277712829567208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chuer0w0: #AlvaLuca #隱囚 #隐囚 #隠囚 \n男鬼阿爾瓦 https://t.co/FcMKCr3cPm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4286,
+        "media_key": "3_1853277698610921472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbgqP2_bgAAc97a.jpg",
+        "width": 2069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853277698610921472"
+          ],
+          "media_source_tweet_id": [
+            "1853277712829567208"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1853313947358867592",
+        "created_at": "2024-11-04T05:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T06:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853313947358867592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "AlvaLuca"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "隱囚"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "隐囚"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "隠囚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644300934716219392",
+              "start": 3,
+              "username": "Chuer0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcMKCr3cPm",
+              "end": 66,
+              "expanded_url": "https://x.com/Chuer0w0/status/1853277712829567208/photo/1",
+              "media_key": "3_1853277698610921472",
+              "start": 43,
+              "url": "https://t.co/FcMKCr3cPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853313947358867592",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853277712829567208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chuer0w0: #AlvaLuca #隱囚 #隐囚 #隠囚 \n男鬼阿爾瓦 https://t.co/FcMKCr3cPm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853277698610921472"
+          ]
+        },
+        "author_id": "1644300934716219392",
+        "conversation_id": "1853277712829567208",
+        "created_at": "2024-11-04T03:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T04:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853277712829567208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "AlvaLuca"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "隱囚"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "隐囚"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "隠囚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcMKCr3cPm",
+              "end": 52,
+              "expanded_url": "https://x.com/Chuer0w0/status/1853277712829567208/photo/1",
+              "media_key": "3_1853277698610921472",
+              "start": 29,
+              "url": "https://t.co/FcMKCr3cPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853277712829567208",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 409,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "#AlvaLuca #隱囚 #隐囚 #隠囚 \n男鬼阿爾瓦 https://t.co/FcMKCr3cPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 2223,
+          "like_count": 178142,
+          "listed_count": 8,
+          "tweet_count": 11762
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T11:28:10.000Z",
+        "description": "🇭🇰｜粵/國/eng｜雜食 主❤️🧡｜主nijien/vsj/個人勢 推得比較雜｜第五人格Identity V 雜食 主隱囚｜畫/文｜🔞🈶｜Luxiem will always be five❤️🧡💛💙💜",
+        "id": "1644300934716219392",
+        "name": "秋兒Chuer",
+        "pinned_tweet_id": "1750508654649057788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825787241500913664/7sF4_eSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 318,
+          "like_count": 13721,
+          "listed_count": 0,
+          "tweet_count": 427
+        },
+        "username": "Chuer0w0",
+        "verified": false
+      }
+    ]
+  }
+}

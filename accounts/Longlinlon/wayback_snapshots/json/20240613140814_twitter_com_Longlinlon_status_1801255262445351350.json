@@ -1,0 +1,158 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1801237462133665874",
+    "created_at": "2024-06-13T14:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T15:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801255262445351350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1501771978365370370",
+          "start": 0,
+          "username": "akechi1644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801255262445351350",
+    "in_reply_to_user_id": "1501771978365370370",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801237462133665874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akechi1644 上线第一天：黑猴紧急更新降低难度"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1801237462133665874].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1801237462133665874",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1801237462133665874"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1801237462133665874",
+        "created_at": "2024-06-13T14:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801255262445351350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1501771978365370370",
+              "start": 0,
+              "username": "akechi1644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801255262445351350",
+        "in_reply_to_user_id": "1501771978365370370",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801237462133665874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akechi1644 上线第一天：黑猴紧急更新降低难度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 1984,
+          "like_count": 138730,
+          "listed_count": 9,
+          "tweet_count": 10005
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-10T04:08:44.000Z",
+        "description": "",
+        "id": "1501771978365370370",
+        "name": "FriedrichAkechi1644",
+        "pinned_tweet_id": "1800176803174367607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501772906321559552/l5ehv0ZS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 3781,
+          "like_count": 38583,
+          "listed_count": 0,
+          "tweet_count": 9537
+        },
+        "username": "akechi1644",
+        "verified": false
+      }
+    ]
+  }
+}

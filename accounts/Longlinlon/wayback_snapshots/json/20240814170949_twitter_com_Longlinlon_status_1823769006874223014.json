@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1823754834736279793",
+    "created_at": "2024-08-14T17:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T18:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823769006874223014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Yorushika4ever"
+        },
+        {
+          "end": 29,
+          "id": "1705500138431782912",
+          "start": 16,
+          "username": "MouXiao70140"
+        },
+        {
+          "end": 40,
+          "id": "1486232955941187591",
+          "start": 30,
+          "username": "xy2009255"
+        },
+        {
+          "end": 57,
+          "id": "1466075427487862786",
+          "start": 41,
+          "username": "kagurazakaasaka"
+        },
+        {
+          "end": 72,
+          "id": "1612667272119848963",
+          "start": 58,
+          "username": "goodjob114514"
+        },
+        {
+          "end": 89,
+          "id": "1527360950524776449",
+          "start": 73,
+          "username": "loveNanaShimura"
+        },
+        {
+          "end": 100,
+          "id": "1426015810472972298",
+          "start": 90,
+          "username": "CyronANNO"
+        },
+        {
+          "end": 116,
+          "id": "1680834021377593344",
+          "start": 101,
+          "username": "baizhou_kawaii"
+        },
+        {
+          "end": 133,
+          "id": "1652757998995927043",
+          "start": 117,
+          "username": "Strv_122_B_PLSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823769006874223014",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823755913741918489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yorushika4ever @MouXiao70140 @xy2009255 @kagurazakaasaka @goodjob114514 @loveNanaShimura @CyronANNO @baizhou_kawaii @Strv_122_B_PLSS 爱你喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1823755913741918489].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1823755913741918489",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1823755913741918489"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1823754834736279793",
+        "created_at": "2024-08-14T17:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T18:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823769006874223014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Yorushika4ever"
+            },
+            {
+              "end": 29,
+              "id": "1705500138431782912",
+              "start": 16,
+              "username": "MouXiao70140"
+            },
+            {
+              "end": 40,
+              "id": "1486232955941187591",
+              "start": 30,
+              "username": "xy2009255"
+            },
+            {
+              "end": 57,
+              "id": "1466075427487862786",
+              "start": 41,
+              "username": "kagurazakaasaka"
+            },
+            {
+              "end": 72,
+              "id": "1612667272119848963",
+              "start": 58,
+              "username": "goodjob114514"
+            },
+            {
+              "end": 89,
+              "id": "1527360950524776449",
+              "start": 73,
+              "username": "loveNanaShimura"
+            },
+            {
+              "end": 100,
+              "id": "1426015810472972298",
+              "start": 90,
+              "username": "CyronANNO"
+            },
+            {
+              "end": 116,
+              "id": "1680834021377593344",
+              "start": 101,
+              "username": "baizhou_kawaii"
+            },
+            {
+              "end": 133,
+              "id": "1652757998995927043",
+              "start": 117,
+              "username": "Strv_122_B_PLSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823769006874223014",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823755913741918489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yorushika4ever @MouXiao70140 @xy2009255 @kagurazakaasaka @goodjob114514 @loveNanaShimura @CyronANNO @baizhou_kawaii @Strv_122_B_PLSS 爱你喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1821142206574686466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 2209,
+          "like_count": 170756,
+          "listed_count": 10,
+          "tweet_count": 10994
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "😼🎮",
+        "id": "1688233455363219456",
+        "location": "◂Ⓘ▸",
+        "name": "忘れてください",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823687050220199937/TAYJO0tZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 299,
+          "like_count": 106417,
+          "listed_count": 6,
+          "tweet_count": 19410
+        },
+        "username": "Yorushika4ever",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:31:54.000Z",
+        "description": "烹汝为燔，焚汝为烬",
+        "id": "1705500138431782912",
+        "location": "-",
+        "name": "零",
+        "pinned_tweet_id": "1799375966747418901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808002714829574148/tFB4tCqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 3076,
+          "like_count": 38262,
+          "listed_count": 2,
+          "tweet_count": 12661
+        },
+        "username": "MouXiao70140",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T07:02:25.000Z",
+        "description": "🐢攻击性较强/魔怔人退散/STF站长/最好的闺蜜@LanYumo1offical @xiashenqiang最爱的大猫咪 @White_Cat_nya  ( PS:我其实是9M120冲锋哒，不然为什么喜欢冲刺！！！冲！冲！～🐌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "LanYumo1offical"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "xiashenqiang"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "White_Cat_nya"
+              }
+            ]
+          }
+        },
+        "id": "1486232955941187591",
+        "location": "Burdur, Türkiye",
+        "name": "小义2009255🐌🐢",
+        "pinned_tweet_id": "1683212966181892096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752025300542869504/5BybEDEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 886,
+          "like_count": 66350,
+          "listed_count": 4,
+          "tweet_count": 13659
+        },
+        "username": "xy2009255",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T16:03:34.000Z",
+        "description": "希望帮助所有需要帮助的孩子的退役药药/一个抱抱怪物/HRT起始日5.19，截止日11.24/我们不要就这么算了/妈妈@voxet1n3我的小猫@MTF_zishushushu宝宝@tousa40700129好姐姐@snowfairy011026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "voxet1n3"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "MTF_zishushushu"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "tousa40700129"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "snowfairy011026"
+              }
+            ]
+          }
+        },
+        "id": "1466075427487862786",
+        "location": "未见的光明之地",
+        "name": "神樂坂朝香8964",
+        "pinned_tweet_id": "1778309029141647847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679747963936206849/Rmx1yrSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 527,
+          "like_count": 16669,
+          "listed_count": 4,
+          "tweet_count": 3123
+        },
+        "username": "kagurazakaasaka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T04:26:59.000Z",
+        "description": "梯子：https://t.co/lkP8SEGRFD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mianhuayun100.xyz/#/register?cod…",
+                "end": 26,
+                "expanded_url": "https://www.mianhuayun100.xyz/#/register?code=SB76Fclu",
+                "start": 3,
+                "url": "https://t.co/lkP8SEGRFD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mianhuayun100.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.mianhuayun100.xyz/#/register?code=SB76Fclu",
+                "start": 0,
+                "url": "https://t.co/lkP8SEGRFD"
+              }
+            ]
+          }
+        },
+        "id": "1612667272119848963",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "你好1989💪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816840957482139653/eLCgr1ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 894,
+          "like_count": 35052,
+          "listed_count": 0,
+          "tweet_count": 4895
+        },
+        "url": "https://t.co/lkP8SEGRFD",
+        "username": "goodjob114514",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T18:50:13.000Z",
+        "description": "宁做真小人，不做伪君子\n\n然后如果想要挂亲友团的在这里@M600_spitfire @Allknowbody",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Allknowbody"
+              }
+            ]
+          }
+        },
+        "id": "1527360950524776449",
+        "location": "U.A High School",
+        "name": "志村婲緋菜奈のファン🍔🍟🍤🧁🧋",
+        "pinned_tweet_id": "1779382882957774856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802135704090345472/gYT9WWVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 607,
+          "like_count": 131760,
+          "listed_count": 2,
+          "tweet_count": 13939
+        },
+        "username": "loveNanaShimura",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "#",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ANNO",
+                "end": 23,
+                "expanded_url": "https://lit.link/ANNO",
+                "start": 0,
+                "url": "https://t.co/np0NPSltWi"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "name": "឵ ឵ ឵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815758960953372672/gPKxelTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 803,
+          "like_count": 92552,
+          "listed_count": 1,
+          "tweet_count": 9608
+        },
+        "url": "https://t.co/np0NPSltWi",
+        "username": "CyronANNO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "纯真而不欠闻达  善良而不失坚强/stand with🇺🇦🇮🇱/Friendly to LGBTQ+🏳️‍🌈🏳️‍⚧️/互fo私信/可爱的@tubomi520 宝宝@KagurazakaSusie\n妈妈@zhao_mama\n❤️😡：@KiraAme3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "tubomi520"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "KagurazakaSusie"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "zhao_mama"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "KiraAme3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "www.com",
+                "end": 23,
+                "expanded_url": "http://www.com",
+                "start": 0,
+                "url": "https://t.co/RY5yMOjnNi"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "置位",
+        "name": "坂下白粥🌋📟🫲🌛🫲🍄",
+        "pinned_tweet_id": "1815651757902774712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823551460833136640/3MTzQJIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 918,
+          "like_count": 26934,
+          "listed_count": 14,
+          "tweet_count": 10881
+        },
+        "url": "https://t.co/RY5yMOjnNi",
+        "username": "baizhou_kawaii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T19:33:16.000Z",
+        "description": "Strv 122主战坦克（Stridsvagn 122）是瑞典的主战坦克，与德国豹2A5一样，以德国豹2改进型为基础，运用了指挥、控制和火控系统和强化装甲等新技术。从外观上看，该车与豹2A5的区别在于法制GALIX烟雾弹发射器、不同的储物箱和较厚的乘员舱口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se",
+                "start": 0,
+                "url": "https://t.co/QNeewOQ6E2"
+              }
+            ]
+          }
+        },
+        "id": "1652757998995927043",
+        "location": " 战斗中被击毁",
+        "name": "Stridsvagn 122 Panoramautsikt Låg Signature System",
+        "pinned_tweet_id": "1786429240977797564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821196232196296704/qwwAGjO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 4085,
+          "like_count": 118000,
+          "listed_count": 4,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/QNeewOQ6E2",
+        "username": "Strv_122_B_PLSS",
+        "verified": false
+      }
+    ]
+  }
+}

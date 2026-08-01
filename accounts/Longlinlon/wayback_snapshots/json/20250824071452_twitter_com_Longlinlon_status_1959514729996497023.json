@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1959449628694507976",
+    "created_at": "2025-08-24T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959514729996497023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "915881796881076224",
+          "start": 0,
+          "username": "SD2190392804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959514729996497023",
+    "in_reply_to_user_id": "915881796881076224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959449628694507976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SD2190392804 神。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1959449622562418688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzFdDNQbMAAmH_Z.jpg",
+        "width": 1896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1959449628694507976",
+        "created_at": "2025-08-24T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959514729996497023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "915881796881076224",
+              "start": 0,
+              "username": "SD2190392804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959514729996497023",
+        "in_reply_to_user_id": "915881796881076224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959449628694507976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SD2190392804 神。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959449622562418688"
+          ]
+        },
+        "author_id": "915881796881076224",
+        "conversation_id": "1959449628694507976",
+        "created_at": "2025-08-24T02:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T03:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959449628694507976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kA7Q06Iv4t",
+              "end": 25,
+              "expanded_url": "https://x.com/SD2190392804/status/1959449628694507976/photo/1",
+              "media_key": "3_1959449622562418688",
+              "start": 2,
+              "url": "https://t.co/kA7Q06Iv4t"
+            },
+            {
+              "display_url": "x.com/sd2190392804/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/sd2190392804/status/1959431021100933432",
+              "start": 26,
+              "url": "https://t.co/4JwZzSuesS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959449628694507976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 12765,
+          "like_count": 621,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959431021100933432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💜 https://t.co/kA7Q06Iv4t https://t.co/4JwZzSuesS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2508,
+          "like_count": 214931,
+          "listed_count": 8,
+          "media_count": 1287,
+          "tweet_count": 14219
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-05T10:10:11.000Z",
+        "description": "*｢TO BE HERO X」公式立ち絵＆ポスターイラスト担当  *OC余烬驿站  *DOGS/B&C *什么都画･なんでも描く｜weibo：SpeakLOUDER_｜中文/日本語",
+        "id": "915881796881076224",
+        "name": "ShaDow💫",
+        "pinned_tweet_id": "1530609325537775616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942413582198792193/3W24TIf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131689,
+          "following_count": 1040,
+          "like_count": 4288,
+          "listed_count": 777,
+          "media_count": 544,
+          "tweet_count": 3888
+        },
+        "username": "SD2190392804",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1843040921832788151",
+    "created_at": "2024-10-06T21:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T22:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843040921832788151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1838951890044002327",
+          "start": 13,
+          "url": "https://t.co/rsaV2M7Hni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843040921832788151",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838951890044002327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好崩溃好崩溃好崩溃好崩溃 https://t.co/rsaV2M7Hni"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1843040921832788151",
+        "created_at": "2024-10-06T21:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T22:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843040921832788151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1838951890044002327",
+              "start": 13,
+              "url": "https://t.co/rsaV2M7Hni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843040921832788151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838951890044002327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好崩溃好崩溃好崩溃好崩溃 https://t.co/rsaV2M7Hni"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1838951890044002327",
+        "created_at": "2024-09-25T14:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T15:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838951890044002327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838951890044002327",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1050,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直没好呀从八月初到现在，pr药量已经到了一天三板了每天三瓶强爽时不时一包烟我快要死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 2219,
+          "like_count": 177303,
+          "listed_count": 9,
+          "tweet_count": 11616
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

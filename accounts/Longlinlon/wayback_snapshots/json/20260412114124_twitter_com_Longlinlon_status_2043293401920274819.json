@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2043238724457451982",
+    "created_at": "2026-04-12T11:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043293401920274819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043293401920274819",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043238724457451982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_2043238715552878592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsKyUfa0AAL39D.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2043238724457451982",
+        "created_at": "2026-04-12T11:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043293401920274819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043293401920274819",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043238724457451982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043238715552878592"
+          ]
+        },
+        "author_id": "1652200117494231043",
+        "conversation_id": "2043238724457451982",
+        "created_at": "2026-04-12T08:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043238724457451982"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXKhO8MTRV",
+              "end": 38,
+              "expanded_url": "https://x.com/OuO_QwQg/status/2043238724457451982/photo/1",
+              "media_key": "3_2043238715552878592",
+              "start": 15,
+              "url": "https://t.co/fXKhO8MTRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238724457451982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自设妹穿一下新衣服 #oc https://t.co/fXKhO8MTRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 2543,
+          "like_count": 207458,
+          "listed_count": 8,
+          "media_count": 1389,
+          "tweet_count": 14819
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜匿名箱 https://t.co/TsKHcf6fRX\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 91,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 68,
+                "url": "https://t.co/TsKHcf6fRX"
+              },
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 129,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 106,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 58,
+          "like_count": 6618,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 2499
+        },
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

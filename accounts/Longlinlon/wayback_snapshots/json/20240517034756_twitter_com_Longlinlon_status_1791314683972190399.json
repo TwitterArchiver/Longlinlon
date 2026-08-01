@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1791314683972190399",
+    "created_at": "2024-05-17T03:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T04:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791314683972190399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jike112_jike/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/jike112_jike/status/1790605419741634991",
+          "start": 24,
+          "url": "https://t.co/KgBfT5GwGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791314683972190399",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790605419741634991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们男的学会一件事后居然不会得到掌声，真是可怜 https://t.co/KgBfT5GwGD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1791314683972190399",
+        "created_at": "2024-05-17T03:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T04:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791314683972190399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jike112_jike/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jike112_jike/status/1790605419741634991",
+              "start": 24,
+              "url": "https://t.co/KgBfT5GwGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791314683972190399",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790605419741634991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们男的学会一件事后居然不会得到掌声，真是可怜 https://t.co/KgBfT5GwGD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790604247463079936"
+          ]
+        },
+        "author_id": "931807368349810688",
+        "conversation_id": "1790605419741634991",
+        "created_at": "2024-05-15T04:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T05:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790605419741634991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eTl2nLuybF",
+              "end": 107,
+              "expanded_url": "https://twitter.com/jike112_jike/status/1790605419741634991/photo/1",
+              "media_key": "3_1790604247463079936",
+              "start": 84,
+              "url": "https://t.co/eTl2nLuybF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790605419741634991",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 28226,
+          "like_count": 496,
+          "quote_count": 11,
+          "reply_count": 63,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我真是笑死了，这些技能不都是作为一个正常人都应该学会的东西吗？被女的搞得像获得了诺贝尔奖一样到处宣传，女的装个你妈内存条都要专门写篇文章夸自己一番，像表彰残疾人一样。 https://t.co/eTl2nLuybF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1924,
+          "like_count": 127896,
+          "listed_count": 10,
+          "tweet_count": 9330
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 216,
+          "like_count": 2722,
+          "listed_count": 0,
+          "tweet_count": 653
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

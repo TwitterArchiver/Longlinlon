@@ -1,0 +1,537 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105532158465040384",
+          "name": "Identity V"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899016900083712",
+          "name": "Horror games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899125926821900",
+          "name": "Survival games"
+        }
+      }
+    ],
+    "conversation_id": "1790029445090205710",
+    "created_at": "2024-05-13T14:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T15:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790029445090205710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Gyi_free/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Gyi_free/status/1789995092528251216",
+          "start": 18,
+          "url": "https://t.co/PxCzKjyI2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790029445090205710",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789995092528251216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2024年，侵日战争在第五人格打响 https://t.co/PxCzKjyI2H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1790029445090205710",
+        "created_at": "2024-05-13T14:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T15:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790029445090205710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Gyi_free/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Gyi_free/status/1789995092528251216",
+              "start": 18,
+              "url": "https://t.co/PxCzKjyI2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790029445090205710",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789995092528251216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2024年，侵日战争在第五人格打响 https://t.co/PxCzKjyI2H"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789995084836204545"
+          ]
+        },
+        "author_id": "1293160367057539073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1789995092528251216",
+        "created_at": "2024-05-13T12:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T13:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789995092528251216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【ぎぃちゃんねる公式Discordサーバー】https://discord.gg/rtGGJBjcps【Twitter】https://twitter.com/Gyi_free【メール】identitygyi@gmail.com所属事務所：Buber【お問い合わせ＆仕事依頼】buber_info@blueocea...",
+              "display_url": "youtu.be/pt-bpplCnyc?si…",
+              "end": 85,
+              "expanded_url": "https://youtu.be/pt-bpplCnyc?si=FgOYUXhH3Lx3TUhM",
+              "start": 62,
+              "status": 200,
+              "title": "【快挙】中国人が日本に乗り込み“過去最悪クラス”の不正票を仕掛けるが…日本人の団結力により返り討ちに！！！！！【第五人格】",
+              "unwound_url": "https://www.youtube.com/watch?si=FgOYUXhH3Lx3TUhM&v=pt-bpplCnyc&feature=youtu.be",
+              "url": "https://t.co/KxanUWFzpn"
+            },
+            {
+              "display_url": "pic.twitter.com/WrZQn1LVM4",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Gyi_free/status/1789995092528251216/photo/1",
+              "media_key": "3_1789995084836204545",
+              "start": 86,
+              "url": "https://t.co/WrZQn1LVM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789995092528251216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1529,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "【快挙】中国人が日本に乗り込み“過去最悪クラス”の不正票を仕掛けるが…日本人の団結力により返り討ちに！！！！！【第五人格】 https://t.co/KxanUWFzpn https://t.co/WrZQn1LVM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 1890,
+          "like_count": 125669,
+          "listed_count": 10,
+          "tweet_count": 9172
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T12:20:43.000Z",
+        "description": "あらよろはすめしは❗️動画見てくれて嬉しいです🥺💕素敵なプレゼントありがとうございます☺️🎁→ https://t.co/d936rxaDIk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 71,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/NN7QUZ4LUY11?ref_=wl_share",
+                "start": 48,
+                "url": "https://t.co/d936rxaDIk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Gyichannel?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Gyichannel?si=SD8aP_CULun_hbrm",
+                "start": 0,
+                "url": "https://t.co/YuslYODC9l"
+              }
+            ]
+          }
+        },
+        "id": "1293160367057539073",
+        "name": "ぎぃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582842932020752384/4_eghUzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5675,
+          "following_count": 7,
+          "like_count": 60,
+          "listed_count": 12,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/YuslYODC9l",
+        "username": "Gyi_free",
+        "verified": false
+      }
+    ]
+  }
+}

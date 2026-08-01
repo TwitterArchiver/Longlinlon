@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1952537344990703863",
+    "created_at": "2025-08-05T12:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T13:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952710338526466243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908007144676569088",
+          "start": 0,
+          "username": "baiquan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952710338526466243",
+    "in_reply_to_user_id": "1908007144676569088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952695260800602256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiquan2025 呀咪呀咪😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1952537344990703863",
+        "created_at": "2025-08-05T12:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T13:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952710338526466243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908007144676569088",
+              "start": 0,
+              "username": "baiquan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952710338526466243",
+        "in_reply_to_user_id": "1908007144676569088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952695260800602256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiquan2025 呀咪呀咪😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908007144676569088",
+        "conversation_id": "1952537344990703863",
+        "created_at": "2025-08-05T11:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952695260800602256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952695260800602256",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952669405881717042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 不好吃吗？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "庄园访客-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2484,
+          "like_count": 212944,
+          "listed_count": 6,
+          "media_count": 1266,
+          "tweet_count": 14121
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T04:02:57.000Z",
+        "description": "中文/EN  经常用翻译器，这个号堆同人，比较杂食，非常多无差内容🔁，凹凸暂时淡了，凸X绝赞产出！！喜欢梁龙！！20⬆️ 会创作成人向内容注意⚠️🔞\n🚫AI 🚫无授权搬运",
+        "id": "1908007144676569088",
+        "location": "拉莱耶",
+        "name": "AaaMG公司后厨犬师傅",
+        "pinned_tweet_id": "1932125809223045268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951919238807257088/98E4BDUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 163,
+          "like_count": 2818,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 883
+        },
+        "username": "baiquan2025",
+        "verified": false
+      }
+    ]
+  }
+}

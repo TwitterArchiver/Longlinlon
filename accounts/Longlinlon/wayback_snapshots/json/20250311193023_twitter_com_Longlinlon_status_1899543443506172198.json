@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1899543443506172198",
+    "created_at": "2025-03-11T19:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T20:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899543443506172198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468567542264664067",
+          "start": 3,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899543443506172198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899540772803989691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelica_zj: 我有时候感觉推上的小鬼比墙内的蠢多了，像tm远古人，串子反讽一个认不出来，墙内视频帖子截一半就拿出来带节奏，评论区还真有一大群人人沾沾自喜的觉得自己特聪明特小众，笑的我好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1899543443506172198",
+        "created_at": "2025-03-11T19:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T20:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899543443506172198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468567542264664067",
+              "start": 3,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899543443506172198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899540772803989691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelica_zj: 我有时候感觉推上的小鬼比墙内的蠢多了，像tm远古人，串子反讽一个认不出来，墙内视频帖子截一半就拿出来带节奏，评论区还真有一大群人人沾沾自喜的觉得自己特聪明特小众，笑的我好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "1899540772803989691",
+        "created_at": "2025-03-11T19:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T20:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899540772803989691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899540772803989691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候感觉推上的小鬼比墙内的蠢多了，像tm远古人，串子反讽一个认不出来，墙内视频帖子截一半就拿出来带节奏，评论区还真有一大群人人沾沾自喜的觉得自己特聪明特小众，笑的我好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 2336,
+          "like_count": 197940,
+          "listed_count": 8,
+          "media_count": 1135,
+          "tweet_count": 13067
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 951,
+          "like_count": 14039,
+          "listed_count": 37,
+          "media_count": 1286,
+          "tweet_count": 14666
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

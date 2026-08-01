@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014912447719858177"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014912457953968266",
+    "created_at": "2026-01-24T04:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T05:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014912457953968266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bJ03iAZ2zl",
+          "end": 32,
+          "expanded_url": "https://x.com/Longlinlon/status/2014912457953968266/photo/1",
+          "media_key": "3_2014912447719858177",
+          "start": 9,
+          "url": "https://t.co/bJ03iAZ2zl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014912457953968266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们不要过拟合 https://t.co/bJ03iAZ2zl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2043,
+        "media_key": "3_2014912447719858177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZoMhva4AEIKn2.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014912447719858177"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014912457953968266",
+        "created_at": "2026-01-24T04:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014912457953968266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJ03iAZ2zl",
+              "end": 32,
+              "expanded_url": "https://x.com/Longlinlon/status/2014912457953968266/photo/1",
+              "media_key": "3_2014912447719858177",
+              "start": 9,
+              "url": "https://t.co/bJ03iAZ2zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014912457953968266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们不要过拟合 https://t.co/bJ03iAZ2zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤丨精神病丨第五人格人孝子丨表演型人格丨小蛋糕丨单身丨hrt10.11丨捞妹丨IVL，KPL丨特摄丨1999丨龙族丨musedash丨十日终焉丨国拟丨安那其🚩🏴丨王者荣耀丨od丨说记丨杰园丨机囚丨患园丨舞裘丨气弓丨信离丨龙影丨",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 2517,
+          "like_count": 210998,
+          "listed_count": 9,
+          "media_count": 1375,
+          "tweet_count": 14690
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

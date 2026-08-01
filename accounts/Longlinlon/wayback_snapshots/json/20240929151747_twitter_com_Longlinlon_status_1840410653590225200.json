@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840089608417312979",
+    "created_at": "2024-09-29T15:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T16:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840410653590225200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825427563977592832",
+          "start": 0,
+          "username": "daihonyaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840410653590225200",
+    "in_reply_to_user_id": "1825427563977592832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840089608417312979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daihonyaku 人家只是没有任何成熟独立意识的小孩然后被教育成这个样子你们居然就认为是他是什么很该死的人，这样很过分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840089608417312979",
+        "created_at": "2024-09-29T15:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T16:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840410653590225200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825427563977592832",
+              "start": 0,
+              "username": "daihonyaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840410653590225200",
+        "in_reply_to_user_id": "1825427563977592832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840089608417312979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daihonyaku 人家只是没有任何成熟独立意识的小孩然后被教育成这个样子你们居然就认为是他是什么很该死的人，这样很过分。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840088364164493314"
+          ]
+        },
+        "author_id": "1825427563977592832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1840089608417312979",
+        "created_at": "2024-09-28T18:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T19:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840089608417312979"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9031,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pu6w9uzxy",
+              "end": 72,
+              "expanded_url": "https://twitter.com/daihonyaku/status/1840089608417312979/photo/1",
+              "media_key": "3_1840088364164493314",
+              "start": 49,
+              "url": "https://t.co/1Pu6w9UzXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840089608417312979",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 538929,
+          "like_count": 3539,
+          "quote_count": 97,
+          "reply_count": 335,
+          "retweet_count": 1090
+        },
+        "reply_settings": "everyone",
+        "text": "中国の国慶節が近づくと、小学生たちは「炸死鬼子 (日本鬼子を爆死し) 」ための爆薬を作り始める。 https://t.co/1Pu6w9UzXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2214,
+          "like_count": 176647,
+          "listed_count": 8,
+          "tweet_count": 11535
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T07:01:13.000Z",
+        "description": "",
+        "id": "1825427563977592832",
+        "name": "大翻訳運動",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826181827507396608/rofo9D1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4043,
+          "following_count": 9,
+          "like_count": 7,
+          "listed_count": 20,
+          "tweet_count": 60
+        },
+        "username": "daihonyaku",
+        "verified": false
+      }
+    ]
+  }
+}

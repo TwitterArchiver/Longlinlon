@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1794412454019219601",
+    "created_at": "2024-05-25T16:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794412454019219601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Longlinlon/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Longlinlon/status/1794411256612634753",
+          "start": 40,
+          "url": "https://t.co/wn4FTBWGt4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794412454019219601",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794411256612634753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来，小时候看到“不转不是中国人”的说说都不想转，然后现在真的不想当中国人了 https://t.co/wn4FTBWGt4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1794412454019219601",
+        "created_at": "2024-05-25T16:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794412454019219601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1794411256612634753",
+              "start": 40,
+              "url": "https://t.co/wn4FTBWGt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794412454019219601",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794411256612634753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来，小时候看到“不转不是中国人”的说说都不想转，然后现在真的不想当中国人了 https://t.co/wn4FTBWGt4"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1794411256612634753",
+        "created_at": "2024-05-25T16:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794411256612634753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yooyo0319/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yooyo0319/status/1794232199144968539",
+              "start": 39,
+              "url": "https://t.co/tKe4Qfohd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794411256612634753",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794232199144968539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严重怀疑老娘现在这么倒霉是小时候QQ空间里的“不转倒霉一辈子”的说说起效了。 https://t.co/tKe4Qfohd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1975,
+          "like_count": 132364,
+          "listed_count": 9,
+          "tweet_count": 9588
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

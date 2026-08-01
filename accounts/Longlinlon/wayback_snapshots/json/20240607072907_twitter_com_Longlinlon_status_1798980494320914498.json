@@ -1,0 +1,320 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1798980494320914498",
+    "created_at": "2024-06-07T07:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T08:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798980494320914498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaoye96/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/miaoye96/status/1798869257549488345",
+          "start": 5,
+          "url": "https://t.co/id3t1Bnoqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798980494320914498",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798869257549488345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不卸原神 https://t.co/id3t1Bnoqx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1798980494320914498",
+        "created_at": "2024-06-07T07:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T08:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798980494320914498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaoye96/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/miaoye96/status/1798869257549488345",
+              "start": 5,
+              "url": "https://t.co/id3t1Bnoqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798980494320914498",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798869257549488345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不卸原神 https://t.co/id3t1Bnoqx"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798869179438874624"
+          ]
+        },
+        "author_id": "1453305755193520144",
+        "conversation_id": "1798869257549488345",
+        "created_at": "2024-06-07T00:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T01:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798869257549488345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kuyjJ6fglT",
+              "end": 33,
+              "expanded_url": "https://twitter.com/miaoye96/status/1798869257549488345/video/1",
+              "media_key": "7_1798869179438874624",
+              "start": 10,
+              "url": "https://t.co/kuyjJ6fglT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798869257549488345",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 35785,
+          "like_count": 170,
+          "quote_count": 10,
+          "reply_count": 107,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "看了两遍，笑死人😆 https://t.co/kuyjJ6fglT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1991,
+          "like_count": 137381,
+          "listed_count": 9,
+          "tweet_count": 9877
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T10:21:32.000Z",
+        "description": "自由的言论、开放的思维、有趣的灵魂、喜欢讲故事尤其是情爱故事，所讲的情爱故事都是根据真实的中国故事改编的YouTube苗也故事杂谈: https://t.co/paUao8Ak77",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-wn2pd2so…",
+                "end": 90,
+                "expanded_url": "https://youtube.com/@user-wn2pd2so4w?si=ZgyMx7y3Kiy1h6Ev",
+                "start": 67,
+                "url": "https://t.co/paUao8Ak77"
+              }
+            ]
+          }
+        },
+        "id": "1453305755193520144",
+        "name": "苗也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753446311049699328/pQ9Cs2Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148169,
+          "following_count": 898,
+          "like_count": 4782,
+          "listed_count": 272,
+          "tweet_count": 1021
+        },
+        "username": "miaoye96",
+        "verified": false
+      }
+    ]
+  }
+}

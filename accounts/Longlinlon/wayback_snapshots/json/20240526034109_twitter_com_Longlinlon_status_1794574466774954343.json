@@ -1,0 +1,260 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1794574466774954343",
+    "created_at": "2024-05-26T03:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T04:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794574466774954343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733139095352918016",
+          "start": 3,
+          "username": "autoANla_psl"
+        },
+        {
+          "end": 30,
+          "id": "1584022057431445504",
+          "start": 18,
+          "username": "xiyue1123_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794574466774954343",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794372829766672841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @autoANla_psl: @xiyue1123_1 宣传这个不就是让给那些因为身体素质不行体育成绩差的人死心吗\n因为不会科学方法成绩不好，因为成绩不好上不了北大，因为上不了北大不会科学方法\n北大身份和长跑有个鸡毛关系，这都能扯到好好读书上也没见考上大学的人个个都八百米…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1794574466774954343",
+        "created_at": "2024-05-26T03:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T04:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794574466774954343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733139095352918016",
+              "start": 3,
+              "username": "autoANla_psl"
+            },
+            {
+              "end": 30,
+              "id": "1584022057431445504",
+              "start": 18,
+              "username": "xiyue1123_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794574466774954343",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794372829766672841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @autoANla_psl: @xiyue1123_1 宣传这个不就是让给那些因为身体素质不行体育成绩差的人死心吗\n因为不会科学方法成绩不好，因为成绩不好上不了北大，因为上不了北大不会科学方法\n北大身份和长跑有个鸡毛关系，这都能扯到好好读书上也没见考上大学的人个个都八百米…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1733139095352918016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1793793516344414580",
+        "created_at": "2024-05-25T14:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T15:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794372829766672841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584022057431445504",
+              "start": 0,
+              "username": "xiyue1123_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794372829766672841",
+        "in_reply_to_user_id": "1584022057431445504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793793516344414580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiyue1123_1 宣传这个不就是让给那些因为身体素质不行体育成绩差的人死心吗\n因为不会科学方法成绩不好，因为成绩不好上不了北大，因为上不了北大不会科学方法\n北大身份和长跑有个鸡毛关系，这都能扯到好好读书上也没见考上大学的人个个都八百米优秀\n堵嘴借口给傻逼网媒懂完了，一群在下面pua自己的也是傻x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1976,
+          "like_count": 132429,
+          "listed_count": 9,
+          "tweet_count": 9590
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T14:59:03.000Z",
+        "description": "",
+        "id": "1733139095352918016",
+        "location": "午夜沙发电视",
+        "name": "噪点",
+        "pinned_tweet_id": "1789700939559174311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791782315171147776/I3qCmCtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1372,
+          "like_count": 12691,
+          "listed_count": 0,
+          "tweet_count": 2836
+        },
+        "username": "autoANla_psl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T03:21:15.000Z",
+        "description": "包罗万象\n心无戾气则眼有光明\n部分图片和视频来自网络，如有侵权请联系删除",
+        "id": "1584022057431445504",
+        "location": "神龙湾",
+        "name": "曦月",
+        "pinned_tweet_id": "1793871436626710573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584163396320399366/5A3ucIWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13939,
+          "following_count": 5171,
+          "like_count": 111579,
+          "listed_count": 29,
+          "tweet_count": 48103
+        },
+        "username": "xiyue1123_1",
+        "verified": true
+      }
+    ]
+  }
+}

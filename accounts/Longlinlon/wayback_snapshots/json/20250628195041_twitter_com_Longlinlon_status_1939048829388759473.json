@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1939048829388759473",
+    "created_at": "2025-06-28T19:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T20:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939048829388759473"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "小桃小桃",
+          "probability": 0.6756,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/piyoplate/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/piyoplate/status/1938912657253507400",
+          "start": 10,
+          "url": "https://t.co/Zgh0kDWCqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939048829388759473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938912657253507400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小桃小桃你咋那么萌 https://t.co/Zgh0kDWCqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30208,
+        "height": 480,
+        "media_key": "13_1938912600638513152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938912600638513152/img/UvLLeVGWdB1nQG6t.jpg",
+        "public_metrics": {
+          "view_count": 5491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938912600638513152/vid/avc1/360x270/oFbsmerQ_2Frn1ae.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938912600638513152/vid/avc1/480x360/jfO-4Rw89n9824KV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938912600638513152/vid/avc1/640x480/AdxMLKf7HWYER451.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938912600638513152/pl/sv2sEtd9pKt3_K09.m3u8?v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1939048829388759473",
+        "created_at": "2025-06-28T19:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T20:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939048829388759473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "小桃小桃",
+              "probability": 0.6756,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/piyoplate/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/piyoplate/status/1938912657253507400",
+              "start": 10,
+              "url": "https://t.co/Zgh0kDWCqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939048829388759473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938912657253507400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小桃小桃你咋那么萌 https://t.co/Zgh0kDWCqJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938912600638513152"
+          ]
+        },
+        "author_id": "1262923899710259200",
+        "conversation_id": "1938912657253507400",
+        "created_at": "2025-06-28T10:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938912657253507400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56pkca9Z4T",
+              "end": 26,
+              "expanded_url": "https://x.com/piyoplate/status/1938912657253507400/video/1",
+              "media_key": "13_1938912600638513152",
+              "start": 3,
+              "url": "https://t.co/56pkca9Z4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938912657253507400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 16450,
+          "like_count": 431,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "🎧🌀 https://t.co/56pkca9Z4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2455,
+          "like_count": 210413,
+          "listed_count": 0,
+          "media_count": 1229,
+          "tweet_count": 13878
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T01:51:48.000Z",
+        "description": "雑食 🐥🇲🇰 ヘッダー＆アイコン ⇒ @Srtmnkko 様",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Srtmnkko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/Nkdsq",
+                "end": 23,
+                "expanded_url": "http://x.gd/Nkdsq",
+                "start": 0,
+                "url": "https://t.co/9qoRxtJ5ZF"
+              }
+            ]
+          }
+        },
+        "id": "1262923899710259200",
+        "location": "呪泉郷",
+        "name": "酸マ",
+        "pinned_tweet_id": "1927717352302317983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926527787415855105/xvQPJYsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 1955,
+          "like_count": 104789,
+          "listed_count": 34,
+          "media_count": 6123,
+          "tweet_count": 53858
+        },
+        "url": "https://t.co/9qoRxtJ5ZF",
+        "username": "piyoplate",
+        "verified": false
+      }
+    ]
+  }
+}

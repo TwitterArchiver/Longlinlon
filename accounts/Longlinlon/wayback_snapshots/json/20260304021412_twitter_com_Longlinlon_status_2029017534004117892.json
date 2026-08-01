@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2029017534004117892",
+    "created_at": "2026-03-04T02:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029017534004117892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike001/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/fayoubaike001/status/2028420906411004099",
+          "start": 11,
+          "url": "https://t.co/WH1crwKrZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029017534004117892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028420906411004099",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持国内医生这样做 https://t.co/WH1crwKrZA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2029017534004117892",
+        "created_at": "2026-03-04T02:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029017534004117892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike001/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/fayoubaike001/status/2028420906411004099",
+              "start": 11,
+              "url": "https://t.co/WH1crwKrZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029017534004117892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028420906411004099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持国内医生这样做 https://t.co/WH1crwKrZA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2028420906411004099",
+        "created_at": "2026-03-02T10:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028420906411004099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028420906411004099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 180395,
+          "like_count": 1492,
+          "quote_count": 15,
+          "reply_count": 53,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "你国精神科医生对地雷妹的治疗方案就是骗他们吃喹硫平，等他们吃成肥猪被赶出小圈子之后就变健全了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 2566,
+          "like_count": 209580,
+          "listed_count": 9,
+          "media_count": 1382,
+          "tweet_count": 14759
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 160,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 145
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

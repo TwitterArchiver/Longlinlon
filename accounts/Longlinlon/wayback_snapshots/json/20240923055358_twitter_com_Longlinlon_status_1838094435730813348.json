@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1837895593097941200",
+    "created_at": "2024-09-23T05:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T06:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838094435730813348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497885833277304832",
+          "start": 0,
+          "username": "qiubai23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838094435730813348",
+    "in_reply_to_user_id": "1497885833277304832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837898149496758769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiubai23 看看十日终焉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1837895593097941200",
+        "created_at": "2024-09-23T05:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T06:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838094435730813348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497885833277304832",
+              "start": 0,
+              "username": "qiubai23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838094435730813348",
+        "in_reply_to_user_id": "1497885833277304832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837898149496758769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiubai23 看看十日终焉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497885833277304832",
+        "conversation_id": "1837895593097941200",
+        "created_at": "2024-09-22T16:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T17:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837898149496758769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837898149496758769",
+        "in_reply_to_user_id": "1497885833277304832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837895593097941200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便吐槽下现在找书都好困难，男频不想看只塑造主角一个人的，女频不想看男主存在感太强的，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 2219,
+          "like_count": 175899,
+          "listed_count": 10,
+          "tweet_count": 11416
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T10:46:36.000Z",
+        "description": "左翼，毛派，继续革命论，反孔精英\n//文化革命势在必行\n//以“职业革命家”的名义给小资产阶级“知识分子”们提供“工作岗位”的时代将一去不复返了\n//姚文元 @Yao19311211 - 琉璃@MoCha39616 主义者\n//父权制和私有制是一体两面\n女权主义是打碎资产阶级法权过程的重要一环",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "Yao19311211"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "MoCha39616"
+              }
+            ]
+          }
+        },
+        "id": "1497885833277304832",
+        "location": "上海工总司",
+        "name": "秋白拭目以待（淡推中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598356128915914757/xAhdIgrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 477,
+          "like_count": 10282,
+          "listed_count": 21,
+          "tweet_count": 7975
+        },
+        "username": "qiubai23",
+        "verified": false
+      }
+    ]
+  }
+}

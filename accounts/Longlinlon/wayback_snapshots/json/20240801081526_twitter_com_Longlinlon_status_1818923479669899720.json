@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1818923479669899720",
+    "created_at": "2024-08-01T08:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T09:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818923479669899720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694936667898167297",
+          "start": 3,
+          "username": "Xianzi_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818923479669899720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818867753513828713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xianzi_QwQ: 我说你们某些人别玩网了，那人没被锤之前，一个劲的羡慕，去牠评论区下面和牠互动，一口一个姐姐的叫，被锤之后，就开始各种辱骂诅咒攻击，别玩网玩成傻子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1818923479669899720",
+        "created_at": "2024-08-01T08:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T09:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818923479669899720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694936667898167297",
+              "start": 3,
+              "username": "Xianzi_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818923479669899720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818867753513828713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xianzi_QwQ: 我说你们某些人别玩网了，那人没被锤之前，一个劲的羡慕，去牠评论区下面和牠互动，一口一个姐姐的叫，被锤之后，就开始各种辱骂诅咒攻击，别玩网玩成傻子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694936667898167297",
+        "conversation_id": "1818867753513828713",
+        "created_at": "2024-08-01T04:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T05:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818867753513828713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818867753513828713",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2577,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我说你们某些人别玩网了，那人没被锤之前，一个劲的羡慕，去牠评论区下面和牠互动，一口一个姐姐的叫，被锤之后，就开始各种辱骂诅咒攻击，别玩网玩成傻子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 2157,
+          "like_count": 164881,
+          "listed_count": 10,
+          "tweet_count": 10816
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T04:56:22.000Z",
+        "description": "",
+        "id": "1694936667898167297",
+        "location": "It",
+        "name": "穗_🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766269670741712896/7TV3k7g9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 761,
+          "like_count": 21988,
+          "listed_count": 14,
+          "tweet_count": 9053
+        },
+        "username": "Xianzi_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

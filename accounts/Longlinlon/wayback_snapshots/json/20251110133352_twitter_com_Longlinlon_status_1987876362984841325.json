@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1987862275341136028",
+    "created_at": "2025-11-10T13:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987876362984841325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987876362984841325",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987867352025743692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene 写的还没我小学五年级写得好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1987862275341136028",
+        "created_at": "2025-11-10T13:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987876362984841325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987876362984841325",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987867352025743692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene 写的还没我小学五年级写得好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765807474964258816",
+        "conversation_id": "1987862275341136028",
+        "created_at": "2025-11-10T12:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987867352025743692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987867352025743692",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987862275341136028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 真的是 看乐了! 还nm有复刻插图这是最牛逼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2501,
+          "like_count": 213427,
+          "listed_count": 9,
+          "media_count": 1353,
+          "tweet_count": 14490
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "已婚宅男 ♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 58,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 35,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 102,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 79,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "1987327906360795266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987610738303631360/WKqQSdZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37653,
+          "following_count": 1984,
+          "like_count": 18617,
+          "listed_count": 121,
+          "media_count": 1432,
+          "tweet_count": 7462
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

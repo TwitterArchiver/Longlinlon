@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2019068439265194284",
+    "created_at": "2026-02-04T15:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T16:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019068439265194284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/2019038429078839506",
+          "start": 49,
+          "url": "https://t.co/LkkOde1YvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019068439265194284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019038429078839506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不就我家吗。。。资产阶级真是闹麻了，把无产阶级居住的地方渲染成恐怖梦幻的地方，然后美名其约梦核 https://t.co/LkkOde1YvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019038425048125441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUQwBDbkAErRne.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2019068439265194284",
+        "created_at": "2026-02-04T15:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019068439265194284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2019038429078839506",
+              "start": 49,
+              "url": "https://t.co/LkkOde1YvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019068439265194284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019038429078839506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不就我家吗。。。资产阶级真是闹麻了，把无产阶级居住的地方渲染成恐怖梦幻的地方，然后美名其约梦核 https://t.co/LkkOde1YvM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019038425048125441"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2019038429078839506",
+        "created_at": "2026-02-04T13:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019038429078839506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cc2fOiWpnR",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/2019038429078839506/photo/1",
+              "media_key": "3_2019038425048125441",
+              "start": 15,
+              "url": "https://t.co/cc2fOiWpnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019038429078839506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1668,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个画面会不会让你感到不安？ https://t.co/cc2fOiWpnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 2541,
+          "like_count": 209737,
+          "listed_count": 9,
+          "media_count": 1378,
+          "tweet_count": 14706
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7426,
+          "following_count": 2215,
+          "like_count": 29746,
+          "listed_count": 23,
+          "media_count": 3119,
+          "tweet_count": 17760
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

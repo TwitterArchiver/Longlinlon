@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2006934219050856675",
+    "created_at": "2026-01-03T16:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T17:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007483379395272958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1421301972007849986",
+          "start": 0,
+          "username": "pbpp10521715"
+        },
+        {
+          "end": 25,
+          "id": "1729090153124376576",
+          "start": 14,
+          "username": "Sallyand99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007483379395272958",
+    "in_reply_to_user_id": "1421301972007849986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007000961081020738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbpp10521715 @Sallyand99 人家是小孩，你是老骚逼，不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2006934219050856675",
+        "created_at": "2026-01-03T16:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007483379395272958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421301972007849986",
+              "start": 0,
+              "username": "pbpp10521715"
+            },
+            {
+              "end": 25,
+              "id": "1729090153124376576",
+              "start": 14,
+              "username": "Sallyand99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007483379395272958",
+        "in_reply_to_user_id": "1421301972007849986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007000961081020738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbpp10521715 @Sallyand99 人家是小孩，你是老骚逼，不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "2006934219050856675",
+        "created_at": "2026-01-02T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007000961081020738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "Sallyand99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007000961081020738",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21175,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006934219050856675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyand99 懒觉怎么了，这是好事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2476,
+          "like_count": 210682,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14574
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005189372724027392/wrCnH6l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12729,
+          "following_count": 477,
+          "like_count": 23957,
+          "listed_count": 26,
+          "media_count": 842,
+          "tweet_count": 9090
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子\n有什么想问的tg联系https://t.co/uWEHdlBRFW\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 38,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 15,
+                "url": "https://t.co/uWEHdlBRFW"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "广州，🚪150 课",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22812,
+          "following_count": 142,
+          "like_count": 666,
+          "listed_count": 64,
+          "media_count": 117,
+          "tweet_count": 379
+        },
+        "username": "Sallyand99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1834219009199485239",
+    "created_at": "2024-09-12T15:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T16:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834256622522433766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "JRDianaForever"
+        },
+        {
+          "end": 28,
+          "id": "1800723171970281472",
+          "start": 16,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834256622522433766",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834234849873592393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JRDianaForever @Konekoutena 嘻嘻是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1834219009199485239",
+        "created_at": "2024-09-12T15:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T16:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834256622522433766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "JRDianaForever"
+            },
+            {
+              "end": 28,
+              "id": "1800723171970281472",
+              "start": 16,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834256622522433766",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834234849873592393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JRDianaForever @Konekoutena 嘻嘻是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1834219009199485239",
+        "created_at": "2024-09-12T14:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T15:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834234849873592393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800723171970281472",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834234849873592393",
+        "in_reply_to_user_id": "1800723171970281472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834219009199485239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 包蜜，支黑，粉红：选习近平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 2217,
+          "like_count": 174888,
+          "listed_count": 10,
+          "tweet_count": 11307
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "Queer🏳️‍⚧️ 生态主义 喜欢的地方是BC和WA 奋斗目标是建立一个嘉心糖专政的联邦制国家 ⚠️遇到魔怔人会拉黑",
+        "id": "1470943033365438470",
+        "location": "生态社会主义联邦",
+        "name": "🏳️‍⚧️❄️然书记🍫🌲",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823619355902709760/Y6cIGIxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 888,
+          "like_count": 20885,
+          "listed_count": 15,
+          "tweet_count": 12475
+        },
+        "username": "JRDianaForever",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T02:54:05.000Z",
+        "description": "万物皆🧼之喵勒教图书管理员，三位一体独一真神福音传播者，职业地狱笑话勒子人，喜欢嘲讽和调戏各种傻子",
+        "id": "1800723171970281472",
+        "location": "猫星",
+        "name": "枫糖小猫🧼",
+        "pinned_tweet_id": "1833366338418708816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833417370947461120/OHmECZTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 754,
+          "like_count": 632,
+          "listed_count": 0,
+          "tweet_count": 5903
+        },
+        "username": "Konekoutena",
+        "verified": false
+      }
+    ]
+  }
+}

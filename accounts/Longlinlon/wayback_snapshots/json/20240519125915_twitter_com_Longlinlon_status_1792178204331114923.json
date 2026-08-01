@@ -1,0 +1,318 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1792178204331114923",
+    "created_at": "2024-05-19T12:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T13:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792178204331114923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miriri_sub/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/miriri_sub/status/1792095078175117370",
+          "start": 6,
+          "url": "https://t.co/YORoA1jZha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792178204331114923",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792095078175117370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是日本人 https://t.co/YORoA1jZha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1792178204331114923",
+        "created_at": "2024-05-19T12:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T13:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792178204331114923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miriri_sub/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/miriri_sub/status/1792095078175117370",
+              "start": 6,
+              "url": "https://t.co/YORoA1jZha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792178204331114923",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792095078175117370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是日本人 https://t.co/YORoA1jZha"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792095075763367936"
+          ]
+        },
+        "author_id": "1752642339640889344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1792095078175117370",
+        "created_at": "2024-05-19T07:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T08:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792095078175117370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wBEioLG4Qq",
+              "end": 39,
+              "expanded_url": "https://twitter.com/miriri_sub/status/1792095078175117370/photo/1",
+              "media_key": "3_1792095075763367936",
+              "start": 16,
+              "url": "https://t.co/wBEioLG4Qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792095078175117370",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 489952,
+          "like_count": 18737,
+          "quote_count": 41,
+          "reply_count": 23,
+          "retweet_count": 1333
+        },
+        "reply_settings": "everyone",
+        "text": "日本人の装備の歴史だいたいこれ https://t.co/wBEioLG4Qq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1947,
+          "like_count": 129279,
+          "listed_count": 10,
+          "tweet_count": 9407
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:38:07.000Z",
+        "description": "ネタツイッタラーです\n仲良くしてくださいこの野郎👊\nサブ垢(元本垢)→@miririiiiinu\n鍵→@M1R1N_mirimiri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "miririiiiinu"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "M1R1N_mirimiri"
+              }
+            ]
+          }
+        },
+        "id": "1752642339640889344",
+        "location": "モホロビチッチ不連続面",
+        "name": "みりん🇪🇪🎸",
+        "pinned_tweet_id": "1784941829701636328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777841835228164096/Mi7PBHND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 2980,
+          "like_count": 4653,
+          "listed_count": 71,
+          "tweet_count": 1786
+        },
+        "username": "miriri_sub",
+        "verified": false
+      }
+    ]
+  }
+}

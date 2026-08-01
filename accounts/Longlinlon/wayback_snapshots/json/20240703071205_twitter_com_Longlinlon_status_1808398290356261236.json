@@ -1,0 +1,253 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808398290356261236",
+    "created_at": "2024-07-03T07:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T08:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808398290356261236"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Bloons TD 6",
+          "probability": 0.563,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "18190842",
+          "start": 3,
+          "username": "yukiexe"
+        },
+        {
+          "end": 22,
+          "id": "1724934343670505472",
+          "start": 13,
+          "username": "Kogzack9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808398290356261236",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808396767224029203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukiexe: @Kogzack9 Bloons TD 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808398290356261236",
+        "created_at": "2024-07-03T07:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T08:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808398290356261236"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Bloons TD 6",
+              "probability": 0.563,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "18190842",
+              "start": 3,
+              "username": "yukiexe"
+            },
+            {
+              "end": 22,
+              "id": "1724934343670505472",
+              "start": 13,
+              "username": "Kogzack9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808398290356261236",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808396767224029203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukiexe: @Kogzack9 Bloons TD 6"
+      },
+      {
+        "attachments": {},
+        "author_id": "18190842",
+        "conversation_id": "1808285353167802393",
+        "created_at": "2024-07-03T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808396767224029203"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Bloons",
+              "probability": 0.8102,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "6",
+              "probability": 0.5656,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724934343670505472",
+              "start": 0,
+              "username": "Kogzack9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808396767224029203",
+        "in_reply_to_user_id": "1724934343670505472",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808285353167802393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kogzack9 Bloons TD 6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 2051,
+          "like_count": 150321,
+          "listed_count": 10,
+          "tweet_count": 10365
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-17T15:21:48.000Z",
+        "description": "雏草姬 | mmo 萬小時玩家 | 🏳️‍⚧️",
+        "id": "18190842",
+        "name": "咚醬🍥 「最快樂的精靈，可否懂得焦慮」",
+        "pinned_tweet_id": "899001601410572288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704081554040111104/X3rAQdLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3889,
+          "following_count": 1955,
+          "like_count": 62779,
+          "listed_count": 82,
+          "tweet_count": 154075
+        },
+        "username": "yukiexe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T23:36:29.000Z",
+        "description": "丨感觉每天都是困困的💤丨想要变得可爱丨微信门槛🧧177有瑟瑟福利（自录视频群+图包+朋友圈）",
+        "id": "1724934343670505472",
+        "name": "小洛睡着了",
+        "pinned_tweet_id": "1781290230416621847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731922946250375168/In9-fGZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16486,
+          "following_count": 106,
+          "like_count": 1712,
+          "listed_count": 32,
+          "tweet_count": 948
+        },
+        "username": "Kogzack9",
+        "verified": false
+      }
+    ]
+  }
+}

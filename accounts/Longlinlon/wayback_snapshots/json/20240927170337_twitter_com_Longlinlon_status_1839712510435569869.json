@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1839712510435569869",
+    "created_at": "2024-09-27T17:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T18:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839712510435569869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669543422586421248",
+          "start": 3,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839712510435569869",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839709157978714480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Letana358121: 你們可以給我轉發這條推文嗎我想交朋友。\n愛打maimai，跨性別女性，有一些暴論，性格很差勁，地雷，精神分裂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1839712510435569869",
+        "created_at": "2024-09-27T17:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T18:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839712510435569869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669543422586421248",
+              "start": 3,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839712510435569869",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839709157978714480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Letana358121: 你們可以給我轉發這條推文嗎我想交朋友。\n愛打maimai，跨性別女性，有一些暴論，性格很差勁，地雷，精神分裂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "1839709157978714480",
+        "created_at": "2024-09-27T16:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T17:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839709157978714480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839709157978714480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你們可以給我轉發這條推文嗎我想交朋友。\n愛打maimai，跨性別女性，有一些暴論，性格很差勁，地雷，精神分裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2213,
+          "like_count": 176246,
+          "listed_count": 9,
+          "tweet_count": 11489
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "🏳️‍⚧️🍥🐶",
+        "id": "1669543422586421248",
+        "location": "狗狗星",
+        "name": "SANAKA🍥",
+        "pinned_tweet_id": "1834997174243090878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821725553852084225/JtR9GVCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 929,
+          "like_count": 28883,
+          "listed_count": 3,
+          "tweet_count": 9292
+        },
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1992470629640221026",
+    "created_at": "2025-11-23T06:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992476327623221479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992476327623221479",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992470629640221026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxGod__ 我就知道不黑幕我肯定有原因"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992470597788381184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6atc76WMAArHA5.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992470597813534721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6atc8AWAAEAna7.jpg",
+        "width": 1960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1992470629640221026",
+        "created_at": "2025-11-23T06:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992476327623221479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992476327623221479",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992470629640221026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxGod__ 我就知道不黑幕我肯定有原因"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992470597788381184",
+            "3_1992470597813534721"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1992470629640221026",
+        "created_at": "2025-11-23T05:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992470629640221026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2pPyuUrdG",
+              "end": 33,
+              "expanded_url": "https://x.com/FoxGod__/status/1992470629640221026/photo/1",
+              "media_key": "3_1992470597788381184",
+              "start": 10,
+              "url": "https://t.co/W2pPyuUrdG"
+            },
+            {
+              "display_url": "pic.x.com/W2pPyuUrdG",
+              "end": 33,
+              "expanded_url": "https://x.com/FoxGod__/status/1992470629640221026/photo/1",
+              "media_key": "3_1992470597813534721",
+              "start": 10,
+              "url": "https://t.co/W2pPyuUrdG"
+            },
+            {
+              "display_url": "x.com/foxgod__/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/foxgod__/status/1990081301412462601",
+              "start": 34,
+              "url": "https://t.co/Hzwo9rFPQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992470629640221026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990081301412462601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奖励其实是三套试卷 https://t.co/W2pPyuUrdG https://t.co/Hzwo9rFPQs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2498,
+          "like_count": 212354,
+          "listed_count": 9,
+          "media_count": 1359,
+          "tweet_count": 14525
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是谁？我无处不在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991823421739511808/SrJ_IWX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7494,
+          "following_count": 240,
+          "like_count": 31697,
+          "listed_count": 19,
+          "media_count": 190,
+          "tweet_count": 919
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

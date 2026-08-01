@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1839184062440738816"
+      ],
+      "media_source_tweet_id": [
+        "1839184104660574501"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1839844008371335284",
+    "created_at": "2024-09-28T01:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T02:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839844008371335284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671038169888980992",
+          "start": 3,
+          "username": "identity_ttk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4jjnhjwks",
+          "end": 41,
+          "expanded_url": "https://twitter.com/identity_ttk/status/1839184104660574501/video/1",
+          "media_key": "7_1839184062440738816",
+          "start": 18,
+          "url": "https://t.co/R4JjNHjWkS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839844008371335284",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 509
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839184104660574501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @identity_ttk: https://t.co/R4JjNHjWkS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29048,
+        "height": 1024,
+        "media_key": "7_1839184062440738816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1839184062440738816/pu/img/S7Dg5fHsTfLeONoK.jpg",
+        "public_metrics": {
+          "view_count": 28116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839184062440738816/pu/vid/avc1/320x568/xsQhuUB9XKRUuooz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839184062440738816/pu/vid/avc1/480x852/x8vilr--ZN7SO4F_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839184062440738816/pu/vid/avc1/576x1024/m_XOcqUu2C7um6fQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1839184062440738816/pu/pl/ETzaKazNDI7v11ew.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839184062440738816"
+          ],
+          "media_source_tweet_id": [
+            "1839184104660574501"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1839844008371335284",
+        "created_at": "2024-09-28T01:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T02:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839844008371335284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671038169888980992",
+              "start": 3,
+              "username": "identity_ttk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4jjnhjwks",
+              "end": 41,
+              "expanded_url": "https://twitter.com/identity_ttk/status/1839184104660574501/video/1",
+              "media_key": "7_1839184062440738816",
+              "start": 18,
+              "url": "https://t.co/R4JjNHjWkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839844008371335284",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 509
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839184104660574501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @identity_ttk: https://t.co/R4JjNHjWkS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839184062440738816"
+          ]
+        },
+        "author_id": "1671038169888980992",
+        "conversation_id": "1839184104660574501",
+        "created_at": "2024-09-26T06:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T07:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839184104660574501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4jjnhjwks",
+              "end": 23,
+              "expanded_url": "https://twitter.com/identity_ttk/status/1839184104660574501/video/1",
+              "media_key": "7_1839184062440738816",
+              "start": 0,
+              "url": "https://t.co/R4JjNHjWkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839184104660574501",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 64195,
+          "like_count": 2039,
+          "quote_count": 28,
+          "reply_count": 1,
+          "retweet_count": 509
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R4JjNHjWkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2213,
+          "like_count": 176297,
+          "listed_count": 9,
+          "tweet_count": 11493
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T06:12:10.000Z",
+        "description": "",
+        "id": "1671038169888980992",
+        "location": "중복있을 수 있음",
+        "name": "온격 틱톡영상",
+        "pinned_tweet_id": "1681283452606480384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671138457631215617/hpvF_iCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 2,
+          "like_count": 122,
+          "listed_count": 3,
+          "tweet_count": 926
+        },
+        "username": "identity_ttk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1817182458015633482",
+    "created_at": "2024-07-27T12:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T13:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817182458015633482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748939554667802624",
+          "start": 3,
+          "username": "8964Low1Q9"
+        },
+        {
+          "end": 28,
+          "id": "1765225639148490752",
+          "start": 16,
+          "username": "suhong11300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817182458015633482",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817178070635467161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964Low1Q9: @suhong11300 111還能說話嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1817182458015633482",
+        "created_at": "2024-07-27T12:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T13:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817182458015633482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748939554667802624",
+              "start": 3,
+              "username": "8964Low1Q9"
+            },
+            {
+              "end": 28,
+              "id": "1765225639148490752",
+              "start": 16,
+              "username": "suhong11300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817182458015633482",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817178070635467161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964Low1Q9: @suhong11300 111還能說話嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748939554667802624",
+        "conversation_id": "1816794219983602066",
+        "created_at": "2024-07-27T12:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T13:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817178070635467161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765225639148490752",
+              "start": 0,
+              "username": "suhong11300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817178070635467161",
+        "in_reply_to_user_id": "1765225639148490752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816794219983602066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suhong11300 111還能說話嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 2151,
+          "like_count": 163387,
+          "listed_count": 10,
+          "tweet_count": 10762
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T05:24:29.000Z",
+        "description": "mtf @4Low1Q9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "4Low1Q9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/4Low1Q9",
+                "end": 23,
+                "expanded_url": "https://note.ms/4Low1Q9",
+                "start": 0,
+                "url": "https://t.co/NCfa7gS2xm"
+              }
+            ]
+          }
+        },
+        "id": "1748939554667802624",
+        "name": "4Low1Q9",
+        "pinned_tweet_id": "1752162406615408787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800382389719633922/yD2CyxWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 154,
+          "like_count": 26196,
+          "listed_count": 13,
+          "tweet_count": 10917
+        },
+        "url": "https://t.co/NCfa7gS2xm",
+        "username": "8964Low1Q9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T03:59:32.000Z",
+        "description": "苏鸿的个人电台［退休版］｜建制右｜二号台@suhong11302 兼生活推/@commonhong | 淡推一会儿 讣告代发 #中推讣告栏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 63,
+                "tag": "中推讣告栏"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "suhong11302"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "commonhong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/1-F…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/document/d/1-F6hACw2l0dr_uixAnTf5D1Quo02Q77Z7pFhug5ahDM/edit",
+                "start": 0,
+                "url": "https://t.co/wCQAVXEr1L"
+              }
+            ]
+          }
+        },
+        "id": "1765225639148490752",
+        "location": "中国良湘（404 find)",
+        "name": "苏鸿^ v ^star電台",
+        "pinned_tweet_id": "1814624891309863392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808698004322594816/3jrIZgAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 624,
+          "like_count": 5419,
+          "listed_count": 6,
+          "tweet_count": 3971
+        },
+        "url": "https://t.co/wCQAVXEr1L",
+        "username": "suhong11300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1841363540122431744",
+    "created_at": "2024-10-02T06:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T07:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841363540122431744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youquzhiji/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/youquzhiji/status/1841357745661833407",
+          "start": 5,
+          "url": "https://t.co/2hd42IkeOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841363540122431744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841357745661833407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得是 https://t.co/2hd42IkeOM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1841363540122431744",
+        "created_at": "2024-10-02T06:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T07:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841363540122431744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youquzhiji/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/youquzhiji/status/1841357745661833407",
+              "start": 5,
+              "url": "https://t.co/2hd42IkeOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841363540122431744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841357745661833407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得是 https://t.co/2hd42IkeOM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2289619658",
+        "conversation_id": "1841357745661833407",
+        "created_at": "2024-10-02T06:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T07:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841357745661833407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youquzhiji/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/youquzhiji/status/1841355918295912749",
+              "start": 99,
+              "url": "https://t.co/Us7dJfBArl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841357745661833407",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841355918295912749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦想起来之前还有人论证过我玩主机证明我有privilege什么的，我寻思我tm也是用电脑开的模拟器啊，大家都会上网为什么我能找到正经马里奥赛车你们玩的是4399同人flash难道是因为阶级差异不成 https://t.co/Us7dJfBArl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 2221,
+          "like_count": 176833,
+          "listed_count": 8,
+          "tweet_count": 11577
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-13T12:39:58.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2289619658",
+        "name": "无聊至极🏳️‍⚧️",
+        "pinned_tweet_id": "1637127694184853507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690381924466937857/gcIObNkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 330,
+          "like_count": 22714,
+          "listed_count": 3,
+          "tweet_count": 7100
+        },
+        "username": "youquzhiji",
+        "verified": false
+      }
+    ]
+  }
+}

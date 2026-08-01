@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+          "id": "10047023523",
+          "name": "League of Legends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      }
+    ],
+    "conversation_id": "1852728247366148179",
+    "created_at": "2024-11-02T15:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T16:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852728986771833336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "614754689",
+          "start": 0,
+          "username": "lolesports"
+        },
+        {
+          "end": 27,
+          "id": "1466606036647772165",
+          "start": 12,
+          "username": "BilibiliGaming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852728986771833336",
+    "in_reply_to_user_id": "614754689",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852728247366148179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lolesports @BilibiliGaming 天哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          }
+        ],
+        "conversation_id": "1852728247366148179",
+        "created_at": "2024-11-02T15:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T16:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852728986771833336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "614754689",
+              "start": 0,
+              "username": "lolesports"
+            },
+            {
+              "end": 27,
+              "id": "1466606036647772165",
+              "start": 12,
+              "username": "BilibiliGaming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852728986771833336",
+        "in_reply_to_user_id": "614754689",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852728247366148179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lolesports @BilibiliGaming 天哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852727708834316289"
+          ]
+        },
+        "author_id": "614754689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the entire League of Legends universe.\n\t\nNOTE: Following the release of Arcane, Video Game (domain 71) annotations were halted on 12/3/2021.",
+              "id": "10047023523",
+              "name": "League of Legends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The League of Legends World Championship - #Worlds2024 - is the pinnacle of @LoLEsports competition where the top teams from 8 regions compete for the world champion title.",
+              "id": "1849191717930479616",
+              "name": "League of Legends World Championship 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "La gran final del Mid Season Invitational 2022 se llevó a cabo este 29 de mayo. RNG triunfó 3-2 sobre T1 para llevarse su tercera victoria en este campeonato.\n\nAquí puedes seguir todas las novedad a través de Tweets de medios de videojuegos, periodistas y gamers ⬇️ ",
+              "id": "1523957230462111744",
+              "name": "MSI2022: RNG vence a T1 y se convierte en tricampeón del torneo 🏆"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The League of Legends World Championship - #Worlds2024 - is the pinnacle of @LoLEsports competition where the top teams from 8 regions compete for the world champion title.",
+              "id": "1849191717930479616",
+              "name": "League of Legends World Championship 2024"
+            }
+          }
+        ],
+        "conversation_id": "1852728247366148179",
+        "created_at": "2024-11-02T15:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T16:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852728247366148179"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "WORLDS2024",
+              "probability": 0.7796,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 42,
+              "tag": "WORLDS2024"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1466606036647772165",
+              "start": 7,
+              "username": "BilibiliGaming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJJzwMigv0",
+              "end": 85,
+              "expanded_url": "https://x.com/lolesports/status/1852728247366148179/photo/1",
+              "media_key": "3_1852727708834316289",
+              "start": 62,
+              "url": "https://t.co/qJJzwMigv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852728247366148179",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20861,
+          "like_count": 1391,
+          "quote_count": 183,
+          "reply_count": 159,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "1⃣-0⃣\n\n@BILIBILIGAMING TAKE GAME 1 OF THE #WORLDS2024 FINALS! https://t.co/qJJzwMigv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 2221,
+          "like_count": 177521,
+          "listed_count": 8,
+          "tweet_count": 11749
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-22T01:55:13.000Z",
+        "description": "Your source for all things @LeagueOfLegends Esports!\n\nWatch the #Worlds2024 Final this Saturday (6AM PT / 3PM CET) on https://t.co/RwFjaL9WKY!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "Worlds2024"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "LeagueOfLegends"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 141,
+                "expanded_url": "http://lolesports.com",
+                "start": 118,
+                "url": "https://t.co/RwFjaL9WKY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lolesports.com",
+                "end": 23,
+                "expanded_url": "http://www.lolesports.com",
+                "start": 0,
+                "url": "https://t.co/7dbNykDdJk"
+              }
+            ]
+          }
+        },
+        "id": "614754689",
+        "location": "Worldwide",
+        "name": "LoL Esports",
+        "pinned_tweet_id": "1852632314251010136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830254501602684928/cwF5sYay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622973,
+          "following_count": 598,
+          "like_count": 7691,
+          "listed_count": 4339,
+          "tweet_count": 72097
+        },
+        "url": "https://t.co/7dbNykDdJk",
+        "username": "lolesports",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T03:12:10.000Z",
+        "description": "Cheers for the faith ll #BLGWIN ll All about Bilibili Gaming \nContacts: https://t.co/VXMoCCkPGo \nBusiness: BLG_BD@bilibili.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "BLGWIN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5926660141",
+                "end": 95,
+                "expanded_url": "http://weibo.com/u/5926660141",
+                "start": 72,
+                "url": "https://t.co/VXMoCCkPGo"
+              }
+            ]
+          }
+        },
+        "id": "1466606036647772165",
+        "location": "Shanghai, China",
+        "name": "Bilibili Gaming",
+        "pinned_tweet_id": "1826255504081080573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468849720625795074/72hzL5e7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29639,
+          "following_count": 43,
+          "like_count": 95,
+          "listed_count": 96,
+          "tweet_count": 767
+        },
+        "username": "BilibiliGaming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1822363419976307195",
+    "created_at": "2024-08-11T17:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T18:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822681403496206355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3029501171",
+          "start": 0,
+          "username": "ltntw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822681403496206355",
+    "in_reply_to_user_id": "3029501171",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822363419976307195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ltntw 好感动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1822363419976307195",
+        "created_at": "2024-08-11T17:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T18:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822681403496206355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3029501171",
+              "start": 0,
+              "username": "ltntw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822681403496206355",
+        "in_reply_to_user_id": "3029501171",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822363419976307195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltntw 好感动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822362959294902272"
+          ]
+        },
+        "author_id": "3029501171",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1814070408787734528",
+              "name": "Paris 2024 Boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1390392525299490817",
+              "name": "Olympic Boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1815864640586260480",
+              "name": "Paris Olympic Athletes"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1814070408787734528",
+              "name": "Paris 2024 Boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284153285293690881",
+              "name": "Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390392525299490817",
+              "name": "Olympic Boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1814070408787734528",
+              "name": "Paris 2024 Boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1814070408787734528",
+              "name": "Paris 2024 Boxing"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1822363419976307195",
+        "created_at": "2024-08-10T20:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T21:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822363419976307195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "巴黎奧運"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "林郁婷"
+            },
+            {
+              "end": 146,
+              "start": 136,
+              "tag": "LinYuTing"
+            },
+            {
+              "end": 160,
+              "start": 147,
+              "tag": "OlympicGames"
+            },
+            {
+              "end": 168,
+              "start": 161,
+              "tag": "Taiwan"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "台湾"
+            }
+          ],
+          "urls": [
+            {
+              "description": "即使面對性別爭議紛擾，「台灣拳后」林郁婷仍堅定心志，今在巴黎奧運拳擊女子57公斤級金牌戰，以5：0擊潰波蘭女將賽琳梅塔（Julia Szeremeta），勇奪我國史上首面拳擊奧運金牌，也是台灣代表團本屆第2金。28歲的林郁婷生涯寫下不少輝煌紀錄，不僅拿過亞錦賽、世錦賽金牌，還是我國史上首位奪下亞運金",
+              "display_url": "sports.ltn.com.tw/news/breakingn…",
+              "end": 123,
+              "expanded_url": "https://sports.ltn.com.tw/news/breakingnews/4765272",
+              "images": [
+                {
+                  "height": 740,
+                  "url": "https://pbs.twimg.com/news_img/1822363426242596864/kaQZ3hx8?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1822363426242596864/kaQZ3hx8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "巴黎前線》林郁婷力挫波蘭女將 勇奪我國史上首面拳擊奧運金牌 - 自由體育",
+              "unwound_url": "https://sports.ltn.com.tw/news/breakingnews/4765272",
+              "url": "https://t.co/TqtNRfDpoh"
+            },
+            {
+              "display_url": "pic.x.com/v3b3xnptkg",
+              "end": 196,
+              "expanded_url": "https://twitter.com/ltntw/status/1822363419976307195/photo/1",
+              "media_key": "3_1822362959294902272",
+              "start": 173,
+              "url": "https://t.co/V3b3xNptkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822363419976307195",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 169559,
+          "like_count": 7220,
+          "quote_count": 97,
+          "reply_count": 191,
+          "retweet_count": 1011
+        },
+        "reply_settings": "everyone",
+        "text": "林郁婷！！！我要哭了！！！\n從小時候開始練拳就期待的夢想，這一刻終於實現！扛住外界霸凌和壓力，把賽前囂張的波蘭對手打到鼻血狂流，毫無懸念5:0完封獲勝，勇奪台灣史上第一面奧運拳擊金牌！\n \n圖文報導：https://t.co/TqtNRfDpoh\n\n#巴黎奧運 #林郁婷 #LinYuTing #OlympicGames #Taiwan #台湾 https://t.co/V3b3xNptkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1821142206574686466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 2193,
+          "like_count": 169486,
+          "listed_count": 10,
+          "tweet_count": 10959
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-11T04:46:42.000Z",
+        "description": "提供第一手全球各地最即時的突發事件報導，為網友精準掌握新聞脈動。Liberty Times is the largest newspaper by circulation in Taiwan, providing national and international real-time news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltn.com.tw",
+                "end": 23,
+                "expanded_url": "http://www.ltn.com.tw/",
+                "start": 0,
+                "url": "https://t.co/NNg4IPIkTF"
+              }
+            ]
+          }
+        },
+        "id": "3029501171",
+        "location": "台北市內湖區瑞光路399號14樓",
+        "name": "自由時報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800377834864787456/y9VqpRvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116170,
+          "following_count": 75,
+          "like_count": 233,
+          "listed_count": 685,
+          "tweet_count": 16540
+        },
+        "url": "https://t.co/NNg4IPIkTF",
+        "username": "ltntw",
+        "verified": false
+      }
+    ]
+  }
+}

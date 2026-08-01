@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1801883194343477589",
+    "created_at": "2024-06-15T07:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T08:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801883194343477589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801883194343477589",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801855637871333824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 😧我对中年有娃跨所说的\"妻子支持自己手术\"都持保留意见。😂中年有娃跨不是说自己是中年有娃跨就是中年有娃跨，中年有娃跨在跨之前，是中年有经济实力男，而妻子是带娃家庭主妇。\n\n没有财权的家庭主妇啥时候有说不的权力……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1801883194343477589",
+        "created_at": "2024-06-15T07:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T08:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801883194343477589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801883194343477589",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801855637871333824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 😧我对中年有娃跨所说的\"妻子支持自己手术\"都持保留意见。😂中年有娃跨不是说自己是中年有娃跨就是中年有娃跨，中年有娃跨在跨之前，是中年有经济实力男，而妻子是带娃家庭主妇。\n\n没有财权的家庭主妇啥时候有说不的权力……"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1801855637871333824",
+        "created_at": "2024-06-15T05:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T06:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801855637871333824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801855637871333824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 690,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😧我对中年有娃跨所说的\"妻子支持自己手术\"都持保留意见。😂中年有娃跨不是说自己是中年有娃跨就是中年有娃跨，中年有娃跨在跨之前，是中年有经济实力男，而妻子是带娃家庭主妇。\n\n没有财权的家庭主妇啥时候有说不的权力……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1987,
+          "like_count": 139416,
+          "listed_count": 9,
+          "tweet_count": 10070
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 95,
+          "like_count": 65,
+          "listed_count": 10,
+          "tweet_count": 2769
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

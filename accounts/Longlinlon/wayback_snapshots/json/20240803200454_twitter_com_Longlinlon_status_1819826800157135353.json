@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1819731521957445859",
+    "created_at": "2024-08-03T20:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T21:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819826800157135353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1546760344831287296",
+          "start": 0,
+          "username": "KolinskyVbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819826800157135353",
+    "in_reply_to_user_id": "1546760344831287296",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819731521957445859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KolinskyVbox 谁家地雷女x富哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1819731521957445859",
+        "created_at": "2024-08-03T20:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T21:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819826800157135353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1546760344831287296",
+              "start": 0,
+              "username": "KolinskyVbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819826800157135353",
+        "in_reply_to_user_id": "1546760344831287296",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819731521957445859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KolinskyVbox 谁家地雷女x富哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819731517817643008",
+            "3_1819731517977055232",
+            "3_1819731518094487552",
+            "3_1819731519251836928"
+          ]
+        },
+        "author_id": "1546760344831287296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819731521957445859",
+        "created_at": "2024-08-03T13:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T14:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819731521957445859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/p1sLEbebe4",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KolinskyVbox/status/1819731521957445859/photo/1",
+              "media_key": "3_1819731517817643008",
+              "start": 16,
+              "url": "https://t.co/p1sLEbebe4"
+            },
+            {
+              "display_url": "pic.twitter.com/p1sLEbebe4",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KolinskyVbox/status/1819731521957445859/photo/1",
+              "media_key": "3_1819731517977055232",
+              "start": 16,
+              "url": "https://t.co/p1sLEbebe4"
+            },
+            {
+              "display_url": "pic.twitter.com/p1sLEbebe4",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KolinskyVbox/status/1819731521957445859/photo/1",
+              "media_key": "3_1819731518094487552",
+              "start": 16,
+              "url": "https://t.co/p1sLEbebe4"
+            },
+            {
+              "display_url": "pic.twitter.com/p1sLEbebe4",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KolinskyVbox/status/1819731521957445859/photo/1",
+              "media_key": "3_1819731519251836928",
+              "start": 16,
+              "url": "https://t.co/p1sLEbebe4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819731521957445859",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无认识这个叫洛言的，太逆天了 https://t.co/p1sLEbebe4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 2166,
+          "like_count": 165478,
+          "listed_count": 10,
+          "tweet_count": 10851
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T07:36:30.000Z",
+        "description": "苦落金山无漱下\n后来春水悦逢年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/oceboxme",
+                "end": 23,
+                "expanded_url": "https://t.me/oceboxme",
+                "start": 0,
+                "url": "https://t.co/kWpLt0a4Zh"
+              }
+            ]
+          }
+        },
+        "id": "1546760344831287296",
+        "location": "#严重收藏癖",
+        "name": "傻笑利姆露",
+        "pinned_tweet_id": "1750990761590661332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816905228912066561/dom8EMBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 255,
+          "like_count": 1132,
+          "listed_count": 3,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/kWpLt0a4Zh",
+        "username": "KolinskyVbox",
+        "verified": false
+      }
+    ]
+  }
+}

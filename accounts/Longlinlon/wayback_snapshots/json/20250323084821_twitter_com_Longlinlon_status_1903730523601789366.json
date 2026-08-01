@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1903730523601789366",
+    "created_at": "2025-03-23T08:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T09:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903730523601789366"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903730523601789366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有好玩的pc单机，最好是大型单机，除了冰汽时代因为已经玩过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1903730523601789366",
+        "created_at": "2025-03-23T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903730523601789366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903730523601789366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有好玩的pc单机，最好是大型单机，除了冰汽时代因为已经玩过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2358,
+          "like_count": 200620,
+          "listed_count": 9,
+          "media_count": 1155,
+          "tweet_count": 13249
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

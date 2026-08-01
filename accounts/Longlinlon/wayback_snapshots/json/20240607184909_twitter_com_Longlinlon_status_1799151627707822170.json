@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799136245286863166",
+    "created_at": "2024-06-07T18:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T19:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799151627707822170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700917352064561152",
+          "start": 0,
+          "username": "jng347990446972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799151627707822170",
+    "in_reply_to_user_id": "1700917352064561152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799136245286863166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jng347990446972 我擦，十几年前的杀马特才会说的语录尼玛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799136245286863166",
+        "created_at": "2024-06-07T18:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T19:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799151627707822170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700917352064561152",
+              "start": 0,
+              "username": "jng347990446972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799151627707822170",
+        "in_reply_to_user_id": "1700917352064561152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799136245286863166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jng347990446972 我擦，十几年前的杀马特才会说的语录尼玛"
+      },
+      {
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "1799136245286863166",
+        "created_at": "2024-06-07T17:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T18:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799136245286863166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xi01088/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/xi01088/status/1799135919754322184",
+              "start": 20,
+              "url": "https://t.co/slD6zyUVWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799136245286863166",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799135919754322184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额滴娘呀笑死我了 快手抄的语录都用上了 https://t.co/slD6zyUVWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 1992,
+          "like_count": 137928,
+          "listed_count": 9,
+          "tweet_count": 9910
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了🚪20块钱 过门私信",
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "1794419065123184824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 78,
+          "like_count": 4934,
+          "listed_count": 0,
+          "tweet_count": 1481
+        },
+        "username": "jng347990446972",
+        "verified": false
+      }
+    ]
+  }
+}

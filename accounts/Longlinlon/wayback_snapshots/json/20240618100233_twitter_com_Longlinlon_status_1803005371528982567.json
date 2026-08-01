@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1803005371528982567",
+    "created_at": "2024-06-18T10:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T11:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803005371528982567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678117449508753408",
+          "start": 3,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803005371528982567",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802516729022882039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chunliang2nd: 我怕什么同性恋，一听同性恋我就高兴，男同算什么同，无非牛子草屁眼，女同才叫同，有批斗和斗蒂主，听说还有扣扣空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1803005371528982567",
+        "created_at": "2024-06-18T10:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T11:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803005371528982567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678117449508753408",
+              "start": 3,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803005371528982567",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802516729022882039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chunliang2nd: 我怕什么同性恋，一听同性恋我就高兴，男同算什么同，无非牛子草屁眼，女同才叫同，有批斗和斗蒂主，听说还有扣扣空间"
+      },
+      {
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "conversation_id": "1802516729022882039",
+        "created_at": "2024-06-17T01:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T02:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802516729022882039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802516729022882039",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4816,
+          "like_count": 185,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我怕什么同性恋，一听同性恋我就高兴，男同算什么同，无非牛子草屁眼，女同才叫同，有批斗和斗蒂主，听说还有扣扣空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 1989,
+          "like_count": 139825,
+          "listed_count": 10,
+          "tweet_count": 10098
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "IP: 127.0.0.1 恐怖分子 MtX 不顺也不直 数码 不键政/ADHD+ASD+重抑/技术宅 no rioters only tyranny\nhttps://t.co/UV0WDw6qEr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+QBqAeDU7EIs1N…",
+                "end": 99,
+                "expanded_url": "https://t.me/+QBqAeDU7EIs1N2Fl",
+                "start": 76,
+                "url": "https://t.co/UV0WDw6qEr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "localhost",
+        "name": "利姆露Tempest_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787409857160859649/erLDuYak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 521,
+          "like_count": 3802,
+          "listed_count": 1,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

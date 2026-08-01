@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840281790126362991",
+    "created_at": "2024-09-29T15:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T16:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840410290007286216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1444165451789922307",
+          "start": 0,
+          "username": "AiYuPlus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840410290007286216",
+    "in_reply_to_user_id": "1444165451789922307",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840319980208074933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiYuPlus 这个队友真就是奇异搞笑哈自己把自己炸死。然后我和货拉拉准备双刀的时候他把我吃了他自己都傻了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840281790126362991",
+        "created_at": "2024-09-29T15:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T16:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840410290007286216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1444165451789922307",
+              "start": 0,
+              "username": "AiYuPlus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840410290007286216",
+        "in_reply_to_user_id": "1444165451789922307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840319980208074933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiYuPlus 这个队友真就是奇异搞笑哈自己把自己炸死。然后我和货拉拉准备双刀的时候他把我吃了他自己都傻了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444165451789922307",
+        "conversation_id": "1840281790126362991",
+        "created_at": "2024-09-29T09:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T10:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840319980208074933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840319980208074933",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840281790126362991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 疑似S13烟火师发力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2214,
+          "like_count": 176644,
+          "listed_count": 8,
+          "tweet_count": 11534
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T05:01:07.000Z",
+        "description": "18岁小女孩/现役JK/Le",
+        "id": "1444165451789922307",
+        "location": "杭州",
+        "name": "艾俞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752983497978085376/oag_sI_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 472,
+          "like_count": 11158,
+          "listed_count": 12,
+          "tweet_count": 1934
+        },
+        "username": "AiYuPlus",
+        "verified": false
+      }
+    ]
+  }
+}

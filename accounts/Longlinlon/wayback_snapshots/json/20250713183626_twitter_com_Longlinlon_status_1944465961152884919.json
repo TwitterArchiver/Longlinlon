@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1944284980898668575",
+    "created_at": "2025-07-13T18:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T19:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944465961152884919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1873330054115270657",
+          "start": 0,
+          "username": "yske515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944465961152884919",
+    "in_reply_to_user_id": "1873330054115270657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944284980898668575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yske515 汪汪汪汪汪汪汪"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18800,
+        "height": 720,
+        "media_key": "13_1944284758982230016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944284758982230016/img/MVNx4FGxFpytLicN.jpg",
+        "public_metrics": {
+          "view_count": 1350
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944284758982230016/vid/avc1/360x270/3nOKkdmGkfK4xupl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944284758982230016/vid/avc1/480x360/MGsQ1eieOA4ABsDq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944284758982230016/vid/avc1/960x720/MOMkUXwbkpJPp6A6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944284758982230016/pl/buCr0lbz-HvETU0u.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1944284980898668575",
+        "created_at": "2025-07-13T18:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944465961152884919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1873330054115270657",
+              "start": 0,
+              "username": "yske515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944465961152884919",
+        "in_reply_to_user_id": "1873330054115270657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944284980898668575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yske515 汪汪汪汪汪汪汪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944284758982230016"
+          ]
+        },
+        "author_id": "1873330054115270657",
+        "conversation_id": "1944284980898668575",
+        "created_at": "2025-07-13T06:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T07:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944284980898668575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybr3ol3s8b",
+              "end": 36,
+              "expanded_url": "https://x.com/yske515/status/1944284980898668575/video/1",
+              "media_key": "13_1944284758982230016",
+              "start": 13,
+              "url": "https://t.co/ybr3ol3s8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944284980898668575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3133,
+          "like_count": 208,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我很满意这个所以我要诈尸 https://t.co/ybr3ol3s8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2469,
+          "like_count": 212295,
+          "listed_count": 7,
+          "media_count": 1244,
+          "tweet_count": 13980
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T11:28:06.000Z",
+        "description": "🇨🇳/idv⚰️右固定",
+        "id": "1873330054115270657",
+        "name": "🫐🍪",
+        "pinned_tweet_id": "1889510087049486385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873330393669410816/u_BWtBka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7776,
+          "following_count": 30,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 139,
+          "tweet_count": 324
+        },
+        "username": "yske515",
+        "verified": false
+      }
+    ]
+  }
+}

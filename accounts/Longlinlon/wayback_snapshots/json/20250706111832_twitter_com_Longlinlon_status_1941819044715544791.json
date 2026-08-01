@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1941819044715544791",
+    "created_at": "2025-07-06T11:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941819044715544791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tbhx_officialJ…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/tbhx_officialJP/status/1941664141607084238",
+          "start": 3,
+          "url": "https://t.co/zrFd4RmbfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941819044715544791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941664141607084238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骚0 https://t.co/zrFd4RmbfN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1941443559422676992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFkoY7b0AAoa1n.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1941819044715544791",
+        "created_at": "2025-07-06T11:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941819044715544791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tbhx_officialJ…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tbhx_officialJP/status/1941664141607084238",
+              "start": 3,
+              "url": "https://t.co/zrFd4RmbfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941819044715544791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941664141607084238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骚0 https://t.co/zrFd4RmbfN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941443559422676992"
+          ]
+        },
+        "author_id": "1631228116034265089",
+        "conversation_id": "1941664141607084238",
+        "created_at": "2025-07-06T01:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941664141607084238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "永塚拓馬"
+            },
+            {
+              "end": 77,
+              "start": 67,
+              "tag": "TOBEHEROX"
+            }
+          ],
+          "urls": [
+            {
+              "description": "bilibili ✕ Aniplex 新プロジェクト始動。「TO BE HERO X」フジテレビにて2025年4月 日曜朝9時30分放送開始！",
+              "display_url": "tbhx.net/character/",
+              "end": 65,
+              "expanded_url": "https://tbhx.net/character/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1939893762769264640/zFrTrKSD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1939893762769264640/zFrTrKSD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "CHARACTER | TVアニメ「TO BE HERO X」公式サイト",
+              "unwound_url": "https://tbhx.net/character/",
+              "url": "https://t.co/mAO6tKnwzr"
+            },
+            {
+              "display_url": "pic.x.com/y6x4myxIJW",
+              "end": 101,
+              "expanded_url": "https://x.com/tbhx_officialJP/status/1941664141607084238/photo/1",
+              "media_key": "3_1941443559422676992",
+              "start": 78,
+              "url": "https://t.co/y6x4myxIJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941664141607084238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8537,
+          "like_count": 187,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "|◤ロリ編 𝗡𝗘𝗪 𝗖𝗛𝗔𝗥𝗔𝗖𝗧𝗘𝗥➌◢|\n\nアージャー\nCV. #永塚拓馬\n\n►https://t.co/mAO6tKnwzr\n\n#TOBEHEROX https://t.co/y6x4myxIJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2470,
+          "like_count": 210965,
+          "listed_count": 7,
+          "media_count": 1234,
+          "tweet_count": 13916
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T09:43:30.000Z",
+        "description": "bilibili × Aniplex 新プロジェクト始動！ 「TO BE HERO X」フジテレビほかにて毎週日曜朝9時30分放送中！ #TOBEHEROX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 68,
+                "tag": "TOBEHEROX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tbhx.net",
+                "end": 23,
+                "expanded_url": "https://tbhx.net/",
+                "start": 0,
+                "url": "https://t.co/PRRhl6rbG9"
+              }
+            ]
+          }
+        },
+        "id": "1631228116034265089",
+        "name": "『TO BE HERO X』公式",
+        "pinned_tweet_id": "1941662882732671401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824372326823305216/sI65ODzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65502,
+          "following_count": 51,
+          "like_count": 1,
+          "listed_count": 177,
+          "media_count": 666,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/PRRhl6rbG9",
+        "username": "tbhx_officialJP",
+        "verified": false
+      }
+    ]
+  }
+}

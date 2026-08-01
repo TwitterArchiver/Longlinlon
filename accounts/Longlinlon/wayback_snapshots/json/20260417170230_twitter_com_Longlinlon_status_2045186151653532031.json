@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2045186151653532031",
+    "created_at": "2026-04-17T17:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045186151653532031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1715380059278831619",
+          "start": 3,
+          "username": "Killer_Haruhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045186151653532031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045013706065809632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Killer_Haruhi: 最近那么多“男大弟弟来”，难道还不能说明男大这个群体的智力有多低吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2045186151653532031",
+        "created_at": "2026-04-17T17:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045186151653532031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1715380059278831619",
+              "start": 3,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045186151653532031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045013706065809632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Killer_Haruhi: 最近那么多“男大弟弟来”，难道还不能说明男大这个群体的智力有多低吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715380059278831619",
+        "conversation_id": "2045013706065809632",
+        "created_at": "2026-04-17T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045013706065809632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045013706065809632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 53024,
+          "like_count": 1143,
+          "quote_count": 7,
+          "reply_count": 184,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "最近那么多“男大弟弟来”，难道还不能说明男大这个群体的智力有多低吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 2536,
+          "like_count": 207590,
+          "listed_count": 8,
+          "media_count": 1389,
+          "tweet_count": 14836
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "哭泣并不会使你得到自由。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 545,
+          "like_count": 47218,
+          "listed_count": 22,
+          "media_count": 899,
+          "tweet_count": 14160
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

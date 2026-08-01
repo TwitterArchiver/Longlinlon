@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1935292393537830947",
+    "created_at": "2025-06-18T13:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935330202869207073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        },
+        {
+          "end": 23,
+          "id": "1818704523072094211",
+          "start": 12,
+          "username": "mxin391089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935330202869207073",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935292393537830947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 @mxin391089 可以下水做白切鸡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935292365054287873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuKJwOWIAES2nG.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935292365024948224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuKJwHWcAAYhU5.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1935292393537830947",
+        "created_at": "2025-06-18T13:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935330202869207073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            },
+            {
+              "end": 23,
+              "id": "1818704523072094211",
+              "start": 12,
+              "username": "mxin391089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935330202869207073",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935292393537830947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 @mxin391089 可以下水做白切鸡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935292365054287873",
+            "3_1935292365024948224"
+          ]
+        },
+        "author_id": "1844290406391103488",
+        "conversation_id": "1935292393537830947",
+        "created_at": "2025-06-18T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935292393537830947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1818704523072094211",
+              "start": 7,
+              "username": "mxin391089"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LglY0UWALA",
+              "end": 69,
+              "expanded_url": "https://x.com/qhqq114514/status/1935292393537830947/photo/1",
+              "media_key": "3_1935292365054287873",
+              "start": 46,
+              "url": "https://t.co/LglY0UWALA"
+            },
+            {
+              "display_url": "pic.x.com/LglY0UWALA",
+              "end": 69,
+              "expanded_url": "https://x.com/qhqq114514/status/1935292393537830947/photo/1",
+              "media_key": "3_1935292365024948224",
+              "start": 46,
+              "url": "https://t.co/LglY0UWALA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935292393537830947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好啊，我是@mxin391089 \np1是我家，我是名农村入\np2是我本人，长得如何呢 https://t.co/LglY0UWALA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2443,
+          "like_count": 209624,
+          "listed_count": 7,
+          "media_count": 1219,
+          "tweet_count": 13805
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "私：@KillTokiyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "KillTokiyuki"
+              }
+            ]
+          }
+        },
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "命运石之门",
+        "pinned_tweet_id": "1858736060181914065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933765097471500288/U92RbbAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 272,
+          "like_count": 1811,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2531
+        },
+        "username": "qhqq114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T17:45:39.000Z",
+        "description": "88门槛无性恋不线下只卖原味和图包",
+        "id": "1818704523072094211",
+        "name": "cc（见过习近平版）",
+        "pinned_tweet_id": "1935328138176921793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935065662411653121/zyKBM0fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 90,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1476
+        },
+        "username": "mxin391089",
+        "verified": false
+      }
+    ]
+  }
+}

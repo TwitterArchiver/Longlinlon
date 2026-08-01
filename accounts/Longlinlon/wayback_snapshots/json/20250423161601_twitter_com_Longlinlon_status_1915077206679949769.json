@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1915077206679949769",
+    "created_at": "2025-04-23T16:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T17:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915077206679949769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gimanother/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/gimanother/status/1914944100199243905",
+          "start": 9,
+          "url": "https://t.co/39XyZLGZRY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915077206679949769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914944100199243905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最想嗦的一个牛牛 https://t.co/39XyZLGZRY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1914944083161964544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM_f3Ga4AAmoo-.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1915077206679949769",
+        "created_at": "2025-04-23T16:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T17:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915077206679949769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gimanother/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/gimanother/status/1914944100199243905",
+              "start": 9,
+              "url": "https://t.co/39XyZLGZRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915077206679949769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914944100199243905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最想嗦的一个牛牛 https://t.co/39XyZLGZRY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914944083161964544"
+          ]
+        },
+        "author_id": "1853293374889136128",
+        "conversation_id": "1914944100199243905",
+        "created_at": "2025-04-23T07:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914944100199243905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/az6EEWjHnR",
+              "end": 26,
+              "expanded_url": "https://x.com/gimanother/status/1914944100199243905/photo/1",
+              "media_key": "3_1914944083161964544",
+              "start": 3,
+              "url": "https://t.co/az6EEWjHnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914944100199243905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 41824,
+          "like_count": 418,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "肥硕 https://t.co/az6EEWjHnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2390,
+          "like_count": 202861,
+          "listed_count": 8,
+          "media_count": 1184,
+          "tweet_count": 13508
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853311066996162560/VyGivQK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 214,
+          "like_count": 12477,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1554
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

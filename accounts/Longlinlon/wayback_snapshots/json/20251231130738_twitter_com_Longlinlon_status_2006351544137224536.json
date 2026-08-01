@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2006344682406858970",
+    "created_at": "2025-12-31T13:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T14:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006351544137224536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "Sallyand99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006351544137224536",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006344682406858970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sallyand99 我记得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2006344682406858970",
+        "created_at": "2025-12-31T13:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T14:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006351544137224536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "Sallyand99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006351544137224536",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006344682406858970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyand99 我记得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729090153124376576",
+        "conversation_id": "2006344682406858970",
+        "created_at": "2025-12-31T12:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006344682406858970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006344682406858970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一转眼要2026了，玩这个b软件两年多了，不过真正记住我的少之又少，人在网络上的生命力好似蜉蝣，朝生暮死……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2482,
+          "like_count": 210933,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14575
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子\n有什么想问的tg联系https://t.co/uWEHdlBRFW\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 38,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 15,
+                "url": "https://t.co/uWEHdlBRFW"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "广州，🚪150 课",
+        "name": "Sally",
+        "pinned_tweet_id": "1732194253156356588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21950,
+          "following_count": 140,
+          "like_count": 623,
+          "listed_count": 64,
+          "media_count": 112,
+          "tweet_count": 369
+        },
+        "username": "Sallyand99",
+        "verified": false
+      }
+    ]
+  }
+}

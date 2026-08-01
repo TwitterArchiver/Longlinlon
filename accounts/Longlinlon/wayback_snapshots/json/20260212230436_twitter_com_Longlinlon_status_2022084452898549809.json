@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2022084452898549809",
+    "created_at": "2026-02-12T23:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T00:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022084452898549809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2022020209624985604",
+          "start": 16,
+          "url": "https://t.co/Sff9AHk4uk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022084452898549809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022020209624985604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人对霸凌行为的态度可见一斑 https://t.co/Sff9AHk4uk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022020200435265538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-oqL-bsAIyytL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2022084452898549809",
+        "created_at": "2026-02-12T23:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022084452898549809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2022020209624985604",
+              "start": 16,
+              "url": "https://t.co/Sff9AHk4uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022084452898549809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022020209624985604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人对霸凌行为的态度可见一斑 https://t.co/Sff9AHk4uk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022020200435265538"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2022020209624985604",
+        "created_at": "2026-02-12T18:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022020209624985604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7sTPAGUZQ",
+              "end": 61,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2022020209624985604/photo/1",
+              "media_key": "3_2022020200435265538",
+              "start": 38,
+              "url": "https://t.co/J7sTPAGUZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022020209624985604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1751,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东 6 岁女孩炫耀「假期很闲」引网友寄作业和戒尺，如何看待这种「玩笑」？ https://t.co/J7sTPAGUZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2546,
+          "like_count": 209802,
+          "listed_count": 9,
+          "media_count": 1381,
+          "tweet_count": 14731
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2021921058795000211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10422,
+          "following_count": 3993,
+          "like_count": 75585,
+          "listed_count": 17,
+          "media_count": 1754,
+          "tweet_count": 17153
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

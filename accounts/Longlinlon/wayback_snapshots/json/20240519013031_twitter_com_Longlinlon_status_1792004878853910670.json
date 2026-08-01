@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1791880223291539732",
+    "created_at": "2024-05-19T01:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T02:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792004878853910670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738831936489918464",
+          "start": 0,
+          "username": "fackkkkkkyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792004878853910670",
+    "in_reply_to_user_id": "1738831936489918464",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791880223291539732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fackkkkkkyou 有的，我小学时候的外教就是黑人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1791880223291539732",
+        "created_at": "2024-05-19T01:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T02:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792004878853910670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738831936489918464",
+              "start": 0,
+              "username": "fackkkkkkyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792004878853910670",
+        "in_reply_to_user_id": "1738831936489918464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791880223291539732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fackkkkkkyou 有的，我小学时候的外教就是黑人"
+      },
+      {
+        "attachments": {},
+        "author_id": "1738831936489918464",
+        "conversation_id": "1791880223291539732",
+        "created_at": "2024-05-18T17:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T18:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791880223291539732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791880223291539732",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两广现在黑人很多吗？说实话我从出生到现在还从没在现实世界见到过黑人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1940,
+          "like_count": 128741,
+          "listed_count": 10,
+          "tweet_count": 9386
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T08:00:28.000Z",
+        "description": "私信，我只会赛博尬聊。望周知。",
+        "id": "1738831936489918464",
+        "location": "七海的被窝，利姆露的旁边",
+        "name": "地表最强--🐺king！",
+        "pinned_tweet_id": "1772007888388493718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789640534039900160/z9DcEMNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 99,
+          "like_count": 887,
+          "listed_count": 1,
+          "tweet_count": 424
+        },
+        "username": "fackkkkkkyou",
+        "verified": false
+      }
+    ]
+  }
+}

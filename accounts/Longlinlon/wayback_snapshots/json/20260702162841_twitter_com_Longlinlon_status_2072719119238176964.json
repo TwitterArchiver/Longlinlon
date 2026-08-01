@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2072719119238176964",
+    "created_at": "2026-07-02T16:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072719119238176964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miiharukawa/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Miiharukawa/status/2072181985171370424",
+          "start": 40,
+          "url": "https://t.co/8a1h6f9L44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072719119238176964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072181985171370424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种话其实最适用的反而是二次元公畜，毕竟公畜除了上个i站看黄片撸管外什么都不会 https://t.co/8a1h6f9L44"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2072719119238176964",
+        "created_at": "2026-07-02T16:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072719119238176964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2072181985171370424",
+              "start": 40,
+              "url": "https://t.co/8a1h6f9L44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072719119238176964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072181985171370424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种话其实最适用的反而是二次元公畜，毕竟公畜除了上个i站看黄片撸管外什么都不会 https://t.co/8a1h6f9L44"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2072181985171370424",
+        "created_at": "2026-07-01T04:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:51:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072181308021985722",
+          "2072181985171370424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072181985171370424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11226,
+          "like_count": 161,
+          "quote_count": 4,
+          "reply_count": 54,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "某些人的爱好肤浅，只需要一个建模就可以爱的死去活来撕心裂肺，知道个名字和长相就开始单推了，不明白这种爱有什么好伟大的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 2521,
+          "like_count": 206722,
+          "listed_count": 7,
+          "media_count": 1397,
+          "tweet_count": 14876
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 250,
+          "like_count": 10175,
+          "listed_count": 10,
+          "media_count": 453,
+          "tweet_count": 3840
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

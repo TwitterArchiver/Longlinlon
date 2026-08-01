@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1969432323683991916",
+    "created_at": "2025-09-21T04:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969621056421036495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1713528787378245632",
+          "start": 0,
+          "username": "a487671853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969621056421036495",
+    "in_reply_to_user_id": "1713528787378245632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969599273097707890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a487671853 ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1969432323683991916",
+        "created_at": "2025-09-21T04:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969621056421036495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713528787378245632",
+              "start": 0,
+              "username": "a487671853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969621056421036495",
+        "in_reply_to_user_id": "1713528787378245632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969599273097707890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a487671853 ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713528787378245632",
+        "conversation_id": "1969432323683991916",
+        "created_at": "2025-09-21T03:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T04:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969599273097707890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969599273097707890",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969432323683991916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "艾达是病患和园丁的亲妈-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 2517,
+          "like_count": 215286,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 14328
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T12:14:50.000Z",
+        "description": "一个来自仙女座星系的吟游诗人。我愿穿越所有的时间和空间，去聆听希格斯场所演奏的宏伟乐章。小号：https://t.co/R8mHzKjbKy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/cai012515354807",
+                "end": 70,
+                "expanded_url": "https://x.com/cai012515354807",
+                "start": 47,
+                "url": "https://t.co/R8mHzKjbKy"
+              }
+            ]
+          }
+        },
+        "id": "1713528787378245632",
+        "location": "Laniakea Supercluster",
+        "name": "Walk in Stars星海旅人👽",
+        "pinned_tweet_id": "1965682773450187244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969366145070481412/Ww4QeMYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 2171,
+          "like_count": 22384,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 2366
+        },
+        "username": "a487671853",
+        "verified": false
+      }
+    ]
+  }
+}

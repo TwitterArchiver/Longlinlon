@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818288190685585408"
+      ],
+      "media_source_tweet_id": [
+        "1818288195836277246"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1818295881717969001",
+    "created_at": "2024-07-30T14:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T15:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818295881717969001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1744042284528836608",
+          "start": 3,
+          "username": "yinxingyanjing_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uzvFrlzBFi",
+          "end": 60,
+          "expanded_url": "https://twitter.com/yinxingyanjing_/status/1818288195836277246/photo/1",
+          "media_key": "3_1818288190685585408",
+          "start": 37,
+          "url": "https://t.co/uzvFrlzBFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818295881717969001",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818288195836277246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinxingyanjing_: 卧槽尼玛太搞笑了，又可怜又好笑 https://t.co/uzvFrlzBFi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1818295881717969001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1818295881717969001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1818295881717969001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1818288190685585408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTvbeckaIAAVYtk.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818288190685585408"
+          ]
+        },
+        "author_id": "1744042284528836608",
+        "conversation_id": "1818252989892903315",
+        "created_at": "2024-07-30T14:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T15:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818288195836277246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uzvFrlzBFi",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yinxingyanjing_/status/1818288195836277246/photo/1",
+              "media_key": "3_1818288190685585408",
+              "start": 16,
+              "url": "https://t.co/uzvFrlzBFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818288195836277246",
+        "in_reply_to_user_id": "1744042284528836608",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2199,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818252989892903315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛太搞笑了，又可怜又好笑 https://t.co/uzvFrlzBFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 2158,
+          "like_count": 164385,
+          "listed_count": 10,
+          "tweet_count": 10802
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:04:26.000Z",
+        "description": "牛子博物馆 / 丑的都打了敏感，谨慎点开 / 投稿前请先看置顶，没看置顶就投稿的会直接屏蔽掉，感谢配合",
+        "id": "1744042284528836608",
+        "name": "给我一副隐形眼镜",
+        "pinned_tweet_id": "1813188672981987466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746650089136017408/lYs1-DuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64144,
+          "following_count": 0,
+          "like_count": 176,
+          "listed_count": 111,
+          "tweet_count": 1240
+        },
+        "username": "yinxingyanjing_",
+        "verified": false
+      }
+    ]
+  }
+}

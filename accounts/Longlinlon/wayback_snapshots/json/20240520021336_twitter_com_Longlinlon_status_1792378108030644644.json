@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792202047313568249",
+    "created_at": "2024-05-20T02:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T03:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792378108030644644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608462743337865221",
+          "start": 0,
+          "username": "KMGKHHBOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792378108030644644",
+    "in_reply_to_user_id": "1608462743337865221",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792202047313568249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMGKHHBOT 这才是我想看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792202047313568249",
+        "created_at": "2024-05-20T02:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T03:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792378108030644644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608462743337865221",
+              "start": 0,
+              "username": "KMGKHHBOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792378108030644644",
+        "in_reply_to_user_id": "1608462743337865221",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792202047313568249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMGKHHBOT 这才是我想看的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792186914428289024"
+          ]
+        },
+        "author_id": "1608462743337865221",
+        "conversation_id": "1792202047313568249",
+        "created_at": "2024-05-19T14:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792202047313568249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ap7pTFjVau",
+              "end": 49,
+              "expanded_url": "https://twitter.com/KMGKHHBOT/status/1792202047313568249/photo/1",
+              "media_key": "3_1792186914428289024",
+              "start": 26,
+              "url": "https://t.co/ap7pTFjVau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792202047313568249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1060,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【2379】\n我要把隔空喊话bot变成涩图bot! https://t.co/ap7pTFjVau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1951,
+          "like_count": 129756,
+          "listed_count": 10,
+          "tweet_count": 9432
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T13:59:48.000Z",
+        "description": "🚩致力于成为让共产党人体验舒心的网络厕所🚩我们的宗旨是：全世界的无产阶级、被压迫民族和被压迫性别联合起来！🚩不限于共产党人，欢迎各派来稿🚩粉红、自由派来稿请添加tag“资产阶级来稿”🚩封建老保来稿请添加 “封建地主来稿”🚩法西斯分子来稿请添加 “黑衫军来稿” 🚩",
+        "id": "1608462743337865221",
+        "location": "彼得格勒",
+        "name": "康米隔空喊话bot",
+        "pinned_tweet_id": "1792150967221182703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764163254233026561/GmyBR5H3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 391,
+          "like_count": 2050,
+          "listed_count": 15,
+          "tweet_count": 3261
+        },
+        "username": "KMGKHHBOT",
+        "verified": false
+      }
+    ]
+  }
+}

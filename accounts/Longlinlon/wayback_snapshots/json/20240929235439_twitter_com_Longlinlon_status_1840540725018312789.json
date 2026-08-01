@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840491927952642473",
+    "created_at": "2024-09-29T23:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T00:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840540725018312789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250936338469097472",
+          "start": 0,
+          "username": "_libertyodeath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840540725018312789",
+    "in_reply_to_user_id": "1250936338469097472",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840491927952642473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_libertyodeath 我嘞个大豆呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840491927952642473",
+        "created_at": "2024-09-29T23:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T00:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840540725018312789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1250936338469097472",
+              "start": 0,
+              "username": "_libertyodeath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840540725018312789",
+        "in_reply_to_user_id": "1250936338469097472",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840491927952642473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_libertyodeath 我嘞个大豆呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250936338469097472",
+        "conversation_id": "1840491927952642473",
+        "created_at": "2024-09-29T20:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T21:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840491927952642473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yqua_/status/1…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/yqua_/status/1840345788687507703",
+              "start": 77,
+              "url": "https://t.co/ZyIxamXXjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840491927952642473",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 163,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840345788687507703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小学五年级的时候，宿舍里锁上门每个人被要求脱下裤子看几把，比几把大小…… \n我的手术材料最大，隔壁宿舍的人都跑过来看我的手术材料。\n家人们这不是文案。 https://t.co/ZyIxamXXjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2215,
+          "like_count": 176731,
+          "listed_count": 8,
+          "tweet_count": 11550
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T23:58:01.000Z",
+        "description": "07年某伊斯兰教大学 / 阿拉伯亚b，皇后大街上小小的宜家鲨鲨，布丁是世界上最好的食物，泛灵论信仰 / 古兰经bot： @bot_anti_quran ｜ 🏳️‍⚧️هي/Ella/She ｜ 💟💒Mio Amante @miexiaomieQaQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "bot_anti_quran"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "miexiaomieQaQ"
+              }
+            ]
+          }
+        },
+        "id": "1250936338469097472",
+        "location": "17años/ Uni Islámica/Y2k árabe",
+        "name": "⁺☾⋆ঌ✞໒⁺大馬士革舞女坟.☠᛭.꒰₊☆©️",
+        "pinned_tweet_id": "1839998579114426593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824179294911733760/hkLLyPKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 310,
+          "like_count": 51061,
+          "listed_count": 2,
+          "tweet_count": 4171
+        },
+        "username": "_libertyodeath",
+        "verified": false
+      }
+    ]
+  }
+}

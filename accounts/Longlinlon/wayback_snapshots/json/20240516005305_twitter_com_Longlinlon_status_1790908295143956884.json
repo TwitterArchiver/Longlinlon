@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1790763959899083119",
+    "created_at": "2024-05-16T00:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T01:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790908295143956884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790908295143956884",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790907341249868280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA3 可以玩1.9以下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1790763959899083119",
+        "created_at": "2024-05-16T00:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T01:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790908295143956884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790908295143956884",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790907341249868280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA3 可以玩1.9以下"
+      },
+      {
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "1790763959899083119",
+        "created_at": "2024-05-16T00:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T01:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790907341249868280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790907341249868280",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790778161363652875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon java攻击有CD🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1913,
+          "like_count": 127094,
+          "listed_count": 10,
+          "tweet_count": 9285
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "IXTP+阴暗 天生非女却想当清纯小家碧玉\n里号：@LianLianZiNya\n郭楠别私信我 我不理你\n天生条件好的上城人，享受着优渥的条件哭自己惨，想要公道，你凭什么？无家可归的人，穷人，乞丐，孤儿，谁来替他们讨回公道？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 25,
+                "username": "LianLianZiNya"
+              }
+            ]
+          }
+        },
+        "id": "1354545024046821376",
+        "location": "Los santos 洛圣都 佩立托湾设施",
+        "name": "甜甜怜怜子",
+        "pinned_tweet_id": "1766127452538163656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754462256102825984/xkDXXh4O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 102,
+          "like_count": 237,
+          "listed_count": 0,
+          "tweet_count": 1013
+        },
+        "username": "KURANAGA3",
+        "verified": false
+      }
+    ]
+  }
+}

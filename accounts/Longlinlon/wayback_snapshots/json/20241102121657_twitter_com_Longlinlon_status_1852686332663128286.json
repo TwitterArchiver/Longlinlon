@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1852612527055839232"
+      ],
+      "media_source_tweet_id": [
+        "1852612623675879932"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1852686332663128286",
+    "created_at": "2024-11-02T12:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T13:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852686332663128286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1404825570752483328",
+          "start": 3,
+          "username": "_Owl_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EHOp8z6mp1",
+          "end": 43,
+          "expanded_url": "https://x.com/_Owl_ovo/status/1852612623675879932/video/1",
+          "media_key": "7_1852612527055839232",
+          "start": 20,
+          "url": "https://t.co/EHOp8z6mp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852686332663128286",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852612623675879932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Owl_ovo: 占占！！！ https://t.co/EHOp8z6mp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9910,
+        "height": 540,
+        "media_key": "7_1852612527055839232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1852612527055839232/pu/img/kT-S_9qe2_Q9iFe0.jpg",
+        "public_metrics": {
+          "view_count": 1893
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852612527055839232/pu/vid/avc1/480x270/pkoti237fehQcV2y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852612527055839232/pu/vid/avc1/640x360/3L4AbixgMKYurTrT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852612527055839232/pu/vid/avc1/960x540/RIofKWL1c54sO5K-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1852612527055839232/pu/pl/Kn0st13sPDhRP-Ao.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1852612527055839232"
+          ],
+          "media_source_tweet_id": [
+            "1852612623675879932"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1852686332663128286",
+        "created_at": "2024-11-02T12:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T13:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852686332663128286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1404825570752483328",
+              "start": 3,
+              "username": "_Owl_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHOp8z6mp1",
+              "end": 43,
+              "expanded_url": "https://x.com/_Owl_ovo/status/1852612623675879932/video/1",
+              "media_key": "7_1852612527055839232",
+              "start": 20,
+              "url": "https://t.co/EHOp8z6mp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852686332663128286",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852612623675879932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Owl_ovo: 占占！！！ https://t.co/EHOp8z6mp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1852612527055839232"
+          ]
+        },
+        "author_id": "1404825570752483328",
+        "conversation_id": "1852612623675879932",
+        "created_at": "2024-11-02T07:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T08:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852612623675879932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHOp8z6mp1",
+              "end": 29,
+              "expanded_url": "https://x.com/_Owl_ovo/status/1852612623675879932/video/1",
+              "media_key": "7_1852612527055839232",
+              "start": 6,
+              "url": "https://t.co/EHOp8z6mp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852612623675879932",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5296,
+          "like_count": 343,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "占占！！！ https://t.co/EHOp8z6mp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 2221,
+          "like_count": 177471,
+          "listed_count": 8,
+          "tweet_count": 11748
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T15:38:21.000Z",
+        "description": "|⎠┰ ⍔ ┰ ⎝| 🔮🪶推|🤕🔮🔁🚫| 一個廢話堆積處 | 中文/English | 低浮上|对家不要来谢谢合作",
+        "id": "1404825570752483328",
+        "location": "中国",
+        "name": "虎皮蓝莓卷",
+        "pinned_tweet_id": "1795832365769773183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842796969418534912/WQvv9nAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 152,
+          "like_count": 6160,
+          "listed_count": 0,
+          "tweet_count": 333
+        },
+        "username": "_Owl_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

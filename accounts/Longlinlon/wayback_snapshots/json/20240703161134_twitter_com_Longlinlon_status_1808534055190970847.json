@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808531223742206101",
+    "created_at": "2024-07-03T16:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T17:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808534055190970847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1685694034747248640",
+          "start": 0,
+          "username": "lainlain8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808534055190970847",
+    "in_reply_to_user_id": "1685694034747248640",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808531223742206101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lainlain8964 怎么有点像李宇春（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808531223742206101",
+        "created_at": "2024-07-03T16:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T17:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808534055190970847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1685694034747248640",
+              "start": 0,
+              "username": "lainlain8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808534055190970847",
+        "in_reply_to_user_id": "1685694034747248640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808531223742206101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lainlain8964 怎么有点像李宇春（？）"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808531215169015808"
+          ]
+        },
+        "author_id": "1685694034747248640",
+        "conversation_id": "1808531223742206101",
+        "created_at": "2024-07-03T16:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T17:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808531223742206101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Dh7lDxXawE",
+              "end": 29,
+              "expanded_url": "https://twitter.com/lainlain8964/status/1808531223742206101/photo/1",
+              "media_key": "3_1808531215169015808",
+              "start": 6,
+              "url": "https://t.co/Dh7lDxXawE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808531223742206101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什麼火龍果 https://t.co/Dh7lDxXawE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 2049,
+          "like_count": 150940,
+          "listed_count": 10,
+          "tweet_count": 10386
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T16:49:23.000Z",
+        "description": "主修《純粹人身攻擊》",
+        "id": "1685694034747248640",
+        "location": "Aroace｜FtX",
+        "name": "堅決擁護莎樂美主席",
+        "pinned_tweet_id": "1806964124792099180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806745195586990080/aJJyQH4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 397,
+          "like_count": 14486,
+          "listed_count": 4,
+          "tweet_count": 8147
+        },
+        "username": "lainlain8964",
+        "verified": false
+      }
+    ]
+  }
+}

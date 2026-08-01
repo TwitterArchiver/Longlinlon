@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1837045617367076886",
+    "created_at": "2024-09-20T08:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T09:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837045617367076886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DavidZhuang090…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/DavidZhuang0905/status/1837042568124891235",
+          "start": 5,
+          "url": "https://t.co/PhpVcJylMu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837045617367076886",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837042568124891235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉唉嘴硬 https://t.co/PhpVcJylMu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1837045617367076886",
+        "created_at": "2024-09-20T08:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T09:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837045617367076886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DavidZhuang090…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DavidZhuang0905/status/1837042568124891235",
+              "start": 5,
+              "url": "https://t.co/PhpVcJylMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837045617367076886",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837042568124891235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉唉嘴硬 https://t.co/PhpVcJylMu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357539688953880581",
+        "conversation_id": "1837041230951150006",
+        "created_at": "2024-09-20T08:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T09:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837042568124891235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837042568124891235",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837041230951150006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 我不是我没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2219,
+          "like_count": 175465,
+          "listed_count": 10,
+          "tweet_count": 11401
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T04:01:06.000Z",
+        "description": "04/mtf/在读女大/180cm/70kg/双相抑郁地雷自残/adhd/乌蒙dx/🌈/🚪188/学术自由\nE-mail:davidzhuang0905@gmail.com",
+        "id": "1357539688953880581",
+        "name": "神楽坂蝶梦（参宿四）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806377147197779969/TD1u_yCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 374,
+          "like_count": 184,
+          "listed_count": 0,
+          "tweet_count": 93
+        },
+        "username": "DavidZhuang0905",
+        "verified": false
+      }
+    ]
+  }
+}

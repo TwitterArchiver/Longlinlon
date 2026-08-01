@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955951985682997250",
+        "3_1955951985959821320",
+        "3_1955951987675291649",
+        "3_1955951987738206212"
+      ],
+      "media_source_tweet_id": [
+        "1955951990158319869",
+        "1955951990158319869",
+        "1955951990158319869",
+        "1955951990158319869"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956008941860606340",
+    "created_at": "2025-08-14T15:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956008941860606340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1281745213883465728",
+          "start": 3,
+          "username": "arigato_sekai45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92Mx3CGepg",
+          "end": 83,
+          "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+          "media_key": "3_1955951985682997250",
+          "start": 60,
+          "url": "https://t.co/92Mx3CGepg"
+        },
+        {
+          "display_url": "pic.x.com/92Mx3CGepg",
+          "end": 83,
+          "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+          "media_key": "3_1955951985959821320",
+          "start": 60,
+          "url": "https://t.co/92Mx3CGepg"
+        },
+        {
+          "display_url": "pic.x.com/92Mx3CGepg",
+          "end": 83,
+          "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+          "media_key": "3_1955951987675291649",
+          "start": 60,
+          "url": "https://t.co/92Mx3CGepg"
+        },
+        {
+          "display_url": "pic.x.com/92Mx3CGepg",
+          "end": 83,
+          "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+          "media_key": "3_1955951987738206212",
+          "start": 60,
+          "url": "https://t.co/92Mx3CGepg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956008941860606340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955951990158319869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arigato_sekai45: 助けてくれ～～～～～～‼️‼️‼️‼️‼️可愛い‼️‼️‼️‼️‼️‼️‼️ https://t.co/92Mx3CGepg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1955951985682997250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTv98ha4AING6r.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1955951985959821320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTv99ja4AgfnqW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1955951987675291649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTv-D8a4AEGCoH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_1955951987738206212",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyTv-ELa4AQaLjw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955951985682997250",
+            "3_1955951985959821320",
+            "3_1955951987675291649",
+            "3_1955951987738206212"
+          ],
+          "media_source_tweet_id": [
+            "1955951990158319869",
+            "1955951990158319869",
+            "1955951990158319869",
+            "1955951990158319869"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956008941860606340",
+        "created_at": "2025-08-14T15:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956008941860606340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1281745213883465728",
+              "start": 3,
+              "username": "arigato_sekai45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 83,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951985682997250",
+              "start": 60,
+              "url": "https://t.co/92Mx3CGepg"
+            },
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 83,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951985959821320",
+              "start": 60,
+              "url": "https://t.co/92Mx3CGepg"
+            },
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 83,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951987675291649",
+              "start": 60,
+              "url": "https://t.co/92Mx3CGepg"
+            },
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 83,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951987738206212",
+              "start": 60,
+              "url": "https://t.co/92Mx3CGepg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956008941860606340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955951990158319869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arigato_sekai45: 助けてくれ～～～～～～‼️‼️‼️‼️‼️可愛い‼️‼️‼️‼️‼️‼️‼️ https://t.co/92Mx3CGepg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955951985682997250",
+            "3_1955951985959821320",
+            "3_1955951987675291649",
+            "3_1955951987738206212"
+          ]
+        },
+        "author_id": "1281745213883465728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955951990158319869",
+        "created_at": "2025-08-14T11:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955951990158319869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 62,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951985682997250",
+              "start": 39,
+              "url": "https://t.co/92Mx3CGepg"
+            },
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 62,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951985959821320",
+              "start": 39,
+              "url": "https://t.co/92Mx3CGepg"
+            },
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 62,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951987675291649",
+              "start": 39,
+              "url": "https://t.co/92Mx3CGepg"
+            },
+            {
+              "display_url": "pic.x.com/92Mx3CGepg",
+              "end": 62,
+              "expanded_url": "https://x.com/arigato_sekai45/status/1955951990158319869/photo/1",
+              "media_key": "3_1955951987738206212",
+              "start": 39,
+              "url": "https://t.co/92Mx3CGepg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955951990158319869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 16945,
+          "like_count": 696,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "助けてくれ～～～～～～‼️‼️‼️‼️‼️可愛い‼️‼️‼️‼️‼️‼️‼️ https://t.co/92Mx3CGepg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "病友轮回-Wiggin",
+        "pinned_tweet_id": "1955629240017436683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2494,
+          "like_count": 214104,
+          "listed_count": 6,
+          "media_count": 1275,
+          "tweet_count": 14163
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-11T00:20:55.000Z",
+        "description": "成人済  BL・逆HL描く\n雑食なので不快に感じたらブロックしてください\n⚠️私の絵をAI学習、無断転載するのは禁止しています\nbooth👉️https://t.co/hQHsRYUwve",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arigatosekai45.booth.pm",
+                "end": 94,
+                "expanded_url": "https://arigatosekai45.booth.pm/",
+                "start": 71,
+                "url": "https://t.co/hQHsRYUwve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/arigato_sekai45",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/arigato_sekai45",
+                "start": 0,
+                "url": "https://t.co/dUncmA9ARf"
+              }
+            ]
+          }
+        },
+        "id": "1281745213883465728",
+        "name": "ありがと世界",
+        "pinned_tweet_id": "1745969316124918256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805062305803341824/XTJnBH5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6260,
+          "following_count": 49,
+          "like_count": 7218,
+          "listed_count": 40,
+          "media_count": 534,
+          "tweet_count": 11944
+        },
+        "url": "https://t.co/dUncmA9ARf",
+        "username": "arigato_sekai45",
+        "verified": false
+      }
+    ]
+  }
+}

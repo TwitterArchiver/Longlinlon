@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1960191869935112427",
+    "created_at": "2025-08-26T04:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T05:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960201114709835822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960201114709835822",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960191869935112427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1960191869935112427",
+        "created_at": "2025-08-26T04:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960201114709835822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960201114709835822",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960191869935112427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "1960191869935112427",
+        "created_at": "2025-08-26T04:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960191869935112427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960191869935112427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能有人不认识我，我是大龙，中推圈前两年很活跃的那个大龙，当你们刷到这条消息的时候，我已经实施自杀计划了，我没找到绳子，把晾衣架拆开改造了一下，套在窗户的铁杆上。我讨厌这个世界，但我很爱你们，每一个以反抗压迫和追求自由为生存原则的人都是我心中的同志，我希望大家都能得到幸福，再见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭磕患园-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 2506,
+          "like_count": 215173,
+          "listed_count": 9,
+          "media_count": 1288,
+          "tweet_count": 14237
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "别来惹我",
+        "id": "1662723831533027329",
+        "name": "爱国少女小枝🥰🥰🥰",
+        "pinned_tweet_id": "1892104042567856418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859371260435980288/odRPnFub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 366,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1017
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

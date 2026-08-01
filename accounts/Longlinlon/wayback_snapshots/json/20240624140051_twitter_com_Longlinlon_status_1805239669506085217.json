@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1804886143202390016"
+      ],
+      "media_source_tweet_id": [
+        "1804886238060765451"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1805239669506085217",
+    "created_at": "2024-06-24T14:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T15:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805239669506085217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1240967112660848641",
+          "start": 3,
+          "username": "xingkongbumie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/dAlsrgR1pF",
+          "end": 65,
+          "expanded_url": "https://twitter.com/xingkongbumie/status/1804886238060765451/video/1",
+          "media_key": "7_1804886143202390016",
+          "start": 42,
+          "url": "https://t.co/dAlsrgR1pF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805239669506085217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804886238060765451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingkongbumie: 从拉屎到擦腚再到洗脸  一气呵成 十分德芙😆 https://t.co/dAlsrgR1pF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29000,
+        "height": 822,
+        "media_key": "7_1804886143202390016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1804886143202390016/pu/img/nm1xOU8OTVhvvqSF.jpg",
+        "public_metrics": {
+          "view_count": 155170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804886143202390016/pu/vid/avc1/320x486/xjsKH15iVZ0hz3Mi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804886143202390016/pu/vid/avc1/480x730/h2yXhGFkJsXKJCe3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1804886143202390016/pu/vid/avc1/540x822/pkA5E_BFli80Rfby.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1804886143202390016/pu/pl/v-FW7SXJGebt4njK.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1804886143202390016"
+          ],
+          "media_source_tweet_id": [
+            "1804886238060765451"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805239669506085217",
+        "created_at": "2024-06-24T14:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T15:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805239669506085217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1240967112660848641",
+              "start": 3,
+              "username": "xingkongbumie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dAlsrgR1pF",
+              "end": 65,
+              "expanded_url": "https://twitter.com/xingkongbumie/status/1804886238060765451/video/1",
+              "media_key": "7_1804886143202390016",
+              "start": 42,
+              "url": "https://t.co/dAlsrgR1pF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805239669506085217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804886238060765451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingkongbumie: 从拉屎到擦腚再到洗脸  一气呵成 十分德芙😆 https://t.co/dAlsrgR1pF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1804886143202390016"
+          ]
+        },
+        "author_id": "1240967112660848641",
+        "conversation_id": "1804886238060765451",
+        "created_at": "2024-06-23T14:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804886238060765451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dAlsrgR1pF",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xingkongbumie/status/1804886238060765451/video/1",
+              "media_key": "7_1804886143202390016",
+              "start": 23,
+              "url": "https://t.co/dAlsrgR1pF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804886238060765451",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 268897,
+          "like_count": 1662,
+          "quote_count": 36,
+          "reply_count": 97,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "从拉屎到擦腚再到洗脸  一气呵成 十分德芙😆 https://t.co/dAlsrgR1pF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 2010,
+          "like_count": 142862,
+          "listed_count": 10,
+          "tweet_count": 10198
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T11:43:24.000Z",
+        "description": "",
+        "id": "1240967112660848641",
+        "name": "阿米",
+        "pinned_tweet_id": "1681560878926417920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799563929850626048/Lc6YC_Su_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 460,
+          "like_count": 76929,
+          "listed_count": 14,
+          "tweet_count": 27407
+        },
+        "username": "xingkongbumie",
+        "verified": false
+      }
+    ]
+  }
+}

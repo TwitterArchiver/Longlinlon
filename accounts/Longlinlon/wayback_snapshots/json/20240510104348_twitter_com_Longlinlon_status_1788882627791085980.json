@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1788882627791085980",
+    "created_at": "2024-05-10T10:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T11:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788882627791085980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1737684250890313728",
+          "start": 3,
+          "username": "Galaktischen001"
+        },
+        {
+          "end": 32,
+          "id": "1596416860752207872",
+          "start": 21,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788882627791085980",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788882435939414143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Galaktischen001: @Longlinlon 当然我知道。因为那些用食物侮辱人的中国人让我生气，所以我才写了这样的文章。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1788882627791085980",
+        "created_at": "2024-05-10T10:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T11:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788882627791085980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1737684250890313728",
+              "start": 3,
+              "username": "Galaktischen001"
+            },
+            {
+              "end": 32,
+              "id": "1596416860752207872",
+              "start": 21,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788882627791085980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788882435939414143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Galaktischen001: @Longlinlon 当然我知道。因为那些用食物侮辱人的中国人让我生气，所以我才写了这样的文章。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1737684250890313728",
+        "conversation_id": "1788880153826963586",
+        "created_at": "2024-05-10T10:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T11:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788882435939414143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788882435939414143",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788881237899390979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 当然我知道。因为那些用食物侮辱人的中国人让我生气，所以我才写了这样的文章。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @SaigyoujiSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "SaigyoujiSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1861,
+          "like_count": 122474,
+          "listed_count": 9,
+          "tweet_count": 8986
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T03:59:59.000Z",
+        "description": "",
+        "id": "1737684250890313728",
+        "location": "자유행성동맹",
+        "name": "에르빈 요제프 2세",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781210279130578944/ECqsjH_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 531,
+          "like_count": 3091,
+          "listed_count": 11,
+          "tweet_count": 870
+        },
+        "username": "Galaktischen001",
+        "verified": false
+      }
+    ]
+  }
+}

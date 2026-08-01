@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027388971953881088"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027388985212104877",
+    "created_at": "2026-02-27T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027388985212104877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PGJKCKaDkO",
+          "end": 67,
+          "expanded_url": "https://x.com/Longlinlon/status/2027388985212104877/photo/1",
+          "media_key": "3_2027388971953881088",
+          "start": 44,
+          "url": "https://t.co/PGJKCKaDkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027388985212104877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呦我要笑死了，性电竞和爱吃糖一个组，窑鸡打鸟，许哥第一把就要区神挑战赛，还是你捞好看 https://t.co/PGJKCKaDkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027388971953881088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK7h0bbAAAqWXN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027388971953881088"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027388985212104877",
+        "created_at": "2026-02-27T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027388985212104877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGJKCKaDkO",
+              "end": 67,
+              "expanded_url": "https://x.com/Longlinlon/status/2027388985212104877/photo/1",
+              "media_key": "3_2027388971953881088",
+              "start": 44,
+              "url": "https://t.co/PGJKCKaDkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027388985212104877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦我要笑死了，性电竞和爱吃糖一个组，窑鸡打鸟，许哥第一把就要区神挑战赛，还是你捞好看 https://t.co/PGJKCKaDkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 2566,
+          "like_count": 209597,
+          "listed_count": 9,
+          "media_count": 1383,
+          "tweet_count": 14759
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

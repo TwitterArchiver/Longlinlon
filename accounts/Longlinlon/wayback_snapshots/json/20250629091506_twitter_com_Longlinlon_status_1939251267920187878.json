@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1939251267920187878",
+    "created_at": "2025-06-29T09:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T10:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939251267920187878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zealots2022/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Zealots2022/status/1939225605985505649",
+          "start": 10,
+          "url": "https://t.co/6jd3w4hkuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939251267920187878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939225605985505649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想对晶哥扭屁股 https://t.co/6jd3w4hkuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27839,
+        "height": 1080,
+        "media_key": "13_1939225527484612608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939225527484612608/img/RolVTReQxsWRcvFz.jpg",
+        "public_metrics": {
+          "view_count": 1180
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939225527484612608/vid/avc1/1920x1080/hWJOTtM-OD1JfEDm.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939225527484612608/vid/avc1/480x270/ru68R6mRlEH1Z23b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939225527484612608/pl/-ywGy1wcF-lIGIT_.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939225527484612608/vid/avc1/1280x720/ezq0PALDcJ11y4ps.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939225527484612608/vid/avc1/640x360/GZPk0nSSsHZN2p5F.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1939251267920187878",
+        "created_at": "2025-06-29T09:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939251267920187878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zealots2022/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Zealots2022/status/1939225605985505649",
+              "start": 10,
+              "url": "https://t.co/6jd3w4hkuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939251267920187878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939225605985505649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想对晶哥扭屁股 https://t.co/6jd3w4hkuD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939225527484612608"
+          ]
+        },
+        "author_id": "1516262944534892549",
+        "conversation_id": "1939225605985505649",
+        "created_at": "2025-06-29T07:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939225605985505649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQNQpfp9TS",
+              "end": 39,
+              "expanded_url": "https://x.com/Zealots2022/status/1939225605985505649/video/1",
+              "media_key": "13_1939225527484612608",
+              "start": 16,
+              "url": "https://t.co/YQNQpfp9TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939225605985505649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1631,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "今天的纽约，呼唤着天火与硫磺。 https://t.co/YQNQpfp9TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2459,
+          "like_count": 210517,
+          "listed_count": 7,
+          "media_count": 1230,
+          "tweet_count": 13883
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:50:41.000Z",
+        "description": "Uber 司机\n\n油管频道：https://t.co/eZbJ6SM8Zo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCwgaZ…",
+                "end": 37,
+                "expanded_url": "https://www.youtube.com/channel/UCwgaZCW7xEySsKyvcv5mu0w",
+                "start": 14,
+                "url": "https://t.co/eZbJ6SM8Zo"
+              }
+            ]
+          }
+        },
+        "id": "1516262944534892549",
+        "name": "徐思远 | God wills it",
+        "pinned_tweet_id": "1937928103113683175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938060751630954496/tqnUwdWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27865,
+          "following_count": 671,
+          "like_count": 28886,
+          "listed_count": 176,
+          "media_count": 10823,
+          "tweet_count": 33916
+        },
+        "username": "Zealots2022",
+        "verified": true
+      }
+    ]
+  }
+}

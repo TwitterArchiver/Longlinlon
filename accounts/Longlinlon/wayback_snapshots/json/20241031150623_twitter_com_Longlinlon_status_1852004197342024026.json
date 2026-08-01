@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1852000280784650336",
+    "created_at": "2024-10-31T15:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T16:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852004197342024026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844290406391103488",
+          "start": 0,
+          "username": "qhqq114514"
+        },
+        {
+          "end": 22,
+          "id": "1795072631169044480",
+          "start": 12,
+          "username": "KillBasi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852004197342024026",
+    "in_reply_to_user_id": "1844290406391103488",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852003493583704493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qhqq114514 @KillBasi1 帮泥洗澡呀🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1852000280784650336",
+        "created_at": "2024-10-31T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852004197342024026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844290406391103488",
+              "start": 0,
+              "username": "qhqq114514"
+            },
+            {
+              "end": 22,
+              "id": "1795072631169044480",
+              "start": 12,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852004197342024026",
+        "in_reply_to_user_id": "1844290406391103488",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852003493583704493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhqq114514 @KillBasi1 帮泥洗澡呀🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844290406391103488",
+        "conversation_id": "1852000280784650336",
+        "created_at": "2024-10-31T15:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852003493583704493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            },
+            {
+              "end": 22,
+              "id": "1795072631169044480",
+              "start": 12,
+              "username": "KillBasi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852003493583704493",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852003331990000057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon @KillBasi1 你什么意思👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 2214,
+          "like_count": 176977,
+          "listed_count": 8,
+          "tweet_count": 11734
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:14:42.000Z",
+        "description": "",
+        "id": "1844290406391103488",
+        "location": "Osaka-fu, Japan",
+        "name": "n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844292252803514368/nqmLdkZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 55,
+          "like_count": 187,
+          "listed_count": 0,
+          "tweet_count": 140
+        },
+        "username": "qhqq114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I love Mari 🥰互动小号： @qhqq114514 傻逼：@RS_100505 （最喜欢干的事情是睡觉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "qhqq114514"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "RS_100505"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "name": "时行（男娘重度依赖",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843973141850402817/REOm-m-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 809,
+          "like_count": 6986,
+          "listed_count": 2,
+          "tweet_count": 221
+        },
+        "username": "KillBasi1",
+        "verified": false
+      }
+    ]
+  }
+}

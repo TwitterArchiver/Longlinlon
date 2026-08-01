@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792004591573467227",
+    "created_at": "2024-05-19T01:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T02:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792004591573467227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677252589182943232",
+          "start": 3,
+          "username": "Hikar12304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792004591573467227",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791866060704227634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikar12304: 工薪家庭低人一等、农民工子女低人二等、不是独生子女低人三等、家庭关系恶劣低人四等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792004591573467227",
+        "created_at": "2024-05-19T01:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T02:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792004591573467227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677252589182943232",
+              "start": 3,
+              "username": "Hikar12304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792004591573467227",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791866060704227634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hikar12304: 工薪家庭低人一等、农民工子女低人二等、不是独生子女低人三等、家庭关系恶劣低人四等"
+      },
+      {
+        "attachments": {},
+        "author_id": "1677252589182943232",
+        "conversation_id": "1791866060704227634",
+        "created_at": "2024-05-18T16:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T17:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791866060704227634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791866060704227634",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2018,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "工薪家庭低人一等、农民工子女低人二等、不是独生子女低人三等、家庭关系恶劣低人四等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 1940,
+          "like_count": 128735,
+          "listed_count": 10,
+          "tweet_count": 9385
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "",
+        "id": "1677252589182943232",
+        "name": ".",
+        "pinned_tweet_id": "1788856385775849606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 591,
+          "like_count": 22546,
+          "listed_count": 7,
+          "tweet_count": 5227
+        },
+        "username": "Hikar12304",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1793807264471744821",
+    "created_at": "2024-05-24T00:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T01:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793807264471744821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1399475862517563398",
+          "start": 3,
+          "username": "CallingLazerJet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793807264471744821",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793703691800990055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CallingLazerJet: 为什么我不是富逼为什么我没零花钱为什么我连药钱都掏不出为什么我去打工别人不要我为什么把我生下来为什么为什么为什么为什么为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1793807264471744821",
+        "created_at": "2024-05-24T00:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T01:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793807264471744821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1399475862517563398",
+              "start": 3,
+              "username": "CallingLazerJet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793807264471744821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793703691800990055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CallingLazerJet: 为什么我不是富逼为什么我没零花钱为什么我连药钱都掏不出为什么我去打工别人不要我为什么把我生下来为什么为什么为什么为什么为什么"
+      },
+      {
+        "attachments": {},
+        "author_id": "1399475862517563398",
+        "conversation_id": "1793703691800990055",
+        "created_at": "2024-05-23T18:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T19:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793703691800990055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793703691800990055",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我不是富逼为什么我没零花钱为什么我连药钱都掏不出为什么我去打工别人不要我为什么把我生下来为什么为什么为什么为什么为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1960,
+          "like_count": 131446,
+          "listed_count": 9,
+          "tweet_count": 9542
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T21:20:34.000Z",
+        "description": "加雷马单推人",
+        "id": "1399475862517563398",
+        "name": "库啵_奥费手",
+        "pinned_tweet_id": "1766780947440038383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790952930280976384/4NFmGiBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 394,
+          "like_count": 7997,
+          "listed_count": 6,
+          "tweet_count": 6770
+        },
+        "username": "CallingLazerJet",
+        "verified": false
+      }
+    ]
+  }
+}

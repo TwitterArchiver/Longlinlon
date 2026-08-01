@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1921547794294157710",
+    "created_at": "2025-05-11T19:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T20:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921655514829607388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "915881796881076224",
+          "start": 0,
+          "username": "SD2190392804"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921655514829607388",
+    "in_reply_to_user_id": "915881796881076224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921547794294157710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SD2190392804 老公"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1921547781912903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqq1ht_bwAA6liP.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1792,
+        "media_key": "3_1921547782126530560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqq1huyXcAAvc3X.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1921547794294157710",
+        "created_at": "2025-05-11T19:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T20:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921655514829607388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "915881796881076224",
+              "start": 0,
+              "username": "SD2190392804"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921655514829607388",
+        "in_reply_to_user_id": "915881796881076224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921547794294157710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SD2190392804 老公"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921547781912903680",
+            "3_1921547782126530560"
+          ]
+        },
+        "author_id": "915881796881076224",
+        "conversation_id": "1921547794294157710",
+        "created_at": "2025-05-11T12:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T13:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921547794294157710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "TOBEHEROX"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "tbhx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGmbvmIA4t",
+              "end": 42,
+              "expanded_url": "https://x.com/SD2190392804/status/1921547794294157710/photo/1",
+              "media_key": "3_1921547781912903680",
+              "start": 19,
+              "url": "https://t.co/XGmbvmIA4t"
+            },
+            {
+              "display_url": "pic.x.com/XGmbvmIA4t",
+              "end": 42,
+              "expanded_url": "https://x.com/SD2190392804/status/1921547794294157710/photo/1",
+              "media_key": "3_1921547782126530560",
+              "start": 19,
+              "url": "https://t.co/XGmbvmIA4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921547794294157710",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 25681,
+          "like_count": 1654,
+          "quote_count": 25,
+          "reply_count": 22,
+          "retweet_count": 391
+        },
+        "reply_settings": "everyone",
+        "text": "#TOBEHEROX #tbhx 😈 https://t.co/XGmbvmIA4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 2403,
+          "like_count": 204761,
+          "listed_count": 9,
+          "media_count": 1189,
+          "tweet_count": 13569
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-05T10:10:11.000Z",
+        "description": "*｢TO BE HERO X」公式立ち絵＆ポスターイラスト担当  *OC余烬驿站  *DOGS/B&C *什么都画･なんでも描く｜weibo：SpeakLOUDER_｜中文/日本語",
+        "id": "915881796881076224",
+        "name": "ShaDow💫",
+        "pinned_tweet_id": "1530609325537775616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619926582864510977/8BpjJgYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128771,
+          "following_count": 996,
+          "like_count": 3623,
+          "listed_count": 766,
+          "media_count": 492,
+          "tweet_count": 3580
+        },
+        "username": "SD2190392804",
+        "verified": false
+      }
+    ]
+  }
+}

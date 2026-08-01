@@ -1,0 +1,268 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1797167168540512364",
+    "created_at": "2024-06-02T17:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T18:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797324538390462576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "37665211",
+          "start": 0,
+          "username": "maltose"
+        },
+        {
+          "end": 25,
+          "id": "1694437145035816960",
+          "start": 9,
+          "username": "theLostCypress_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797324538390462576",
+    "in_reply_to_user_id": "37665211",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797222385554452775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maltose @theLostCypress_ 行行行我们比不过你们都抑郁了你们富蛆还非要比个谁更严重是吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1797167168540512364",
+        "created_at": "2024-06-02T17:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T18:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797324538390462576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "37665211",
+              "start": 0,
+              "username": "maltose"
+            },
+            {
+              "end": 25,
+              "id": "1694437145035816960",
+              "start": 9,
+              "username": "theLostCypress_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797324538390462576",
+        "in_reply_to_user_id": "37665211",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797222385554452775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maltose @theLostCypress_ 行行行我们比不过你们都抑郁了你们富蛆还非要比个谁更严重是吗？"
+      },
+      {
+        "attachments": {},
+        "author_id": "37665211",
+        "conversation_id": "1797167168540512364",
+        "created_at": "2024-06-02T11:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T12:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797222385554452775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1694437145035816960",
+              "start": 0,
+              "username": "theLostCypress_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797222385554452775",
+        "in_reply_to_user_id": "1694437145035816960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797167168540512364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress_ 我觉得一个穷人抑郁了，突然暴富，可以一定程度缓解抑郁，因为暴富对他来说是正向刺激，强度很大，因为穷人有许多烦恼是可以靠钱解决的。但是富人如果抑郁了，钱就起不到正向刺激的作用了，所以富人抑郁会更严重，拥有了大量资源以后，就只有很少的资源，往往是精神层面的东西，能够解决他的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1983,
+          "like_count": 135114,
+          "listed_count": 9,
+          "tweet_count": 9815
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-04T14:00:42.000Z",
+        "description": "co-founder of 湾区WSB #aWSBFamily｜Host of 玄学院 on clubhouse｜500 Global Batch12｜Translator of Facebook: the inside story｜Founder & ex-CEO of Fiberead",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 20,
+                "tag": "aWSBFamily"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/WwqR2nKERb",
+                "end": 23,
+                "expanded_url": "https://discord.gg/WwqR2nKERb",
+                "start": 0,
+                "url": "https://t.co/uS8AxAUzTL"
+              }
+            ]
+          }
+        },
+        "id": "37665211",
+        "location": "Beijing",
+        "name": "Runa Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767310595727269888/OMAcA7Ef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 570,
+          "like_count": 7084,
+          "listed_count": 16,
+          "tweet_count": 9670
+        },
+        "url": "https://t.co/uS8AxAUzTL",
+        "username": "maltose",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T19:51:33.000Z",
+        "description": "取关请双取，谢谢|Schizophrenic&Asperger|INFJ-T 5w6-tritype593-sp/so|无性别＆无性恋人士|精神障碍患者脑子有病|四次元非人类|网哲带师|疯批|口嗨热爱党|外不热内冷|平权温和派|基本不键政|默认友好|理性讨论看不惯请屏蔽别来犯贱|第二人格@the4thD1mens1on",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "the4thD1mens1on"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert",
+                "start": 0,
+                "url": "https://t.co/JSs8D5a7Jw"
+              }
+            ]
+          }
+        },
+        "id": "1694437145035816960",
+        "location": "我才知道星期八的真名叫作schizophrenia",
+        "name": "住在星期八的柏树🏳‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1796901169941590175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767246062312386560/lPNw_-Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 1102,
+          "like_count": 13041,
+          "listed_count": 3,
+          "tweet_count": 3900
+        },
+        "url": "https://t.co/JSs8D5a7Jw",
+        "username": "theLostCypress_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1814351344230379532",
+    "created_at": "2024-07-19T17:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T18:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814351344230379532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574074484239503361",
+          "start": 3,
+          "username": "ant1ourder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814351344230379532",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814329983831265303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ant1ourder: 无论是孙吧男、集美还是跨圈大手子，欺软怕硬都是人类共性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1814351344230379532",
+        "created_at": "2024-07-19T17:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T18:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814351344230379532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574074484239503361",
+              "start": 3,
+              "username": "ant1ourder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814351344230379532",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814329983831265303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ant1ourder: 无论是孙吧男、集美还是跨圈大手子，欺软怕硬都是人类共性"
+      },
+      {
+        "attachments": {},
+        "author_id": "1574074484239503361",
+        "conversation_id": "1814329983831265303",
+        "created_at": "2024-07-19T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814329983831265303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chairmanbo1949…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/chairmanbo1949/status/1813914495527657946",
+              "start": 28,
+              "url": "https://t.co/cKlgmoTE1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814329983831265303",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813914495527657946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无论是孙吧男、集美还是跨圈大手子，欺软怕硬都是人类共性 https://t.co/cKlgmoTE1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 2119,
+          "like_count": 159991,
+          "listed_count": 10,
+          "tweet_count": 10602
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T16:32:57.000Z",
+        "description": "",
+        "id": "1574074484239503361",
+        "name": "ɡɒtʃə!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807374293485109248/Gp2ZnoSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1952,
+          "following_count": 1758,
+          "like_count": 117088,
+          "listed_count": 9,
+          "tweet_count": 2567
+        },
+        "username": "ant1ourder",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1963942160450892222",
+    "created_at": "2025-09-05T13:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T14:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963950713043882451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "duoduofuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963950713043882451",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963942160450892222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoduofuo 不要这样想😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1963942160450892222",
+        "created_at": "2025-09-05T13:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963950713043882451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "duoduofuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963950713043882451",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963942160450892222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoduofuo 不要这样想😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1963942160450892222",
+        "created_at": "2025-09-05T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963942160450892222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963942160450892222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是有打算活到18岁就死去的 现在这些事坚定了我的想法 但是妈妈一直在弥补之前对我犯下的错误照顾我 还有少数的朋友站在我这边安慰我 我已经不知道该怎么办好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭磕患园-Wiggin",
+        "pinned_tweet_id": "1942519630431674832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2511,
+          "like_count": 215571,
+          "listed_count": 10,
+          "media_count": 1297,
+          "tweet_count": 14281
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "时行扛200斤麦子十里路不换肩",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952790804960776193/34jAYwCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6529,
+          "following_count": 245,
+          "like_count": 29580,
+          "listed_count": 16,
+          "media_count": 174,
+          "tweet_count": 783
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "duoduofuo",
+        "verified": false
+      }
+    ]
+  }
+}

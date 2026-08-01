@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1789962988050624548",
+    "created_at": "2024-05-13T10:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T11:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789968843361653207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748939554667802624",
+          "start": 0,
+          "username": "8964Low1Q9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789968843361653207",
+    "in_reply_to_user_id": "1748939554667802624",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789962988050624548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964Low1Q9 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1789962988050624548",
+        "created_at": "2024-05-13T10:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T11:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789968843361653207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748939554667802624",
+              "start": 0,
+              "username": "8964Low1Q9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789968843361653207",
+        "in_reply_to_user_id": "1748939554667802624",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789962988050624548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964Low1Q9 贴贴"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789962985785769984"
+          ]
+        },
+        "author_id": "1748939554667802624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1789962988050624548",
+        "created_at": "2024-05-13T10:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T11:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789962988050624548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1789618875350589440/qYqXojYN?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1789618875350589440/qYqXojYN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/47DYJVY0Ih"
+            },
+            {
+              "display_url": "pic.twitter.com/jr6fGQS3xT",
+              "end": 64,
+              "expanded_url": "https://twitter.com/8964Low1Q9/status/1789962988050624548/photo/1",
+              "media_key": "3_1789962985785769984",
+              "start": 41,
+              "url": "https://t.co/jr6fGQS3xT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789962988050624548",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/47DYJVY0Ih https://t.co/jr6fGQS3xT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @KagurazakaSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1885,
+          "like_count": 125346,
+          "listed_count": 10,
+          "tweet_count": 9145
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T05:24:29.000Z",
+        "description": "mtf @4Low1Q9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "4Low1Q9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/4Low1Q9",
+                "end": 23,
+                "expanded_url": "https://note.ms/4Low1Q9",
+                "start": 0,
+                "url": "https://t.co/NCfa7gS2xm"
+              }
+            ]
+          }
+        },
+        "id": "1748939554667802624",
+        "name": "4Low1Q9",
+        "pinned_tweet_id": "1752162406615408787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774224452710268928/kH_r1Hyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 129,
+          "like_count": 12079,
+          "listed_count": 10,
+          "tweet_count": 6081
+        },
+        "url": "https://t.co/NCfa7gS2xm",
+        "username": "8964Low1Q9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1968598853298618613",
+    "created_at": "2025-09-18T12:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968646641918898188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783748675183030273",
+          "start": 0,
+          "username": "Coldfish8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968646641918898188",
+    "in_reply_to_user_id": "1783748675183030273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968598853298618613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coldfish8964 好强"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968598853298618613].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968598853298618613",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968598853298618613"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1968598853298618613",
+        "created_at": "2025-09-18T12:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968646641918898188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783748675183030273",
+              "start": 0,
+              "username": "Coldfish8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968646641918898188",
+        "in_reply_to_user_id": "1783748675183030273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968598853298618613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coldfish8964 好强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "艾达是病患和园丁的亲妈-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2511,
+          "like_count": 215495,
+          "listed_count": 10,
+          "media_count": 1307,
+          "tweet_count": 14306
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T06:43:50.000Z",
+        "description": "一個脆弱的小男孩",
+        "id": "1783748675183030273",
+        "location": "Transmasc",
+        "name": "𝒔𝒉𝒂𝒅𝒐𝒘影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965731192671711232/kwnWBXFK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 117,
+          "like_count": 2878,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "Coldfish8964",
+        "verified": false
+      }
+    ]
+  }
+}

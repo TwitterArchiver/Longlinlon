@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2009264246433939666",
+    "created_at": "2026-01-08T14:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T15:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009269367939403852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "Sallyand99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009269367939403852",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009264246433939666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sallyand99 所以别给他们钱，他们这样对你把你逼上这条路你都忘了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009264236615356416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JXLXta0AAAurW.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2009264246433939666",
+        "created_at": "2026-01-08T14:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009269367939403852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "Sallyand99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009269367939403852",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009264246433939666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyand99 所以别给他们钱，他们这样对你把你逼上这条路你都忘了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009264236615356416"
+          ]
+        },
+        "author_id": "1729090153124376576",
+        "conversation_id": "2009264246433939666",
+        "created_at": "2026-01-08T14:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009264246433939666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xFnTnPwFbs",
+              "end": 56,
+              "expanded_url": "https://x.com/Sallyand99/status/2009264246433939666/photo/1",
+              "media_key": "3_2009264236615356416",
+              "start": 33,
+              "url": "https://t.co/xFnTnPwFbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009264246433939666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我爸妈也猜到我是做什么的了，可能早就放弃想把我当提款机了…… https://t.co/xFnTnPwFbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2494,
+          "like_count": 210789,
+          "listed_count": 9,
+          "media_count": 1369,
+          "tweet_count": 14611
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子\n有什么想问的tg联系https://t.co/uWEHdlBRFW\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 38,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 15,
+                "url": "https://t.co/uWEHdlBRFW"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "广州，🚪150 课",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23501,
+          "following_count": 141,
+          "like_count": 685,
+          "listed_count": 67,
+          "media_count": 120,
+          "tweet_count": 388
+        },
+        "username": "Sallyand99",
+        "verified": false
+      }
+    ]
+  }
+}

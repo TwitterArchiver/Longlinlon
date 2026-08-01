@@ -1,0 +1,260 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1809931721733001361",
+    "created_at": "2024-07-07T13:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T14:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809937318557757658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1317477880314486785",
+          "start": 0,
+          "username": "Kaslana_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809937318557757658",
+    "in_reply_to_user_id": "1317477880314486785",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809931721733001361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaslana_404 😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1809931721733001361",
+        "created_at": "2024-07-07T13:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T14:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809937318557757658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317477880314486785",
+              "start": 0,
+              "username": "Kaslana_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809937318557757658",
+        "in_reply_to_user_id": "1317477880314486785",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809931721733001361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaslana_404 😽"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809931719044419585"
+          ]
+        },
+        "author_id": "1317477880314486785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1809931721733001361",
+        "created_at": "2024-07-07T12:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T13:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809931721733001361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1808805359798398977/RK2GYhHV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1808805359798398977/RK2GYhHV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/20dXa5kqNT"
+            },
+            {
+              "display_url": "pic.twitter.com/jeGBHOUBEH",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Kaslana_404/status/1809931721733001361/photo/1",
+              "media_key": "3_1809931719044419585",
+              "start": 41,
+              "url": "https://t.co/jeGBHOUBEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809931721733001361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/20dXa5kqNT https://t.co/jeGBHOUBEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 2071,
+          "like_count": 154204,
+          "listed_count": 10,
+          "tweet_count": 10463
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T14:49:48.000Z",
+        "description": "猫箱性别｜音乐家|摄影师‖电子信息进厂预备役，🏳️‍🌈🏳️‍⚧️友好。|简体中文🇨🇳、繁體中文🇭🇰🇲🇴🇹🇼、にほんご🇯🇵、English🇺🇸🇬🇧🌏️缺爱的笨蛋@Hikari_Ciallo @Allknowbody 我的另一形态@foreignerofmoon｜如炸号请关注自动账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Hikari_Ciallo"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "Allknowbody"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "foreignerofmoon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.katayo.wiki",
+                "end": 23,
+                "expanded_url": "http://blog.katayo.wiki",
+                "start": 0,
+                "url": "https://t.co/lWLohbQmGT"
+              }
+            ]
+          }
+        },
+        "id": "1317477880314486785",
+        "location": "DX3906星系黑域",
+        "name": "🌸Katayo Cyberangel 🌸",
+        "pinned_tweet_id": "1801535063563075768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779404572244787200/yJfn5OsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 715,
+          "like_count": 4067,
+          "listed_count": 3,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/lWLohbQmGT",
+        "username": "Kaslana_404",
+        "verified": false
+      }
+    ]
+  }
+}

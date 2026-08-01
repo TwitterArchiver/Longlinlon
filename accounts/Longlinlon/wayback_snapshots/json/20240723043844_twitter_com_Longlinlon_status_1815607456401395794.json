@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1815420763979272621",
+    "created_at": "2024-07-23T04:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T05:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815607456401395794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "jidu00488470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815607456401395794",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815420763979272621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jidu00488470 居然有我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1815420763979272621",
+        "created_at": "2024-07-23T04:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T05:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815607456401395794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "jidu00488470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815607456401395794",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815420763979272621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jidu00488470 居然有我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1593799138893873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1815420763979272621",
+        "created_at": "2024-07-22T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815420763979272621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jidu00488470/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jidu00488470/status/1815420490883928374",
+              "start": 10,
+              "url": "https://t.co/6TcdSvGjmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815420763979272621",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815420490883928374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这两个月的贴贴圈！ https://t.co/6TcdSvGjmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 2134,
+          "like_count": 161386,
+          "listed_count": 10,
+          "tweet_count": 10672
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "君居尘世如晨露，听闻山岚悬念深|超大一只 183cm 80kg|07高中牲|不涩涩 不od 不割手|社民壬|东亚文化|好姐姐 @xingjue8096 |爱好是数码 摄影 历史 社科 军事 医药|喜欢玩MC wows 战地五|欢迎来找我玩🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "xingjue8096"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "location": "浙江",
+        "name": "Yujiudu78🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789564181056000000/rSRDgiC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 2371,
+          "like_count": 9385,
+          "listed_count": 0,
+          "tweet_count": 2336
+        },
+        "username": "jidu00488470",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046650628",
+          "name": "USAID"
+        }
+      }
+    ],
+    "conversation_id": "1940852404926439466",
+    "created_at": "2025-07-03T19:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T20:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940852404926439466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MasukuShac8706…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/MasukuShac87060/status/1940593906145771554",
+          "start": 3,
+          "url": "https://t.co/KZDoV1AvsQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940852404926439466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940593906145771554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鸡巴 https://t.co/KZDoV1AvsQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1940593707633278976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5fsgTXAAAO25e.png",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650628",
+              "name": "USAID"
+            }
+          }
+        ],
+        "conversation_id": "1940852404926439466",
+        "created_at": "2025-07-03T19:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T20:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940852404926439466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MasukuShac8706…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/MasukuShac87060/status/1940593906145771554",
+              "start": 3,
+              "url": "https://t.co/KZDoV1AvsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940852404926439466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940593906145771554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸡巴 https://t.co/KZDoV1AvsQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940593707633278976"
+          ]
+        },
+        "author_id": "1654729084772179968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650628",
+              "name": "USAID"
+            }
+          }
+        ],
+        "conversation_id": "1940593906145771554",
+        "created_at": "2025-07-03T02:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T03:09:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940593730614185995",
+          "1940593906145771554"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "USAID",
+              "probability": 0.5709,
+              "start": 3,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6x146Rx6e",
+              "end": 47,
+              "expanded_url": "https://x.com/MasukuShac87060/status/1940593906145771554/photo/1",
+              "media_key": "3_1940593707633278976",
+              "start": 24,
+              "url": "https://t.co/N6x146Rx6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940593906145771554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5094,
+          "impression_count": 8114597,
+          "like_count": 84516,
+          "quote_count": 2166,
+          "reply_count": 906,
+          "retweet_count": 10385
+        },
+        "reply_settings": "everyone",
+        "text": "速報：USAIDは本日、正式に閉鎖されました。 https://t.co/N6x146Rx6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2464,
+          "like_count": 210770,
+          "listed_count": 7,
+          "media_count": 1233,
+          "tweet_count": 13897
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T06:05:52.000Z",
+        "description": "IT企業の経営者。ゲームクリエイター・サウンド製作・プログラマ。アイコンはＭ子さん。",
+        "id": "1654729084772179968",
+        "location": "東京 新宿区",
+        "name": "くろのす社長",
+        "pinned_tweet_id": "1690223526299701248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684621084539379717/hLN3ddHy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 57,
+          "like_count": 12952,
+          "listed_count": 74,
+          "media_count": 1535,
+          "tweet_count": 7767
+        },
+        "username": "MasukuShac87060",
+        "verified": true
+      }
+    ]
+  }
+}

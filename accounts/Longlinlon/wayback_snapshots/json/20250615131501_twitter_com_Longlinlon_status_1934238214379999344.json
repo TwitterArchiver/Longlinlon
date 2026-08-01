@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1934165334598017164",
+    "created_at": "2025-06-15T13:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T14:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934238214379999344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892834295984857088",
+          "start": 0,
+          "username": "lihehe192445"
+        },
+        {
+          "end": 27,
+          "id": "1795072631169044480",
+          "start": 14,
+          "username": "KillTokiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934238214379999344",
+    "in_reply_to_user_id": "1892834295984857088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934232367310512538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihehe192445 @KillTokiyuki 私募"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1934165334598017164",
+        "created_at": "2025-06-15T13:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T14:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934238214379999344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892834295984857088",
+              "start": 0,
+              "username": "lihehe192445"
+            },
+            {
+              "end": 27,
+              "id": "1795072631169044480",
+              "start": 14,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934238214379999344",
+        "in_reply_to_user_id": "1892834295984857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934232367310512538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihehe192445 @KillTokiyuki 私募"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892834295984857088",
+        "conversation_id": "1934165334598017164",
+        "created_at": "2025-06-15T12:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934232367310512538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934232367310512538",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934165334598017164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillTokiyuki 但是那个男的真的在骚扰了吗，有没有可能又是诬告骚扰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 2439,
+          "like_count": 209110,
+          "listed_count": 7,
+          "media_count": 1215,
+          "tweet_count": 13777
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T07:11:00.000Z",
+        "description": "一个来自大陆的人，平日里就写写网络小说一类的，也没啥",
+        "id": "1892834295984857088",
+        "name": "寒天星点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892843513865256960/4doHS4yT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 40,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 406
+        },
+        "username": "lihehe192445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "世界在下沉，我们在狂欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失传媒体",
+        "name": "灼眼の時行",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933590089499611136/Ksv2mOz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5760,
+          "following_count": 252,
+          "like_count": 28269,
+          "listed_count": 13,
+          "media_count": 143,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillTokiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

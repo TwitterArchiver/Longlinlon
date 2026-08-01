@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1938568873063911797",
+    "created_at": "2025-06-28T19:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T20:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939050210120081829"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2908289562",
+          "start": 0,
+          "username": "Tiruno_kaeru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939050210120081829",
+    "in_reply_to_user_id": "2908289562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938568873063911797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiruno_kaeru 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_1938568866038439936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucuHNjaYAAPOaU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1938568873063911797",
+        "created_at": "2025-06-28T19:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T20:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939050210120081829"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2908289562",
+              "start": 0,
+              "username": "Tiruno_kaeru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939050210120081829",
+        "in_reply_to_user_id": "2908289562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938568873063911797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiruno_kaeru 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938568866038439936"
+          ]
+        },
+        "author_id": "2908289562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938568873063911797",
+        "created_at": "2025-06-27T12:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938568873063911797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpMey5p2lu",
+              "end": 48,
+              "expanded_url": "https://x.com/Tiruno_kaeru/status/1938568873063911797/photo/1",
+              "media_key": "3_1938568866038439936",
+              "start": 25,
+              "url": "https://t.co/rpMey5p2lu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938568873063911797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21582,
+          "like_count": 689,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️認知20000達成＆歴代最高認知！！！\n🎉🎊 https://t.co/rpMey5p2lu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2457,
+          "like_count": 210402,
+          "listed_count": 7,
+          "media_count": 1229,
+          "tweet_count": 13879
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-23T16:40:08.000Z",
+        "description": "写真を撮るのが大好き だ〜りん⛩❤️ 世界の踊り子 最恐を目指して【想定外も想定内】【不撓不屈】📦 https://t.co/QxqZ8XWoom",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 73,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1NRZ627BQQ7AE?ref_=wl_share",
+                "start": 50,
+                "url": "https://t.co/QxqZ8XWoom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCul8Q…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCul8QyFkLNpF3PQLUBt8oyw",
+                "start": 0,
+                "url": "https://t.co/i8mIC1IKPz"
+              }
+            ]
+          }
+        },
+        "id": "2908289562",
+        "location": "#チルさんのカエルアート",
+        "name": "🌸チルノー☆カエル🌸",
+        "pinned_tweet_id": "1917881720340443240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919332739104542720/6UBYZgcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12040,
+          "following_count": 302,
+          "like_count": 540,
+          "listed_count": 98,
+          "media_count": 1540,
+          "tweet_count": 9830
+        },
+        "url": "https://t.co/i8mIC1IKPz",
+        "username": "Tiruno_kaeru",
+        "verified": false
+      }
+    ]
+  }
+}

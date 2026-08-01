@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1819594849995444502",
+    "created_at": "2024-08-25T07:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T08:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827613866869846031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741500438204362752",
+          "start": 0,
+          "username": "Bolichara0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827613866869846031",
+    "in_reply_to_user_id": "1741500438204362752",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827587559758680359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolichara0 呜好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1819594849995444502",
+        "created_at": "2024-08-25T07:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T08:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827613866869846031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741500438204362752",
+              "start": 0,
+              "username": "Bolichara0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827613866869846031",
+        "in_reply_to_user_id": "1741500438204362752",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827587559758680359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolichara0 呜好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741500438204362752",
+        "conversation_id": "1819594849995444502",
+        "created_at": "2024-08-25T06:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T07:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827587559758680359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827587559758680359",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827465092340052310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 不会玩第五人格QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 2221,
+          "like_count": 172944,
+          "listed_count": 10,
+          "tweet_count": 11137
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T16:44:17.000Z",
+        "description": "永远的好朋友@luxuanwen3/咱主人🥺@cirno_Number9/域名没实名打不开，感谢橙子老师提供的技术支持qwq/已疯勿扰（迫真）/退推了也是直接/孩子们我回来辣！/补豪赤窝海姚赤🍥/🏳️‍⚧️/she her 她/简中SC或繁中TC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "luxuanwen3"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "username": "cirno_Number9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blc.orangestd.cn",
+                "end": 23,
+                "expanded_url": "https://blc.orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/tUEalL5DN7"
+              }
+            ]
+          }
+        },
+        "id": "1741500438204362752",
+        "location": "天津市 北辰区",
+        "name": "🏳️‍🌈🏳️‍⚧️🍥Bolichara🇨🇳",
+        "pinned_tweet_id": "1826890812661076101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826663012524326912/wvv2yp_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 356,
+          "like_count": 92,
+          "listed_count": 0,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/tUEalL5DN7",
+        "username": "Bolichara0",
+        "verified": false
+      }
+    ]
+  }
+}

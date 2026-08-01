@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799442528091119670",
+    "created_at": "2024-06-08T14:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T15:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799444265116041572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576027985098203136",
+          "start": 0,
+          "username": "Zhizhizi_Osward"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799444265116041572",
+    "in_reply_to_user_id": "1576027985098203136",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799442528091119670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhizhizi_Osward 不要死🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799442528091119670",
+        "created_at": "2024-06-08T14:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T15:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799444265116041572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576027985098203136",
+              "start": 0,
+              "username": "Zhizhizi_Osward"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799444265116041572",
+        "in_reply_to_user_id": "1576027985098203136",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799442528091119670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhizhizi_Osward 不要死🥺🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1576027985098203136",
+        "conversation_id": "1799442528091119670",
+        "created_at": "2024-06-08T14:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T15:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799442528091119670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799442528091119670",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我劝我们都不要天天想着自杀去死了\n天底下没有这么好的事的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 1991,
+          "like_count": 138396,
+          "listed_count": 9,
+          "tweet_count": 9947
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T01:55:37.000Z",
+        "description": "07infp/國際高中休學中/重抑重焦/MtF由於上學被迫停止了（所以现在是小男娘）/負面希死/地雷割手/喜歡擁抱 喜歡讀詩/互fo大歡迎！/煞笔三无号退散/🚪29r/郅郅子永远16岁！最好的主人@Nemiya_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Nemiya_3"
+              }
+            ]
+          }
+        },
+        "id": "1576027985098203136",
+        "location": "白色天幕的盡頭",
+        "name": "郅郅子巧克力奶油蛋糕🍥",
+        "pinned_tweet_id": "1797816542467617244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788182949063761921/pYjlbYc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 213,
+          "like_count": 309,
+          "listed_count": 0,
+          "tweet_count": 783
+        },
+        "username": "Zhizhizi_Osward",
+        "verified": false
+      }
+    ]
+  }
+}

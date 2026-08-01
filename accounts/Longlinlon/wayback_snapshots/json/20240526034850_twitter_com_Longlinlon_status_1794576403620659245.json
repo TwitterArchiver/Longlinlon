@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1794576403620659245",
+    "created_at": "2024-05-26T03:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T04:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794576403620659245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718399336118169600",
+          "start": 3,
+          "username": "MitsuoKaori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794576403620659245",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794485739121791405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MitsuoKaori: 看到有人说斯德哥尔摩或者受害者有罪论就想把对方的头拧下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1794576403620659245",
+        "created_at": "2024-05-26T03:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T04:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794576403620659245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718399336118169600",
+              "start": 3,
+              "username": "MitsuoKaori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794576403620659245",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794485739121791405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MitsuoKaori: 看到有人说斯德哥尔摩或者受害者有罪论就想把对方的头拧下来"
+      },
+      {
+        "attachments": {},
+        "author_id": "1718399336118169600",
+        "conversation_id": "1794485739121791405",
+        "created_at": "2024-05-25T21:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T22:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794485739121791405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794485739121791405",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到有人说斯德哥尔摩或者受害者有罪论就想把对方的头拧下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1976,
+          "like_count": 132450,
+          "listed_count": 9,
+          "tweet_count": 9591
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T22:48:34.000Z",
+        "description": "跑步进入药娘主义新社会",
+        "id": "1718399336118169600",
+        "name": "神谷纱世羽",
+        "pinned_tweet_id": "1792962221531902313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792964684200763392/WKGa6VQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 82,
+          "like_count": 4563,
+          "listed_count": 0,
+          "tweet_count": 4666
+        },
+        "username": "MitsuoKaori",
+        "verified": false
+      }
+    ]
+  }
+}

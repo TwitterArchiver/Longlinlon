@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1904705111030718630",
+    "created_at": "2025-03-29T01:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T02:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905788416375312631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "825350910335291392",
+          "start": 0,
+          "username": "Hatsuyuki512k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905788416375312631",
+    "in_reply_to_user_id": "825350910335291392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905707166021169424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatsuyuki512k halo是初中生吗宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1904705111030718630",
+        "created_at": "2025-03-29T01:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T02:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905788416375312631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "825350910335291392",
+              "start": 0,
+              "username": "Hatsuyuki512k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905788416375312631",
+        "in_reply_to_user_id": "825350910335291392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905707166021169424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsuyuki512k halo是初中生吗宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "825350910335291392",
+        "conversation_id": "1904705111030718630",
+        "created_at": "2025-03-28T19:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T20:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905707166021169424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905707166021169424",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904705111030718630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 我觉得大家辩之前应该翻开初中数学课本，复习下 “充分条件” 和 “必要条件” 的区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 2362,
+          "like_count": 200892,
+          "listed_count": 9,
+          "media_count": 1160,
+          "tweet_count": 13288
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-28T14:32:46.000Z",
+        "description": "Remember this, try.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aurora…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/auroraace.bsky.social",
+                "start": 0,
+                "url": "https://t.co/QRPrgNIQFR"
+              }
+            ]
+          }
+        },
+        "id": "825350910335291392",
+        "location": "Right here!",
+        "name": "(*≧▽≦)ﾉ {Reincarnated}",
+        "pinned_tweet_id": "1847670916131504218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267791056088829955/Ns-8qdUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 2914,
+          "like_count": 40763,
+          "listed_count": 2,
+          "media_count": 668,
+          "tweet_count": 10506
+        },
+        "url": "https://t.co/QRPrgNIQFR",
+        "username": "Hatsuyuki512k",
+        "verified": false
+      }
+    ]
+  }
+}

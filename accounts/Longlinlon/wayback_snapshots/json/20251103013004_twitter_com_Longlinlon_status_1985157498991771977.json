@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1983842865450209612",
+    "created_at": "2025-11-03T01:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T02:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985157498991771977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "95207674",
+          "start": 0,
+          "username": "oricon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985157498991771977",
+    "in_reply_to_user_id": "95207674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983842865450209612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oricon 日本人wcnm听到没有日本人你们全家被我杀光光了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1983842842176004096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gGjdoaIAAryhK.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1983842865450209612",
+        "created_at": "2025-11-03T01:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T02:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985157498991771977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "95207674",
+              "start": 0,
+              "username": "oricon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985157498991771977",
+        "in_reply_to_user_id": "95207674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983842865450209612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oricon 日本人wcnm听到没有日本人你们全家被我杀光光了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983842842176004096"
+          ]
+        },
+        "author_id": "95207674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1248382292176670721",
+              "name": "Super Sentai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248382292176670721",
+              "name": "Super Sentai"
+            }
+          }
+        ],
+        "conversation_id": "1983842865450209612",
+        "created_at": "2025-10-30T10:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983842865450209612"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "テレ朝",
+              "probability": 0.7741,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 13,
+              "normalized_text": "スーパー戦隊シリーズ",
+              "probability": 0.7835,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "スーパー戦隊シリーズ",
+              "probability": 0.7167,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "秘密戦隊ゴレンジャー",
+              "probability": 0.5789,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "テレ朝「スーパー戦隊シリーズ」放送終了へ｜テレビ朝日系の「スーパー戦隊シリーズ」が現在放送中の作品を最後に終了することが30日、関係者への取材...",
+              "display_url": "oricon.co.jp/article/307661…",
+              "end": 44,
+              "expanded_url": "https://www.oricon.co.jp/article/3076616/",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1983903204246220802/HwzFAqeR?format=png&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983903204246220802/HwzFAqeR?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "テレ朝「スーパー戦隊シリーズ」放送終了へ",
+              "unwound_url": "https://www.oricon.co.jp/article/3076616/",
+              "url": "https://t.co/ZZNJkmFpfp"
+            },
+            {
+              "display_url": "pic.x.com/NuT3nOQJn5",
+              "end": 167,
+              "expanded_url": "https://x.com/oricon/status/1983842865450209612/photo/1",
+              "media_key": "3_1983842842176004096",
+              "start": 144,
+              "url": "https://t.co/NuT3nOQJn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983842865450209612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23642,
+          "impression_count": 93048148,
+          "like_count": 322588,
+          "quote_count": 74448,
+          "reply_count": 5134,
+          "retweet_count": 141352
+        },
+        "reply_settings": "everyone",
+        "text": "テレ朝「スーパー戦隊シリーズ」放送終了へ\nhttps://t.co/ZZNJkmFpfp\n\nテレビ朝日系の「スーパー戦隊シリーズ」が、現在放送中の作品を最後に終了することが関係者への取材で分かった。1975年開始の「秘密戦隊ゴレンジャー」から続く人気シリーズが半世紀の歴史に幕を下ろす。 https://t.co/NuT3nOQJn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2504,
+          "like_count": 213730,
+          "listed_count": 9,
+          "media_count": 1347,
+          "tweet_count": 14466
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-07T14:15:16.000Z",
+        "description": "オリコン【公式】です👑 芸能ニュースやオリコンランキング、音楽、ドラマ、アニメ、お笑い、映画など、最新エンタメ情報を中心に配信👩‍🍳\n\n試写会やイベント、チェキなどプレゼントもチェックしてね⇒ #オリコンプレゼント🎁",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 97,
+                "tag": "オリコンプレゼント"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oricon.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.oricon.co.jp/",
+                "start": 0,
+                "url": "https://t.co/lP08ujpcGi"
+              }
+            ]
+          }
+        },
+        "id": "95207674",
+        "location": "東京都港区六本木",
+        "name": "オリコンニュース",
+        "pinned_tweet_id": "1981639297276039369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973257109249859584/WFHRjCtC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739650,
+          "following_count": 2770,
+          "like_count": 6770,
+          "listed_count": 7496,
+          "media_count": 133768,
+          "tweet_count": 735191
+        },
+        "url": "https://t.co/lP08ujpcGi",
+        "username": "oricon",
+        "verified": true
+      }
+    ]
+  }
+}

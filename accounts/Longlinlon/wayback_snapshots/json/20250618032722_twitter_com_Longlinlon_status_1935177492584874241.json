@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1935175080109052105",
+    "created_at": "2025-06-18T03:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T04:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935177492584874241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillTokiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935177492584874241",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935175080109052105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillTokiyuki 你昨晚在床上不是这样说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1935175080109052105",
+        "created_at": "2025-06-18T03:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T04:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935177492584874241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935177492584874241",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935175080109052105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillTokiyuki 你昨晚在床上不是这样说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "1935175080109052105",
+        "created_at": "2025-06-18T03:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T04:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935175080109052105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935175080109052105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我言语可能鸡巴、逼不离口，显得我这个人很好色，但其实我这人现实中和男生女生牵手都会不好意思，而且我真的很少看片，我不是好色的男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 2445,
+          "like_count": 209584,
+          "listed_count": 7,
+          "media_count": 1219,
+          "tweet_count": 13804
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "世界在下沉，我们在狂欢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失传媒体",
+        "name": "灼眼の時行",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933590089499611136/Ksv2mOz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 251,
+          "like_count": 28320,
+          "listed_count": 13,
+          "media_count": 142,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillTokiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

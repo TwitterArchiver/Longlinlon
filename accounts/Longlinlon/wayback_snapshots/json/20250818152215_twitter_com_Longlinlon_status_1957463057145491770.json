@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1956775186822512932",
+    "created_at": "2025-08-18T15:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957463057145491770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1908823864853123072",
+          "start": 0,
+          "username": "oXB290"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957463057145491770",
+    "in_reply_to_user_id": "1908823864853123072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956775186822512932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oXB290 绿狗私募了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_1956775182292688896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfcqS3bIAAfQme.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1956775186822512932",
+        "created_at": "2025-08-18T15:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957463057145491770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1908823864853123072",
+              "start": 0,
+              "username": "oXB290"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957463057145491770",
+        "in_reply_to_user_id": "1908823864853123072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956775186822512932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oXB290 绿狗私募了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956775182292688896"
+          ]
+        },
+        "author_id": "1908823864853123072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956775186822512932",
+        "created_at": "2025-08-16T17:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T18:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956775186822512932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fXJZMnvsd",
+              "end": 23,
+              "expanded_url": "https://x.com/oXB290/status/1956775186822512932/photo/1",
+              "media_key": "3_1956775182292688896",
+              "start": 0,
+              "url": "https://t.co/7fXJZMnvsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956775186822512932",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 79483,
+          "like_count": 2576,
+          "quote_count": 80,
+          "reply_count": 4,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7fXJZMnvsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "tk14❤️-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 2504,
+          "like_count": 214551,
+          "listed_count": 8,
+          "media_count": 1282,
+          "tweet_count": 14200
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T10:07:50.000Z",
+        "description": "엄마.. 사람들이 리퍼가 똥캐래요...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/O_O",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/O_O",
+                "start": 0,
+                "url": "https://t.co/ESM60YgxZq"
+              }
+            ]
+          }
+        },
+        "id": "1908823864853123072",
+        "name": "몽매",
+        "pinned_tweet_id": "1934461388216471648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957083353494204416/yLGlvNC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 201,
+          "like_count": 1158,
+          "listed_count": 26,
+          "media_count": 679,
+          "tweet_count": 5926
+        },
+        "url": "https://t.co/ESM60YgxZq",
+        "username": "oXB290",
+        "verified": false
+      }
+    ]
+  }
+}

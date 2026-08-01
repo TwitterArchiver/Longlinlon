@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1942070109297860654",
+    "created_at": "2025-07-07T03:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T04:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942070109297860654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puddings00/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/puddings00/status/1941825829001937027",
+          "start": 19,
+          "url": "https://t.co/7BtcgfjMnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942070109297860654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941825829001937027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "评论区对号入座的太吓人了牙齿得有多脏 https://t.co/7BtcgfjMnZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1942070109297860654",
+        "created_at": "2025-07-07T03:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942070109297860654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puddings00/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/puddings00/status/1941825829001937027",
+              "start": 19,
+              "url": "https://t.co/7BtcgfjMnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942070109297860654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941825829001937027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "评论区对号入座的太吓人了牙齿得有多脏 https://t.co/7BtcgfjMnZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1941825829001937027",
+        "created_at": "2025-07-06T11:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941825829001937027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941825829001937027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11451,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布丁发现大多数人都没有刷牙的习惯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "菠萝馅儿-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2468,
+          "like_count": 211101,
+          "listed_count": 7,
+          "media_count": 1235,
+          "tweet_count": 13924
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/Lesbian/可爱的mtf一只~🏳️‍⚧️/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵",
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 624,
+          "like_count": 8179,
+          "listed_count": 5,
+          "media_count": 605,
+          "tweet_count": 4880
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

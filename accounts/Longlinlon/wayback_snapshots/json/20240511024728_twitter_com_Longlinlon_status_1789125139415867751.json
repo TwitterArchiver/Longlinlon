@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1789124520655433821",
+    "created_at": "2024-05-11T02:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T03:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789125139415867751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789125139415867751",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789124520655433821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyndicalismCat ？你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1789124520655433821",
+        "created_at": "2024-05-11T02:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T03:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789125139415867751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789125139415867751",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789124520655433821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat ？你"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789124517258039296"
+          ]
+        },
+        "author_id": "1490675894238986251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1789124520655433821",
+        "created_at": "2024-05-11T02:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T03:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789124520655433821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8kjedwMlNC",
+              "end": 26,
+              "expanded_url": "https://twitter.com/SyndicalismCat/status/1789124520655433821/photo/1",
+              "media_key": "3_1789124517258039296",
+              "start": 3,
+              "url": "https://t.co/8kjedwMlNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789124520655433821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你谁 https://t.co/8kjedwMlNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @SaigyoujiSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "SaigyoujiSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1865,
+          "like_count": 123337,
+          "listed_count": 10,
+          "tweet_count": 9014
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "🏳️‍⚧️\n逃生舱：@Cat1966516  \n                  \n❤️🥺@szc055555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Cat1966516"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "szc055555"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 苹果鲁萨",
+        "name": "🎻拉面团子猫🎹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780182712978112512/NXAs6cnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 1210,
+          "like_count": 101733,
+          "listed_count": 11,
+          "tweet_count": 13866
+        },
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1799029901611376870",
+    "created_at": "2024-06-07T11:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T12:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799035078254960647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707645607605620736",
+          "start": 0,
+          "username": "JuStAwhIteCrow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799035078254960647",
+    "in_reply_to_user_id": "1707645607605620736",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799029901611376870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuStAwhIteCrow 玩玩玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1799029901611376870",
+        "created_at": "2024-06-07T11:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T12:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799035078254960647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707645607605620736",
+              "start": 0,
+              "username": "JuStAwhIteCrow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799035078254960647",
+        "in_reply_to_user_id": "1707645607605620736",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799029901611376870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuStAwhIteCrow 玩玩玩"
+      },
+      {
+        "attachments": {},
+        "author_id": "1707645607605620736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1799029901611376870",
+        "created_at": "2024-06-07T10:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T11:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799029901611376870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799029901611376870",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "......我现在回坑第五人格还来得及吗（翻本子找账号）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1992,
+          "like_count": 137514,
+          "listed_count": 9,
+          "tweet_count": 9887
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-29T06:37:34.000Z",
+        "description": "=北極鴉/白/Sino｜中文/ENG｜intj-a/sx4 4w5 458｜互fo大欢迎｜oc/hc/mcsm/tgyb/iso｜画手｜oc人请和我玩！｜无性别/无性恋｜链接是提问箱｜高浓度日常｜🖼️Solamiri✨｜偶尔写曲｜OveRthInkiNg｜raNdOm ThoUghtS｜互联网人设：英语老师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "askbox.ink/box/uu/Pcrow?u…",
+                "end": 23,
+                "expanded_url": "https://www.askbox.ink/box/uu/Pcrow?uid=0a2eb49b6dd02cde919de5d57628cd46",
+                "start": 0,
+                "url": "https://t.co/dycuFwfxMr"
+              }
+            ]
+          }
+        },
+        "id": "1707645607605620736",
+        "location": "Collapse into pure white",
+        "name": "⊹北極鴉⊹",
+        "pinned_tweet_id": "1787840309570986205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788891802730446848/d1VwquJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 562,
+          "like_count": 56511,
+          "listed_count": 0,
+          "tweet_count": 6996
+        },
+        "url": "https://t.co/dycuFwfxMr",
+        "username": "JuStAwhIteCrow",
+        "verified": false
+      }
+    ]
+  }
+}

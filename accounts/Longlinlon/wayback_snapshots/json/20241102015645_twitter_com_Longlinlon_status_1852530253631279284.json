@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1852530253631279284",
+    "created_at": "2024-11-02T01:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T02:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852530253631279284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1495386210977517568",
+          "start": 3,
+          "username": "apricot_qianzao"
+        },
+        {
+          "end": 31,
+          "id": "1589203507852152832",
+          "start": 21,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852530253631279284",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852387495285260408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apricot_qianzao: @JianLv117 直接一句你的话语无人在意哈臭贝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1852530253631279284",
+        "created_at": "2024-11-02T01:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T02:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852530253631279284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1495386210977517568",
+              "start": 3,
+              "username": "apricot_qianzao"
+            },
+            {
+              "end": 31,
+              "id": "1589203507852152832",
+              "start": 21,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852530253631279284",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852387495285260408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apricot_qianzao: @JianLv117 直接一句你的话语无人在意哈臭贝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495386210977517568",
+        "conversation_id": "1852352663960408343",
+        "created_at": "2024-11-01T16:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T17:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852387495285260408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852387495285260408",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852352663960408343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 直接一句你的话语无人在意哈臭贝贝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 2217,
+          "like_count": 177326,
+          "listed_count": 8,
+          "tweet_count": 11744
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "抵达逃逸速度\n奔向宇宙深处\n这一幕一幕\n在我梦中重复",
+        "id": "1495386210977517568",
+        "location": "外域",
+        "name": "千早杏✝",
+        "pinned_tweet_id": "1783860542005981195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849290479663566849/kV39jxVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 306,
+          "like_count": 10349,
+          "listed_count": 1,
+          "tweet_count": 4865
+        },
+        "username": "apricot_qianzao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史，菊撅对线与汴京🙅‍♀️ 华北人 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n可互关(私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n前任: @Cyuunn2\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "Cyuunn2"
+              },
+              {
+                "end": 142,
+                "start": 128,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰",
+        "name": "简律",
+        "pinned_tweet_id": "1851568191534965095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852013055800201216/ELkDR40p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7278,
+          "following_count": 719,
+          "like_count": 29094,
+          "listed_count": 30,
+          "tweet_count": 3634
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

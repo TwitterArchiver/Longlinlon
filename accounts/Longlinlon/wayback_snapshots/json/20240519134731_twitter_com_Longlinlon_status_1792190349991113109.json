@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792190349991113109",
+    "created_at": "2024-05-19T13:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T14:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792190349991113109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792190349991113109",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792176089512673389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShimonaChan: 一想到明天520和521这个世界上又要多一堆中国人就崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792190349991113109",
+        "created_at": "2024-05-19T13:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T14:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792190349991113109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792190349991113109",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792176089512673389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShimonaChan: 一想到明天520和521这个世界上又要多一堆中国人就崩溃"
+      },
+      {
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "1792176089512673389",
+        "created_at": "2024-05-19T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792176089512673389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792176089512673389",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一想到明天520和521这个世界上又要多一堆中国人就崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1947,
+          "like_count": 129339,
+          "listed_count": 10,
+          "tweet_count": 9411
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "OMG Kawaii Shimona/ Do not use my oc for AI training! / overdose tweet💊OvO💊/ 程度不深的直觉系地雷",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona（一代目）",
+        "pinned_tweet_id": "1775392120138088457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781211787503054848/Z8nFP986_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23297,
+          "following_count": 3360,
+          "like_count": 8805,
+          "listed_count": 33,
+          "tweet_count": 23961
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

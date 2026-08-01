@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1963625857978671240",
+    "created_at": "2025-09-05T04:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963818106708717720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1244331268449460246",
+          "start": 0,
+          "username": "TSchmiddddy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963818106708717720",
+    "in_reply_to_user_id": "1244331268449460246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963625857978671240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSchmiddddy 加油！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1963625847669055488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AzTgIW4AAIO6h.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1963625857978671240",
+        "created_at": "2025-09-05T04:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963818106708717720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1244331268449460246",
+              "start": 0,
+              "username": "TSchmiddddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963818106708717720",
+        "in_reply_to_user_id": "1244331268449460246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963625857978671240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSchmiddddy 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963625847669055488"
+          ]
+        },
+        "author_id": "1244331268449460246",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1433864597069385729",
+              "name": "James Bond"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433864597069385729",
+              "name": "James Bond"
+            }
+          }
+        ],
+        "conversation_id": "1963625857978671240",
+        "created_at": "2025-09-04T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963625857978671240"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "SKYFALL",
+              "probability": 0.3743,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 20,
+              "normalized_text": "B4U",
+              "probability": 0.8457,
+              "start": 18,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/od2JwwlEC6",
+              "end": 68,
+              "expanded_url": "https://x.com/TSchmiddddy/status/1963625857978671240/photo/1",
+              "media_key": "3_1963625847669055488",
+              "start": 45,
+              "url": "https://t.co/od2JwwlEC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963625857978671240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11313,
+          "like_count": 489,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "SKYFALL COACH???\n\nB4U will fight this year!! https://t.co/od2JwwlEC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "子車甫昭磕患园-Wiggin",
+        "pinned_tweet_id": "1942519630431674832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2507,
+          "like_count": 215514,
+          "listed_count": 10,
+          "media_count": 1296,
+          "tweet_count": 14276
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-29T18:31:13.000Z",
+        "description": "Pro identity V player for B4U!! in medschool 👨‍⚕️ YouTube 13k / Won every official NA comp! follow for tips!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/Schmiddy",
+                "end": 23,
+                "expanded_url": "https://youtube.com/c/Schmiddy",
+                "start": 0,
+                "url": "https://t.co/7LktADsUhd"
+              }
+            ]
+          }
+        },
+        "id": "1244331268449460246",
+        "location": "New Orleans, LA",
+        "name": "B4U Schmiddy",
+        "pinned_tweet_id": "1911389048645484746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644631401390829568/P-CCU6ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3760,
+          "following_count": 436,
+          "like_count": 1588,
+          "listed_count": 6,
+          "media_count": 321,
+          "tweet_count": 1738
+        },
+        "url": "https://t.co/7LktADsUhd",
+        "username": "TSchmiddddy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1806261184229777741",
+    "created_at": "2024-06-27T14:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T15:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806338199062749634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806338199062749634",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806261184229777741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 好似喵好似喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1806261184229777741",
+        "created_at": "2024-06-27T14:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T15:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806338199062749634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806338199062749634",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806261184229777741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 好似喵好似喵"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806260581789257728"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1806261184229777741",
+        "created_at": "2024-06-27T09:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T10:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806261184229777741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PYfzxFOPHO",
+              "end": 67,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1806261184229777741/video/1",
+              "media_key": "7_1806260581789257728",
+              "start": 44,
+              "url": "https://t.co/PYfzxFOPHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806261184229777741",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 512769,
+          "like_count": 2029,
+          "quote_count": 61,
+          "reply_count": 603,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "6月27日，广州市天河区棠德花苑。城管与卖椰子的小贩起争执，小贩操起铲子击打城管头部。 https://t.co/PYfzxFOPHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 2016,
+          "like_count": 145176,
+          "listed_count": 10,
+          "tweet_count": 10260
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581465,
+          "following_count": 908,
+          "like_count": 5005,
+          "listed_count": 7454,
+          "tweet_count": 19744
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

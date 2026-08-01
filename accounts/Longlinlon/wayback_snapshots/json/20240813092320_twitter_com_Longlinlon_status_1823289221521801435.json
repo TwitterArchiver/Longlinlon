@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1823278671320502412",
+    "created_at": "2024-08-13T09:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T10:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823289221521801435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287738015817723906",
+          "start": 0,
+          "username": "Zhinazhu_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823289221521801435",
+    "in_reply_to_user_id": "1287738015817723906",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823278671320502412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhinazhu_8964 😍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1823278671320502412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1823278671320502412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1823278671320502412"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1823278671320502412",
+        "created_at": "2024-08-13T09:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T10:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823289221521801435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287738015817723906",
+              "start": 0,
+              "username": "Zhinazhu_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823289221521801435",
+        "in_reply_to_user_id": "1287738015817723906",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823278671320502412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhinazhu_8964 😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1821142206574686466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 2203,
+          "like_count": 169918,
+          "listed_count": 10,
+          "tweet_count": 10972
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T13:14:15.000Z",
+        "description": "一般路过の塔羅牌師/不鍵政不搞黃/日常推/贪嗔痴慢疑,财色名食睡,怨恨恼怒烦\n小号@Kawashima_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "Kawashima_8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cta-tarot.org",
+                "end": 23,
+                "expanded_url": "https://www.cta-tarot.org/",
+                "start": 0,
+                "url": "https://t.co/V8Bi9qx2uw"
+              }
+            ]
+          }
+        },
+        "id": "1287738015817723906",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "川嶋イクミ",
+        "pinned_tweet_id": "1821773970926162354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804327018970124288/H_H-B2y9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 438,
+          "like_count": 19039,
+          "listed_count": 2,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/V8Bi9qx2uw",
+        "username": "Zhinazhu_8964",
+        "verified": false
+      }
+    ]
+  }
+}

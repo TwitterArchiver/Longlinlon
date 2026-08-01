@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2041344448584630387",
+    "created_at": "2026-04-07T02:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041344448584630387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoxer15/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/hoxer15/status/2041105749938770174",
+          "start": 28,
+          "url": "https://t.co/mRongSFbTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041344448584630387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041105749938770174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "thh小腿毛+iiii未成年标签贴满了已严肃畏惧吓哭了 https://t.co/mRongSFbTg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2041344448584630387",
+        "created_at": "2026-04-07T02:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041344448584630387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoxer15/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hoxer15/status/2041105749938770174",
+              "start": 28,
+              "url": "https://t.co/mRongSFbTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041344448584630387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041105749938770174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "thh小腿毛+iiii未成年标签贴满了已严肃畏惧吓哭了 https://t.co/mRongSFbTg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2041105749938770174",
+        "created_at": "2026-04-06T10:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041105749938770174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041105749938770174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 787325,
+          "like_count": 1291,
+          "quote_count": 1,
+          "reply_count": 359,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "桃黑黑这个事真的至于吗。。感觉大家有点恨他。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2553,
+          "like_count": 207532,
+          "listed_count": 8,
+          "media_count": 1387,
+          "tweet_count": 14803
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035701620970037248/F4J5qIFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 211,
+          "like_count": 21943,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 11504
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

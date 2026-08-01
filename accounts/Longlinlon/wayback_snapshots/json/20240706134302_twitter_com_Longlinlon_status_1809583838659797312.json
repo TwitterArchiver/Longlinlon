@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1809582495765246450",
+    "created_at": "2024-07-06T13:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T14:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809583838659797312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248913476002537472",
+          "start": 0,
+          "username": "PRCAngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809583838659797312",
+    "in_reply_to_user_id": "1248913476002537472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809582495765246450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRCAngel 狠狠的发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1809582495765246450",
+        "created_at": "2024-07-06T13:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T14:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809583838659797312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248913476002537472",
+              "start": 0,
+              "username": "PRCAngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809583838659797312",
+        "in_reply_to_user_id": "1248913476002537472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809582495765246450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCAngel 狠狠的发"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809582493039034369"
+          ]
+        },
+        "author_id": "1248913476002537472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1809582495765246450",
+        "created_at": "2024-07-06T13:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T14:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809582495765246450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/cJqKvizz6J",
+              "end": 133,
+              "expanded_url": "https://twitter.com/PRCAngel/status/1809582495765246450/photo/1",
+              "media_key": "3_1809582493039034369",
+              "start": 110,
+              "url": "https://t.co/cJqKvizz6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809582495765246450",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在在考虑到底要不要在推特发一些cosplay女装照。\n\n主要是现在我的follower里面有很多其他平时聊财经聊政治聊经济的，我怕都被我发女装照吓跑了😢\n\n感觉中国社会对“二次元男娘”这种东西的接纳程度可能不高吧。 https://t.co/cJqKvizz6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 2061,
+          "like_count": 153440,
+          "listed_count": 10,
+          "tweet_count": 10442
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T10:01:47.000Z",
+        "description": "A/美股小散户｜二次元小男娘｜05大学生｜INTJ-A｜乐观的现实主义者｜3A游戏玩家｜喜好阅读和电影｜热爱美食和旅游｜喜欢研究人文历史、政治经济、财经新闻、国际局势、AI应用｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelqwq.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://angelqwq.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/GHk3MQap8s"
+              }
+            ]
+          }
+        },
+        "id": "1248913476002537472",
+        "location": "Guangzhou",
+        "name": "𝗗𝗗𝗥𝙁𝙪𝙣🇨🇳",
+        "pinned_tweet_id": "1395681267530670085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785703199720296448/lyDOwE3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 1597,
+          "like_count": 22032,
+          "listed_count": 13,
+          "tweet_count": 9194
+        },
+        "url": "https://t.co/GHk3MQap8s",
+        "username": "PRCAngel",
+        "verified": false
+      }
+    ]
+  }
+}

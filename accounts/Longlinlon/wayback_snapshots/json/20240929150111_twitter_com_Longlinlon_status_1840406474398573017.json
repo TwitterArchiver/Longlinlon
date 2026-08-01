@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840363373369950689",
+    "created_at": "2024-09-29T15:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T16:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840406474398573017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1028653472160182273",
+          "start": 0,
+          "username": "IdentityVChamp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840406474398573017",
+    "in_reply_to_user_id": "1028653472160182273",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840363373369950689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IdentityVChamp gr都打不过还是ijl五冠王我真是笑嘻了日本就没有一个能打的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840363373369950689",
+        "created_at": "2024-09-29T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840406474398573017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1028653472160182273",
+              "start": 0,
+              "username": "IdentityVChamp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840406474398573017",
+        "in_reply_to_user_id": "1028653472160182273",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840363373369950689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IdentityVChamp gr都打不过还是ijl五冠王我真是笑嘻了日本就没有一个能打的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840362867570429953"
+          ]
+        },
+        "author_id": "1028653472160182273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1840363373369950689",
+        "created_at": "2024-09-29T12:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T13:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840363373369950689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "IDVIVS2024"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "IVS決勝"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "第五人格"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "IdentityV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4c0s5gdxou",
+              "end": 112,
+              "expanded_url": "https://twitter.com/IdentityVChamp/status/1840363373369950689/photo/1",
+              "media_key": "3_1840362867570429953",
+              "start": 89,
+              "url": "https://t.co/4C0s5GDxOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840363373369950689",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 64723,
+          "like_count": 1571,
+          "quote_count": 67,
+          "reply_count": 10,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "#IDVIVS2024\n2024IVS招待大会\n\n勝ち上がって優勝を成し遂げたのは\nGr戦隊です！🏆\n\nおめでとうございます！\n\n#IVS決勝\n#第五人格\n#IdentityV https://t.co/4C0s5GDxOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2214,
+          "like_count": 176612,
+          "listed_count": 8,
+          "tweet_count": 11524
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-12T14:44:34.000Z",
+        "description": "IdentityⅤ 第五人格公式大会運営事務所です。\nDiscord招待：https://t.co/CQx3LkcQyz\n#第五人格 #IdentityV #第五人格COA #第五人格IJL に関する\nご質問はidentityvesports@global.netease.comまで",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "第五人格"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "tag": "IdentityV"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "第五人格COA"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "tag": "第五人格IJL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/ldentityvjp",
+                "end": 60,
+                "expanded_url": "http://discord.gg/ldentityvjp",
+                "start": 37,
+                "url": "https://t.co/CQx3LkcQyz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "identityv.jp/IJLleague/",
+                "end": 23,
+                "expanded_url": "https://www.identityv.jp/IJLleague/",
+                "start": 0,
+                "url": "https://t.co/A1n0x2VMfB"
+              }
+            ]
+          }
+        },
+        "id": "1028653472160182273",
+        "name": "【公式】IdentityⅤ 第五人格eスポーツ事務所",
+        "pinned_tweet_id": "1840363373369950689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833684568672780288/6vV4Qnte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139040,
+          "following_count": 38,
+          "like_count": 776,
+          "listed_count": 744,
+          "tweet_count": 9021
+        },
+        "url": "https://t.co/A1n0x2VMfB",
+        "username": "IdentityVChamp",
+        "verified": true
+      }
+    ]
+  }
+}

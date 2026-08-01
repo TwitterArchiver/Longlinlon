@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1838762527695794580",
+    "created_at": "2024-09-25T06:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T07:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838823335859491112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778656100621152256",
+          "start": 0,
+          "username": "KagurazakaSusie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838823335859491112",
+    "in_reply_to_user_id": "1778656100621152256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838762527695794580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSusie 缘分尽了罢了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1838762527695794580].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1838762527695794580",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1838762527695794580"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1838762527695794580",
+        "created_at": "2024-09-25T06:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T07:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838823335859491112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778656100621152256",
+              "start": 0,
+              "username": "KagurazakaSusie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838823335859491112",
+        "in_reply_to_user_id": "1778656100621152256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838762527695794580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSusie 缘分尽了罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 2215,
+          "like_count": 176092,
+          "listed_count": 10,
+          "tweet_count": 11440
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T05:27:23.000Z",
+        "description": "@Susiethegamer的赛博骨灰盒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Susiethegamer"
+              }
+            ]
+          }
+        },
+        "id": "1778656100621152256",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "神楽坂 蘇西🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1838416439231021197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 150,
+          "like_count": 1155,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "username": "KagurazakaSusie",
+        "verified": false
+      }
+    ]
+  }
+}

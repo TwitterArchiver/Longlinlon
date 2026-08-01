@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1837115682598842631",
+    "created_at": "2024-09-20T14:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T15:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837132445281657239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745102755444961280",
+          "start": 0,
+          "username": "miyuki_CNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837132445281657239",
+    "in_reply_to_user_id": "1745102755444961280",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837115682598842631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_CNA 最幽默的一集"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837115682598842631].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837115682598842631",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837115682598842631"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1837115682598842631",
+        "created_at": "2024-09-20T14:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837132445281657239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745102755444961280",
+              "start": 0,
+              "username": "miyuki_CNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837132445281657239",
+        "in_reply_to_user_id": "1745102755444961280",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837115682598842631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_CNA 最幽默的一集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 2218,
+          "like_count": 175557,
+          "listed_count": 10,
+          "tweet_count": 11406
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T15:18:38.000Z",
+        "description": "@miyuki_114 的小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "miyuki_114"
+              }
+            ]
+          }
+        },
+        "id": "1745102755444961280",
+        "location": "秀麗の国秋津州",
+        "name": "多々良美由紀",
+        "pinned_tweet_id": "1836782205475103070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836818056431161345/pw_I9d2x_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 844,
+          "like_count": 79887,
+          "listed_count": 6,
+          "tweet_count": 17771
+        },
+        "username": "miyuki_CNA",
+        "verified": false
+      }
+    ]
+  }
+}

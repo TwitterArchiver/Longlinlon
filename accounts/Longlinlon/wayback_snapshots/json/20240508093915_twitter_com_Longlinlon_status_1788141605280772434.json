@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1788138647822438522",
+    "created_at": "2024-05-08T09:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T10:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788141605280772434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731565937818755072",
+          "start": 0,
+          "username": "Esposito8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788141605280772434",
+    "in_reply_to_user_id": "1731565937818755072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788141052593074283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Esposito8964 哇蝴蝶小狗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1788141052593074283].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1788141052593074283",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1788141052593074283"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1788138647822438522",
+        "created_at": "2024-05-08T09:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T10:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788141605280772434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731565937818755072",
+              "start": 0,
+              "username": "Esposito8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788141605280772434",
+        "in_reply_to_user_id": "1731565937818755072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788141052593074283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Esposito8964 哇蝴蝶小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @SaigyoujiSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "SaigyoujiSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 1846,
+          "like_count": 120663,
+          "listed_count": 10,
+          "tweet_count": 8884
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T06:48:10.000Z",
+        "description": "你好，我是古斯汀，一名普普通通的推油/密友: @qinshi622922 普通推友小P:@M600_spitfire 反革命伴侣:@xi1966516 小天使:@hong_jiang77660 好厚米:@iranon_lcf 星怒:@Minamikaii_1995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "qinshi622922"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "xi1966516"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "hong_jiang77660"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "Minamikaii_1995"
+              }
+            ]
+          }
+        },
+        "id": "1731565937818755072",
+        "location": "老鐘",
+        "name": "尼科萊塔.古斯汀🌌🇫🇮🇪🇪💙🖤",
+        "pinned_tweet_id": "1785242905592152478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787903460131962880/DK0rozuf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 471,
+          "like_count": 39781,
+          "listed_count": 14,
+          "tweet_count": 10393
+        },
+        "username": "Esposito8964",
+        "verified": false
+      }
+    ]
+  }
+}

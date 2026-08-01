@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1791833021018230818",
+    "created_at": "2024-05-18T14:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T15:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791833021018230818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/undefined8964/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/undefined8964/status/1791831926552285633",
+          "start": 8,
+          "url": "https://t.co/cOr6fdgQob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791833021018230818",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791831926552285633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何止是做题蛆呢 https://t.co/cOr6fdgQob"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1791833021018230818",
+        "created_at": "2024-05-18T14:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T15:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791833021018230818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/undefined8964/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/undefined8964/status/1791831926552285633",
+              "start": 8,
+              "url": "https://t.co/cOr6fdgQob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791833021018230818",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791831926552285633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何止是做题蛆呢 https://t.co/cOr6fdgQob"
+      },
+      {
+        "attachments": {},
+        "author_id": "1365251918059208705",
+        "conversation_id": "1791831926552285633",
+        "created_at": "2024-05-18T14:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T15:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791831926552285633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791831926552285633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国做题蛆的生活非常糟糕，心态也多少有点扭曲，他们往往认为自己努力了，在老师家长的注视下献出了自己的青春，就应该有高人一等的地位。事实上，他们既不应该过着这种垃圾生活，也没理由高人一等。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1937,
+          "like_count": 128607,
+          "listed_count": 10,
+          "tweet_count": 9379
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T10:47:01.000Z",
+        "description": "“如果生活非要千篇一律，那就把它当成游戏。”",
+        "id": "1365251918059208705",
+        "location": "距离你十里山路",
+        "name": "🏴Alastor另类飞行🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742584585068670977/zzJtTXlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 273,
+          "like_count": 33033,
+          "listed_count": 0,
+          "tweet_count": 1947
+        },
+        "username": "undefined8964",
+        "verified": false
+      }
+    ]
+  }
+}

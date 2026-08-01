@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1899532003789402486",
+    "created_at": "2025-03-11T18:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T19:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899534097476882709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1810686092137627648",
+          "start": 0,
+          "username": "8964i3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899534097476882709",
+    "in_reply_to_user_id": "1810686092137627648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899533056333033546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964i3 打咩会被互关发现嘟"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1899533056333033546].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1899533056333033546",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1899533056333033546"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1899532003789402486",
+        "created_at": "2025-03-11T18:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T19:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899534097476882709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1810686092137627648",
+              "start": 0,
+              "username": "8964i3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899534097476882709",
+        "in_reply_to_user_id": "1810686092137627648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899533056333033546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964i3 打咩会被互关发现嘟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 2335,
+          "like_count": 197899,
+          "listed_count": 8,
+          "media_count": 1135,
+          "tweet_count": 13062
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T14:43:12.000Z",
+        "description": "一般通过左左/不定期进行大清洗/恶俗推警告⚠️⚠️⚠️/卢关人民阵线领袖@KoNya14056",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "KoNya14056"
+              }
+            ]
+          }
+        },
+        "id": "1810686092137627648",
+        "location": "用有形的大手，卢倒一切牛鬼蛇神！",
+        "name": "除你女笈📕销你男笈⬛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897159100544507904/HeHMbK0X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 209,
+          "like_count": 4017,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1420
+        },
+        "username": "8964i3",
+        "verified": false
+      }
+    ]
+  }
+}

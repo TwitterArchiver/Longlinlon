@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1791819633047314882",
+    "created_at": "2024-05-18T13:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T14:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791819633047314882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553716160243281921",
+          "start": 3,
+          "username": "ysyxssssh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791819633047314882",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791818384570540240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ysyxssssh: 你们这些男娘甚至跨女都要辱女是闹哪样？😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1791819633047314882",
+        "created_at": "2024-05-18T13:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T14:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791819633047314882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553716160243281921",
+              "start": 3,
+              "username": "ysyxssssh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791819633047314882",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791818384570540240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ysyxssssh: 你们这些男娘甚至跨女都要辱女是闹哪样？😂"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553716160243281921",
+        "conversation_id": "1791818384570540240",
+        "created_at": "2024-05-18T13:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T14:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791818384570540240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791818384570540240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些男娘甚至跨女都要辱女是闹哪样？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1936,
+          "like_count": 128556,
+          "listed_count": 10,
+          "tweet_count": 9372
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T12:16:23.000Z",
+        "description": "让心里带着恨｜如果能不爱一个人",
+        "id": "1553716160243281921",
+        "name": "Ms.bean",
+        "pinned_tweet_id": "1787183008937922857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729198137934532608/_uyHDla9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 399,
+          "like_count": 24839,
+          "listed_count": 5,
+          "tweet_count": 4203
+        },
+        "username": "ysyxssssh",
+        "verified": false
+      }
+    ]
+  }
+}

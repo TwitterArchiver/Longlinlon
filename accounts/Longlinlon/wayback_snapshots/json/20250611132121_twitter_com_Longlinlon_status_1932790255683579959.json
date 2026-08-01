@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1932780532213166392",
+    "created_at": "2025-06-11T13:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T14:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932790255683579959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569987131178885120",
+          "start": 0,
+          "username": "szc055555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932790255683579959",
+    "in_reply_to_user_id": "1569987131178885120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932780532213166392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szc055555 有点像华晨宇。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_1932780526982819840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKdpiOacAAXGng.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1932780532213166392",
+        "created_at": "2025-06-11T13:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T14:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932790255683579959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569987131178885120",
+              "start": 0,
+              "username": "szc055555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932790255683579959",
+        "in_reply_to_user_id": "1569987131178885120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932780532213166392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szc055555 有点像华晨宇。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932780526982819840"
+          ]
+        },
+        "author_id": "1569987131178885120",
+        "conversation_id": "1932780532213166392",
+        "created_at": "2025-06-11T12:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932780532213166392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUKzj3s89Z",
+              "end": 34,
+              "expanded_url": "https://x.com/szc055555/status/1932780532213166392/photo/1",
+              "media_key": "3_1932780526982819840",
+              "start": 11,
+              "url": "https://t.co/IUKzj3s89Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932780532213166392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这还能有人叫妈妈的啊 https://t.co/IUKzj3s89Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "刘雨薇女士-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 2434,
+          "like_count": 208559,
+          "listed_count": 7,
+          "media_count": 1211,
+          "tweet_count": 13734
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T09:51:26.000Z",
+        "description": "",
+        "id": "1569987131178885120",
+        "name": "林格晓晓",
+        "pinned_tweet_id": "1916840314746388533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900561371332554752/RLwb2kLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 439,
+          "like_count": 25198,
+          "listed_count": 4,
+          "media_count": 575,
+          "tweet_count": 9781
+        },
+        "username": "szc055555",
+        "verified": false
+      }
+    ]
+  }
+}

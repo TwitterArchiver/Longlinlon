@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1830467348148756490",
+    "created_at": "2024-09-02T06:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T07:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830496808323412323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1374332792666873858",
+          "start": 0,
+          "username": "Stumm1559394490"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830496808323412323",
+    "in_reply_to_user_id": "1374332792666873858",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830467348148756490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stumm1559394490 恶心死了，这已经算是炼铜了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1830467348148756490",
+        "created_at": "2024-09-02T06:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T07:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830496808323412323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1374332792666873858",
+              "start": 0,
+              "username": "Stumm1559394490"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830496808323412323",
+        "in_reply_to_user_id": "1374332792666873858",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830467348148756490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stumm1559394490 恶心死了，这已经算是炼铜了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830467338677936128",
+            "3_1830467338703089664"
+          ]
+        },
+        "author_id": "1374332792666873858",
+        "conversation_id": "1830467348148756490",
+        "created_at": "2024-09-02T04:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T05:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830467348148756490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1fcotnjka",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Stumm1559394490/status/1830467348148756490/photo/1",
+              "media_key": "3_1830467338677936128",
+              "start": 46,
+              "url": "https://t.co/k1FCoTNJka"
+            },
+            {
+              "display_url": "pic.x.com/k1fcotnjka",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Stumm1559394490/status/1830467348148756490/photo/1",
+              "media_key": "3_1830467338703089664",
+              "start": 46,
+              "url": "https://t.co/k1FCoTNJka"
+            },
+            {
+              "display_url": "x.com/tianchaorongya…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/tianchaorongyao/status/1830272695285481751",
+              "start": 70,
+              "url": "https://t.co/4xI3ewceyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830467348148756490",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7422,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830272695285481751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又把未成年孩子p成裸体来发这种造谣黄推是吧😇\n\n评价为对权贵酒池肉林生活的幻想冲坏了脑子🧠 https://t.co/k1FCoTNJka https://t.co/4xI3ewceyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 2229,
+          "like_count": 174126,
+          "listed_count": 10,
+          "tweet_count": 11208
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T12:11:04.000Z",
+        "description": "在简介为自己的习好、立场、认识做范畴分类是一件很无聊的事情😩",
+        "id": "1374332792666873858",
+        "location": "太阳城",
+        "name": "Stumm！",
+        "pinned_tweet_id": "1604158948399284225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649009059536994304/Jq14dk-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 731,
+          "like_count": 17526,
+          "listed_count": 4,
+          "tweet_count": 5017
+        },
+        "username": "Stumm1559394490",
+        "verified": false
+      }
+    ]
+  }
+}

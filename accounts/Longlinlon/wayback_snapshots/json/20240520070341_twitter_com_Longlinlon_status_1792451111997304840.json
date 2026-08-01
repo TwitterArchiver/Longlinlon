@@ -1,0 +1,226 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792239415663980942",
+    "created_at": "2024-05-20T07:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T08:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792451111997304840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554453405187325955",
+          "start": 0,
+          "username": "Banding5033"
+        },
+        {
+          "end": 20,
+          "id": "1767186067898437632",
+          "start": 13,
+          "username": "BG7QII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792451111997304840",
+    "in_reply_to_user_id": "1554453405187325955",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792239415663980942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Banding5033 @BG7QII 9999"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792239415663980942",
+        "created_at": "2024-05-20T07:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T08:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792451111997304840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554453405187325955",
+              "start": 0,
+              "username": "Banding5033"
+            },
+            {
+              "end": 20,
+              "id": "1767186067898437632",
+              "start": 13,
+              "username": "BG7QII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792451111997304840",
+        "in_reply_to_user_id": "1554453405187325955",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792239415663980942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Banding5033 @BG7QII 9999"
+      },
+      {
+        "attachments": {},
+        "author_id": "1554453405187325955",
+        "conversation_id": "1792239415663980942",
+        "created_at": "2024-05-19T17:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T18:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792239415663980942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767186067898437632",
+              "start": 9,
+              "username": "BG7QII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792239415663980942",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1814,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悄悄谈上了，嗯\n @BG7QII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 1951,
+          "like_count": 130050,
+          "listed_count": 10,
+          "tweet_count": 9447
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T13:06:01.000Z",
+        "description": "furry,HAM @BG7QII,火车迷。中文/English。QQ:3583524994。南宁准高三物化地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "BG7QII"
+              }
+            ]
+          }
+        },
+        "id": "1554453405187325955",
+        "location": "Nanning,Guangxi",
+        "name": "板钉🔜🛌",
+        "pinned_tweet_id": "1781367071823294663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775906176288559105/UueGkQsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 998,
+          "like_count": 12228,
+          "listed_count": 1,
+          "tweet_count": 1441
+        },
+        "username": "Banding5033",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T13:50:06.000Z",
+        "description": "",
+        "id": "1767186067898437632",
+        "name": "BG7QII",
+        "pinned_tweet_id": "1786320267788337579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767735936761344000/A1hwWguP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 170,
+          "like_count": 114,
+          "listed_count": 0,
+          "tweet_count": 11
+        },
+        "username": "BG7QII",
+        "verified": false
+      }
+    ]
+  }
+}

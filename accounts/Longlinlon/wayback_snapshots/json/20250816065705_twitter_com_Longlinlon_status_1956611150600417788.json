@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1956582527583572472",
+    "created_at": "2025-08-16T06:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T07:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956611150600417788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878367287272693761",
+          "start": 0,
+          "username": "TrickOnU8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956611150600417788",
+    "in_reply_to_user_id": "1878367287272693761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956582527583572472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrickOnU8964 坏闺蜜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1956582527583572472].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1956582527583572472",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1956582527583572472"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1956582527583572472",
+        "created_at": "2025-08-16T06:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956611150600417788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878367287272693761",
+              "start": 0,
+              "username": "TrickOnU8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956611150600417788",
+        "in_reply_to_user_id": "1878367287272693761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956582527583572472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrickOnU8964 坏闺蜜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "缺爱-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2498,
+          "like_count": 214221,
+          "listed_count": 6,
+          "media_count": 1279,
+          "tweet_count": 14175
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T09:04:05.000Z",
+        "description": "無聊",
+        "id": "1878367287272693761",
+        "name": "愛妻家の朝食",
+        "pinned_tweet_id": "1929902243828117603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953427790440914944/VS4i4Set_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 97,
+          "like_count": 1892,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1130
+        },
+        "username": "TrickOnU8964",
+        "verified": false
+      }
+    ]
+  }
+}

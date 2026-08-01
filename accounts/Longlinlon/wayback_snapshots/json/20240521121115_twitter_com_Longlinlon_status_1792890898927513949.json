@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1792890898927513949",
+    "created_at": "2024-05-21T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792890898927513949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gasuiyuno/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/gasuiyuno/status/1792890383204323672",
+          "start": 4,
+          "url": "https://t.co/Cwkv671d8r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792890898927513949",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792890383204323672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狗狗虫 https://t.co/Cwkv671d8r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1792890898927513949",
+        "created_at": "2024-05-21T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792890898927513949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gasuiyuno/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/gasuiyuno/status/1792890383204323672",
+              "start": 4,
+              "url": "https://t.co/Cwkv671d8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792890898927513949",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792890383204323672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狗狗虫 https://t.co/Cwkv671d8r"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792890380549341184"
+          ]
+        },
+        "author_id": "1363804005583888386",
+        "conversation_id": "1792890383204323672",
+        "created_at": "2024-05-21T12:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T13:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792890383204323672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/N7mOjRLrqB",
+              "end": 32,
+              "expanded_url": "https://twitter.com/gasuiyuno/status/1792890383204323672/photo/1",
+              "media_key": "3_1792890380549341184",
+              "start": 9,
+              "url": "https://t.co/N7mOjRLrqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792890383204323672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相机好像玩明白了 https://t.co/N7mOjRLrqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 1962,
+          "like_count": 130712,
+          "listed_count": 10,
+          "tweet_count": 9478
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T10:53:16.000Z",
+        "description": "......呜.......\n‖双相|精神疾病|目前饲养两只咪物一只汪物|♂|努力走上可爱风|互关欢迎|od会发疯|对不起所有人‖",
+        "id": "1363804005583888386",
+        "location": "卢伦贝格",
+        "name": "✟里森堡卢伦贝格精神病保护协会✟",
+        "pinned_tweet_id": "1772882146417406111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779770744685408256/RawVllkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 621,
+          "like_count": 6396,
+          "listed_count": 3,
+          "tweet_count": 7090
+        },
+        "username": "gasuiyuno",
+        "verified": false
+      }
+    ]
+  }
+}

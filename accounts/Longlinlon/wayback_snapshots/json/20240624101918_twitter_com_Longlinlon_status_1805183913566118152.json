@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1804855878157500868",
+    "created_at": "2024-06-24T10:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T11:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805183913566118152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782247746311016448",
+          "start": 0,
+          "username": "aten1212439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805183913566118152",
+    "in_reply_to_user_id": "1782247746311016448",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804855878157500868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aten1212439 ，，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1804855878157500868",
+        "created_at": "2024-06-24T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805183913566118152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782247746311016448",
+              "start": 0,
+              "username": "aten1212439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805183913566118152",
+        "in_reply_to_user_id": "1782247746311016448",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804855878157500868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aten1212439 ，，，，"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1804855859933253632"
+          ]
+        },
+        "author_id": "1782247746311016448",
+        "conversation_id": "1804855878157500868",
+        "created_at": "2024-06-23T12:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804855878157500868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "すとぷりぎゃらりー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/i6ovJgdrsH",
+              "end": 34,
+              "expanded_url": "https://twitter.com/oyagatyuugoku/status/1804855878157500868/video/1",
+              "media_key": "7_1804855859933253632",
+              "start": 11,
+              "url": "https://t.co/i6ovJgdrsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804855878157500868",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16203,
+          "impression_count": 3870713,
+          "like_count": 42988,
+          "quote_count": 476,
+          "reply_count": 457,
+          "retweet_count": 2940
+        },
+        "reply_settings": "everyone",
+        "text": "#すとぷりぎゃらりー https://t.co/i6ovJgdrsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 2004,
+          "like_count": 142690,
+          "listed_count": 10,
+          "tweet_count": 10194
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:19:19.000Z",
+        "description": "",
+        "id": "1782247746311016448",
+        "name": "あてん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805095457930272768/uhYjXRTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 112,
+          "like_count": 423,
+          "listed_count": 1,
+          "tweet_count": 427
+        },
+        "username": "aten1212439",
+        "verified": false
+      }
+    ]
+  }
+}

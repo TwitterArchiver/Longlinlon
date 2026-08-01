@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840385284762227199",
+    "created_at": "2024-09-29T15:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T16:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840411210384286199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703632963064442880",
+          "start": 0,
+          "username": "ChenAaaa233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840411210384286199",
+    "in_reply_to_user_id": "1703632963064442880",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840385284762227199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenAaaa233 找网友一起玩呀喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840385284762227199",
+        "created_at": "2024-09-29T15:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T16:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840411210384286199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703632963064442880",
+              "start": 0,
+              "username": "ChenAaaa233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840411210384286199",
+        "in_reply_to_user_id": "1703632963064442880",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840385284762227199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenAaaa233 找网友一起玩呀喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703632963064442880",
+        "conversation_id": "1840385284762227199",
+        "created_at": "2024-09-29T13:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T14:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840385284762227199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840385284762227199",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国庆一个人留守寝室孤独的很啊，好像除了吹小号也没什么别的事了。出去玩的话既不知道去哪也没人一起，孤独真的会kills me inside"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 2214,
+          "like_count": 176660,
+          "listed_count": 8,
+          "tweet_count": 11537
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T04:52:13.000Z",
+        "description": "无证🍥2023.9.29🏳‍⚧️‖丑蝈蝻一个‖大学牲‖摇滚乐🤘🏻‖电吉他🎸‖\n来交朋友吧",
+        "id": "1703632963064442880",
+        "location": "Rock&Roll Fantasy",
+        "name": "陈安安想当摇滚巨星🍥",
+        "pinned_tweet_id": "1722278801152057463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791846520645668866/eQdnME2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 485,
+          "like_count": 6775,
+          "listed_count": 1,
+          "tweet_count": 561
+        },
+        "username": "ChenAaaa233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008841909549355008"
+      ],
+      "media_source_tweet_id": [
+        "2008841913974374625"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2009535500651290947",
+    "created_at": "2026-01-09T07:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009535500651290947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763150487046590465",
+          "start": 3,
+          "username": "animalkyat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VWBdNP25pe",
+          "end": 68,
+          "expanded_url": "https://x.com/animalkyat/status/2008841913974374625/photo/1",
+          "media_key": "3_2008841909549355008",
+          "start": 45,
+          "url": "https://t.co/VWBdNP25pe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009535500651290947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008841913974374625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animalkyat: ヒーローショーで撮影された写真に少年の「夢」が詰まってた https://t.co/VWBdNP25pe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1346,
+        "media_key": "3_2008841909549355008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-DXEsybUAANjlg.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008841909549355008"
+          ],
+          "media_source_tweet_id": [
+            "2008841913974374625"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2009535500651290947",
+        "created_at": "2026-01-09T07:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009535500651290947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763150487046590465",
+              "start": 3,
+              "username": "animalkyat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWBdNP25pe",
+              "end": 68,
+              "expanded_url": "https://x.com/animalkyat/status/2008841913974374625/photo/1",
+              "media_key": "3_2008841909549355008",
+              "start": 45,
+              "url": "https://t.co/VWBdNP25pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009535500651290947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008841913974374625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animalkyat: ヒーローショーで撮影された写真に少年の「夢」が詰まってた https://t.co/VWBdNP25pe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008841909549355008"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2008841913974374625",
+        "created_at": "2026-01-07T10:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T11:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008841913974374625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWBdNP25pe",
+              "end": 52,
+              "expanded_url": "https://x.com/animalkyat/status/2008841913974374625/photo/1",
+              "media_key": "3_2008841909549355008",
+              "start": 29,
+              "url": "https://t.co/VWBdNP25pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008841913974374625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 329471,
+          "like_count": 16287,
+          "quote_count": 67,
+          "reply_count": 26,
+          "retweet_count": 1151
+        },
+        "reply_settings": "everyone",
+        "text": "ヒーローショーで撮影された写真に少年の「夢」が詰まってた https://t.co/VWBdNP25pe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2495,
+          "like_count": 210797,
+          "listed_count": 9,
+          "media_count": 1369,
+          "tweet_count": 14614
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦦🦥🐿️🦜🐈🐓🦔🐕🐇投稿の削除依頼やPRや広告拡散等のお仕事はDMまで",
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "pinned_tweet_id": "2009138591679828019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234285,
+          "following_count": 176,
+          "like_count": 595,
+          "listed_count": 533,
+          "media_count": 4351,
+          "tweet_count": 4995
+        },
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

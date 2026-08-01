@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1920135477878747487",
+    "created_at": "2025-05-07T15:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T16:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920135477878747487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sxshuishuimao/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/sxshuishuimao/status/1920109518895431831",
+          "start": 18,
+          "url": "https://t.co/U3Nssg0CT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920135477878747487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920109518895431831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冰棍的小团体真的就是蓝鸟xxs战队 https://t.co/U3Nssg0CT3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1920135477878747487",
+        "created_at": "2025-05-07T15:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T16:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920135477878747487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1920109518895431831",
+              "start": 18,
+              "url": "https://t.co/U3Nssg0CT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920135477878747487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920109518895431831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冰棍的小团体真的就是蓝鸟xxs战队 https://t.co/U3Nssg0CT3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1919299962242003109",
+        "created_at": "2025-05-07T13:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920109518895431831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920109518895431831",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 0,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920109098319876353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 你焦虑是因为你已经来不及了哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2400,
+          "like_count": 204580,
+          "listed_count": 9,
+          "media_count": 1189,
+          "tweet_count": 13560
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜HRT咨询｜提问箱链接↓｜拼图积木代拼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B42",
+                "start": 0,
+                "url": "https://t.co/WhstBgh4oE"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你1.7km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1919804646333481273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913909805120659456/ptCEEJn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 695,
+          "like_count": 193,
+          "listed_count": 2,
+          "media_count": 623,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/WhstBgh4oE",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

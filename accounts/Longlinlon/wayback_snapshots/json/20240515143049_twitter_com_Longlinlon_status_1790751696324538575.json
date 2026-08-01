@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1790731882197619089",
+    "created_at": "2024-05-15T14:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T15:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790751696324538575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552448295074639872",
+          "start": 0,
+          "username": "otto147258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790751696324538575",
+    "in_reply_to_user_id": "1552448295074639872",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790751045540516119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@otto147258 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1790731882197619089",
+        "created_at": "2024-05-15T14:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790751696324538575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552448295074639872",
+              "start": 0,
+              "username": "otto147258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790751696324538575",
+        "in_reply_to_user_id": "1552448295074639872",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790751045540516119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otto147258 🥺🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1552448295074639872",
+        "conversation_id": "1790731882197619089",
+        "created_at": "2024-05-15T14:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790751045540516119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790751045540516119",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790731882197619089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 我没有朋友，没有恋人，没有学上，想自杀的朋友去陪他喝可乐红牛，咖啡因可以让人镇定，喜欢od的对象多陪陪她，一样多喝可乐代替一些，舍友这个问题，要么揍他要么换宿舍要么买安耳悠soft耳塞加隔音耳罩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1914,
+          "like_count": 126972,
+          "listed_count": 10,
+          "tweet_count": 9266
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T00:18:19.000Z",
+        "description": "防走丢小号   @aiyuyin    聊天群https://t.co/0uihxskN32\n电报号 @yangmiyuyin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "aiyuyin"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "yangmiyuyin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mingxingaiyuyin",
+                "end": 46,
+                "expanded_url": "http://t.me/mingxingaiyuyin",
+                "start": 23,
+                "url": "https://t.co/0uihxskN32"
+              }
+            ]
+          }
+        },
+        "id": "1552448295074639872",
+        "name": "明星ai语音",
+        "pinned_tweet_id": "1759664687460065649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754368214237126656/cvfOTKKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10457,
+          "following_count": 133,
+          "like_count": 28,
+          "listed_count": 27,
+          "tweet_count": 721
+        },
+        "username": "otto147258",
+        "verified": false
+      }
+    ]
+  }
+}

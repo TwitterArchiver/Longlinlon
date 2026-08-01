@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1811049214413262859",
+    "created_at": "2024-07-10T16:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T17:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811078033350218174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597512919155372033",
+          "start": 0,
+          "username": "KannkouJakusets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811078033350218174",
+    "in_reply_to_user_id": "1597512919155372033",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811049214413262859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KannkouJakusets 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1811049214413262859",
+        "created_at": "2024-07-10T16:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T17:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811078033350218174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597512919155372033",
+              "start": 0,
+              "username": "KannkouJakusets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811078033350218174",
+        "in_reply_to_user_id": "1597512919155372033",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811049214413262859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KannkouJakusets 羡慕"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811049212051853312"
+          ]
+        },
+        "author_id": "1597512919155372033",
+        "conversation_id": "1811049214413262859",
+        "created_at": "2024-07-10T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811049214413262859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HTMKdT8cP0",
+              "end": 132,
+              "expanded_url": "https://twitter.com/KannkouJakusets/status/1811049214413262859/photo/1",
+              "media_key": "3_1811049212051853312",
+              "start": 109,
+              "url": "https://t.co/HTMKdT8cP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811049214413262859",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎成家不管党了？跟母亲聊了很久，她其实最害怕的是我因为hrt找不到工作，在社会上没法立足。大概意思就是只要我能顺利毕业找到工作，其他的都可以不管我了 想留头发就留，不结婚不要孩子她都不在乎，只要能平稳生活就够了。。 https://t.co/HTMKdT8cP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 2078,
+          "like_count": 156096,
+          "listed_count": 10,
+          "tweet_count": 10501
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T08:49:08.000Z",
+        "description": "",
+        "id": "1597512919155372033",
+        "name": "寒江若雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760301966364930048/7R7lBLk2_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 311,
+          "like_count": 7005,
+          "listed_count": 2,
+          "tweet_count": 1694
+        },
+        "username": "KannkouJakusets",
+        "verified": false
+      }
+    ]
+  }
+}

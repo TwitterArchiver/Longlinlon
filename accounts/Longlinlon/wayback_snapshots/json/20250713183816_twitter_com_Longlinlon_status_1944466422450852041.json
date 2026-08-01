@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944466406054989825"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1944466422450852041",
+    "created_at": "2025-07-13T18:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T19:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944466422450852041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBbBA5auqb",
+          "end": 32,
+          "expanded_url": "https://x.com/Longlinlon/status/1944466422450852041/photo/1",
+          "media_key": "3_1944466406054989825",
+          "start": 9,
+          "url": "https://t.co/QBbBA5auqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944466422450852041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 42,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好米。。等等？！ https://t.co/QBbBA5auqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1944466406054989825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvwh5OKWkAE6fyw.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944466406054989825"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1944466422450852041",
+        "created_at": "2025-07-13T18:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944466422450852041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBbBA5auqb",
+              "end": 32,
+              "expanded_url": "https://x.com/Longlinlon/status/1944466422450852041/photo/1",
+              "media_key": "3_1944466406054989825",
+              "start": 9,
+              "url": "https://t.co/QBbBA5auqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944466422450852041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好米。。等等？！ https://t.co/QBbBA5auqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2469,
+          "like_count": 212295,
+          "listed_count": 7,
+          "media_count": 1244,
+          "tweet_count": 13980
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

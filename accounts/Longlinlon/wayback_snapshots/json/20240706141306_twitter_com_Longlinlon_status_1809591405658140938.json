@@ -1,0 +1,269 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1809591405658140938",
+    "created_at": "2024-07-06T14:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T15:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809591405658140938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1597268436174131205",
+          "start": 3,
+          "username": "realGeniusIdol"
+        },
+        {
+          "end": 35,
+          "id": "1260553941714186241",
+          "start": 20,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809591405658140938",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809588776727114159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realGeniusIdol: @whyyoutouzhele 牛：没想到俺也能喝上习巴克"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1809591405658140938",
+        "created_at": "2024-07-06T14:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T15:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809591405658140938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1597268436174131205",
+              "start": 3,
+              "username": "realGeniusIdol"
+            },
+            {
+              "end": 35,
+              "id": "1260553941714186241",
+              "start": 20,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809591405658140938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809588776727114159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realGeniusIdol: @whyyoutouzhele 牛：没想到俺也能喝上习巴克"
+      },
+      {
+        "attachments": {},
+        "author_id": "1597268436174131205",
+        "conversation_id": "1809577592191615467",
+        "created_at": "2024-07-06T14:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T15:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809588776727114159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809588776727114159",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809577592191615467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 牛：没想到俺也能喝上习巴克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 2061,
+          "like_count": 153455,
+          "listed_count": 10,
+          "tweet_count": 10443
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T16:37:33.000Z",
+        "description": "ただ普通な国民の月読命のみだから。조선 인민의 모든 승리의 조직자이며 향도자인 조선로동당 만세! Let us become the creators of achievements that glorify the great era of Kim Jong Un! 半岛唯一爱豆露，爷不可爱谁可爱？#韩流顶流",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 159,
+                "start": 154,
+                "tag": "韩流顶流"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rodong.rep.kp/ko/",
+                "end": 23,
+                "expanded_url": "http://www.rodong.rep.kp/ko/",
+                "start": 0,
+                "url": "https://t.co/S7zRC3OR0t"
+              }
+            ]
+          }
+        },
+        "id": "1597268436174131205",
+        "location": "North Korea",
+        "name": "金与正🇰🇵 キム・ヨジョン",
+        "pinned_tweet_id": "1801189888097964217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794472240471572480/_jBLrI5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 58,
+          "like_count": 368,
+          "listed_count": 6,
+          "tweet_count": 2320
+        },
+        "url": "https://t.co/S7zRC3OR0t",
+        "username": "realGeniusIdol",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600004,
+          "following_count": 906,
+          "like_count": 5036,
+          "listed_count": 7483,
+          "tweet_count": 20023
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

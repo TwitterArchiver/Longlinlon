@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1795318357908218191",
+    "created_at": "2024-05-28T04:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T05:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795318357908218191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565988119941627905",
+          "start": 3,
+          "username": "badgalkohakurin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795318357908218191",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795311865528234013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badgalkohakurin: 我觉得动物比人可处多了，流浪猫会乱咬人，难道人就不会了吗\n所以虐猫爱好者（包括喜欢看的）直接说自己心理变态就完事了，不要拿什么为民除害当理由，然后反手给反对自己的人扣个猫孝子的帽子，真的很唐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1795318357908218191",
+        "created_at": "2024-05-28T04:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T05:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795318357908218191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565988119941627905",
+              "start": 3,
+              "username": "badgalkohakurin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795318357908218191",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795311865528234013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badgalkohakurin: 我觉得动物比人可处多了，流浪猫会乱咬人，难道人就不会了吗\n所以虐猫爱好者（包括喜欢看的）直接说自己心理变态就完事了，不要拿什么为民除害当理由，然后反手给反对自己的人扣个猫孝子的帽子，真的很唐"
+      },
+      {
+        "attachments": {},
+        "author_id": "1565988119941627905",
+        "conversation_id": "1795311865528234013",
+        "created_at": "2024-05-28T04:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T05:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795311865528234013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795311865528234013",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得动物比人可处多了，流浪猫会乱咬人，难道人就不会了吗\n所以虐猫爱好者（包括喜欢看的）直接说自己心理变态就完事了，不要拿什么为民除害当理由，然后反手给反对自己的人扣个猫孝子的帽子，真的很唐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1983,
+          "like_count": 133268,
+          "listed_count": 9,
+          "tweet_count": 9642
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:00:46.000Z",
+        "description": "视奸我好玩吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kohakurinn.carrd.co",
+                "end": 23,
+                "expanded_url": "https://kohakurinn.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/jKeP0cf1CY"
+              }
+            ]
+          }
+        },
+        "id": "1565988119941627905",
+        "name": "卡璞·鳍鳍_奥菲手☁️🇸🇬🏳️‍🌈（接推广",
+        "pinned_tweet_id": "1794330253034443135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771481158863515648/lB0kondt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15586,
+          "following_count": 1751,
+          "like_count": 46234,
+          "listed_count": 33,
+          "tweet_count": 14502
+        },
+        "url": "https://t.co/jKeP0cf1CY",
+        "username": "badgalkohakurin",
+        "verified": false
+      }
+    ]
+  }
+}

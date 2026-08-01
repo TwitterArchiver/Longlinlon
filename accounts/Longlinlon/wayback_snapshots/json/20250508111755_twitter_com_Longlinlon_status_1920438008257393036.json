@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1920438008257393036",
+    "created_at": "2025-05-08T11:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T12:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920438008257393036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zhoumo_twvtube…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Zhoumo_twvtuber/status/1920052171690897617",
+          "start": 10,
+          "url": "https://t.co/5So46UZQ8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920438008257393036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920052171690897617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好处说完了，坏处呢 https://t.co/5So46UZQ8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 156,
+        "media_key": "3_1920052166276067328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqVlRbkasAABOfn.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1920438008257393036",
+        "created_at": "2025-05-08T11:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920438008257393036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zhoumo_twvtube…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Zhoumo_twvtuber/status/1920052171690897617",
+              "start": 10,
+              "url": "https://t.co/5So46UZQ8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920438008257393036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920052171690897617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好处说完了，坏处呢 https://t.co/5So46UZQ8A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920052166276067328"
+          ]
+        },
+        "author_id": "1302284088661782530",
+        "conversation_id": "1920052171690897617",
+        "created_at": "2025-05-07T09:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920052171690897617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6DiwQblqD6",
+              "end": 34,
+              "expanded_url": "https://x.com/Zhoumo_twvtuber/status/1920052171690897617/photo/1",
+              "media_key": "3_1920052166276067328",
+              "start": 11,
+              "url": "https://t.co/6DiwQblqD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920052171690897617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 120355,
+          "like_count": 2838,
+          "quote_count": 112,
+          "reply_count": 227,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "你們覺得呢？（眨眨眼 https://t.co/6DiwQblqD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2401,
+          "like_count": 204760,
+          "listed_count": 9,
+          "media_count": 1189,
+          "tweet_count": 13564
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-05T16:35:14.000Z",
+        "description": "雲際線 CloudHorizon 所屬 \nTWVtuber！主中文／日本語可\n說說故事，玩玩故事，喜歡故事的一隻夢貘。\n頻道：https://t.co/nLT5KrCwoh\nDC：https://t.co/uLfl1ybiHB\nFan name：夢友&黑犬\ntag：#默默作夢 \nFanArt：#朦朧夢境",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "默默作夢"
+              },
+              {
+                "end": 152,
+                "start": 147,
+                "tag": "朦朧夢境"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/3oMb08",
+                "end": 86,
+                "expanded_url": "http://reurl.cc/3oMb08",
+                "start": 63,
+                "url": "https://t.co/nLT5KrCwoh"
+              },
+              {
+                "display_url": "discord.gg/7PuU3X",
+                "end": 113,
+                "expanded_url": "https://discord.gg/7PuU3X",
+                "start": 90,
+                "url": "https://t.co/uLfl1ybiHB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/zhoumo_vtuber",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/zhoumo_vtuber",
+                "start": 0,
+                "url": "https://t.co/mS1m7gj7i7"
+              }
+            ]
+          }
+        },
+        "id": "1302284088661782530",
+        "location": "幻夢境Dreamland",
+        "name": "周默🦋 CloudHorizon所屬",
+        "pinned_tweet_id": "1787483277114356054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907100986319265793/fShtLJ7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17998,
+          "following_count": 3140,
+          "like_count": 6242,
+          "listed_count": 51,
+          "media_count": 1748,
+          "tweet_count": 9055
+        },
+        "url": "https://t.co/mS1m7gj7i7",
+        "username": "Zhoumo_twvtuber",
+        "verified": false
+      }
+    ]
+  }
+}

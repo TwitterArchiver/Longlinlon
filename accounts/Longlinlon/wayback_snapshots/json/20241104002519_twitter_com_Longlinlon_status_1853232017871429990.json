@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853140416109133824"
+      ],
+      "media_source_tweet_id": [
+        "1853140420424851485"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1853232017871429990",
+    "created_at": "2024-11-04T00:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T01:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853232017871429990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815150200450899968",
+          "start": 3,
+          "username": "mascott_07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8TdV6IFohA",
+          "end": 39,
+          "expanded_url": "https://x.com/mascott_07/status/1853140420424851485/photo/1",
+          "media_key": "3_1853140416109133824",
+          "start": 16,
+          "url": "https://t.co/8TdV6IFohA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853232017871429990",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853140420424851485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mascott_07: https://t.co/8TdV6IFohA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_1853140416109133824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbetY90awAA6N9k.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853140416109133824"
+          ],
+          "media_source_tweet_id": [
+            "1853140420424851485"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1853232017871429990",
+        "created_at": "2024-11-04T00:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T01:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853232017871429990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815150200450899968",
+              "start": 3,
+              "username": "mascott_07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TdV6IFohA",
+              "end": 39,
+              "expanded_url": "https://x.com/mascott_07/status/1853140420424851485/photo/1",
+              "media_key": "3_1853140416109133824",
+              "start": 16,
+              "url": "https://t.co/8TdV6IFohA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853232017871429990",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853140420424851485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mascott_07: https://t.co/8TdV6IFohA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853140416109133824"
+          ]
+        },
+        "author_id": "1815150200450899968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1853140420424851485",
+        "created_at": "2024-11-03T18:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T19:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853140420424851485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TdV6IFohA",
+              "end": 23,
+              "expanded_url": "https://x.com/mascott_07/status/1853140420424851485/photo/1",
+              "media_key": "3_1853140416109133824",
+              "start": 0,
+              "url": "https://t.co/8TdV6IFohA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853140420424851485",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6790,
+          "like_count": 918,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8TdV6IFohA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 2221,
+          "like_count": 178029,
+          "listed_count": 8,
+          "tweet_count": 11760
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T22:21:55.000Z",
+        "description": "toxic helegala STAN //\ncomms open! //\nedshtwt and proship dni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mascott.straw.page",
+                "end": 23,
+                "expanded_url": "https://mascott.straw.page",
+                "start": 0,
+                "url": "https://t.co/HW4g2AK8Z0"
+              }
+            ]
+          }
+        },
+        "id": "1815150200450899968",
+        "location": "18 she/her 🎉",
+        "name": "mascottOHSEVEN💜",
+        "pinned_tweet_id": "1852938353517203586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851290585082314758/3LMPPd7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 183,
+          "like_count": 17784,
+          "listed_count": 3,
+          "tweet_count": 5306
+        },
+        "url": "https://t.co/HW4g2AK8Z0",
+        "username": "mascott_07",
+        "verified": false
+      }
+    ]
+  }
+}

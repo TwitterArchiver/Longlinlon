@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863934007760834560"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "1863852775404445701",
+    "created_at": "2024-12-03T13:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T14:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863934009702744285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1342460110077976577",
+          "start": 0,
+          "username": "cHeeExX3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rY3Ms8Fabj",
+          "end": 64,
+          "expanded_url": "https://x.com/Longlinlon/status/1863934009702744285/photo/1",
+          "media_key": "3_1863934007760834560",
+          "start": 41,
+          "url": "https://t.co/rY3Ms8Fabj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863934009702744285",
+    "in_reply_to_user_id": "1342460110077976577",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863852775404445701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cHeeExX3 “lgmm”mean he is a lovely frog https://t.co/rY3Ms8Fabj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_1863934007760834560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd4GGsFa0AAzF39.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863934007760834560"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "1863852775404445701",
+        "created_at": "2024-12-03T13:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T14:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863934009702744285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1342460110077976577",
+              "start": 0,
+              "username": "cHeeExX3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rY3Ms8Fabj",
+              "end": 64,
+              "expanded_url": "https://x.com/Longlinlon/status/1863934009702744285/photo/1",
+              "media_key": "3_1863934007760834560",
+              "start": 41,
+              "url": "https://t.co/rY3Ms8Fabj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863934009702744285",
+        "in_reply_to_user_id": "1342460110077976577",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863852775404445701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cHeeExX3 “lgmm”mean he is a lovely frog https://t.co/rY3Ms8Fabj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863852772342509568"
+          ]
+        },
+        "author_id": "1342460110077976577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863852775404445701",
+        "created_at": "2024-12-03T07:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T08:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863852775404445701"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "CN",
+              "probability": 0.6263,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DfDIvh1MbZ",
+              "end": 130,
+              "expanded_url": "https://x.com/cHeeExX3/status/1863852775404445701/photo/1",
+              "media_key": "3_1863852772342509568",
+              "start": 107,
+              "url": "https://t.co/DfDIvh1MbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863852775404445701",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 1827,
+          "like_count": 80,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "I've gathered all CN fandoms nicknames for survivors, which one are you most interested in learning about? https://t.co/DfDIvh1MbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 2288,
+          "like_count": 183135,
+          "listed_count": 8,
+          "media_count": 1002,
+          "tweet_count": 11965
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T13:20:25.000Z",
+        "description": "pfp/banner: @mafuthusiast",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "mafuthusiast"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sprinklzzz.straw.page",
+                "end": 23,
+                "expanded_url": "https://sprinklzzz.straw.page/",
+                "start": 0,
+                "url": "https://t.co/tEc6w3YIgd"
+              }
+            ]
+          }
+        },
+        "id": "1342460110077976577",
+        "location": "he/they 16",
+        "name": "Q1si",
+        "pinned_tweet_id": "1858730600204824731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858020223494008834/PjSjcJ-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 310,
+          "like_count": 48201,
+          "listed_count": 6,
+          "media_count": 605,
+          "tweet_count": 6072
+        },
+        "url": "https://t.co/tEc6w3YIgd",
+        "username": "cHeeExX3",
+        "verified": false
+      }
+    ]
+  }
+}

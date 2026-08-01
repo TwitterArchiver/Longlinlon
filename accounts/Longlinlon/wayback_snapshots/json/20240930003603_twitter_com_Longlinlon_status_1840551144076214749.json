@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1840351271930216635",
+    "created_at": "2024-09-30T00:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T01:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840551144076214749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "25950119",
+          "start": 0,
+          "username": "not_2b_or_2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840551144076214749",
+    "in_reply_to_user_id": "25950119",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840351271930216635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@not_2b_or_2b 幽默⏰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1840351271930216635",
+        "created_at": "2024-09-30T00:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T01:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840551144076214749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "25950119",
+              "start": 0,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840551144076214749",
+        "in_reply_to_user_id": "25950119",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840351271930216635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@not_2b_or_2b 幽默⏰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840351268428001280"
+          ]
+        },
+        "author_id": "25950119",
+        "conversation_id": "1840351271930216635",
+        "created_at": "2024-09-29T11:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T12:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840351271930216635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmwzdjismp",
+              "end": 29,
+              "expanded_url": "https://twitter.com/not_2b_or_2b/status/1840351271930216635/photo/1",
+              "media_key": "3_1840351268428001280",
+              "start": 6,
+              "url": "https://t.co/cmwzDJiSmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840351271930216635",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 176663,
+          "like_count": 1042,
+          "quote_count": 14,
+          "reply_count": 46,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "跑步的功效 https://t.co/cmwzDJiSmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 2215,
+          "like_count": 176802,
+          "listed_count": 8,
+          "tweet_count": 11553
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28317,
+          "following_count": 179,
+          "like_count": 99,
+          "listed_count": 168,
+          "tweet_count": 11087
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

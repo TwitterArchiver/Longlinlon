@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996922062192144384"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996922070928933363",
+    "created_at": "2025-12-05T12:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996922070928933363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tKhHoxh9Lw",
+          "end": 26,
+          "expanded_url": "https://x.com/Longlinlon/status/1996922070928933363/photo/1",
+          "media_key": "3_1996922062192144384",
+          "start": 3,
+          "url": "https://t.co/tKhHoxh9Lw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996922070928933363",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "射喽 https://t.co/tKhHoxh9Lw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_1996922062192144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Z-CREacAAk_Jh.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996922062192144384"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996922070928933363",
+        "created_at": "2025-12-05T12:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996922070928933363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKhHoxh9Lw",
+              "end": 26,
+              "expanded_url": "https://x.com/Longlinlon/status/1996922070928933363/photo/1",
+              "media_key": "3_1996922062192144384",
+              "start": 3,
+              "url": "https://t.co/tKhHoxh9Lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996922070928933363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "射喽 https://t.co/tKhHoxh9Lw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "深深刻进骨子里的苦楚-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 2489,
+          "like_count": 212020,
+          "listed_count": 9,
+          "media_count": 1362,
+          "tweet_count": 14543
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

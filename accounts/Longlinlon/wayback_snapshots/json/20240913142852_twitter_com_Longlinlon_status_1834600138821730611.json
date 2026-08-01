@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1834600138821730611",
+    "created_at": "2024-09-13T14:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T15:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834600138821730611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KMSRtoragaame/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/KMSRtoragaame/status/1834582010851143914",
+          "start": 8,
+          "url": "https://t.co/xiYJBzJ4Ld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834600138821730611",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834582010851143914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一哭二闹三上吊 https://t.co/xiYJBzJ4Ld"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1834600138821730611",
+        "created_at": "2024-09-13T14:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T15:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834600138821730611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KMSRtoragaame/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/KMSRtoragaame/status/1834582010851143914",
+              "start": 8,
+              "url": "https://t.co/xiYJBzJ4Ld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834600138821730611",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834582010851143914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一哭二闹三上吊 https://t.co/xiYJBzJ4Ld"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555695367152631808",
+        "conversation_id": "1834582010851143914",
+        "created_at": "2024-09-13T13:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T14:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834582010851143914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834582010851143914",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网络征集：\n一个你很在乎的人一直和你提你讨厌的人你要如何应对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 2218,
+          "like_count": 175001,
+          "listed_count": 10,
+          "tweet_count": 11328
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T23:21:16.000Z",
+        "description": "濡れはしないが、なんとはなしに肌の湿る、盲のような春雨だ。一只过期的高中生，很多东西藏在置顶的评论里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+JKp6dT58KHg0N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+JKp6dT58KHg0NjJl",
+                "start": 0,
+                "url": "https://t.co/KKojBXESHh"
+              }
+            ]
+          }
+        },
+        "id": "1555695367152631808",
+        "location": "不知原市立云波学园高等学校",
+        "name": "神代 虎雨",
+        "pinned_tweet_id": "1820921341748351012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833162245595176960/fRyBI_cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 573,
+          "like_count": 3772,
+          "listed_count": 1,
+          "tweet_count": 5128
+        },
+        "url": "https://t.co/KKojBXESHh",
+        "username": "KMSRtoragaame",
+        "verified": false
+      }
+    ]
+  }
+}

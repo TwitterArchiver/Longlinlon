@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2043660301082751407",
+    "created_at": "2026-04-13T11:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043660301082751407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1590169745508401152",
+          "start": 3,
+          "username": "BAITANG114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043660301082751407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043650556632367413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BAITANG114514: 玩了好久的洛克王国终于意识到一件事情，每次打完首领只有花费40体力才有首领的蛋，如果不花就什么都没有。不就相当于我用40体力和首领做爱吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2043660301082751407",
+        "created_at": "2026-04-13T11:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043660301082751407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1590169745508401152",
+              "start": 3,
+              "username": "BAITANG114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043660301082751407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043650556632367413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BAITANG114514: 玩了好久的洛克王国终于意识到一件事情，每次打完首领只有花费40体力才有首领的蛋，如果不花就什么都没有。不就相当于我用40体力和首领做爱吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590169745508401152",
+        "conversation_id": "2043650556632367413",
+        "created_at": "2026-04-13T11:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043650556632367413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043650556632367413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玩了好久的洛克王国终于意识到一件事情，每次打完首领只有花费40体力才有首领的蛋，如果不花就什么都没有。不就相当于我用40体力和首领做爱吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 2540,
+          "like_count": 207524,
+          "listed_count": 8,
+          "media_count": 1389,
+          "tweet_count": 14831
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T02:30:05.000Z",
+        "description": "我叫白糖呐/04持证含糖/mtf/家暴党/坐标江苏南通（现人在淮安上学）/175*70（目标60）/精神不稳定，发癫不用管",
+        "id": "1590169745508401152",
+        "location": "1.2公里",
+        "name": "一只小白糖酱🏳️‍⚧️",
+        "pinned_tweet_id": "2018357186062377238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664487314545078272/opVyux-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 471,
+          "like_count": 582,
+          "listed_count": 6,
+          "media_count": 247,
+          "tweet_count": 1005
+        },
+        "username": "BAITANG114514",
+        "verified": false
+      }
+    ]
+  }
+}

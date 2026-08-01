@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1788941009923330535",
+    "created_at": "2024-05-11T05:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T06:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789158706686709881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1521467035741425667",
+          "start": 0,
+          "username": "KinoRanger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789158706686709881",
+    "in_reply_to_user_id": "1521467035741425667",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788941009923330535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KinoRanger 王样超好看🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1788941009923330535",
+        "created_at": "2024-05-11T05:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T06:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789158706686709881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1521467035741425667",
+              "start": 0,
+              "username": "KinoRanger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789158706686709881",
+        "in_reply_to_user_id": "1521467035741425667",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788941009923330535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KinoRanger 王样超好看🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1521467035741425667",
+        "conversation_id": "1788941009923330535",
+        "created_at": "2024-05-10T14:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788941009923330535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788941009923330535",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在三大特摄&amp;东映御三家，除了假面骑士之外都在缓慢补，今天把公主Q娃第一集看了，这部风评也很好，到了神作那种风评\n那神作里面，我好像就超兽战队和烈车战队没看过任何一集了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "mtf ‖ 爱人 @SaigyoujiSenba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "SaigyoujiSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 1865,
+          "like_count": 123509,
+          "listed_count": 10,
+          "tweet_count": 9024
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T12:29:57.000Z",
+        "description": "跑过来却不给我置顶推文点赞的人就会被不自为的斯大林强健",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/trotsk…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/trotsky/1936book/index.htm",
+                "start": 0,
+                "url": "https://t.co/fttFPOSQqH"
+              }
+            ]
+          }
+        },
+        "id": "1521467035741425667",
+        "location": "第零国际",
+        "name": "糖炒栗子要加盐",
+        "pinned_tweet_id": "1643563052787277825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785926196800409600/VJtTPoAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 2162,
+          "like_count": 264835,
+          "listed_count": 10,
+          "tweet_count": 50817
+        },
+        "url": "https://t.co/fttFPOSQqH",
+        "username": "KinoRanger",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1790645634661601734",
+    "created_at": "2024-05-15T14:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T15:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790752313977737349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1631662743563669504",
+          "start": 0,
+          "username": "Martinbingring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790752313977737349",
+    "in_reply_to_user_id": "1631662743563669504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790752117881458979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martinbingring 已经退坑很久了，时不时上线玩玩罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1790645634661601734",
+        "created_at": "2024-05-15T14:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790752313977737349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1631662743563669504",
+              "start": 0,
+              "username": "Martinbingring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790752313977737349",
+        "in_reply_to_user_id": "1631662743563669504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790752117881458979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martinbingring 已经退坑很久了，时不时上线玩玩罢了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1631662743563669504",
+        "conversation_id": "1790645634661601734",
+        "created_at": "2024-05-15T14:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T15:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790752117881458979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790752117881458979",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790645634661601734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 跟我打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1914,
+          "like_count": 126973,
+          "listed_count": 10,
+          "tweet_count": 9267
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T14:28:20.000Z",
+        "description": "snow monster watching you",
+        "id": "1631662743563669504",
+        "name": "Martinger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703279405550977024/UysLLDVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 525,
+          "like_count": 1371,
+          "listed_count": 0,
+          "tweet_count": 115
+        },
+        "username": "Martinbingring",
+        "verified": false
+      }
+    ]
+  }
+}

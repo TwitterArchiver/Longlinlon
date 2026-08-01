@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1808353125885190254",
+    "created_at": "2024-07-03T04:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T05:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808354106811265063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490675894238986251",
+          "start": 0,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808354106811265063",
+    "in_reply_to_user_id": "1490675894238986251",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808353125885190254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyndicalismCat 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1808353125885190254",
+        "created_at": "2024-07-03T04:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T05:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808354106811265063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808354106811265063",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808353125885190254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 笑死了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1490675894238986251",
+        "conversation_id": "1808353125885190254",
+        "created_at": "2024-07-03T04:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T05:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808353125885190254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lover_ning/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lover_ning/status/1808086105084121151",
+              "start": 4,
+              "url": "https://t.co/cVVArchm0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808353125885190254",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808086105084121151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神金啊 https://t.co/cVVArchm0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 2050,
+          "like_count": 150063,
+          "listed_count": 10,
+          "tweet_count": 10360
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "🏳️‍⚧️爱人/姐姐❤️@szc055555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "szc055555"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻拉面团子猫🎹",
+        "pinned_tweet_id": "1796127484162793523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780182712978112512/NXAs6cnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1194,
+          "like_count": 110215,
+          "listed_count": 10,
+          "tweet_count": 15275
+        },
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

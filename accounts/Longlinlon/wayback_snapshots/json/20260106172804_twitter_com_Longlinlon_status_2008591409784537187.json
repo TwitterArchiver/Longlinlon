@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2008531781176402101",
+    "created_at": "2026-01-06T17:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T18:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008591409784537187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "Sallyand99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008591409784537187",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008531781176402101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sallyand99 笨蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2008531781176402101",
+        "created_at": "2026-01-06T17:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008591409784537187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "Sallyand99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008591409784537187",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008531781176402101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sallyand99 笨蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729090153124376576",
+        "conversation_id": "2008531781176402101",
+        "created_at": "2026-01-06T13:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008531781176402101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008531781176402101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5331,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给家里转了3w，又是过年缺钱这一套，什么上面工程款不给……\n我的钱也不是大水刮来的，本来想拒绝，但是想着可能确实困难还是心软了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "location": "圣心医院",
+        "name": "桃子互联网医院-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 2482,
+          "like_count": 210731,
+          "listed_count": 9,
+          "media_count": 1365,
+          "tweet_count": 14583
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子\n有什么想问的tg联系https://t.co/uWEHdlBRFW\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 38,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 15,
+                "url": "https://t.co/uWEHdlBRFW"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "广州，🚪150 课",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866539665672769540/hFdkPKg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23408,
+          "following_count": 141,
+          "like_count": 682,
+          "listed_count": 66,
+          "media_count": 119,
+          "tweet_count": 387
+        },
+        "username": "Sallyand99",
+        "verified": false
+      }
+    ]
+  }
+}

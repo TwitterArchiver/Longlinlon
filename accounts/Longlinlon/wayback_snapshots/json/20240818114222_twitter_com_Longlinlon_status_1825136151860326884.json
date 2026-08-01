@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1825135318745464858",
+    "created_at": "2024-08-18T11:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T12:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825136151860326884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1544202883263971329",
+          "start": 0,
+          "username": "dai54717034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825136151860326884",
+    "in_reply_to_user_id": "1544202883263971329",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825135318745464858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dai54717034 我嘞个豆"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1825135318745464858].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1825135318745464858",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1825135318745464858"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1825135318745464858",
+        "created_at": "2024-08-18T11:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T12:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825136151860326884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1544202883263971329",
+              "start": 0,
+              "username": "dai54717034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825136151860326884",
+        "in_reply_to_user_id": "1544202883263971329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825135318745464858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dai54717034 我嘞个豆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 2219,
+          "like_count": 171227,
+          "listed_count": 10,
+          "tweet_count": 11043
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T06:14:03.000Z",
+        "description": "今我来兮，杨柳依依\n\n再见，如果还能再见的话。",
+        "id": "1544202883263971329",
+        "location": "天际省",
+        "name": "明夷",
+        "pinned_tweet_id": "1824110356161061135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772267865275863040/NSP8idMz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 2085,
+          "like_count": 8689,
+          "listed_count": 23,
+          "tweet_count": 14337
+        },
+        "username": "dai54717034",
+        "verified": false
+      }
+    ]
+  }
+}

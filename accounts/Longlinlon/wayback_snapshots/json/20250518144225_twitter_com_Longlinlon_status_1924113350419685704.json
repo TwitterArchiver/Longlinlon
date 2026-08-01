@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1924113350419685704",
+    "created_at": "2025-05-18T14:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T15:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924113350419685704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tsukasa1608/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Tsukasa1608/status/1924042641429426654",
+          "start": 3,
+          "url": "https://t.co/1PG80uvl7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924113350419685704",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924042641429426654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xd https://t.co/1PG80uvl7s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_1924042633493590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOSlMYXsAAoVav.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1924113350419685704",
+        "created_at": "2025-05-18T14:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T15:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924113350419685704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tsukasa1608/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Tsukasa1608/status/1924042641429426654",
+              "start": 3,
+              "url": "https://t.co/1PG80uvl7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924113350419685704",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924042641429426654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xd https://t.co/1PG80uvl7s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924042633493590016"
+          ]
+        },
+        "author_id": "398258324",
+        "conversation_id": "1924035096606068846",
+        "created_at": "2025-05-18T10:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924042641429426654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773809263787286528",
+              "start": 0,
+              "username": "hyulukaholic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab5JQCtfji",
+              "end": 84,
+              "expanded_url": "https://x.com/Tsukasa1608/status/1924042641429426654/photo/1",
+              "media_key": "3_1924042633493590016",
+              "start": 61,
+              "url": "https://t.co/Ab5JQCtfji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924042641429426654",
+        "in_reply_to_user_id": "1773809263787286528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 852,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924035096606068846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyulukaholic But deepdown we all know who is the real evil🙃 https://t.co/Ab5JQCtfji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳（mtf）",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "薄荷糖安卡-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 2419,
+          "like_count": 205805,
+          "listed_count": 9,
+          "media_count": 1192,
+          "tweet_count": 13599
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-25T20:14:27.000Z",
+        "description": "iDolla, sci-fi, anime/donghua fan\nIntroducing people to the Tencent Three-Body Problem by any chance now cuz Netflix version was trash.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.tv/en/play/100588…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.tv/en/play/1005888?bstar_from=bstar-web.search-result.0.0",
+                "start": 0,
+                "url": "https://t.co/A9yrAPJQdG"
+              }
+            ]
+          }
+        },
+        "id": "398258324",
+        "location": "Kuala Lumpur, Malaysia",
+        "name": "ETO|NR:ProjectHailMaryLOTM 🇲🇾🇨🇳🇷🇺🇵🇸🇱🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686262062035685376/2Um3Xttg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 701,
+          "like_count": 33769,
+          "listed_count": 3,
+          "media_count": 1078,
+          "tweet_count": 4322
+        },
+        "url": "https://t.co/A9yrAPJQdG",
+        "username": "Tsukasa1608",
+        "verified": false
+      }
+    ]
+  }
+}

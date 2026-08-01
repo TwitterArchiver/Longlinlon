@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "1802040423965479376",
+    "created_at": "2024-06-15T21:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T22:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802097500968702360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1672822866986024961",
+          "start": 0,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802097500968702360",
+    "in_reply_to_user_id": "1672822866986024961",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802040423965479376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lycaropia 我也是，天哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1802040423965479376",
+        "created_at": "2024-06-15T21:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T22:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802097500968702360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802097500968702360",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802040423965479376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 我也是，天哪"
+      },
+      {
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "1802040423965479376",
+        "created_at": "2024-06-15T18:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T19:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802040423965479376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeigeSee/statu…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/LeigeSee/status/1801882054709416273",
+              "start": 134,
+              "url": "https://t.co/mqxt7ErGse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802040423965479376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 424,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801882054709416273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说真的……先叠个甲，我不是在贬低顺直\n就是我看到这个感觉大受震撼以后，才发觉我从小到大就没打心底里接受顺直的恋爱相处模式\n也有可能是因为我神经多样性吧……我也不太能理解这种事情为什么不能“表示”，哪怕不用语言说明也可以用其他方法表明，为什么要用否定的语言，我不太理解 https://t.co/mqxt7ErGse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1785755063316816001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1989,
+          "like_count": 139533,
+          "listed_count": 10,
+          "tweet_count": 10078
+        },
+        "username": "Longlinlon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Fullstack developer, UI designer, Trans‑Inclusionary Anarcha Feminist, ASD,#INFJ,@CatTalkerMitaka 's girlfriend | Would you love to have some Cyber Witchery?",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "INFJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "name": "梅露希娜Melusina🏳️‍⚧️Ⓐ",
+        "pinned_tweet_id": "1793557699457921079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672915045020471298/zXj7Y0qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 749,
+          "like_count": 34062,
+          "listed_count": 1,
+          "tweet_count": 5029
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}
