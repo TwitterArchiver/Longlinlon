@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093692426938699776"
+      ],
+      "media_source_tweet_id": [
+        "2093692470857269356"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "2094132414083965232",
+    "created_at": "2026-08-30T18:37:29.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094132414083965232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1387662516210204673",
+          "start": 3,
+          "username": "0o_6y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zBbkoYtwoa",
+          "end": 58,
+          "expanded_url": "https://x.com/0o_6y/status/2093692470857269356/photo/1",
+          "media_key": "3_2093692426938699776",
+          "start": 35,
+          "url": "https://t.co/zBbkoYtwoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094132414083965232",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093692426938699776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1800
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093692470857269356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0o_6y: 【悲報】中国、韓国、日本がお互いをどう見てるか https://t.co/zBbkoYtwoa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2093692426938699776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5KK2CbUAA8G4w.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093692426938699776"
+          ],
+          "media_source_tweet_id": [
+            "2093692470857269356"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "2094132414083965232",
+        "created_at": "2026-08-30T18:37:29.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094132414083965232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1387662516210204673",
+              "start": 3,
+              "username": "0o_6y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBbkoYtwoa",
+              "end": 58,
+              "expanded_url": "https://x.com/0o_6y/status/2093692470857269356/photo/1",
+              "media_key": "3_2093692426938699776",
+              "start": 35,
+              "url": "https://t.co/zBbkoYtwoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094132414083965232",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093692426938699776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1800
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093692470857269356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0o_6y: 【悲報】中国、韓国、日本がお互いをどう見てるか https://t.co/zBbkoYtwoa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093692426938699776"
+          ]
+        },
+        "author_id": "1387662516210204673",
+        "conversation_id": "2093692470857269356",
+        "created_at": "2026-08-29T13:29:18.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093692470857269356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBbkoYtwoa",
+              "end": 47,
+              "expanded_url": "https://x.com/0o_6y/status/2093692470857269356/photo/1",
+              "media_key": "3_2093692426938699776",
+              "start": 24,
+              "url": "https://t.co/zBbkoYtwoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093692470857269356",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093692426938699776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3122,
+          "impression_count": 7496518,
+          "like_count": 47969,
+          "quote_count": 233,
+          "reply_count": 321,
+          "retweet_count": 1801
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】中国、韓国、日本がお互いをどう見てるか https://t.co/zBbkoYtwoa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2094132414083965232",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2484,
+          "like_count": 204645,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 14908
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-29T06:58:30.000Z",
+        "description": "ネットの海を漂うスレ民です ⊂(・∀|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "itest.5ch.io",
+                "end": 23,
+                "expanded_url": "https://itest.5ch.io/",
+                "start": 0,
+                "url": "https://t.co/5lGTKt6ZwV"
+              }
+            ]
+          }
+        },
+        "id": "1387662516210204673",
+        "is_identity_verified": false,
+        "location": "5ch(旧2ch)",
+        "most_recent_tweet_id": "2094063139650482591",
+        "name": "2chを忘れない",
+        "pinned_tweet_id": "1860239913909911781",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852481083826130944/3jUkNHWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42876,
+          "following_count": 1067,
+          "like_count": 6674,
+          "listed_count": 29,
+          "media_count": 170,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/5lGTKt6ZwV",
+        "username": "0o_6y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

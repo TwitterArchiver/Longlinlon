@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2090889943040286876",
+    "created_at": "2026-08-21T19:53:03.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090889943040286876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yb0723/status/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Yb0723/status/2090456759186133001",
+          "start": 45,
+          "url": "https://t.co/awfedCofij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090889943040286876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090456759186133001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宅女女大就这样一天到晚刷手机幻想生活。。我认识的每个iiii男方全是虚瘦啤酒肚肥猪凤凰男 https://t.co/awfedCofij"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2090889943040286876",
+        "created_at": "2026-08-21T19:53:03.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090889943040286876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yb0723/status/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Yb0723/status/2090456759186133001",
+              "start": 45,
+              "url": "https://t.co/awfedCofij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090889943040286876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090456759186133001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宅女女大就这样一天到晚刷手机幻想生活。。我认识的每个iiii男方全是虚瘦啤酒肚肥猪凤凰男 https://t.co/awfedCofij"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588455117501927424",
+        "conversation_id": "2090456759186133001",
+        "created_at": "2026-08-20T15:11:44.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090456759186133001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090456759186133001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 256315,
+          "like_count": 2123,
+          "quote_count": 9,
+          "reply_count": 526,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到，4i好像爆猪率会很低，玩后面就必须干净饮食一天还要提前一餐空腹，性欲稍微大一点就完美减脂了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2090889943040286876",
+        "name": "沈夜音-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2493,
+          "like_count": 204704,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 14905
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-04T08:56:48.000Z",
+        "description": "接陪玩\n希望你每天开心",
+        "id": "1588455117501927424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090847650619035752",
+        "name": "Yu",
+        "pinned_tweet_id": "1963920507419435064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588455117501927424/1667556808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794419353745788928/m17juQpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19203,
+          "following_count": 83,
+          "like_count": 1304,
+          "listed_count": 47,
+          "media_count": 28,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "Yb0723",
+        "verified": false,
+        "verified_type": "none",
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}
