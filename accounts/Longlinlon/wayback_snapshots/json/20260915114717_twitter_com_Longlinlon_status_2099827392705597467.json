@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2099827392705597467",
+    "created_at": "2026-09-15T11:47:17.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099827392705597467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xTraderYi/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/0xTraderYi/status/2099591640595968412",
+          "start": 13,
+          "url": "https://t.co/kRzcjXZbKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099827392705597467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099591640595968412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "愤怒的😡肥猪🐷的一拳👊🏻 https://t.co/kRzcjXZbKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41033,
+        "height": 778,
+        "media_key": "13_2099591466289086464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099591466289086464/img/sc-0ADSCZNXYCI_Y.jpg",
+        "public_metrics": {
+          "view_count": 163574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099591466289086464/vid/avc1/320x518/dQyvqKvIhnoZsCbq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099591466289086464/vid/avc1/480x778/JO169Ah6wgUDq-Rj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099591466289086464/pl/TcxCK_dmCdJZHU_K.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2099827392705597467",
+        "created_at": "2026-09-15T11:47:17.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099827392705597467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xTraderYi/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/0xTraderYi/status/2099591640595968412",
+              "start": 13,
+              "url": "https://t.co/kRzcjXZbKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099827392705597467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099591640595968412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愤怒的😡肥猪🐷的一拳👊🏻 https://t.co/kRzcjXZbKJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099591466289086464"
+          ]
+        },
+        "author_id": "965503592391098368",
+        "conversation_id": "2099591640595968412",
+        "created_at": "2026-09-14T20:10:30.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099591640595968412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd9S1v0YcG",
+              "end": 90,
+              "expanded_url": "https://x.com/0xTraderYi/status/2099591640595968412/video/1",
+              "media_key": "13_2099591466289086464",
+              "start": 67,
+              "url": "https://t.co/dd9S1v0YcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099591640595968412",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099591466289086464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 288487,
+          "like_count": 991,
+          "quote_count": 19,
+          "reply_count": 438,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "真男人从不取悦女人，什么薄肌理论都是扯淡\n\n你练薄肌不过是换一种方式当舔狗\n\n说白了都是性压抑\n\n性压抑才是我们这代人最离谱的事情！ https://t.co/dd9S1v0YcG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2099827392705597467",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 2479,
+          "like_count": 204281,
+          "listed_count": 7,
+          "media_count": 1403,
+          "tweet_count": 14936
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-19T08:29:29.000Z",
+        "description": "实盘trader ｜币coin实盘 四年240倍 ｜币安 现货合约邀请码 BNBN2026|🛰️ xiazongbatou｜qq裙 1015797317\n币安注册链接https://t.co/Lg7w2s4zRw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsmkweb.cc/join?ref=BNBN2…",
+                "end": 106,
+                "expanded_url": "https://www.bsmkweb.cc/join?ref=BNBN2026",
+                "start": 83,
+                "url": "https://t.co/Lg7w2s4zRw"
+              }
+            ]
+          }
+        },
+        "id": "965503592391098368",
+        "is_identity_verified": true,
+        "location": "Auckland, New Zealand",
+        "most_recent_tweet_id": "2099750842211705309",
+        "name": "Trader壹身武艺｜🔶BNB",
+        "pinned_tweet_id": "1961787183049953397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965503592391098368/1770125761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051763470392262656/NWB3b3_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20139,
+          "following_count": 1070,
+          "like_count": 17146,
+          "listed_count": 154,
+          "media_count": 5727,
+          "tweet_count": 26854
+        },
+        "url": "",
+        "username": "0xTraderYi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

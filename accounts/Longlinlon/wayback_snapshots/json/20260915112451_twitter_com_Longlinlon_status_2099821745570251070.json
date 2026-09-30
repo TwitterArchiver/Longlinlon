@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2099559687041753575",
+    "created_at": "2026-09-15T11:24:51.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099821745570251070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561715931432202240",
+          "start": 0,
+          "username": "YuJia_Fish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099821745570251070",
+    "in_reply_to_user_id": "1561715931432202240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099697529478885725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuJia_Fish 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099697529478885725].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099697529478885725",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099697529478885725"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2099559687041753575",
+        "created_at": "2026-09-15T11:24:51.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099821745570251070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561715931432202240",
+              "start": 0,
+              "username": "YuJia_Fish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099821745570251070",
+        "in_reply_to_user_id": "1561715931432202240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099697529478885725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuJia_Fish 🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2099821745570251070",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 2479,
+          "like_count": 204268,
+          "listed_count": 7,
+          "media_count": 1403,
+          "tweet_count": 14933
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T14:04:42.000Z",
+        "description": "只要你还需要我，我会一直在你身边的  \n貓:@apatient_ofme 兔子:@senga_mirai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "apatient_ofme"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "senga_mirai"
+              }
+            ]
+          }
+        },
+        "id": "1561715931432202240",
+        "is_identity_verified": false,
+        "location": "樓下的一點點",
+        "most_recent_tweet_id": "2094360007932571885",
+        "name": "雨噶丶丶",
+        "pinned_tweet_id": "1974524484783911159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561715931432202240/1758657186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099736593166958592/TpGSDDcM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 105,
+          "like_count": 3838,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "YuJia_Fish",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

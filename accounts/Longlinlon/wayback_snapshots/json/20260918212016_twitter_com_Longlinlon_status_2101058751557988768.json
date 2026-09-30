@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100975080738279424"
+      ],
+      "media_source_tweet_id": [
+        "2100975096827724166"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "conversation_id": "2101058751557988768",
+    "created_at": "2026-09-18T21:20:16.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T22:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101058751557988768"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "emiemma"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "wlw"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1495245852268367873",
+          "start": 3,
+          "username": "nipaihuabianqi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGws8ZUsK6",
+          "end": 62,
+          "expanded_url": "https://x.com/nipaihuabianqi/status/2100975096827724166/photo/1",
+          "media_key": "3_2100975080738279424",
+          "start": 39,
+          "url": "https://t.co/nGws8ZUsK6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101058751557988768",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100975080738279424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100975096827724166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nipaihuabianqi: 另一面\n\n#emiemma #wlw https://t.co/nGws8ZUsK6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2031,
+        "media_key": "3_2100975080738279424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgptFlaUAAdhWO.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100975080738279424"
+          ],
+          "media_source_tweet_id": [
+            "2100975096827724166"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "conversation_id": "2101058751557988768",
+        "created_at": "2026-09-18T21:20:16.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101058751557988768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "emiemma"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "wlw"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1495245852268367873",
+              "start": 3,
+              "username": "nipaihuabianqi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGws8ZUsK6",
+              "end": 62,
+              "expanded_url": "https://x.com/nipaihuabianqi/status/2100975096827724166/photo/1",
+              "media_key": "3_2100975080738279424",
+              "start": 39,
+              "url": "https://t.co/nGws8ZUsK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101058751557988768",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100975080738279424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100975096827724166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nipaihuabianqi: 另一面\n\n#emiemma #wlw https://t.co/nGws8ZUsK6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100975080738279424"
+          ]
+        },
+        "author_id": "1495245852268367873",
+        "conversation_id": "2100975096827724166",
+        "created_at": "2026-09-18T15:47:51.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100975096827724166"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "emiemma"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGws8ZUsK6",
+              "end": 42,
+              "expanded_url": "https://x.com/nipaihuabianqi/status/2100975096827724166/photo/1",
+              "media_key": "3_2100975080738279424",
+              "start": 19,
+              "url": "https://t.co/nGws8ZUsK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100975096827724166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100975080738279424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1843,
+          "like_count": 229,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "另一面\n\n#emiemma #wlw https://t.co/nGws8ZUsK6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2101058751557988768",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 2479,
+          "like_count": 204316,
+          "listed_count": 7,
+          "media_count": 1405,
+          "tweet_count": 14944
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-20T03:56:16.000Z",
+        "description": "CN/EN | GL artist | EMIEMMA💉👒\n❌ DNI if you ship them with anyone else!\n🚫Repost / AI \nOld：@lydia_love_lisa（nsfw）\nNew：@yiyuan1099（nsfw）\nhttps://t.co/PI04lipJbr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "lydia_love_lisa"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "yiyuan1099"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/lydia_love_lisa",
+                "end": 157,
+                "expanded_url": "http://vgen.co/lydia_love_lisa",
+                "start": 134,
+                "url": "https://t.co/PI04lipJbr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@nipaihuabianq…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@nipaihuabianqi?_r=1&_t=ZP-9669gMdfOgh",
+                "start": 0,
+                "url": "https://t.co/kgNNYg6Eed"
+              }
+            ]
+          }
+        },
+        "id": "1495245852268367873",
+        "is_identity_verified": false,
+        "location": "Douyin ID：76269168477",
+        "most_recent_tweet_id": "2100990793028923861",
+        "name": "尼牌画便器💉👒",
+        "pinned_tweet_id": "2072242372734320709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495245852268367873/1789402133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495246735756595202/DTJV4nAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 58,
+          "like_count": 1640,
+          "listed_count": 1,
+          "media_count": 356,
+          "tweet_count": 612
+        },
+        "url": "https://t.co/kgNNYg6Eed",
+        "username": "nipaihuabianqi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

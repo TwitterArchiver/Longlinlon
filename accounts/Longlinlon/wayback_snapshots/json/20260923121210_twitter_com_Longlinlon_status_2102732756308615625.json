@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2097932715316392232",
+    "created_at": "2026-09-23T12:12:10.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T13:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102732756308615625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819329211162939395",
+          "start": 0,
+          "username": "i9_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102732756308615625",
+    "in_reply_to_user_id": "1819329211162939395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097932715316392232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i9_chen 洗澡偷偷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2097932715316392232",
+        "created_at": "2026-09-23T12:12:10.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T13:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102732756308615625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819329211162939395",
+              "start": 0,
+              "username": "i9_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102732756308615625",
+        "in_reply_to_user_id": "1819329211162939395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097932715316392232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i9_chen 洗澡偷偷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819329211162939395",
+        "conversation_id": "2097932715316392232",
+        "created_at": "2026-09-10T06:18:31.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097932715316392232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097932715316392232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1505,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学住宿舍怎么自慰。好难受好崩溃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2102732756308615625",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 2475,
+          "like_count": 204307,
+          "listed_count": 7,
+          "media_count": 1407,
+          "tweet_count": 14947
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-02T11:07:59.000Z",
+        "description": "",
+        "id": "1819329211162939395",
+        "is_identity_verified": false,
+        "location": "Yokohama-shi Kanagawa",
+        "most_recent_tweet_id": "2102307400640598017",
+        "name": "装忧郁被狗追",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819329211162939395/1734718024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028936545571618816/SSf4EFYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 153,
+          "like_count": 6217,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "i9_chen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

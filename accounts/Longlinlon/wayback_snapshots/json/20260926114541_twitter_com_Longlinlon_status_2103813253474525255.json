@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103322726303768576"
+      ],
+      "media_source_tweet_id": [
+        "2103322749318090913"
+      ]
+    },
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2103813253474525255",
+    "created_at": "2026-09-26T11:45:41.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103813253474525255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "827224720739336192",
+          "start": 3,
+          "username": "RealPresidentT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3AvC7C5lN",
+          "end": 74,
+          "expanded_url": "https://x.com/RealPresidentT/status/2103322749318090913/video/1",
+          "media_key": "13_2103322726303768576",
+          "start": 51,
+          "url": "https://t.co/S3AvC7C5lN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103813253474525255",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2103322726303768576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103322749318090913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealPresidentT: My BFF, President Xi of China! https://t.co/S3AvC7C5lN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14066,
+        "height": 608,
+        "media_key": "13_2103322726303768576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103322726303768576/img/o9JwE2vf5d4WYhyx.jpg",
+        "public_metrics": {
+          "view_count": 191027
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103322726303768576/vid/avc1/478x270/P6rfR0e4A5y0nzK6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103322726303768576/vid/avc1/638x360/ah43ag-0sXltPJ5X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103322726303768576/vid/avc1/1080x608/EDTYyntM5byzeJx2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103322726303768576/pl/18jFWqMZ-YailGvf.m3u8?v=de2"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103322726303768576"
+          ],
+          "media_source_tweet_id": [
+            "2103322749318090913"
+          ]
+        },
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2103813253474525255",
+        "created_at": "2026-09-26T11:45:41.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103813253474525255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "827224720739336192",
+              "start": 3,
+              "username": "RealPresidentT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3AvC7C5lN",
+              "end": 74,
+              "expanded_url": "https://x.com/RealPresidentT/status/2103322749318090913/video/1",
+              "media_key": "13_2103322726303768576",
+              "start": 51,
+              "url": "https://t.co/S3AvC7C5lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103813253474525255",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103322726303768576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103322749318090913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealPresidentT: My BFF, President Xi of China! https://t.co/S3AvC7C5lN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103322726303768576"
+          ]
+        },
+        "author_id": "827224720739336192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2103322749318090913",
+        "created_at": "2026-09-25T03:16:35.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103322749318090913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3AvC7C5lN",
+              "end": 54,
+              "expanded_url": "https://x.com/RealPresidentT/status/2103322749318090913/video/1",
+              "media_key": "13_2103322726303768576",
+              "start": 31,
+              "url": "https://t.co/S3AvC7C5lN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103322749318090913",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2103322726303768576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 576,
+          "impression_count": 340883,
+          "like_count": 3041,
+          "quote_count": 107,
+          "reply_count": 270,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "My BFF, President Xi of China! https://t.co/S3AvC7C5lN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2103813253474525255",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 2470,
+          "like_count": 204345,
+          "listed_count": 7,
+          "media_count": 1409,
+          "tweet_count": 14956
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-02T18:38:37.000Z",
+        "description": "I'm President of the United States. I won the popular vote by 1 billion votes. I won all 62 states. Hillary begged me to stop winning. This is PARODY",
+        "id": "827224720739336192",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2103716603049255155",
+        "name": "Commentary Real President Donald J. Trump",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/827224720739336192/1486062210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066557568835633152/zZ03eiXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118726,
+          "following_count": 1100,
+          "like_count": 325,
+          "listed_count": 257,
+          "media_count": 783,
+          "tweet_count": 21446
+        },
+        "url": "",
+        "username": "RealPresidentT",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

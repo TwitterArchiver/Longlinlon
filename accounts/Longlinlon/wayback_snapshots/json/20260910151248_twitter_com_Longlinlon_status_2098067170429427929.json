@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2098067170429427929",
+    "created_at": "2026-09-10T15:12:48.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098067170429427929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LingJiaXin233/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/LingJiaXin233/status/2097764224009490673",
+          "start": 7,
+          "url": "https://t.co/60YxEKMfj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098067170429427929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097764224009490673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有叫一诺的 https://t.co/60YxEKMfj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_2097462598023426048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuvHrzasAAe854.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2098067170429427929",
+        "created_at": "2026-09-10T15:12:48.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098067170429427929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingJiaXin233/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LingJiaXin233/status/2097764224009490673",
+              "start": 7,
+              "url": "https://t.co/60YxEKMfj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098067170429427929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097764224009490673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有叫一诺的 https://t.co/60YxEKMfj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097462598023426048"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2097764224009490673",
+        "created_at": "2026-09-09T19:09:00.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097764224009490673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZhX5Qi1EO",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2097764224009490673/photo/1",
+              "media_key": "3_2097462598023426048",
+              "start": 11,
+              "url": "https://t.co/3ZhX5Qi1EO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097764224009490673",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097462598023426048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 351588,
+          "like_count": 1408,
+          "quote_count": 3,
+          "reply_count": 213,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "龚奥你已经无路可退了 https://t.co/3ZhX5Qi1EO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2098067170429427929",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 2475,
+          "like_count": 204317,
+          "listed_count": 7,
+          "media_count": 1403,
+          "tweet_count": 14920
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "name：Sonora//Apple lover//from China mainland//Gender Studies//“Stay hungry，stay thirsty”—Steve Jobs//she/her/they/them🏳️‍⚧️🍥🏳️‍🌈",
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2098066782477279434",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2096468698416738675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10694,
+          "following_count": 1319,
+          "like_count": 20850,
+          "listed_count": 21,
+          "media_count": 2994,
+          "tweet_count": 6763
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
