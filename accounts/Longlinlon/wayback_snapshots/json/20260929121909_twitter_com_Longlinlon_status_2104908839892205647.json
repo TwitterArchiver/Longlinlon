@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2104190779828900341",
+    "created_at": "2026-09-29T12:19:09.000Z",
+    "display_text_range": [
+      29,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T13:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104908839892205647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "854926195401531393",
+          "start": 0,
+          "username": "regicide_powers"
+        },
+        {
+          "end": 28,
+          "id": "1198837480759287808",
+          "start": 17,
+          "username": "Inkingfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104908839892205647",
+    "in_reply_to_user_id": "854926195401531393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104210576151101553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regicide_powers @Inkingfish 啊啊啊啊老资历老阅历我好喜欢呀哦齁齁齁齁喷卵了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2104190779828900341",
+        "created_at": "2026-09-29T12:19:09.000Z",
+        "display_text_range": [
+          29,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104908839892205647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "854926195401531393",
+              "start": 0,
+              "username": "regicide_powers"
+            },
+            {
+              "end": 28,
+              "id": "1198837480759287808",
+              "start": 17,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104908839892205647",
+        "in_reply_to_user_id": "854926195401531393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104210576151101553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regicide_powers @Inkingfish 啊啊啊啊老资历老阅历我好喜欢呀哦齁齁齁齁喷卵了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854926195401531393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2104190779828900341",
+        "created_at": "2026-09-27T14:04:30.000Z",
+        "display_text_range": [
+          12,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104210576151101553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1198837480759287808",
+              "start": 0,
+              "username": "Inkingfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104210576151101553",
+        "in_reply_to_user_id": "1198837480759287808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6172,
+          "like_count": 60,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104190779828900341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inkingfish 看来你对电视剧、网文、手游等领域被女性尝试侵占的旧事一无所知。才会认为这次只是一件无足轻重的事，而完全没那个阅历明白现象背后是什么。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2104908839892205647",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 2470,
+          "like_count": 204336,
+          "listed_count": 7,
+          "media_count": 1409,
+          "tweet_count": 14957
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-20T05:14:23.000Z",
+        "description": "生既无极乐，死乃寂寥门。\n何妨功名落，坐客醉红尘。",
+        "id": "854926195401531393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104903272268185723",
+        "name": "永夢",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/854926195401531393/1743396590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906568709063499776/Ule1o_R7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "regicide_powers",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-25T05:35:10.000Z",
+        "description": "我虽独身，在此也住多年，常言道，寡妇门前是非多，好事不出门，坏事传千里，所以只能身居茅屋，眼观全球，脚踩污泥，胸怀天下，我说的对吗？",
+        "id": "1198837480759287808",
+        "is_identity_verified": false,
+        "location": "蚌埠，安徽",
+        "most_recent_tweet_id": "2104895719656321168",
+        "name": "大东北婷婷👸",
+        "pinned_tweet_id": "1536905463412842496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1198837480759287808/1768363279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902399849867440133/zJxjYFBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7058,
+          "following_count": 482,
+          "like_count": 12650,
+          "listed_count": 26,
+          "media_count": 377,
+          "tweet_count": 13706
+        },
+        "url": "",
+        "username": "Inkingfish",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

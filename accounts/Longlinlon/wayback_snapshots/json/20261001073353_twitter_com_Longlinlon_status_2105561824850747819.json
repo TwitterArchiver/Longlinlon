@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2105561824850747819",
+    "created_at": "2026-10-01T07:33:53.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105561824850747819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sugarsast/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Sugarsast/status/2105284465216061782",
+          "start": 7,
+          "url": "https://t.co/ONqlwbWSzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105561824850747819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105284465216061782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蚂蟥寄生虫： https://t.co/ONqlwbWSzZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2105561824850747819",
+        "created_at": "2026-10-01T07:33:53.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105561824850747819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sugarsast/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Sugarsast/status/2105284465216061782",
+              "start": 7,
+              "url": "https://t.co/ONqlwbWSzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105561824850747819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105284465216061782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蚂蟥寄生虫： https://t.co/ONqlwbWSzZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889861257",
+        "conversation_id": "2105284465216061782",
+        "created_at": "2026-09-30T13:11:45.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105284465216061782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105284465216061782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3127,
+          "like_count": 79,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "几个容易发生在xyn身上的现象:\n1:寄居在对象或朋友家\n2:没什么存款喵\n3:没有工作或工作不稳定\n4:靠对象养活,甚至吃喝方面\n5:因为经济问题或精神问题和对象或朋友吵架\n6:有自毁倾向\n7:讨厌父母、讨厌学校\n8:想要圆角赚快钱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2105561824850747819",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2467,
+          "like_count": 204553,
+          "listed_count": 7,
+          "media_count": 1409,
+          "tweet_count": 14982
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜新东方西点｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZykI07｜Q:3673124663｜我的tg:https://t.co/1e7qTaQ9VS｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 51,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 28,
+                "url": "https://t.co/kXreZykI07"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 93,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 70,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQ9VS"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105540027455557671",
+        "name": "神户盐🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889861257/1780258514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090704079244955648/09gAhiPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 1338,
+          "like_count": 8935,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 3020
+        },
+        "url": "https://t.co/1e7qTaQ9VS",
+        "username": "Sugarsast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

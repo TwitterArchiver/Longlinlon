@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "conversation_id": "2104906160281387451",
+    "created_at": "2026-09-30T15:30:44.000Z",
+    "display_text_range": [
+      7,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T16:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105319440405664056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Ih84F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105319440405664056",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105148963909406951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ih84F 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "2104906160281387451",
+        "created_at": "2026-09-30T15:30:44.000Z",
+        "display_text_range": [
+          7,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105319440405664056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Ih84F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105319440405664056",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105148963909406951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ih84F 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2104906160281387451",
+        "created_at": "2026-09-30T04:13:19.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105148963909406951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105148963909406951",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104906160281387451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 能不能两个一起拴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2105319440405664056",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 2469,
+          "like_count": 204406,
+          "listed_count": 7,
+          "media_count": 1409,
+          "tweet_count": 14963
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "网络世界我操你妈你把多少人的生活都他妈毁了\n备用@YosukeHaruhi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "YosukeHaruhi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clubjt.jp/brand-site/sev…",
+                "end": 23,
+                "expanded_url": "https://www.clubjt.jp/brand-site/sevenstars/?utm_source=chatgpt.com",
+                "start": 0,
+                "url": "https://t.co/3dNh7bzID5"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "is_identity_verified": false,
+        "location": "百家粉呀，主要属性是理智坡迷～",
+        "most_recent_tweet_id": "2105313978763370740",
+        "name": "溺れる飛べない鳥は水羽が必要",
+        "pinned_tweet_id": "2094463688745140600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978032792383709184/1788879601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104878499416928256/UXMHEZCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 513,
+          "like_count": 40076,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 6663
+        },
+        "url": "https://t.co/3dNh7bzID5",
+        "username": "Ih84F",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

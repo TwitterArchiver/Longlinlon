@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596416860752207872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2106595164781224219",
+    "created_at": "2026-10-04T10:28:03.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106692820094665037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1072404907230060544",
+          "start": 0,
+          "username": "GenshinImpact"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106692820094665037",
+    "in_reply_to_user_id": "1072404907230060544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106595164781224219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GenshinImpact 抄袭影"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2165,
+        "media_key": "3_2106575045153759232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwO16sXoAAiE4T.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2106595164781224219",
+        "created_at": "2026-10-04T10:28:03.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106692820094665037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1072404907230060544",
+              "start": 0,
+              "username": "GenshinImpact"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106692820094665037",
+        "in_reply_to_user_id": "1072404907230060544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106595164781224219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GenshinImpact 抄袭影"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106575045153759232"
+          ]
+        },
+        "author_id": "1072404907230060544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2106595164781224219",
+        "created_at": "2026-10-04T04:00:00.000Z",
+        "display_text_range": [
+          0,
+          258
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106595164781224219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 24,
+              "tag": "GenshinImpact"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "Ronova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45RQRGqtT5",
+              "end": 282,
+              "expanded_url": "https://x.com/GenshinImpact/status/2106595164781224219/photo/1",
+              "media_key": "3_2106575045153759232",
+              "start": 259,
+              "url": "https://t.co/45RQRGqtT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106595164781224219",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106575045153759232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7796,
+          "impression_count": 1875253,
+          "like_count": 93417,
+          "quote_count": 4109,
+          "reply_count": 1432,
+          "retweet_count": 13639
+        },
+        "reply_settings": "everyone",
+        "text": "Ruler of Death — Ronova\n#GenshinImpact #Ronova \n\n\"Death renders all things equal. A remedy bestowed upon one long wearied by illness, or the clear sky unveiled when the clouds at last disperse — such are the metaphors for death.\"\n— \"The Visionary\" Vedrfolnir https://t.co/45RQRGqtT5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🖤 🩶 🤍 💜 🏳️‍⚧️ 💛 🤍 💜 🖤",
+        "id": "1596416860752207872",
+        "is_identity_verified": false,
+        "location": "圣心医院",
+        "most_recent_tweet_id": "2106692820094665037",
+        "name": "银月狼王我大概很快就会忘记你吧-Wiggin",
+        "pinned_tweet_id": "1975672999295807999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596416860752207872/1763447837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975967239565418496/EWbVkZ-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 2470,
+          "like_count": 204694,
+          "listed_count": 7,
+          "media_count": 1411,
+          "tweet_count": 15002
+        },
+        "url": "",
+        "username": "Longlinlon",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-11T08:17:08.000Z",
+        "description": "In the world of Teyvat — where all kinds of elemental powers constantly surge — epic adventures await, fearless Travelers! #GenshinImpact",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 123,
+                "tag": "GenshinImpact"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/0jhgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/0jhgFBAL",
+                "start": 0,
+                "url": "https://t.co/e8FHL9LZrQ"
+              }
+            ]
+          }
+        },
+        "id": "1072404907230060544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106692238067556676",
+        "name": "Genshin Impact",
+        "pinned_tweet_id": "2102941090571485331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072404907230060544/1790131350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102589386378686464/tS24hVO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5634589,
+          "following_count": 18,
+          "like_count": 358,
+          "listed_count": 7311,
+          "media_count": 5061,
+          "tweet_count": 7572
+        },
+        "url": "https://t.co/e8FHL9LZrQ",
+        "username": "GenshinImpact",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}
